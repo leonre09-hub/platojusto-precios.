@@ -29,7 +29,7 @@ jobs:
       - name: Bajar precios de PROFECO
         run: node scripts/actualizar.mjs
         env:
-          CIUDADES: '0901'
+          CIUDADES: '0901,1502'
       - name: Guardar cambios
         run: |
           git config user.name "Plato Justo bot"

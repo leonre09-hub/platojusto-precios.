@@ -16,7 +16,7 @@ const R = {
   pierna:    { q: ['pierna', 'pollo'], u: 'kg', m: /PIERNA|MUSLO/, x: /EMPANIZ|ROSTIZ|CERDO|PAVO|ADOBAD|CONGELAD/ },
   molida:    { q: ['carne molida', 'res'], u: 'kg', m: /MOLIDA/, x: /CERDO|PUERCO|PAVO|POLLO|SOYA|PERRO|GATO/ },
   bistec:    { q: ['bistec', 'res'], u: 'kg', m: /BISTEC|BISTEK|BISTE\b/, x: /CERDO|PUERCO|POLLO|PAVO|EMPANIZ/ },
-  cerdo:     { q: ['cerdo', 'puerco'], u: 'kg', m: /BISTEC|BISTEK|PULPA|LOMO|CHULETA|PIERNA/, x: /JAMON|CHORIZO|CHICHARR|MANTECA|SALCHICHA|TOCINO|AHUMAD|ENLATAD/ },
+  cerdo:     { q: ['chuleta', 'pulpa', 'lomo', 'bistec', 'pierna', 'carne de cerdo'], u: 'kg', m: /CERDO|PUERCO|CHULETA/, x: /JAMON|CHORIZO|CHICHARR|MANTECA|SALCHICHA|TOCINO|AHUMAD|ENLATAD/ },
   chorizo:   { q: ['chorizo'], u: 'kg', m: /CHORIZO/, x: /SORIA|ESPANOL|PAVO|POLLO|SALAMI/ },
   jamon:     { q: ['jamon'], u: 'kg', m: /PAVO/, x: /SERRANO|IBERICO|PIERNA AHUMADA/ },
   salchicha: { q: ['salchicha'], u: 'kg', m: /SALCHICHA/, x: /COCTEL|PERRO|LATA/ },
@@ -27,7 +27,7 @@ const R = {
   oaxaca:    { q: ['queso oaxaca', 'queso'], u: 'kg', m: /OAXACA/, x: /BOTANA|PIZZA/ },
   panela:    { q: ['queso panela', 'queso'], u: 'kg', m: /PANELA/, x: /BOTANA/ },
   crema:     { q: ['crema'], u: 'l', m: /CREMA/, x: /CACAHUATE|AVELLANA|BATIDA|CAFE|PEINAR|CORPORAL|DENTAL|DIENTES|CABELLO|PIEL|MANOS|LIMPIADORA|SOPA|AFEITAR|COCO|CHANTILLY|ELOTE|CHAMPI|ROSTRO|FACIAL|ANTIARRUG|HIDRATANTE|HELADO|GALLETA|ENJUAGUE|POLVO|VEGETAL|PARA BATIR/ },
-  yogur:     { q: ['yoghurt', 'yogurt', 'yogur'], u: 'kg', m: /NATURAL|GRIEGO/, x: /BEBIBLE|FRESA|DURAZNO|MANGO|NUEZ|CEREAL|PINA|ZARZAMORA|MIEL|VAINILLA/ },
+  yogur:     { q: ['yoghurt'], u: 'kg', minG: 500, m: /NATURAL|GRIEGO/, x: /BEBIBLE|FRESA|DURAZNO|MANGO|NUEZ|CEREAL|PINA|ZARZAMORA|MIEL|VAINILLA/ },
   tortilla:  { q: ['tortilla'], u: 'kg', m: /MAIZ|TORTILLA/, x: /HARINA|TOSTADA|TOTOPO|INTEGRAL|NOPAL|CHIPS|DORADA/ },
   harina:    { q: ['tortilla de harina', 'tortilla'], u: 'kg', m: /HARINA/, x: /INTEGRAL|MAIZ|NOPAL/ },
   bolillo:   { q: ['bolillo', 'pan blanco'], u: 'pz', m: /BOLILLO/, x: /CAJA|MOLIDO/ },
@@ -35,32 +35,32 @@ const R = {
   arroz:     { q: ['arroz'], u: 'kg', m: /ARROZ/, x: /INTEGRAL|INSTANT|SABOR|LECHE|ATOLE|CEREAL|HARINA|JAZMIN|BASMATI|ARBORIO|VERDE|ROJO|PREPARADO|INFLADO|GALLETA|BEBIDA|POLVO|PAPILLA/ },
   frijol:    { q: ['frijol'], u: 'kg', m: /FRIJOL/, x: /REFRITO|LATA|SOBRE|GUISADO|PREPARADO|COCIDO|CON |BOLSA STAND|SOPA|PAQUETE LISTO/ },
   lenteja:   { q: ['lenteja'], u: 'kg', m: /LENTEJA/, x: /LATA|SOPA|PREPARAD/ },
-  pasta:     { q: ['pasta', 'spaghetti', 'fideo'], u: 'kg', m: /PASTA|SPAGHETTI|ESPAGUETI|FIDEO|CODO|MACARRON/, x: /DENTAL|DIENTES|INSTANT|VASO|LASANA|TOMATE|CAJA|QUESO|CHAROLA|HOJALDRE|PUREE/ },
+  pasta:     { q: ['pasta'], u: 'kg', m: /PASTA|SPAGHETTI|ESPAGUETI|FIDEO|CODO|MACARRON/, x: /DENTAL|DIENTES|INSTANT|VASO|LASANA|TOMATE|CAJA|QUESO|CHAROLA|HOJALDRE|PUREE/ },
   avena:     { q: ['avena'], u: 'kg', m: /AVENA/, x: /BEBIDA|GALLET|BARRA|SABOR|INSTANT|LECHE|CEREAL|JABON|SHAMPOO|CREMA/ },
   pozolero:  { q: ['maiz pozolero', 'pozole'], u: 'kg', m: /POZOL/, x: /SOPA|LATA PREPARAD/ },
-  panmolido: { q: ['pan molido'], u: 'kg', m: /MOLIDO/, x: /AZUCAR|SAL/ },
+  panmolido: { q: ['pan molido', 'pan'], u: 'kg', m: /MOLIDO/, x: /AZUCAR|SAL/ },
   aceite:    { q: ['aceite'], u: 'l', m: /VEGETAL|CANOLA|SOYA|MAIZ|GIRASOL|CARTAMO|MIXTO|COMESTIBLE/, x: /OLIVA|AEROSOL|SPRAY|BEBE|MOTOR|AUTOMOTRIZ|CORPORAL|COCO|AGUACATE|ATUN|SARDINA|CABELLO|MASAJE|LUBRICANTE/ },
-  chipotle:  { q: ['chile chipotle', 'chipotle', 'chiles'], u: 'pz', m: /CHIPOTLE/, x: /SALSA|POLVO|ATUN|MAYO|ADEREZO|SOPA|CREMA|SAZON/, g: [90, 260] },
-  guajillo:  { q: ['guajillo', 'chile seco', 'chile'], u: 'kg', m: /GUAJILLO/, x: /SALSA|POLVO|MOLIDO/ },
+  chipotle:  { q: ['chiles'], u: 'pz', m: /CHIPOTLE/, x: /SALSA|POLVO|ATUN|MAYO|ADEREZO|SOPA|CREMA|SAZON/, g: [90, 260] },
+  guajillo:  { q: ['chile seco'], u: 'kg', m: /GUAJILLO/, x: /SALSA|POLVO|MOLIDO/ },
   papa:      { q: ['papa'], u: 'kg', m: /\bPAPA\b/, x: /PAPAS|FRITA|CHIP|SABRITAS|PAPILLA|CONGEL|PURE|HASH|GAJO|BOTANA/ },
   jitomate:  { q: ['jitomate'], u: 'kg', m: /JITOMATE/, x: /PURE|SALSA|LATA|PASTA|CATSUP|CALDO|POLVO|DESHIDR|SAZON|CONSOME|JUGO|PICADO/ },
   cebolla:   { q: ['cebolla'], u: 'kg', m: /CEBOLLA/, x: /POLVO|DESHIDR|SAL |SOPA|AROS|ENCURT|CAMBRAY|MORADA|CHIPS|SAZON/ },
   ajo:       { q: ['ajo'], u: 'kg', m: /\bAJO\b/, x: /POLVO|SAL |PASTA|MOLIDO|CAPSULA|ACEITE|SAZON|PICADO|ENCURT|JOVEN/ },
-  serrano:   { q: ['chile serrano', 'chile'], u: 'kg', m: /SERRANO/, x: /LATA|ENCURT|RAJAS|ESCABECHE|POLVO|SALSA|FRASCO|JAMON/ },
+  serrano:   { q: ['chile'], u: 'kg', m: /SERRANO/, x: /LATA|ENCURT|RAJAS|ESCABECHE|POLVO|SALSA|FRASCO|JAMON/ },
   cilantro:  { q: ['cilantro'], u: 'pz', m: /CILANTRO/, x: /POLVO|DESHIDR|SEMILLA|MOLIDO/ },
   lechuga:   { q: ['lechuga'], u: 'pz', m: /LECHUGA/, x: /BOLSA|ENSALADA|MIX|PICADA|CHAROLA|ORGANICA/ },
   aguacate:  { q: ['aguacate'], u: 'kg', m: /AGUACATE/, x: /ACEITE|GUACAMOLE|SALSA|CREMA|SHAMPOO|PULPA/ },
   limon:     { q: ['limon'], u: 'kg', m: /LIMON/, x: /JUGO|AGUA|SABOR|CONCENTR|REFRESCO|LIMPIA|DETERG|JABON|TE |GALLETA|POLVO|SAL |CLORO|AROMA|AMARILLO|REAL/ },
-  calabacita:{ q: ['calabacita', 'calabaza'], u: 'kg', m: /CALABACITA|CALABAZA ITALIANA|CALABAZA/, x: /SEMILLA|PEPITA|DULCE|CREMA|SOPA|CONGEL|FLOR|PURE|CASTILLA/ },
+  calabacita:{ q: ['calabaza'], u: 'kg', m: /CALABACITA|CALABAZA ITALIANA|CALABAZA/, x: /SEMILLA|PEPITA|DULCE|CREMA|SOPA|CONGEL|FLOR|PURE|CASTILLA/ },
   zanahoria: { q: ['zanahoria'], u: 'kg', m: /ZANAHORIA/, x: /JUGO|LATA|PICADA|CONGEL|PAPILLA|BEBE|BABY|RALLADA/ },
   nopal:     { q: ['nopal'], u: 'kg', m: /NOPAL/, x: /LATA|FRASCO|ENCURT|CAPSUL|ESCABECHE|TORTILLA|TOSTADA|POLVO|SALMUERA/ },
   platano:   { q: ['platano'], u: 'kg', m: /PLATANO/, x: /DESHIDR|FRITO|CHIP|PAPILLA|SABOR|PAN |MACHO|DOMINICO|MANZANO/ },
   manzana:   { q: ['manzana'], u: 'kg', m: /MANZANA/, x: /JUGO|NECTAR|COMPOTA|SIDRA|PAPILLA|SABOR|VINAGRE|TE |REFRESCO|DESHIDR|CHIPS|SHAMPOO|AROMA/ },
-  pina:      { q: ['pina'], u: 'kg', m: /\bPINA\b/, x: /LATA|ALMIBAR|JUGO|NECTAR|COLADA|SABOR|REFRESCO|DESHIDR|PICADA|ENCHILADA|MIEL/ },
-  champi:    { q: ['champinon', 'champinones'], u: 'kg', m: /CHAMPI/, x: /LATA|SOPA|CREMA|FRASCO|SALSA|EN SALMUERA|CONSOME|POLVO/ },
-  morron:    { q: ['pimiento', 'chile morron'], u: 'kg', m: /MORRON|PIMIENTO/, x: /LATA|FRASCO|POLVO|EN TIRAS|ASADO|PIMIENTA|SALSA/ },
-  tomverde:  { q: ['tomate verde', 'tomate'], u: 'kg', m: /TOMATE/, x: /JITOMATE|PURE|SALSA|LATA|PASTA|CATSUP|CALDO|POLVO|DESHIDR|SAZON|CONSOME|JUGO|ROJO|CHERRY|BOLA|SALADET|PICADO/ },
-  granola:   { q: ['granola'], u: 'kg', m: /GRANOLA/, x: /BARRA|YOG|BEBIDA|GALLET/ },
+  pina:      { q: ['piña', 'pina'], u: 'kg', m: /\bPINA\b/, x: /LATA|ALMIBAR|JUGO|NECTAR|COLADA|SABOR|REFRESCO|DESHIDR|PICADA|ENCHILADA|MIEL/ },
+  champi:    { q: ['champiñón', 'champiñones', 'hongo', 'hongos'], u: 'kg', m: /CHAMPI/, x: /LATA|SOPA|CREMA|FRASCO|SALSA|EN SALMUERA|CONSOME|POLVO/ },
+  morron:    { q: ['pimiento'], u: 'kg', m: /MORRON|PIMIENTO/, x: /LATA|FRASCO|POLVO|EN TIRAS|ASADO|PIMIENTA|SALSA/ },
+  tomverde:  { q: ['tomate'], u: 'kg', m: /TOMATE/, x: /JITOMATE|PURE|SALSA|LATA|PASTA|CATSUP|CALDO|POLVO|DESHIDR|SAZON|CONSOME|JUGO|ROJO|CHERRY|BOLA|SALADET|PICADO/ },
+  granola:   { q: ['granola', 'cereal'], u: 'kg', m: /GRANOLA/, x: /BARRA|YOG|BEBIDA|GALLET/ },
 };
 
 // Cadenas de PROFECO → tiendas de la app (el orden importa)
@@ -70,7 +70,7 @@ function tienda(cadena) {
   if (/SORIANA/.test(c)) return 'soriana';
   if (/CHEDRAUI|SUPER CHE\b/.test(c)) return 'chedraui';
   if (/LA COMER|FRESKO|CITY MARKET|SUMESA/.test(c)) return 'lacomer';
-  if (/WAL ?MART|SUPERAMA/.test(c)) return 'walmart';
+  if (/WAL.?MART|SUPERAMA/.test(c)) return 'walmart';
   if (/\b3 ?B\b|TRES B/.test(c)) return '3b';
   if (/MERCADO|CENTRAL DE ABAST|TIANGUIS|TORTILLERIA/.test(c)) return 'mercado';
   return null;
@@ -83,7 +83,7 @@ function tamano(t) {
   const num = x => parseFloat(x);
   let m;
   const multi = s.match(/(\d+)\s*(?:PZAS?|PIEZAS?|LATAS?|PZ)\s*(?:DE|X|C\/)\s*(\d+(?:\.\d+)?)\s*(KG|G|GR|GRS|GRAMOS|ML|L|LT|LTS)\b/);
-  const pzm = s.match(/(?:C\/|CON\s*)?(\d+)\s*(?:PZAS?|PIEZAS?|PZ|UNIDADES|TORTILLAS|HUEVOS)\b/);
+  const pzm = s.match(/(\d+)\s*(?:PZAS?|PIEZAS?|PZ|UNIDADES|TORTILLAS|HUEVOS|REBANADAS)\b/) || s.match(/(?:\bCON|C\/)\s*(\d+)\b(?!\s*(?:KG|G|GR|ML|L|LT|%))/);
   if (pzm) out.pz = num(pzm[1]);
   const re = /(\d+(?:\.\d+)?)\s*(KG|KILOS?|KGS|G|GR|GRS|GRAMOS|L|LT|LTS|LITROS?|ML|MILILITROS)\b/g;
   let last = null;
@@ -109,6 +109,7 @@ function tamano(t) {
 function unitario(rule, r, sz) {
   const precio = Number(r.precio);
   if (!(precio > 0)) return null;
+  if (rule.minG && (sz.g || sz.ml || 0) < rule.minG) return null;
   if (rule.u === 'kg') {
     if (sz.g) return precio / (sz.g / 1000);
     if (sz.ml) return precio / (sz.ml / 1000); // crema/yogur a veces en ml
@@ -130,7 +131,7 @@ function unitario(rule, r, sz) {
     if (sz.g) return precio / (sz.g / 1000) / 16; // ~16 huevos por kilo
     return null;
   }
-  if (rule === R.tostada) return sz.pz ? precio / sz.pz : null;
+  if (rule === R.tostada) return sz.pz ? precio / sz.pz : sz.g ? precio / (sz.g / 12) : null; // ~12 g por tostada
   return precio / (sz.pz || 1);
 }
 
