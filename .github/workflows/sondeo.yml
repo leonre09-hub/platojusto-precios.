@@ -1,0 +1,19 @@
+name: Sondeo farmacias
+on:
+  push:
+    branches: [main]
+    paths: ['scripts/sondeo.mjs']
+permissions:
+  contents: write
+jobs:
+  s:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: { node-version: '20' }
+      - run: node scripts/sondeo.mjs
+      - run: |
+          git config user.name "Plato Justo bot"; git config user.email "actions@users.noreply.github.com"
+          cp debug/sondeo_farmacias.json /tmp/s.json; git fetch origin main; git reset --hard origin/main; mkdir -p debug; cp /tmp/s.json debug/
+          git add debug/sondeo_farmacias.json; git commit -m "Sondeo farmacias"; git push origin HEAD:main
