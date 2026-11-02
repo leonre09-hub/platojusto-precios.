@@ -263,13 +263,146 @@
    "SORIANA SUPER"
   ]
  },
- "cerdo|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
+ "chuleta|0901": {
+  "n": 125,
+  "ejemplo": [
+   {
+    "producto": "CHULETA, S/M, 1 KG. GRANEL. CHULETA  O CHULETA NATURAL O FRESCA/CHULETA DE PUERCO ENTRECORTADA O LOMO DESHUESADO DE PUERCO  O CHULETA NATURAL LOMO DE PUERCO",
+    "tipo_producto": "CHULETA",
+    "precio": 97,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL PORTAL CENTRO",
+    "direccion": "AV. LORENZO BOTURINI 258, ENTRE FRANCISCO JAVIER CLAVIJ",
+    "colonia": "TRANSITO",
+    "cp": "06820",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "CHULETA, S/M, 1 KG. GRANEL. CHULETA  O CHULETA NATURAL O FRESCA/CHULETA DE PUERCO ENTRECORTADA O LOMO DESHUESADO DE PUERCO  O CHULETA NATURAL LOMO DE PUERCO",
+    "tipo_producto": "CHULETA",
+    "precio": 97,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL PORTAL CENTRO",
+    "direccion": "AV. LORENZO BOTURINI 258, ENTRE FRANCISCO JAVIER CLAVIJ",
+    "colonia": "TRANSITO",
+    "cp": "06820",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "CHULETA, S/M, 1 KG. GRANEL. CHULETA  O CHULETA NATURAL O FRESCA/CHULETA DE PUERCO ENTRECORTADA O LOMO DESHUESADO DE PUERCO  O CHULETA NATURAL LOMO DE PUERCO",
+   "CHULETA, S/M, 1 KG. GRANEL. CHULETA AHUMADA O ENTRECOT AHUMADO",
+   "CHULETA, S/M, 1 KG. GRANEL. CHULETA ARRIERA O CHULETA MIXTA",
+   "CHULETA O CHULETA COSTILLA O CHULETÓN, S/M, 1 KG. GRANEL. CHULETA, O CHULETA COSTILLA, O CHULETON",
+   "CHULETA, S/M, 1 KG. GRANEL. CHULETA RANCHERA",
+   "CHULETA, BACHOCO, 1 KG. GRANEL. CHULETA NATURAL"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "LA COMER",
+   "BODEGA AURRERA",
+   "MERCADO PUBLICO",
+   "HIPERMERCADO SORIANA",
+   "CHEDRAUI",
+   "U.N.A.M.",
+   "CENTRAL DE ABASTOS",
+   "MERCADO SORIANA",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
  },
- "puerco|0901": {
+ "pulpa|0901": {
+  "n": 25,
+  "ejemplo": [
+   {
+    "producto": "PULPA, S/M, 1 KG. GRANEL. PULPA EN TROZO",
+    "tipo_producto": "PULPA",
+    "precio": 88.1,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "PULPA, S/M, 1 KG. GRANEL. PULPA EN TROZO",
+    "tipo_producto": "PULPA",
+    "precio": 88.1,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "PULPA, S/M, 1 KG. GRANEL. PULPA EN TROZO",
+   "PULPA, S/M, 1 KG. GRANEL. PULPA EN TROCITOS"
+  ],
+  "cadenas": [
+   "MERCADO SORIANA",
+   "HIPERMERCADO SORIANA",
+   "MEGA SORIANA",
+   "SORIANA SUPER"
+  ]
+ },
+ "lomo|0901": {
+  "n": 36,
+  "ejemplo": [
+   {
+    "producto": "LOMO, S/M, 1 KG. GRANEL. LOMO, O CAÑA DE LOMO, O EN TROZO/LOMO DE CERDO SIN HUESO",
+    "tipo_producto": "LOMO",
+    "precio": 145,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MERCADO PUBLICO",
+    "establecimiento": "MERCADO VICTORIA DE LAS DEMOCRACIAS",
+    "direccion": "PIMIENTA S/N, ESQ. TORONJIL",
+    "colonia": "IGNACIO ALLENDE",
+    "cp": "02810",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "LOMO, S/M, 1 KG. GRANEL. LOMO, O CAÑA DE LOMO, O EN TROZO/LOMO DE CERDO SIN HUESO",
+    "tipo_producto": "LOMO",
+    "precio": 145,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MERCADO PUBLICO",
+    "establecimiento": "MERCADO VICTORIA DE LAS DEMOCRACIAS",
+    "direccion": "PIMIENTA S/N, ESQ. TORONJIL",
+    "colonia": "IGNACIO ALLENDE",
+    "cp": "02810",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "LOMO, S/M, 1 KG. GRANEL. LOMO, O CAÑA DE LOMO, O EN TROZO/LOMO DE CERDO SIN HUESO"
+  ],
+  "cadenas": [
+   "MERCADO PUBLICO",
+   "HIPERMERCADO SORIANA",
+   "CHEDRAUI",
+   "LA COMER",
+   "MERCADO SORIANA",
+   "WAL-MART",
+   "CENTRAL DE ABASTOS",
+   "BODEGA AURRERA",
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "carne de cerdo|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -1138,18 +1271,6 @@
    "SORIANA SUPER"
   ]
  },
- "yogurt|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "yogur|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "tortilla|0901": {
   "n": 273,
   "ejemplo": [
@@ -1640,18 +1761,6 @@
    "SORIANA SUPER"
   ]
  },
- "spaghetti|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "fideo|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "avena|0901": {
   "n": 194,
   "ejemplo": [
@@ -1762,6 +1871,102 @@
   "nombres": [],
   "cadenas": []
  },
+ "pan|0901": {
+  "n": 1096,
+  "ejemplo": [
+   {
+    "producto": "PAN BLANCO BOLILLO, S/M, PIEZA",
+    "tipo_producto": "PAN BLANCO BOLILLO",
+    "precio": 2,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "BODEGA AURRERA EXPRESS",
+    "establecimiento": "BODEGA AURRERA EXPRESS SUCURSAL LOS GALLOS",
+    "direccion": "FLORES MAGON 523, ESQ. CIRCUITO INTERIOR",
+    "colonia": "SANTA MARIA LA RIBERA",
+    "cp": "06400",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "PAN BLANCO BOLILLO, S/M, PIEZA",
+    "tipo_producto": "PAN BLANCO BOLILLO",
+    "precio": 2,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "BODEGA AURRERA EXPRESS",
+    "establecimiento": "BODEGA AURRERA EXPRESS SUCURSAL LOS GALLOS",
+    "direccion": "FLORES MAGON 523, ESQ. CIRCUITO INTERIOR",
+    "colonia": "SANTA MARIA LA RIBERA",
+    "cp": "06400",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "PAN BLANCO BOLILLO, S/M, PIEZA",
+   "PAN DE CAJA, BIMBO, PAQUETE CHICO 350 GR. REBANADO INTEGRAL",
+   "PAN DE CAJA, BIMBO, PAQUETE CHICO 350 GR. REBANADO BLANCO",
+   "PAN DE CAJA, BIMBO, PAQUETE GRANDE 620 GR. REBANADO BLANCO",
+   "PAN DE CAJA, BIMBO, PAQUETE GRANDE 620 GR. REBANADO INTEGRAL",
+   "PAN DE CAJA, AURRERA, PAQUETE GRANDE 624 GR. REBANADO BLANCO",
+   "PAN DE CAJA, OROWEAT. GRANOS ENTEROS, PAQUETE GRANDE 680 GR. INTEGRAL. REBANADO",
+   "PAN DE CAJA, BIMBO, PAQUETE 210 GR. TOSTADO. CLÁSICO",
+   "PAN DE CAJA, BIMBO, PAQUETE GRANDE 620 GR. REBANADO BLANCO. RINDE",
+   "PAN DE CAJA, BIMBO, PAQUETE 612 GR. REBANADO NATURAL",
+   "PAN DE CAJA, SELECTO BRAND, PAQUETE GRANDE 625 GR. REBANADO BLANCO",
+   "PANZA O MENUDO, S/M, 1 KG. GRANEL. COCIDOS",
+   "PANZA O MENUDO, S/M, 1 KG. GRANEL. CRUDOS",
+   "PAN DULCE, S/M, BISQUET. PIEZA DE 68 A 90 GR. (11 CM. DE DIÁMETRO APROX.)",
+   "PAN DULCE, S/M, CONCHA. PIEZA DE 68 A 90 GR. (12 CM. DE DIÁMETRO APROX.)",
+   "PAN DULCE, S/M, CUERNO. PIEZA DE 68 A 90 GR. (13 CM. DE DIÁMETRO APROX.)",
+   "PAN DULCE, S/M, DONA CUBIERTA DE CHOCOLATE. PIEZA DE 68 A 82 GR. (12 CM. DE DIÁMETRO APROX.)",
+   "PANTALLAS, HISENSE, 43A65NV. 43 PLGS. LED. PUERTO USB. SMART TV.",
+   "PANTALLAS, HISENSE, 55A65NV. 55 PLGS. LED. PUERTO USB. SMART TV.",
+   "PANTALLAS, HISENSE, 65A65NV. 65 PLGS. LED. PUERTO USB. SMART TV.",
+   "PANTALLAS, HISENSE, 55U6QV. 55 PLGS. ULED. PUERTO USB. SMART TV.",
+   "PANTALLAS, SAMSUNG, LH 43 BEFHVGFXZX O BE43FX-H. 43 PLGS. LED. PUERTO USB. SMART TV.",
+   "PANTALLAS, TCL, 55Q5K. 55 PLGS. QLED. PUERTO USB. SMART TV.",
+   "PANTALLAS, TCL, 65Q5K. 65 PLGS. QLED. PUERTO USB. SMART TV.",
+   "PANTALLAS, SAMSUNG, UN 43M70HAF. 43 PLGS. MINILED. PUERTO USB. SMART TV.",
+   "PANTALLAS, HISENSE, 50U6QV. 50 PLGS. ULED. PUERTO USB. SMART TV.",
+   "PANTALLAS, HISENSE, 40A4NV. 40 PLGS. LED. PUERTO USB. SMART TV.",
+   "PANTALLAS, LG, 75 UA 7500 PSA. 75 PLGS. LED. PUERTO USB. SMART TV.",
+   "PANTALLAS, HISENSE, 58A6NV. 58 PLGS. ULED. PUERTO USB. SMART TV.",
+   "PANTALLAS, LG, 55 UA 7500 PSA. 55 PLGS. LED. PUERTO USB. SMART TV.",
+   "PANTALLAS, TCL, 50 Q 6 K. 50 PLGS. QLED. PUERTO USB. SMART TV.",
+   "PANTALLAS, LG, 65 UA 7500 PSA. 65 PLGS. LED. PUERTO USB. SMART TV.",
+   "PANTALLAS, TCL, 43Q5K. 43 PLGS. QLED. PUERTO USB. SMART TV.",
+   "PANTALLAS, LG, 86 UA 7500 PSA. 86 PLGS. LED. PUERTO USB. SMART TV.",
+   "PANTALLAS, LG, 32 LR 650 BPSA. 32 PLGS. LED. PUERTO USB. SMART TV.",
+   "PANTALLAS, HISENSE, 32A4NV. 32 PLGS. LED. PUERTO USB. SMART TV.",
+   "PANTALLAS, TCL, 50Q5K. 50 PLGS. QLED. PUERTO USB. SMART TV.",
+   "PANOTO-S, S/M, CAJA Y FRASCO CON 100 ML CON VASO GRADUADO. JARABE",
+   "PANTOZOL, S/M, CAJA CON 14 GRAGEAS DE 40 MG.",
+   "PANTOPRAZOL, S/M, CAJA CON 14 TABLETAS O GRAGEAS DE 40 MG."
+  ],
+  "cadenas": [
+   "BODEGA AURRERA EXPRESS",
+   "LA COMER",
+   "MERCADO SORIANA",
+   "HIPERMERCADO SORIANA",
+   "WAL-MART",
+   "CHEDRAUI",
+   "BODEGA AURRERA",
+   "U.N.A.M.",
+   "MERCADO PUBLICO",
+   "ELEKTRA",
+   "FARMACIA SAN ISIDRO",
+   "SANBORN S HNOS.",
+   "FARMACIAS DE SIMILARES",
+   "SUPERISSSTE",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "SALINAS Y ROCHA",
+   "PANADERIAS TRADICIONALES",
+   "BENAVIDES",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
  "aceite|0901": {
   "n": 442,
   "ejemplo": [
@@ -1837,18 +2042,6 @@
    "SORIANA SUPER"
   ]
  },
- "chile chipotle|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "chipotle|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "chiles|0901": {
   "n": 524,
   "ejemplo": [
@@ -1914,12 +2107,6 @@
    "SORIANA SUPER"
   ]
  },
- "guajillo|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "chile seco|0901": {
   "n": 69,
   "ejemplo": [
@@ -1966,89 +2153,6 @@
    "LA COMER",
    "CHEDRAUI",
    "CENTRAL DE ABASTOS",
-   "SORIANA SUPER"
-  ]
- },
- "chile|0901": {
-  "n": 835,
-  "ejemplo": [
-   {
-    "producto": "CHILE FRESCO, S/M, 1 KG. GUERO-LARGO",
-    "tipo_producto": "CHILE FRESCO",
-    "precio": 129,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL NEXTENGO",
-    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
-    "colonia": "SANTA CRUZ ACAYUCAN",
-    "cp": "02770",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "CHILE FRESCO, S/M, 1 KG. GUERO-LARGO",
-    "tipo_producto": "CHILE FRESCO",
-    "precio": 129,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL NEXTENGO",
-    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
-    "colonia": "SANTA CRUZ ACAYUCAN",
-    "cp": "02770",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "CHILE FRESCO, S/M, 1 KG. GUERO-LARGO",
-   "CHILE FRESCO, S/M, 1 KG. POBLANO O PARA RELLENAR",
-   "CHILE FRESCO, S/M, 1 KG. SERRANO",
-   "CHILE FRESCO, S/M, 1 KG. DE ARBOL (VERDE)",
-   "CHILE FRESCO, S/M, 1 KG. HABANERO",
-   "CHILE FRESCO, S/M, 1 KG. JALAPEÑO O CUARESMEÑO",
-   "CHILE FRESCO, S/M, 1 KG. CARIBE",
-   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
-   "CHILE SECO, S/M, 1 KG. GRANEL. PASILLA",
-   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. PASILLA",
-   "CHILE SECO, S/M, 1 KG. GRANEL. GUAJILLO",
-   "CHILE SECO, S/M, 1 KG. GRANEL. CASCABEL",
-   "CHILE SECO, S/M, 1 KG. GRANEL. ANCHO",
-   "CHILES, LA COSTEÑA, LATA 380 GR. JALAPEÑOS RAJAS",
-   "CHILES, CLEMENTE JACQUES, LATA 380 GR. JALAPEÑOS RAJAS",
-   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS EN ESCABECHE",
-   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS EN ESCABECHE",
-   "CHILES, LA COSTEÑA, LATA 220 GR. CHIPOTLES EN ADOBO",
-   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS RAJAS",
-   "CHILES, LA COSTEÑA, LATA 105 GR. JALAPEÑO RAJAS",
-   "CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS",
-   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑOS RAJAS",
-   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO RAJAS",
-   "CHILES, LA COSTEÑA, LATA 220 GR. SERRANO",
-   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS RAJAS",
-   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO EN ESCABECHE",
-   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑO EN ESCABECHE",
-   "CHILES, LA MORENA, LATA 380 GR. JALAPEÑO EN ESCABECHE",
-   "CHILES, LA COSTEÑA, LATA 340 GR. JALAPEÑO RAJAS",
-   "CHILES, LA COSTEÑA, LATA 105 GR. SERRANO",
-   "CHILES, LA MORENA, LATA 210 GR. JALAPEÑOS EN ESCABECHE",
-   "CHILE FRESCO, S/M, 250 GR. BOLSA. JALAPEÑO O CUARESMEÑO",
-   "CHILE SECO, SAN LAZARO, BOLSA 100 GR. ANCHO",
-   "CHILE SECO, SAN LAZARO, BOLSA 100 GR. PASILLA"
-  ],
-  "cadenas": [
-   "WAL-MART",
-   "HIPERMERCADO SORIANA",
-   "MERCADO PUBLICO",
-   "CHEDRAUI",
-   "U.N.A.M.",
-   "MERCADO SORIANA",
-   "LA COMER",
-   "BODEGA AURRERA",
-   "BODEGA AURRERA EXPRESS",
-   "CENTRAL DE ABASTOS",
-   "MEGA SORIANA",
-   "SUPERISSSTE",
-   "WAL-MART EXPRESS",
    "SORIANA SUPER"
   ]
  },
@@ -2273,11 +2377,88 @@
    "SORIANA SUPER"
   ]
  },
- "chile serrano|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
+ "chile|0901": {
+  "n": 835,
+  "ejemplo": [
+   {
+    "producto": "CHILE FRESCO, S/M, 1 KG. GUERO-LARGO",
+    "tipo_producto": "CHILE FRESCO",
+    "precio": 129,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL NEXTENGO",
+    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
+    "colonia": "SANTA CRUZ ACAYUCAN",
+    "cp": "02770",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "CHILE FRESCO, S/M, 1 KG. GUERO-LARGO",
+    "tipo_producto": "CHILE FRESCO",
+    "precio": 129,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL NEXTENGO",
+    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
+    "colonia": "SANTA CRUZ ACAYUCAN",
+    "cp": "02770",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "CHILE FRESCO, S/M, 1 KG. GUERO-LARGO",
+   "CHILE FRESCO, S/M, 1 KG. POBLANO O PARA RELLENAR",
+   "CHILE FRESCO, S/M, 1 KG. SERRANO",
+   "CHILE FRESCO, S/M, 1 KG. DE ARBOL (VERDE)",
+   "CHILE FRESCO, S/M, 1 KG. HABANERO",
+   "CHILE FRESCO, S/M, 1 KG. JALAPEÑO O CUARESMEÑO",
+   "CHILE FRESCO, S/M, 1 KG. CARIBE",
+   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
+   "CHILE SECO, S/M, 1 KG. GRANEL. PASILLA",
+   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. PASILLA",
+   "CHILE SECO, S/M, 1 KG. GRANEL. GUAJILLO",
+   "CHILE SECO, S/M, 1 KG. GRANEL. CASCABEL",
+   "CHILE SECO, S/M, 1 KG. GRANEL. ANCHO",
+   "CHILES, LA COSTEÑA, LATA 380 GR. JALAPEÑOS RAJAS",
+   "CHILES, CLEMENTE JACQUES, LATA 380 GR. JALAPEÑOS RAJAS",
+   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 220 GR. CHIPOTLES EN ADOBO",
+   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA COSTEÑA, LATA 105 GR. JALAPEÑO RAJAS",
+   "CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS",
+   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO RAJAS",
+   "CHILES, LA COSTEÑA, LATA 220 GR. SERRANO",
+   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, LA MORENA, LATA 380 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 340 GR. JALAPEÑO RAJAS",
+   "CHILES, LA COSTEÑA, LATA 105 GR. SERRANO",
+   "CHILES, LA MORENA, LATA 210 GR. JALAPEÑOS EN ESCABECHE",
+   "CHILE FRESCO, S/M, 250 GR. BOLSA. JALAPEÑO O CUARESMEÑO",
+   "CHILE SECO, SAN LAZARO, BOLSA 100 GR. ANCHO",
+   "CHILE SECO, SAN LAZARO, BOLSA 100 GR. PASILLA"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "MERCADO PUBLICO",
+   "CHEDRAUI",
+   "U.N.A.M.",
+   "MERCADO SORIANA",
+   "LA COMER",
+   "BODEGA AURRERA",
+   "BODEGA AURRERA EXPRESS",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
  },
  "cilantro|0901": {
   "n": 57,
@@ -2472,12 +2653,6 @@
    "WAL-MART EXPRESS",
    "SORIANA SUPER"
   ]
- },
- "calabacita|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "calabaza|0901": {
   "n": 59,
@@ -2730,19 +2905,119 @@
    "SORIANA SUPER"
   ]
  },
+ "piña|0901": {
+  "n": 154,
+  "ejemplo": [
+   {
+    "producto": "PIÑA, S/M, 1 KG. MIEL",
+    "tipo_producto": "PIÑA",
+    "precio": 22.8,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL CUITLAHUAC (253)",
+    "direccion": "CUITLAHUAC 372, ENTRE PANTACO Y RABAI",
+    "colonia": "JARDÍN AZPETIA",
+    "cp": "02530",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "PIÑA, S/M, 1 KG. MIEL",
+    "tipo_producto": "PIÑA",
+    "precio": 22.8,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL CUITLAHUAC (253)",
+    "direccion": "CUITLAHUAC 372, ENTRE PANTACO Y RABAI",
+    "colonia": "JARDÍN AZPETIA",
+    "cp": "02530",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "PIÑA, S/M, 1 KG. MIEL",
+   "PIÑA EN ALMÍBAR, LA COSTEÑA, LATA 800 GR. TROCITOS",
+   "PIÑA EN ALMÍBAR, LA COSTEÑA, LATA 800 GR. REBANADA",
+   "PIÑA EN ALMÍBAR, CLEMENTE JACQUES, LATA 800 GR. TROCITOS"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "LA COMER",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "U.N.A.M.",
+   "CHEDRAUI",
+   "WAL-MART",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER",
+   "BODEGA AURRERA EXPRESS"
+  ]
+ },
  "pina|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "champinon|0901": {
+ "champiñón|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "champinones|0901": {
+ "champiñones|0901": {
+  "n": 52,
+  "ejemplo": [
+   {
+    "producto": "CHAMPIÑONES, S/M, 1 KG.",
+    "tipo_producto": "CHAMPIÑONES",
+    "precio": 125,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA SUCURSAL CANTIL (419)",
+    "direccion": "AZTECAS 270, ESQ. REY MOCTEZUMA",
+    "colonia": "LOS REYES",
+    "cp": "04330",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "CHAMPIÑONES, S/M, 1 KG.",
+    "tipo_producto": "CHAMPIÑONES",
+    "precio": 125,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA SUCURSAL CANTIL (419)",
+    "direccion": "AZTECAS 270, ESQ. REY MOCTEZUMA",
+    "colonia": "LOS REYES",
+    "cp": "04330",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "CHAMPIÑONES, S/M, 1 KG."
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "WAL-MART",
+   "LA COMER",
+   "CHEDRAUI",
+   "CENTRAL DE ABASTOS",
+   "BODEGA AURRERA",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "hongo|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "hongos|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -2791,18 +3066,6 @@
    "WAL-MART EXPRESS",
    "SORIANA SUPER"
   ]
- },
- "chile morron|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "tomate verde|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "tomate|0901": {
   "n": 61,
@@ -2855,5 +3118,3054 @@
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
+ },
+ "cereal|0901": {
+  "n": 545,
+  "ejemplo": [
+   {
+    "producto": "CEREALES, SPECIAL K. KELLOGG´S, CAJA 530 GR. ORIGINAL",
+    "tipo_producto": "CEREALES",
+    "precio": 77.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL CONSULADO (418)",
+    "direccion": "RIO CONSULADO 2355, ESQ. CARLOS MARX",
+    "colonia": "SIMON BOLIVAR",
+    "cp": "15410",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "CEREALES, SPECIAL K. KELLOGG´S, CAJA 530 GR. ORIGINAL",
+    "tipo_producto": "CEREALES",
+    "precio": 77.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL CONSULADO (418)",
+    "direccion": "RIO CONSULADO 2355, ESQ. CARLOS MARX",
+    "colonia": "SIMON BOLIVAR",
+    "cp": "15410",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "CEREALES, SPECIAL K. KELLOGG´S, CAJA 530 GR. ORIGINAL",
+   "CEREALES, CORN FLAKES. KELLOGG´S, CAJA 370 GR. EL ORIGINAL",
+   "CEREALES, NESTLÉ, CAJA 500 GR.",
+   "CEREALES, CORN FLAKES. KELLOGG´S, CAJA 385 GR. EL ORIGINAL",
+   "CEREALES, NESTLÉ, CAJA 530 GR.",
+   "CEREALES, CHOCO KRISPIS. KELLOGG´S, CAJA 560 GR.",
+   "CEREALES, CHOCO KRISPIS. KELLOGG´S, CAJA 540 GR.",
+   "CEREALES, CHOCO KRISPIS. KELLOGG´S, CAJA 38 GR.",
+   "CEREALES, ZUCARITAS. KELLOGG´S, CAJA 380 GR.",
+   "CEREALES, ZUCARITAS. KELLOGG´S, CAJA 620 GR.",
+   "CEREALES, ZUCARITAS. KELLOGG´S, CAJA 30 GR.",
+   "CEREALES, ZUCARITAS. KELLOGG´S, CAJA 600 GR.",
+   "CEREALES, ALL-BRAN KELLOGG´S, CAJA 775 GR. ORIGINAL",
+   "CEREALES, ALL-BRAN KELLOGG´S, CAJA 570 GR. FLAKES. NUTRI FIBRA. NATURAL",
+   "CEREALES, FITNESS NESTLÉ, CAJA 570 GR.",
+   "CEREALES, CORN POPS. KELLOGG´S, CAJA 450 GR.",
+   "CEREALES, NESQUIK NESTLÉ, CAJA 620 GR.",
+   "CEREALES, NESQUIK NESTLÉ. MÁS CHOCOLATOSO, CAJA 650 GR."
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "U.N.A.M.",
+   "LA COMER",
+   "BODEGA AURRERA",
+   "WAL-MART",
+   "BODEGA AURRERA EXPRESS",
+   "CHEDRAUI",
+   "SUPERISSSTE",
+   "MERCADO SORIANA",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "pechuga|1502": {
+  "n": 88,
+  "ejemplo": [
+   {
+    "producto": "PECHUGA, S/M, 1 KG. GRANEL. PECHUGA SIN HUESO (SIN PIEL)",
+    "tipo_producto": "PECHUGA",
+    "precio": 172,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "PECHUGA, S/M, 1 KG. GRANEL. PECHUGA SIN HUESO (SIN PIEL)",
+    "tipo_producto": "PECHUGA",
+    "precio": 172,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "PECHUGA, S/M, 1 KG. GRANEL. PECHUGA SIN HUESO (SIN PIEL)",
+   "PECHUGA, S/M, 1 KG. GRANEL. PECHUGA. CORTE AMERICANO",
+   "PECHUGA, S/M, 1 KG. GRANEL. PECHUGA CON HUESO O ANATÓMICA O SIN RABADILLA (CON PIEL)",
+   "PECHUGA, S/M, 1 KG. GRANEL. PECHUGA. FILETE",
+   "PECHUGA DE PAVO, FUD, 1 KG. GRANEL. VIRGINIA"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "pollo|1502": {
+  "n": 4,
+  "ejemplo": [
+   {
+    "producto": "POLLO ROSTIZADO. TRADICIONAL, S/M, PIEZA (CHAROLA O BOLSA, NO INCLUYE COMPLEMENTOS)",
+    "tipo_producto": "POLLO ROSTIZADO. TRADICIONAL",
+    "precio": 120,
+    "fecha_observacion": "2026-10-28",
+    "cadena_comercial": "PANADERIAS TRADICIONALES",
+    "establecimiento": "LA ESPERANZA",
+    "direccion": "AZTECAS, ENTRE IZTACCIHUATL Y TEPOXTECO",
+    "colonia": "CIUDAD AZTECA",
+    "cp": "55120",
+    "municipio": "Ecatepec",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "POLLO ROSTIZADO. TRADICIONAL, S/M, PIEZA (CHAROLA O BOLSA, NO INCLUYE COMPLEMENTOS)",
+    "tipo_producto": "POLLO ROSTIZADO. TRADICIONAL",
+    "precio": 120,
+    "fecha_observacion": "2026-10-28",
+    "cadena_comercial": "PANADERIAS TRADICIONALES",
+    "establecimiento": "LA ESPERANZA",
+    "direccion": "AZTECAS, ENTRE IZTACCIHUATL Y TEPOXTECO",
+    "colonia": "CIUDAD AZTECA",
+    "cp": "55120",
+    "municipio": "Ecatepec",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "POLLO ROSTIZADO. TRADICIONAL, S/M, PIEZA (CHAROLA O BOLSA, NO INCLUYE COMPLEMENTOS)"
+  ],
+  "cadenas": [
+   "PANADERIAS TRADICIONALES",
+   "BODEGA AURRERA"
+  ]
+ },
+ "pierna|1502": {
+  "n": 82,
+  "ejemplo": [
+   {
+    "producto": "PIERNA, S/M, 1 KG. GRANEL. PIERNA O PIERNA BATE",
+    "tipo_producto": "PIERNA",
+    "precio": 72.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "PIERNA, S/M, 1 KG. GRANEL. PIERNA O PIERNA BATE",
+    "tipo_producto": "PIERNA",
+    "precio": 72.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "PIERNA, S/M, 1 KG. GRANEL. PIERNA O PIERNA BATE",
+   "PIERNA CON MUSLO, S/M, 1 KG. GRANEL. PIERNA CON MUSLO. PIGMENTADA",
+   "PIERNA CON MUSLO, S/M, 1 KG. GRANEL. PIERNA CON MUSLO DE POLLO. CORTE AMERICANO",
+   "PIERNA ENTERA/PERNIL, S/M, 1 KG. GRANEL. CARNE CERDO. PIERNA ENTERA SIN HUESO, O PERNIL SIN HUESO",
+   "PIERNA ENTERA/PERNIL, S/M, 1 KG. GRANEL CON HUESO"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "CENTRAL DE ABASTOS",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "carne molida|1502": {
+  "n": 80,
+  "ejemplo": [
+   {
+    "producto": "CARNE MOLIDA, S/M, 1 KG. GRANEL. O PULPA MOLIDA",
+    "tipo_producto": "CARNE MOLIDA",
+    "precio": 109,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CARNE MOLIDA, S/M, 1 KG. GRANEL. O PULPA MOLIDA",
+    "tipo_producto": "CARNE MOLIDA",
+    "precio": 109,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CARNE MOLIDA, S/M, 1 KG. GRANEL. O PULPA MOLIDA",
+   "CARNE MOLIDA, S/M, 1 KG. GRANEL. MOLIDA TOP SIRLION 90-10 O MOLIDA DE SIRLION 90-10",
+   "CARNE MOLIDA, S/M, 1 KG. GRANEL. MOLIDA ESPECIAL 80/20",
+   "CARNE MOLIDA, S/M, 1 KG. GRANEL. MOLIDA DE RES",
+   "CARNE MOLIDA, S/M, 1 KG. GRANEL.  POPULAR/COMERCIAL"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "CENTRAL DE ABASTOS",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "res|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "bistec|1502": {
+  "n": 66,
+  "ejemplo": [
+   {
+    "producto": "BISTEC DEL 0, S/M, 1 KG. GRANEL. BISTEC/CHULETA DEL 0",
+    "tipo_producto": "BISTEC DEL 0",
+    "precio": 204,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "BISTEC DEL 0, S/M, 1 KG. GRANEL. BISTEC/CHULETA DEL 0",
+    "tipo_producto": "BISTEC DEL 0",
+    "precio": 204,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "BISTEC DEL 0, S/M, 1 KG. GRANEL. BISTEC/CHULETA DEL 0",
+   "BISTEC DEL 0, S/M, 1 KG. GRANEL. BISTEC DEL 0",
+   "BISTEC FLECHA, S/M, 1 KG. GRANEL. BISTEC FLECHA PARA ASAR",
+   "BISTEC DE ESPALDILLA, S/M, 1 KG. GRANEL",
+   "BISTEC DE DIEZMILLO, S/M, 1 KG. GRANEL. BISTEC DIEZMILLO O DIEZMILLO SIN HUESO",
+   "BISTEC. CORTE DELGADO, S/M, 1 KG. GRANEL. BISTEC PARA EL ASADOR",
+   "BISTEC. CORTE DELGADO, S/M, 1 KG. GRANEL. BISTEC DE RES CORTE DELGADO O BISTEC DE RES",
+   "BISTEC RANCHERO, S/M, 1 KG. GRANEL. BISTEC RANCHERO"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "CENTRAL DE ABASTOS",
+   "BODEGA AURRERA",
+   "WAL-MART",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "chuleta|1502": {
+  "n": 83,
+  "ejemplo": [
+   {
+    "producto": "CHULETA, S/M, 1 KG. GRANEL. CHULETA ARRIERA O CHULETA MIXTA",
+    "tipo_producto": "CHULETA",
+    "precio": 94,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CHULETA, S/M, 1 KG. GRANEL. CHULETA ARRIERA O CHULETA MIXTA",
+    "tipo_producto": "CHULETA",
+    "precio": 94,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CHULETA, S/M, 1 KG. GRANEL. CHULETA ARRIERA O CHULETA MIXTA",
+   "CHULETA, S/M, 1 KG. GRANEL. CHULETA AHUMADA O ENTRECOT AHUMADO",
+   "CHULETA, S/M, 1 KG. GRANEL. CHULETA  O CHULETA NATURAL O FRESCA/CHULETA DE PUERCO ENTRECORTADA O LOMO DESHUESADO DE PUERCO  O CHULETA NATURAL LOMO DE PUERCO",
+   "CHULETA O CHULETA COSTILLA O CHULETÓN, S/M, 1 KG. GRANEL. CHULETA, O CHULETA COSTILLA, O CHULETON",
+   "CHULETA, BACHOCO, 1 KG. GRANEL. CHULETA NATURAL"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "CENTRAL DE ABASTOS",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA",
+   "LA COMER"
+  ]
+ },
+ "pulpa|1502": {
+  "n": 12,
+  "ejemplo": [
+   {
+    "producto": "PULPA, S/M, 1 KG. GRANEL. PULPA EN TROZO",
+    "tipo_producto": "PULPA",
+    "precio": 88.1,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "PULPA, S/M, 1 KG. GRANEL. PULPA EN TROZO",
+    "tipo_producto": "PULPA",
+    "precio": 88.1,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "PULPA, S/M, 1 KG. GRANEL. PULPA EN TROZO"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "MERCADO SORIANA",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "lomo|1502": {
+  "n": 26,
+  "ejemplo": [
+   {
+    "producto": "LOMO, S/M, 1 KG. GRANEL. LOMO, O CAÑA DE LOMO, O EN TROZO/LOMO DE CERDO SIN HUESO",
+    "tipo_producto": "LOMO",
+    "precio": 139,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "LOMO, S/M, 1 KG. GRANEL. LOMO, O CAÑA DE LOMO, O EN TROZO/LOMO DE CERDO SIN HUESO",
+    "tipo_producto": "LOMO",
+    "precio": 139,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "LOMO, S/M, 1 KG. GRANEL. LOMO, O CAÑA DE LOMO, O EN TROZO/LOMO DE CERDO SIN HUESO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "CENTRAL DE ABASTOS",
+   "BODEGA AURRERA",
+   "FRESKO LA COMER",
+   "MERCADO PUBLICO",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "carne de cerdo|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "chorizo|1502": {
+  "n": 58,
+  "ejemplo": [
+   {
+    "producto": "CHORIZO, SAN RAFAEL, 1 KG. GRANEL. ESTILO ESPAÑOL",
+    "tipo_producto": "CHORIZO",
+    "precio": 285,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CHORIZO, SAN RAFAEL, 1 KG. GRANEL. ESTILO ESPAÑOL",
+    "tipo_producto": "CHORIZO",
+    "precio": 285,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CHORIZO, SAN RAFAEL, 1 KG. GRANEL. ESTILO ESPAÑOL",
+   "CHORIZO, FUD, 1 KG. GRANEL. ESTILO CANTIMPALO",
+   "CHORIZO, ZWAN, 1 KG. GRANEL",
+   "CHORIZO, PARMA. CAMPESTRE, 1 KG. GRANEL. RANCHERO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "FRESKO LA COMER",
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "jamon|1502": {
+  "n": 360,
+  "ejemplo": [
+   {
+    "producto": "JAMÓN, PARMA. SABORI, 1 KG. GRANEL. DE PAVO. VIRGINIA",
+    "tipo_producto": "JAMÓN",
+    "precio": 226,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "JAMÓN, PARMA. SABORI, 1 KG. GRANEL. DE PAVO. VIRGINIA",
+    "tipo_producto": "JAMÓN",
+    "precio": 226,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "JAMÓN, PARMA. SABORI, 1 KG. GRANEL. DE PAVO. VIRGINIA",
+   "JAMÓN, CAPISTRANO, 1 KG. GRANEL. JAMÓN DE PAVO Y CERDO. AMERICANO. ESPECIAL",
+   "JAMÓN, CAPISTRANO, 1 KG. GRANEL. DE PAVO Y CERDO. CALIFORNIA",
+   "JAMÓN, CAPISTRANO, 1 KG. GRANEL. DE PAVO. VIRGINIA",
+   "JAMÓN, CHIMEX, 1 KG. GRANEL. DE PAVO. CLÁSICO",
+   "JAMÓN, ZWAN. PREMIUM, PAQUETE 250 GR. VIRGINIA DE PAVO",
+   "JAMÓN, ALPINO, 1 KG. GRANEL. DE PAVO Y CERDO. NÁPOLES",
+   "JAMÓN, FUD, 1 KG. GRANEL. DE PIERNA. HORNEADO",
+   "JAMÓN, KIR, 1 KG. GRANEL. DE PIERNA. TRADICIONAL",
+   "JAMÓN, SAN RAFAEL, 1 KG. GRANEL. DE PAVO. VIRGINIA",
+   "JAMÓN, ZWAN, 1 KG. GRANEL. DE PAVO. TIPO VIRGINIA",
+   "JAMÓN, KIR, 1 KG. GRANEL. DE PAVO. VIRGINIA",
+   "JAMÓN, FUD, 1 KG. GRANEL. DE PAVO. VIRGINIA",
+   "JAMÓN, IBERO, 1 KG. (GRANEL). JAMÓN DE PAVO. BARCELONA",
+   "JAMÓN, FUD, PAQUETE 290 GR. VIRGINIA DE PAVO",
+   "JAMÓN, FUD, PAQUETE 290 GR. VIRGINIA DE PAVO Y CERDO",
+   "JAMÓN, SAN RAFAEL, PAQUETE 300 GR. DE PIERNA REAL",
+   "JAMÓN, ZWAN. PREMIUM, 1 KG. GRANEL. DE PAVO. NATURAL",
+   "JAMÓN, KIR, 1 KG. GRANEL. DE PIERNA (MANDOLINA)",
+   "JAMÓN, BAFAR, 1 KG. GRANEL. DE PAVO. TIPO VIRGINIA",
+   "JAMÓN, SAN RAFAEL. REAL, 1 KG. GRANEL. DE PAVO",
+   "JAMÓN, ZWAN, 1 KG. (GRANEL). DE CERDO Y PAVO. TIPO VIRGINIA",
+   "JAMÓN, ZWAN. PREMIUM, 1 KG. GRANEL. DE PIERNA",
+   "JAMÓN, FUD. YORK, 1 KG. GRANEL. DE PIERNA.TIPO YORK",
+   "JAMÓN, SAN RAFAEL. REAL, 1 KG. GRANEL. DE PIERNA",
+   "JAMÓN, PARMA. CAMPESTRE, 1 KG. GRANEL. DE PIERNA",
+   "JAMÓN, IBERO. BARCELONA, 1 KG. GRANEL. DE CERDO Y PAVO",
+   "JAMÓN, FUD, 1 KG. GRANEL. DE PIERNA. HORNEADO ESPECIAL",
+   "JAMÓN, D HECTOR, 1 KG. GRANEL. DE PAVO Y CERDO. VIRGINIA",
+   "JAMÓN, S/M, 1 KG. GRANEL. DE PAVO",
+   "JAMÓN, KIR, PAQUETE 250 GR. VIRGINIA DE PAVO",
+   "JAMÓN, CAPISTRANO, PAQUETE 250 GR. DE PAVO. VIRGINIA",
+   "JAMÓN, D HECTOR, 1 KG. GRANEL. HORNEADO. DE PIERNA (MANDOLINA)",
+   "JAMÓN, D HECTOR, 1 KG. GRANEL. DE PAVO Y CERDO. TIPO AMERICANO",
+   "JAMÓN, GALICIA, 1 KG. GRANEL. DE PIERNA. HORNEADO",
+   "JAMÓN, CAPISTRANO, PAQUETE 250 GR. DE PIERNA. TIPO YORK",
+   "JAMÓN, GALICIA, 1 KG. GRANEL. DE PAVO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "CENTRAL DE ABASTOS",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "salchicha|1502": {
+  "n": 182,
+  "ejemplo": [
+   {
+    "producto": "SALCHICHA, SAN RAFAEL, PAQUETE 500 GR. BOTANERA. DE PAVO",
+    "tipo_producto": "SALCHICHA",
+    "precio": 99,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "SALCHICHA, SAN RAFAEL, PAQUETE 500 GR. BOTANERA. DE PAVO",
+    "tipo_producto": "SALCHICHA",
+    "precio": 99,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "SALCHICHA, SAN RAFAEL, PAQUETE 500 GR. BOTANERA. DE PAVO",
+   "SALCHICHA, ZWAN. PREMIUM, PAQUETE 500 GR. COCKTAIL",
+   "SALCHICHA, BAFAR, PAQUETE 500 GR. CON PAVO. FRANKFORT",
+   "SALCHICHA, FUD, PAQUETE 500 GR. PARA HOT DOG",
+   "SALCHICHA, FUD, PAQUETE 500 GR. SALCHICHA. DE PAVO",
+   "SALCHICHA, SAN RAFAEL, PAQUETE 500 GR. DE PAVO",
+   "SALCHICHA, ZWAN. PREMIUM, PAQUETE 500 GR. DE PAVO",
+   "SALCHICHA, ZWAN, PAQUETE 500 GR. VIENESA",
+   "SALCHICHA, KIR, PAQUETE 500 GR. DE PAVO",
+   "SALCHICHA, ALPINO. PAVINO, PAQUETE 500 GR. FRANKFURT DE PAVO",
+   "SALCHICHA, KIR, 1 KG. GRANEL. FRANKFURT DE PAVO",
+   "SALCHICHA, ZWAN. PREMIUM, PAQUETE 520 GR. DE PAVO",
+   "SALCHICHA, FUD, PAQUETE 500 GR. CON PAVO. PARA HOT DOG.",
+   "SALCHICHA, CAPISTRANO, PAQUETE 500 GR. CON PAVO",
+   "SALCHICHA, FUD, PAQUETE 500 GR. CON PAVO. TIPO COCKTAIL",
+   "SALCHICHA, FUD, 1 KG. GRANEL. HOT DOG. DE PAVO",
+   "SALCHICHA, FUD, 1 KG. GRANEL. HOT DOG",
+   "SALCHICHA, VIVA, 1 KG. GRANEL. VIENA",
+   "SALCHICHA, FUD, 1 KG. GRANEL. SALCHICHA. DE PAVO.",
+   "SALCHICHA, D HECTOR, 1 KG. GRANEL. VIENA",
+   "SALCHICHA, S/M, 1 KG. GRANEL. DE PAVO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "atun|1502": {
+  "n": 394,
+  "ejemplo": [
+   {
+    "producto": "ATÚN, FISHA TUNA, LATA 140 GR. EN AGUA",
+    "tipo_producto": "ATÚN",
+    "precio": 9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "ATÚN, FISHA TUNA, LATA 140 GR. EN AGUA",
+    "tipo_producto": "ATÚN",
+    "precio": 9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "ATÚN, FISHA TUNA, LATA 140 GR. EN AGUA",
+   "ATÚN, DOLORES, BOLSA 110 GR. ENSALADA",
+   "ATÚN, DOLORES, BOLSA 74 GR. ALETA AMARILLA EN TROZOS EN AGUA",
+   "ATÚN, GREAT VALUE, LATA 140 GR. EN HOJUELAS EN AGUA",
+   "ATÚN, DOLORES, BOLSA 78 GR. EN TROZOS EN AGUA",
+   "ATÚN, HERDEZ, LATA 130 GR. EN HOJUELAS EN AGUA",
+   "ATÚN, HERDEZ, LATA 130 GR. EN HOJUELAS EN ACEITE CON AGUA",
+   "ATÚN, DOLORES, LATA 140 GR. EN HOJUELAS EN AGUA",
+   "ATÚN, DOLORES, LATA 140 GR. EN HOJUELAS EN AGUA CON ACEITE",
+   "ATÚN, TUNY, LATA 140 GR. (CLASICO). EN HOJUELAS EN AGUA",
+   "ATÚN, TUNY, LATA 140 GR. (CLASICO). EN HOJUELAS EN AGUA CON ACEITE",
+   "ATÚN, VALLEY FOODS, LATA 140 GR. EN HOJUELAS EN AGUA CON ACEITE",
+   "ATÚN, VALLEY FOODS, LATA 140 GR. EN HOJUELAS EN AGUA",
+   "ATÚN, EL DORADO, LATA 130 GR. CON 30% DE SOYA EN AGUA",
+   "ATÚN, EL DORADO, LATA 130 GR. CON 30% DE SOYA EN AGUA CON ACEITE",
+   "ATÚN, FRESH LABEL, LATA 140 GR. DESMENUZADO EN ACEITE. STANDARD, SIN SOYA",
+   "ATÚN, FRESH LABEL, LATA 140 GR. DESMENUZADO EN AGUA. STANDARD, SIN SOYA",
+   "ATÚN, VALLEY FOODS, LATA 140 GR. HOJUELAS EN AGUA",
+   "ATÚN, VALLEY FOODS, LATA 140 GR. HOJUELAS EN AGUA CON ACEITE",
+   "ATÚN, MAZATÚN, LATA 130 GR. EN HOJUELAS EN AGUA",
+   "ATÚN, MAZATÚN, LATA 130 GR. EN HOJUELAS EN AGUA CON ACEITE",
+   "ATÚN, ANCLA, LATA 120 GR. CON 20% DE PROTEÍNA DE SOYA EN AGUA",
+   "ATÚN, ANCLA, LATA 120 GR. CON 20% DE PROTEÍNA DE SOYA EN AGUA CON ACEITE",
+   "ATÚN, S/M, 1 KG. LOMO. PACÍFICO",
+   "ATÚN, S/M, 1 KG. STEAK DE ATÚN ALETA AMARILLA",
+   "ATÚN, DOLORES, BOLSA 78 GR. ALETA AMARILLA EN TROZOS EN ACEITE CON AGUA",
+   "ATÚN, S/M, 1 KG. AHUMADO. TIPO MARLÍN O TIPO MARLÍN AL NATURAL",
+   "ATÚN, S/M, 1 KG. CENTRO DE LOMO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "tilapia|1502": {
+  "n": 14,
+  "ejemplo": [
+   {
+    "producto": "TILAPIA, S/M, 1 KG. GRANEL. FILETE. CONGELADO",
+    "tipo_producto": "TILAPIA",
+    "precio": 103,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "TILAPIA, S/M, 1 KG. GRANEL. FILETE. CONGELADO",
+    "tipo_producto": "TILAPIA",
+    "precio": 103,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "TILAPIA, S/M, 1 KG. GRANEL. FILETE. CONGELADO",
+   "TILAPIA, S/M, 1 KG. GRANEL. FILETE. DESCONGELADO",
+   "TILAPIA, S/M, 1 KG. FILETE"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "CENTRAL DE ABASTOS",
+   "MERCADO PUBLICO"
+  ]
+ },
+ "pescado|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "huevo|1502": {
+  "n": 225,
+  "ejemplo": [
+   {
+    "producto": "HUEVO, EL CALVARIO, PAQUETE CON 12 BLANCO",
+    "tipo_producto": "HUEVO",
+    "precio": 25,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "HUEVO, EL CALVARIO, PAQUETE CON 12 BLANCO",
+    "tipo_producto": "HUEVO",
+    "precio": 25,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "HUEVO, EL CALVARIO, PAQUETE CON 12 BLANCO",
+   "HUEVO, BACHOCO, PAQUETE CON 12 ROJO",
+   "HUEVO, EL CALVARIO, PAQUETE CON 18. BLANCO",
+   "HUEVO, TEHUACAN, PAQUETE CON 18. BLANCO",
+   "HUEVO, BACHOCO, PAQUETE CON 18 ROJO",
+   "HUEVO, BACHOCO, PAQUETE CON 18. BLANCO",
+   "HUEVO, SAN JUAN, PAQUETE CON 30 BLANCO",
+   "HUEVO, AURRERA, PAQUETE C/12. BLANCO",
+   "HUEVO, EL CALVARIO, PAQUETE C/30. BLANCO",
+   "HUEVO, PRECISSIMO, PAQUETE C/12. BLANCO",
+   "HUEVO, SAN JUAN, PAQUETE CON 12 BLANCO",
+   "HUEVO, SAN JUAN, PAQUETE CON 18. BLANCO",
+   "HUEVO, PRECISSIMO, PAQUETE C/18. BLANCO",
+   "HUEVO, TEHUACAN, PAQUETE CON 12 BLANCO",
+   "HUEVO, BACHOCO, PAQUETE CON 12 BLANCO",
+   "HUEVO, S/M, 1 KG. GRANEL. BLANCO",
+   "HUEVO, TEHUACÁN, PAQUETE C/30. BLANCO",
+   "HUEVO, AURRERA, PAQUETE C/18. BLANCO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "HIPERMERCADO SORIANA",
+   "LA COMER"
+  ]
+ },
+ "leche|1502": {
+  "n": 569,
+  "ejemplo": [
+   {
+    "producto": "LECHE EN POLVO, NIDO. KINDER, NIÑOS. LATA 360 GR. (ALIMENTO PARA NIÑOS...)",
+    "tipo_producto": "LECHE EN POLVO",
+    "precio": 98.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "LECHE EN POLVO, NIDO. KINDER, NIÑOS. LATA 360 GR. (ALIMENTO PARA NIÑOS...)",
+    "tipo_producto": "LECHE EN POLVO",
+    "precio": 98.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "LECHE EN POLVO, NIDO. KINDER, NIÑOS. LATA 360 GR. (ALIMENTO PARA NIÑOS...)",
+   "LECHE EN POLVO, ALPURA. CLÁSICA, BOLSA 460 GR. ENTERA",
+   "LECHE EN POLVO, ALPURA. DESLACTOSADA, BOLSA 460 GR. PARCIALMENTE DESCREMADA DESLACTOSADA",
+   "LECHE EN POLVO, NIDO. KINDER, LATA 1.4 KG. (ALIMENTO PARA NIÑOS...)",
+   "LECHE EN POLVO, NIDO. ENTERA. FORTICRECE, BOLSA 480 GR.",
+   "LECHE EN POLVO, NIDO. KINDER, NIÑOS. LATA 1.5 KG. (ALIMENTO PARA NIÑOS...)",
+   "LECHE EVAPORADA, CARNATION. CLAVEL, LATA 360 GR. REDUCIDA EN GRASA",
+   "LECHE EVAPORADA, CARNATION. CLAVEL, LATA 360 GR. EVAPORADA PARCIALMENTE DESCREMADA",
+   "LECHE CONDENSADA, LA LECHERA. ORIGINAL, BOTELLA 335 GR. (PLASTICO)",
+   "LECHE CONDENSADA, LA LECHERA. ORIGINAL, LATA 375 GR.",
+   "LECHE CONDENSADA, LA LECHERA. ZERO, LATA 385 GR.",
+   "LECHE PASTEURIZADA, LALA. ENTERA, CAJA 1 LT.",
+   "LECHE PASTEURIZADA, ALPURA. CLASICA, ENTERA. ENVASE O CAJA 1 LT.",
+   "LECHE PASTEURIZADA, LALA, CAJA 1 LT. SEMIDESCREMADA. DESLACTOSADA",
+   "LECHE PASTEURIZADA, LALA. LIGTH, PARCIALMENTE DESCREMADA. BAJA EN GRASA. CAJA 1 LT.",
+   "LECHE ULTRAPASTEURIZADA, VALLEY FOODS, BOLSA 1 LT. ENTERA",
+   "LECHE ULTRAPASTEURIZADA, VALLEY FOODS, ENVASE O CAJA 1 LT. ENTERA",
+   "LECHE ULTRAPASTEURIZADA, ALPURA. CLÁSICA, PARCIALMENTE DESCREMADA. CAJA 200 ML.",
+   "LECHE ULTRAPASTEURIZADA, SANTA CLARA. LIGHT, CAJA 1 LT.",
+   "LECHE ULTRAPASTEURIZADA, SANTA CLARA. ENTERA, CAJA 1 LT.",
+   "LECHE ULTRAPASTEURIZADA, LALA. SEMIDESCREMADA. REDUCIDA EN GRASA, CAJA 1 LT. SEMIDESCREMADA",
+   "LECHE ULTRAPASTEURIZADA, SAN MARCOS, ENTERA. CAJA 1 LT.",
+   "LECHE ULTRAPASTEURIZADA, SAN MARCOS, SEMIDESCREMADA. CAJA 1 LT.",
+   "LECHE ULTRAPASTEURIZADA, LALA. ENTERA, CAJA 1 LT.",
+   "LECHE ULTRAPASTEURIZADA, LALA. LIGHT. BAJA EN GRASA, PARCIALMENTE DESCREMADA. CAJA 1 LT.",
+   "LECHE ULTRAPASTEURIZADA, ALPURA. SEMI, PARCIALMENTE DESCREMADA. CAJA 1 LT.",
+   "LECHE ULTRAPASTEURIZADA, ALPURA. LIGHT, PARCIALMENTE DESCREMADA. CAJA 1 LT.",
+   "LECHE ULTRAPASTEURIZADA, ALPURA. CLÁSICA, PARCIALMENTE DESCREMADA. CAJA 1 LT. AZUL",
+   "LECHE ULTRAPASTEURIZADA, GREAT VALUE, ENVASE O CAJA 1 LT. ENTERA",
+   "LECHE CONDENSADA, LA LECHERA, LATA 100 GR.",
+   "LECHE ULTRAPASTEURIZADA, AGUASCALIENTES, ENVASE O CAJA 1 LT. ENTERA",
+   "LECHE ULTRAPASTEURIZADA, ALPURA.VAQUITAS, SEMIDESCREMADA. CAJA 200 ML. CHOCOPOWER. SABOR CHOCOLATE"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "CENTRAL DE ABASTOS",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA",
+   "LA COMER"
+  ]
+ },
+ "queso oaxaca|1502": {
+  "n": 138,
+  "ejemplo": [
+   {
+    "producto": "QUESO OAXACA, CAPERUCITA, 1 KG. GRANEL",
+    "tipo_producto": "QUESO OAXACA",
+    "precio": 315.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "QUESO OAXACA, CAPERUCITA, 1 KG. GRANEL",
+    "tipo_producto": "QUESO OAXACA",
+    "precio": 315.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "QUESO OAXACA, CAPERUCITA, 1 KG. GRANEL",
+   "QUESO OAXACA, LALA, PAQUETE 400 GR.",
+   "QUESO OAXACA, LOS VOLCANES, BOTE 400 GR.",
+   "QUESO OAXACA, FUD, 1 KG. GRANEL. QUESO OAXACA",
+   "QUESO OAXACA, FUD, PAQUETE 400 GR. QUESO OAXACA",
+   "QUESO OAXACA, ZWAN, PAQUETE 400 GR.",
+   "QUESO OAXACA, LA VILLITA, PAQUETE 400 GR.",
+   "QUESO OAXACA, FRANJA, 1 KG. GRANEL. IMITACIÓN QUESO OAXACA",
+   "QUESO OAXACA, LA VILLITA, 1 KG. GRANEL. IMITACIÓN QUESO OAXACA",
+   "QUESO OAXACA, PARMA. SABORI, 1 KG. GRANEL",
+   "QUESO OAXACA, EL CIERVO, 1 KG. GRANEL",
+   "QUESO OAXACA, ESMERALDA, 1 KG. GRANEL",
+   "QUESO OAXACA, NOCHE BUENA, 1 KG. GRANEL",
+   "QUESO OAXACA, S/M, 1 KG. GRANEL",
+   "QUESO OAXACA, ESMERALDA, PAQUETE 400 GR."
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "CENTRAL DE ABASTOS",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "queso|1502": {
+  "n": 710,
+  "ejemplo": [
+   {
+    "producto": "QUESO AMERICANO, LALA, PAQUETE 8 REBANADAS (144 GR.) QUESO TIPO AMERICANO",
+    "tipo_producto": "QUESO AMERICANO",
+    "precio": 30,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "QUESO AMERICANO, LALA, PAQUETE 8 REBANADAS (144 GR.) QUESO TIPO AMERICANO",
+    "tipo_producto": "QUESO AMERICANO",
+    "precio": 30,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "QUESO AMERICANO, LALA, PAQUETE 8 REBANADAS (144 GR.) QUESO TIPO AMERICANO",
+   "QUESO AMERICANO, CAPERUCITA, PAQUETE 8 REBANADAS (140 GR.) QUESO TIPO AMERICANO",
+   "QUESO AMERICANO, LA VILLITA, PAQUETE 12 REBANADAS (210 GR.) IMITACIÓN QUESO AMERICANO",
+   "QUESO AMERICANO, FUD, PAQUETE 140 GR.",
+   "QUESO AMERICANO, ZWAN, PAQUETE 144 GR. QUESO PROCESADO",
+   "QUESO AMERICANO, KRAFT. SINGLES, PAQUETE 8 REBANADAS  (144 GR.) QUESO TIPO AMERICANO",
+   "QUESO AMERICANO, LA VILLITA, PAQUETE 8+2 REBANADAS (175 GR.) IMITACIÓN QUESO AMERICANO",
+   "QUESO AMERICANO, PHILADELPHIA, PAQUETE 144 GR.",
+   "QUESO DE PUERCO, ALPINO, 1 KG. GRANEL",
+   "QUESO DE PUERCO, FUD, 1 KG. GRANEL",
+   "QUESO DE PUERCO, PARMA. CAMPESTRE, 1 KG. GRANEL",
+   "QUESO CHIHUAHUA, LALA, PAQUETE 400 GR.",
+   "QUESO MANCHEGO, ZWAN. PREMIUM, PAQUETE 400 GR. REBANADO",
+   "QUESO MANCHEGO, NOCHE BUENA, PAQUETE 400 GR. REBANADO",
+   "QUESO MANCHEGO, CAPERUCITA, 1 KG. GRANEL",
+   "QUESO MANCHEGO, ESMERALDA, 1 KG. GRANEL",
+   "QUESO MANCHEGO, NOCHE BUENA, 1 KG. GRANEL",
+   "QUESO MANCHEGO, LA VILLITA, 1 KG. GRANEL",
+   "QUESO MANCHEGO, EL CIERVO, 1 KG. GRANEL",
+   "QUESO MANCHEGO, NOCHE BUENA, PAQUETE 400 GR.",
+   "QUESO MANCHEGO, LA VILLITA, PAQUETE 400 GR. QUESO MANCHEGO. REBANADO",
+   "QUESO MANCHEGO, PARMA. SABORI, 1 KG. GRANEL",
+   "QUESO MANCHEGO, LALA, PAQUETE 400 GR. REBANADO",
+   "QUESO MANCHEGO, CAPERUCITA, PAQUETE 400 GR.",
+   "QUESO MANCHEGO, LALA, PAQUETE 400 GR.",
+   "QUESO OAXACA, CAPERUCITA, 1 KG. GRANEL",
+   "QUESO OAXACA, LALA, PAQUETE 400 GR.",
+   "QUESO OAXACA, LOS VOLCANES, BOTE 400 GR.",
+   "QUESO OAXACA, FUD, 1 KG. GRANEL. QUESO OAXACA",
+   "QUESO OAXACA, FUD, PAQUETE 400 GR. QUESO OAXACA",
+   "QUESO OAXACA, ZWAN, PAQUETE 400 GR.",
+   "QUESO OAXACA, LA VILLITA, PAQUETE 400 GR.",
+   "QUESO OAXACA, FRANJA, 1 KG. GRANEL. IMITACIÓN QUESO OAXACA",
+   "QUESO OAXACA, LA VILLITA, 1 KG. GRANEL. IMITACIÓN QUESO OAXACA",
+   "QUESO OAXACA, PARMA. SABORI, 1 KG. GRANEL",
+   "QUESO OAXACA, EL CIERVO, 1 KG. GRANEL",
+   "QUESO OAXACA, ESMERALDA, 1 KG. GRANEL",
+   "QUESO OAXACA, NOCHE BUENA, 1 KG. GRANEL",
+   "QUESO PANELA, NOCHE BUENA, 1 KG. GRANEL. CREMOSO",
+   "QUESO PANELA, ZWAN. PREMIUM, PAQUETE 400 GR."
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "queso panela|1502": {
+  "n": 168,
+  "ejemplo": [
+   {
+    "producto": "QUESO PANELA, NOCHE BUENA, 1 KG. GRANEL. CREMOSO",
+    "tipo_producto": "QUESO PANELA",
+    "precio": 252,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "QUESO PANELA, NOCHE BUENA, 1 KG. GRANEL. CREMOSO",
+    "tipo_producto": "QUESO PANELA",
+    "precio": 252,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "QUESO PANELA, NOCHE BUENA, 1 KG. GRANEL. CREMOSO",
+   "QUESO PANELA, ZWAN. PREMIUM, PAQUETE 400 GR.",
+   "QUESO PANELA, CAPERUCITA, PAQUETE 400 GR.",
+   "QUESO PANELA, CAPERUCITA, 1 KG. (GRANEL)",
+   "QUESO PANELA, LALA, PAQUETE 400 GR.",
+   "QUESO PANELA, FUD, PAQUETE 400 GR. QUESO PANELA",
+   "QUESO PANELA, FUD, 1 KG. GRANEL. QUESO PANELA",
+   "QUESO PANELA, LOS VOLCANES, BOTE 400 GR.",
+   "QUESO PANELA, ESMERALDA, PAQUETE 400 GR.",
+   "QUESO PANELA, EL CIERVO, 1 KG. GRANEL",
+   "QUESO PANELA, ESMERALDA, 1 KG. GRANEL",
+   "QUESO PANELA, LA VILLITA, 1 KG. GRANEL. IMITACIÓN QUESO PANELA CANASTO",
+   "QUESO PANELA, LA VILLITA, PAQUETE 400 GR. (2 PACK)",
+   "QUESO PANELA, CHILCHOTA, 1 KG. GRANEL",
+   "QUESO PANELA, S/M, 1 KG. GRANEL"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "crema|1502": {
+  "n": 430,
+  "ejemplo": [
+   {
+    "producto": "CREMA, ALPURA, BOTE 426 ML. REDUCIDA EN GRASA",
+    "tipo_producto": "CREMA",
+    "precio": 53.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CREMA, ALPURA, BOTE 426 ML. REDUCIDA EN GRASA",
+    "tipo_producto": "CREMA",
+    "precio": 53.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CREMA, ALPURA, BOTE 426 ML. REDUCIDA EN GRASA",
+   "CREMA, ALPURA, BOTE 426 ML.",
+   "CREMA, LALA, BOTE 417 GR. REDUCIDA EN GRASA",
+   "CREMA, LALA, BOTE 417 GR.",
+   "CREMA, LALA, VASO 196 GR.",
+   "CREMA BATIDA, CHANTILLY, BOTE 1 LT. VEGETAL",
+   "CREMA BATIDA, CHANTILLY, BOTE 500 ML. VEGETAL",
+   "CREMA DE CACAHUATE, ALADINO, FRASCO 425 GR. CREMOSA",
+   "CREMA DENTAL, COLGATE. SENSITIVE, TUBO 73 ML. ENCÍAS",
+   "CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 90 ML. SABOR ORIGINAL",
+   "CREMA DENTAL, COLGATE. TRIPLE ACCIÓN, TUBO 100 ML. MENTA ORIGINAL",
+   "CREMA DENTAL, COLGATE. MAXIMA PROTECCION ANTICARIES, TUBO 125 ML. MAXIMA PROTECCION ANTICARIES. CON CALCIO",
+   "CREMA DENTAL, COLGATE, TUBO 75 ML.. SMILES. LIGA DE LA JUSTICIA",
+   "CREMA DENTAL, COLGATE, TUBO 75 ML.. SMILES. PARA NIÑOS. MI VILLANO FAVORITO. MINIONS",
+   "CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 135 ML. SABOR ORIGINAL",
+   "CREMA LÍQUIDA, PALMOLIVE. NEUTRO BALANCE, BOTELLA 400 ML. PIEL NORMAL",
+   "CREMA LÍQUIDA, HINDS, BOTELLA 500 ML. CLÁSICA. PIEL SECA",
+   "CREMA LÍQUIDA, GOICOECHEA. DIABET TX, BOTELLA 400 ML.",
+   "CREMA LÍQUIDA, NIVEA, BOTELLA 400 ML. SOFT MILK. PIEL SECA",
+   "CREMA LÍQUIDA, NIVEA, BOTELLA 400 ML. EXPRESS HIDRATION. PIEL NORMAL",
+   "CREMA LÍQUIDA, VASENOL, BOTELLA 400 ML. RECUPERACIÓN ESENCIAL",
+   "CREMA LÍQUIDA, JOHNSON´S BABY, BOTELLA 200 ML. PARA BEBÉ. HIDRATANTE. CON GLICERINA",
+   "CREMA LÍQUIDA, TEATRICAL, BOTELLA 400 ML. CELULAS MADRE. HUMECTANTE",
+   "CREMA LÍQUIDA, LUBRIDERM, BOTELLA 400 ML. HUMECTACIÓN DIARIA. PIEL NORMAL A SECA",
+   "CREMA LÍQUIDA, DOVE, BOTELLA 400 ML. PRO-CERAMIDAS. PIEL SECA",
+   "CREMA SÓLIDA, POND´S. CLARANT B3, FRASCO 400 GR. PIEL BALANCEADA A SECA",
+   "CREMA SÓLIDA, POND´S. REJUVENESS, FRASCO 400 GR. CONTRA ARRUGAS",
+   "CREMA SÓLIDA, NIVEA, FRASCO 400 ML.",
+   "CREMA SÓLIDA, ATRIX. INTENSIVE, FRASCO 200 ML.",
+   "CREMA SÓLIDA, POND´S. S, FRASCO 200 GR.",
+   "CREMA SÓLIDA, NIVEA, ENVASE 100 ML.",
+   "CREMA PARA ROZADURAS, CAPENT, TUBO 110 GR.",
+   "CREMA, ALPURA, VASO 200 ML.",
+   "CREMA, S/M, 1 KG. GRANEL"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "CENTRAL DE ABASTOS",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "yoghurt|1502": {
+  "n": 382,
+  "ejemplo": [
+   {
+    "producto": "YOGHURT, YOPLAIT, BOTE 1 KG. FRESA",
+    "tipo_producto": "YOGHURT",
+    "precio": 53.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "YOGHURT, YOPLAIT, BOTE 1 KG. FRESA",
+    "tipo_producto": "YOGHURT",
+    "precio": 53.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "YOGHURT, YOPLAIT, BOTE 1 KG. FRESA",
+   "YOGHURT, DANONE. ACTIVIA, BOTE 900 GR. CIRUELA PASA",
+   "YOGHURT, ALPURA, VASO 125 GR. FRESA",
+   "YOGHURT, LALA, VASO 120 GR. FRESA",
+   "YOGHURT, LALA, BOTE 900 GR. FRESA",
+   "YOGHURT, ALPURA, BOTE 900 GR. FRESA",
+   "YOGHURT, LALA, ENVASE 220 GR. BEBIBLE. FRESA",
+   "YOGHURT, DANONE, BOTE 900 GR. FRUTAS SELECTAS. CON TROZOS DE FRESA",
+   "YOGHURT, NUTRI, VASO 120 GR. FRESA",
+   "YOGHURT, OIKOS, BOTE 900 GR. NATURAL. DESLACTOSADO. SIN AZÚCAR AÑADIDA. GRIEGO",
+   "YOGHURT, OIKOS, BOTE 900 GR. NATURAL CON ENDULZANTES. GRIEGO",
+   "YOGHURT, LALA, VASO 120 GR. NATURAL ENDULZADO. GRIEGO",
+   "YOGHURT, LALA, BOTE 900 GR. NATURAL ENDULZADO. GRIEGO",
+   "YOGHURT, YOPLAIT, VASO 145 GR. NATURAL. BAJO EN GRASA. GRIEGO",
+   "YOGHURT, YOPLAIT, BOTE DE 1 KG. NATURAL. BAJO EN GRASA. GRIEGO",
+   "YOGHURT, LALA, BOTE 900 GR. NATURAL. SIN AZÚCAR",
+   "YOGHURT, YOPLAIT, VASO 125 GR. SABOR NATURAL CON ENDULZANTES",
+   "YOGHURT, YOPLAIT, BOTE 1 KG. SABOR NATURAL",
+   "YOGHURT, YOPLAIT, VASO 125 GR. FRESA",
+   "YOGHURT, ALPURA, ENVASE 220 GR. BEBIBLE. FRESA",
+   "YOGHURT, DANONE, ENVASE 220 GR. BEBIBLE. FRESA",
+   "YOGHURT, YOPLAIT, ENVASE 220 GR. BEBIBLE. FRESA",
+   "YOGHURT, ALPURA, VASO 120 GR. FRESA",
+   "YOGHURT, OIKOS, VASO 150 GR. NATURAL. DESLACTOSADO. SIN AZÚCAR AÑADIDA. GRIEGO",
+   "YOGHURT, OIKOS, VASO 150 GR. NATURAL CON ENDULZANTES. GRIEGO",
+   "YOGHURT, YOPLAIT, VASO 145 GR. NATURAL. BAJO EN GRASA. 0% AZÚCAR AÑADIDA. GRIEGO",
+   "YOGHURT, ALPURA, BOTE 900 GR. NATURAL. SIN AZÚCAR",
+   "YOGHURT, LALA, VASO 120 GR. NATURAL. ENDULZADO",
+   "YOGHURT, YOPLAIT, BOTE 1 KG. NATURAL. BAJO EN GRASA. 0% AZÚCAR AÑADIDA. GRIEGO",
+   "YOGHURT, NUTRI, BOTE 900 GR. FRESA",
+   "YOGHURT, YOPLAIT, ENVASE 242 GR. BEBIBLE. FRESA",
+   "YOGHURT, DANONE, BOTE 900 GR. NATURAL. SIN AZÚCAR AÑADIDA",
+   "YOGHURT, DANONE, BOTE 900 GR. SABOR FRESA"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "CENTRAL DE ABASTOS",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "tortilla|1502": {
+  "n": 127,
+  "ejemplo": [
+   {
+    "producto": "TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL. AMARILLA",
+    "tipo_producto": "TORTILLA DE MAÍZ",
+    "precio": 15.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL. AMARILLA",
+    "tipo_producto": "TORTILLA DE MAÍZ",
+    "precio": 15.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL. AMARILLA",
+   "TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL. BLANCA. CHICA",
+   "TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL. AMARILLA. CHICA",
+   "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR.",
+   "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TIA ROSA, BOLSA 22 PIEZAS",
+   "TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "TORTILLERIAS TRADICIONALES",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA",
+   "LA COMER"
+  ]
+ },
+ "tortilla de harina|1502": {
+  "n": 48,
+  "ejemplo": [
+   {
+    "producto": "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR.",
+    "tipo_producto": "TORTILLA DE HARINA DE TRIGO",
+    "precio": 24,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR.",
+    "tipo_producto": "TORTILLA DE HARINA DE TRIGO",
+    "precio": 24,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR.",
+   "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TIA ROSA, BOLSA 22 PIEZAS"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "bolillo|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "pan blanco|1502": {
+  "n": 20,
+  "ejemplo": [
+   {
+    "producto": "PAN BLANCO BOLILLO, S/M, PIEZA",
+    "tipo_producto": "PAN BLANCO BOLILLO",
+    "precio": 2,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "PAN BLANCO BOLILLO, S/M, PIEZA",
+    "tipo_producto": "PAN BLANCO BOLILLO",
+    "precio": 2,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "PAN BLANCO BOLILLO, S/M, PIEZA"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "BODEGA AURRERA",
+   "PANADERIAS TRADICIONALES",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER"
+  ]
+ },
+ "tostada|1502": {
+  "n": 28,
+  "ejemplo": [
+   {
+    "producto": "TOSTADAS DE MAÍZ, SANISSIMO. 100%, CAJA 240 GR. HORNEADAS SIN GRASA. MAÍZ BLANCO",
+    "tipo_producto": "TOSTADAS DE MAÍZ",
+    "precio": 45,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "TOSTADAS DE MAÍZ, SANISSIMO. 100%, CAJA 240 GR. HORNEADAS SIN GRASA. MAÍZ BLANCO",
+    "tipo_producto": "TOSTADAS DE MAÍZ",
+    "precio": 45,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "TOSTADAS DE MAÍZ, SANISSIMO. 100%, CAJA 240 GR. HORNEADAS SIN GRASA. MAÍZ BLANCO",
+   "TOSTADAS DE MAÍZ, CHARRAS. ORIGINAL, PAQUETE 300 GR.",
+   "TOSTADAS DE MAÍZ, SANISSIMO. 100%, CAJA 216 GR. HORNEADAS SIN GRASA. MAÍZ BLANCO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "arroz|1502": {
+  "n": 165,
+  "ejemplo": [
+   {
+    "producto": "ARROZ, GREAT VALUE, BOLSA 900 GR. SUPER EXTRA",
+    "tipo_producto": "ARROZ",
+    "precio": 18,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "ARROZ, GREAT VALUE, BOLSA 900 GR. SUPER EXTRA",
+    "tipo_producto": "ARROZ",
+    "precio": 18,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "ARROZ, GREAT VALUE, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, VERDE VALLE, BOLSA 1 KG. SUPER EXTRA",
+   "ARROZ, SOS, BOLSA 1 KG. SUPER EXTRA. INTEGRAL",
+   "ARROZ, LA MERCED, BOLSA 907 GR. SUPER EXTRA",
+   "ARROZ, LA MERCED, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, LA MERCED, BOLSA 750 GR. INTEGRAL",
+   "ARROZ, AURRERA, BOLSA 900 GR. EXTRA",
+   "ARROZ, AURRERA, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, SCHETTINO, BOLSA 907 GR. SUPER EXTRA",
+   "ARROZ, SCHETTINO, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, VERDE VALLE, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, S/M, 1 KG. GRANEL. GRANDE ENTERO",
+   "ARROZ, S/M, 1 KG. GRANEL. CHICO QUEBRADO",
+   "ARROZ, S/M, 1 KG. GRANEL. SUPER EXTRA. GRANO LARGO",
+   "ARROZ, SOS, BOLSA 907 GR. SUPER EXTRA. GRUESO",
+   "ARROZ, KE PRECIO, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, PRECISSIMO, BOLSA 900 GR. EXTRA. (GRANO LARGO)"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "CENTRAL DE ABASTOS",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA",
+   "LA COMER"
+  ]
+ },
+ "frijol|1502": {
+  "n": 309,
+  "ejemplo": [
+   {
+    "producto": "FRIJOL, VERDE VALLE, BOLSA 900 GR. NEGRO. JAMAPA",
+    "tipo_producto": "FRIJOL",
+    "precio": 49,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "FRIJOL, VERDE VALLE, BOLSA 900 GR. NEGRO. JAMAPA",
+    "tipo_producto": "FRIJOL",
+    "precio": 49,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "FRIJOL, VERDE VALLE, BOLSA 900 GR. NEGRO. JAMAPA",
+   "FRIJOL, SCHETTINO, BOLSA 907 GR. NEGRO. QUERÉTARO",
+   "FRIJOL, LA MERCED, BOLSA 907 GR. NEGRO. QUERÉTARO",
+   "FRIJOL, AURRERA, BOLSA 900 GR. NEGRO. QUERÉTARO",
+   "FRIJOL, SCHETTINO, BOLSA 907 GR. PINTO",
+   "FRIJOL, LA MERCED, BOLSA 907 GR. PINTO",
+   "FRIJOL, GREAT VALUE, BOLSA 900 GR. FLOR DE MAYO",
+   "FRIJOL, GREAT VALUE, BOLSA 900 GR. PINTO",
+   "FRIJOL, VERDE VALLE, BOLSA 900 GR. FLOR DE MAYO",
+   "FRIJOL, GREAT VALUE, BOLSA 900 GR. NEGRO. QUERÉTARO",
+   "FRIJOL, VERDE VALLE, BOLSA 900 GR. PINTO",
+   "FRIJOL, VERDE VALLE, BOLSA 900 GR. PERUANO",
+   "FRIJOL, VERDE VALLE, BOLSA 900 GR. NEGRO",
+   "FRIJOL, LA MERCED, BOLSA 900 GR. PINTO (NACIONAL)",
+   "FRIJOL, LA MERCED, BOLSA 900 GR. NEGRO. QUERÉTARO",
+   "FRIJOL, LA MERCED, BOLSA 900 GR. BAYO",
+   "FRIJOL, SCHETTINO, BOLSA 900 GR. NEGRO. QUERÉTARO",
+   "FRIJOL, SCHETTINO, BOLSA 900 GR. PINTO",
+   "FRIJOL, LA MERCED, BOLSA 900 GR. FLOR DE MAYO",
+   "FRIJOL, PRECÍSSIMO, BOLSA 908 GR. PINTO",
+   "FRIJOLES, LA SIERRA, BOLSA 430 GR. REFRITOS. BAYOS",
+   "FRIJOLES, ISADORA, BOLSA 430 GR. REFRITOS. NEGROS",
+   "FRIJOLES, LA COSTEÑA, LATA 580 GR. REFRITOS. NEGRO",
+   "FRIJOLES, LA SIERRA, LATA 560 GR. ENTERO. BAYO",
+   "FRIJOL, S/M, 1 KG. GRANEL. FLOR DE MAYO",
+   "FRIJOL, LA MERCED, BOLSA 750 GR. FLOR DE MAYO",
+   "FRIJOL, S/M, 1 KG. GRANEL. PINTO",
+   "FRIJOL, S/M, 1 KG. GRANEL. NEGRO",
+   "FRIJOLES, ISADORA, BOLSA 400 GR. REFRITOS. NEGROS",
+   "FRIJOLES, LA SIERRA, BOLSA 400 GR. REFRITOS. BAYOS",
+   "FRIJOL, BUENO, BOLSA 900 GR. BAYO",
+   "FRIJOL, S/M, 1 KG. GRANEL. BAYO",
+   "FRIJOL, S/M, 1 KG. GRANEL. PERUANO",
+   "FRIJOL, PRECISSIMO, BOLSA 908 GR. NEGRO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA",
+   "LA COMER"
+  ]
+ },
+ "lenteja|1502": {
+  "n": 60,
+  "ejemplo": [
+   {
+    "producto": "LENTEJA, SCHETTINO, BOLSA 500 GR.",
+    "tipo_producto": "LENTEJA",
+    "precio": 16,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "LENTEJA, SCHETTINO, BOLSA 500 GR.",
+    "tipo_producto": "LENTEJA",
+    "precio": 16,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "LENTEJA, SCHETTINO, BOLSA 500 GR.",
+   "LENTEJA, VERDE VALLE, BOLSA 500 GR.",
+   "LENTEJA, LA MERCED, BOLSA 500 GR.",
+   "LENTEJA, S/M, 1 KG. GRANEL",
+   "LENTEJA, SAN LAZARO, BOLSA 500 GR.",
+   "LENTEJA, LA MERCED, BOLSA 454 GR."
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "pasta|1502": {
+  "n": 269,
+  "ejemplo": [
+   {
+    "producto": "PASTA PARA SOPA, ITALPASTA, PAQUETE 200 GR. FIDEO CORTADO NO. 1",
+    "tipo_producto": "PASTA PARA SOPA",
+    "precio": 8.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "PASTA PARA SOPA, ITALPASTA, PAQUETE 200 GR. FIDEO CORTADO NO. 1",
+    "tipo_producto": "PASTA PARA SOPA",
+    "precio": 8.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "PASTA PARA SOPA, ITALPASTA, PAQUETE 200 GR. FIDEO CORTADO NO. 1",
+   "PASTA PARA SOPA, AURRERA, PAQUETE 200 GR. FIDEO MEDIANO",
+   "PASTA PARA SOPA, BARILLA, PAQUETE 200 GR. SPAGHETTI NO. 5",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. PLUMA",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. MUNICIÓN",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. LETRAS",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. LENGUA",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. FIDEO MEDIANO",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. FIDEO",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. ESTRELLA",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. SPAGHETTI",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. CODO MEDIANO",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. CODO",
+   "PASTA PARA SOPA, LA PERLA, PAQUETE 200 GR. CODO 2",
+   "PASTA PARA SOPA, LA MODERNA, PAQUETE 220 GR. FIDEO 2",
+   "PASTA PARA SOPA, BARILLA, PAQUETE 200 GR. FIDEO NO. 2",
+   "PASTA PARA SOPA, LA MODERNA, PAQUETE 220 GR. SPAGHETTI",
+   "PASTA PARA SOPA, LA PERLA, PAQUETE 200 GR. SPAGHETTI",
+   "PASTA PARA SOPA, LA MODERNA, PAQUETE 220 GR. MOÑITO",
+   "PASTA PARA SOPA, LA MODERNA, PAQUETE 200 GR. SPAGHETTI",
+   "PASTA PARA SOPA, BARILLA, PAQUETE 200 GR. LETRA",
+   "PASTA PARA SOPA, BARILLA, PAQUETE 200 GR. LENGÜITA",
+   "PASTA PARA SOPA, KE PRECIO, PAQUETE 200 GR. FIDEO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "MERCADO SORIANA",
+   "CENTRAL DE ABASTOS",
+   "BODEGA AURRERA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA",
+   "LA COMER"
+  ]
+ },
+ "avena|1502": {
+  "n": 80,
+  "ejemplo": [
+   {
+    "producto": "AVENA, 3 MINUTOS, BOTE 400 GR. Y SÉMOLA DE TRIGO. FORTIFICADO",
+    "tipo_producto": "AVENA",
+    "precio": 43.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "AVENA, 3 MINUTOS, BOTE 400 GR. Y SÉMOLA DE TRIGO. FORTIFICADO",
+    "tipo_producto": "AVENA",
+    "precio": 43.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "AVENA, 3 MINUTOS, BOTE 400 GR. Y SÉMOLA DE TRIGO. FORTIFICADO",
+   "AVENA, QUAKER OATS, BOTE 475 GR. HOJUELA INTEGRAL",
+   "AVENA, AVENA 1, BOLSA 400 GR. HOJUELA",
+   "AVENA, GRANVITA 0%, CAJA 280 GR. INTEGRAL. FRESAS CON CREMA",
+   "AVENA, GRANVITA, BOLSA 400 GR.",
+   "AVENA, GRANVITA 0%, CAJA 280 GR. INTEGRAL. ARÁNDANOS"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "maiz pozolero|1502": {
+  "n": 22,
+  "ejemplo": [
+   {
+    "producto": "MAÍZ POZOLERO, OVARB, BOLSA 1 KG.",
+    "tipo_producto": "MAÍZ POZOLERO",
+    "precio": 48,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "MAÍZ POZOLERO, OVARB, BOLSA 1 KG.",
+    "tipo_producto": "MAÍZ POZOLERO",
+    "precio": 48,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "MAÍZ POZOLERO, OVARB, BOLSA 1 KG.",
+   "MAÍZ POZOLERO, OVARB-LOLITA, BOLSA 1 KG. (ROJA)",
+   "MAÍZ POZOLERO, S/M, 1 KG. GRANEL. SIN CABEZA"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "MERCADO SORIANA",
+   "CITY MARKET",
+   "MERCADO PUBLICO"
+  ]
+ },
+ "pozole|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "pan molido|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "pan|1502": {
+  "n": 697,
+  "ejemplo": [
+   {
+    "producto": "PAN BLANCO BOLILLO, S/M, PIEZA",
+    "tipo_producto": "PAN BLANCO BOLILLO",
+    "precio": 2,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "PAN BLANCO BOLILLO, S/M, PIEZA",
+    "tipo_producto": "PAN BLANCO BOLILLO",
+    "precio": 2,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "PAN BLANCO BOLILLO, S/M, PIEZA",
+   "PAN DE CAJA, BIMBO, PAQUETE CHICO 350 GR. REBANADO BLANCO",
+   "PAN DE CAJA, BIMBO, PAQUETE GRANDE 620 GR. REBANADO INTEGRAL",
+   "PAN DE CAJA, BIMBO, PAQUETE 612 GR. REBANADO NATURAL",
+   "PAN DE CAJA, OROWEAT. GRANOS ENTEROS, PAQUETE GRANDE 680 GR. INTEGRAL. REBANADO",
+   "PAN DE CAJA, BIMBO, PAQUETE 210 GR. TOSTADO. CLÁSICO",
+   "PAN DE CAJA, BIMBO, PAQUETE CHICO 350 GR. REBANADO INTEGRAL",
+   "PAN DE CAJA, BIMBO, PAQUETE GRANDE 620 GR. REBANADO BLANCO",
+   "PAN DE CAJA, AURRERA, PAQUETE GRANDE 624 GR. REBANADO BLANCO",
+   "PAN DE CAJA, BIMBO, PAQUETE GRANDE 620 GR. REBANADO BLANCO. RINDE",
+   "PANZA O MENUDO, S/M, 1 KG. GRANEL. CRUDOS",
+   "PANZA O MENUDO, S/M, 1 KG. GRANEL. COCIDOS",
+   "PAN DULCE, S/M, CONCHA. PIEZA DE 68 A 90 GR. (12 CM. DE DIÁMETRO APROX.)",
+   "PAN DULCE, S/M, CUERNO. PIEZA DE 68 A 90 GR. (13 CM. DE DIÁMETRO APROX.)",
+   "PAN DULCE, S/M, DONA CUBIERTA DE CHOCOLATE. PIEZA DE 68 A 82 GR. (12 CM. DE DIÁMETRO APROX.)",
+   "PAN DULCE, S/M, BISQUET. PIEZA DE 68 A 90 GR. (11 CM. DE DIÁMETRO APROX.)",
+   "PANTALLAS, LG, 86 UA 7500 PSA. 86 PLGS. LED. PUERTO USB. SMART TV.",
+   "PANTALLAS, LG, 75 UA 7500 PSA. 75 PLGS. LED. PUERTO USB. SMART TV.",
+   "PANTALLAS, HISENSE, 100QD7N. 100 PLGS. QLED. PUERTO USB. SMART TV.",
+   "PANTALLAS, HISENSE, 50U6QV. 50 PLGS. ULED. PUERTO USB. SMART TV.",
+   "PANTALLAS, HISENSE, 32A4NV. 32 PLGS. LED. PUERTO USB. SMART TV.",
+   "PANTALLAS, HISENSE, 65A65NV. 65 PLGS. LED. PUERTO USB. SMART TV.",
+   "PANTALLAS, TCL, 75Q5K. 75 PLGS. QLED. PUERTO USB. SMART TV.",
+   "PANTALLAS, TCL, 50 Q 6 K. 50 PLGS. QLED. PUERTO USB. SMART TV.",
+   "PANTALLAS, TCL, 50Q5K. 50 PLGS. QLED. PUERTO USB. SMART TV.",
+   "PANTALLAS, LG, 43 NU 850BPSA. 43 PLGS. LED NANO. PUERTO USB. SMART TV.",
+   "PANTALLAS, HISENSE, 40A4NV. 40 PLGS. LED. PUERTO USB. SMART TV.",
+   "PANTALLAS, TCL, 65Q5K. 65 PLGS. QLED. PUERTO USB. SMART TV.",
+   "PANTALLAS, TCL, 55Q5K. 55 PLGS. QLED. PUERTO USB. SMART TV.",
+   "PANTALLAS, TCL, 43Q5K. 43 PLGS. QLED. PUERTO USB. SMART TV.",
+   "PANTALLAS, SAMSUNG, LH 43 BEFHVGFXZX O BE43FX-H. 43 PLGS. LED. PUERTO USB. SMART TV.",
+   "PANTALLAS, HISENSE, 65QD6QV. 65 PLGS. QLED. PUERTO USB. SMART TV.",
+   "PANTALLAS, HISENSE, 50QD6QV. 50 PLGS. QLED. PUERTO USB. SMART TV.",
+   "PANTALLAS, HISENSE, 75A65NV. 75 PLGS. LED. PUERTO USB. SMART TV.",
+   "PANTALLAS, HISENSE, 58A6NV. 58 PLGS. ULED. PUERTO USB. SMART TV.",
+   "PANOTO-S, S/M, CAJA Y FRASCO CON 100 ML CON VASO GRADUADO. JARABE",
+   "PANTOZOL, S/M, CAJA CON 14 GRAGEAS DE 40 MG.",
+   "PANTOPRAZOL, S/M, CAJA CON 14 TABLETAS O GRAGEAS DE 40 MG.",
+   "PANTIPROTECTORES, SABA, BOLSA 28 PIEZAS. MULTIESTILOS. ULTRADELGADO",
+   "PANTIPROTECTORES, ALWAYS, CAJA 16 PIEZAS. DIARIOS. LARGO EXTRA LARGOS"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "COPPEL",
+   "BODEGA AURRERA",
+   "PANADERIAS TRADICIONALES",
+   "CENTRAL DE ABASTOS",
+   "MERCADO SORIANA",
+   "LIVERPOOL",
+   "FARMACIAS DEL AHORRO",
+   "ELEKTRA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA",
+   "LA COMER",
+   "PALACIO DE HIERRO",
+   "SANBORN S HNOS."
+  ]
+ },
+ "aceite|1502": {
+  "n": 267,
+  "ejemplo": [
+   {
+    "producto": "ACEITE, GRAN TRADICIÓN, BOTELLA 800 ML. VEGETAL",
+    "tipo_producto": "ACEITE",
+    "precio": 29.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "ACEITE, GRAN TRADICIÓN, BOTELLA 800 ML. VEGETAL",
+    "tipo_producto": "ACEITE",
+    "precio": 29.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "ACEITE, GRAN TRADICIÓN, BOTELLA 800 ML. VEGETAL",
+   "ACEITE, OLEICO, BOTELLA 825 ML. CÁRTAMO",
+   "ACEITE, NUTRIOLI, BOTELLA 850 ML. SOYA",
+   "ACEITE, 1-2-3, BOTELLA 1 LT. VEGETAL",
+   "ACEITE, NUTRIOLI, BOTELLA 946 ML. SOYA",
+   "ACEITE, SABROSANO, BOTELLA 850 ML. VEGETAL. SABOR MANTEQUILLA",
+   "ACEITE, AURRERA, BOTELLA 800 ML. VEGETAL",
+   "ACEITE, CAPULLO, BOTELLA 750 ML. CANOLA",
+   "ACEITE DE OLIVA, CARBONELL. CLÁSICO, LATA 950 ML.",
+   "ACEITE DE OLIVA, BORGES. ORIGINAL, BOTELLA 500 ML. EXTRA VIRGEN (ETIQ. VERDE).",
+   "ACEITE DE OLIVA, CARBONELL, BOTELLA 750 ML. EXTRA VIRGEN",
+   "ACEITE, 1-2-3, BOTELLA 500 ML. MIXTO",
+   "ACEITE, CANOIL, BOTELLA 946 ML. CANOLA",
+   "ACEITE, PRECÍSSIMO, BOTELLA 850 ML. VEGETAL",
+   "ACEITE, MAZOLA, BOTELLA 765 ML. MAÍZ",
+   "ACEITE, CAPULLO, BOTELLA 840 ML. CANOLA",
+   "ACEITE, KE PRECIO, BOTELLA 850 ML. VEGETAL",
+   "ACEITE DE OLIVA, FILIPPO BERIO, BOTELLA 750 ML. (IDEAL PARA COCINAR SALSAS Y PASTAS)",
+   "ACEITE DE OLIVA, CARBONELL. CLÁSICO, LATA 450 ML.",
+   "ACEITE, GREAT VALUE, BOTELLA 946 ML. MIXTO"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA",
+   "LA COMER"
+  ]
+ },
+ "chiles|1502": {
+  "n": 238,
+  "ejemplo": [
+   {
+    "producto": "CHILES, LA MORENA, LATA 380 GR. JALAPEÑO EN ESCABECHE",
+    "tipo_producto": "CHILES",
+    "precio": 31,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CHILES, LA MORENA, LATA 380 GR. JALAPEÑO EN ESCABECHE",
+    "tipo_producto": "CHILES",
+    "precio": 31,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CHILES, LA MORENA, LATA 380 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 380 GR. JALAPEÑOS RAJAS",
+   "CHILES, CLEMENTE JACQUES, LATA 380 GR. JALAPEÑOS RAJAS",
+   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑOS RAJAS",
+   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS EN ESCABECHE",
+   "CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS",
+   "CHILES, LA COSTEÑA, LATA 220 GR. CHIPOTLES EN ADOBO",
+   "CHILES, LA COSTEÑA, LATA 105 GR. JALAPEÑO RAJAS",
+   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA COSTEÑA, LATA 340 GR. JALAPEÑO RAJAS",
+   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO RAJAS",
+   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 220 GR. SERRANO",
+   "CHILES, LA COSTEÑA, LATA 105 GR. SERRANO",
+   "CHILES, LA MORENA, LATA 210 GR. JALAPEÑOS EN ESCABECHE"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "chile seco|1502": {
+  "n": 58,
+  "ejemplo": [
+   {
+    "producto": "CHILE SECO, VERDE VALLE, BOLSA 75 GR. PASILLA",
+    "tipo_producto": "CHILE SECO",
+    "precio": 38.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CHILE SECO, VERDE VALLE, BOLSA 75 GR. PASILLA",
+    "tipo_producto": "CHILE SECO",
+    "precio": 38.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. PASILLA",
+   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
+   "CHILE SECO, S/M, 1 KG. GRANEL. ANCHO",
+   "CHILE SECO, S/M, 1 KG. GRANEL. PASILLA",
+   "CHILE SECO, S/M, 1 KG. GRANEL. CASCABEL",
+   "CHILE SECO, SAN LAZARO, BOLSA 100 GR. ANCHO",
+   "CHILE SECO, SAN LAZARO, BOLSA 100 GR. PASILLA",
+   "CHILE SECO, S/M, 1 KG. GRANEL. GUAJILLO"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "CENTRAL DE ABASTOS",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO"
+  ]
+ },
+ "papa|1502": {
+  "n": 297,
+  "ejemplo": [
+   {
+    "producto": "PAPAS FRITAS Y SIMILARES, BARCEL, BOLSA 160 GR. CHIP´S. PAPAS FRITAS. SABOR SAL",
+    "tipo_producto": "PAPAS FRITAS Y SIMILARES",
+    "precio": 61,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "PAPAS FRITAS Y SIMILARES, BARCEL, BOLSA 160 GR. CHIP´S. PAPAS FRITAS. SABOR SAL",
+    "tipo_producto": "PAPAS FRITAS Y SIMILARES",
+    "precio": 61,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "PAPAS FRITAS Y SIMILARES, BARCEL, BOLSA 160 GR. CHIP´S. PAPAS FRITAS. SABOR SAL",
+   "PAPAS FRITAS Y SIMILARES, BARCEL, BOLSA 160 GR. CHIP´S. PAPAS FRITAS. JALAPEÑO",
+   "PAPAS FRITAS Y SIMILARES, BARCEL, BOLSA 160 GR. CHIP´S. PAPAS FRITAS. FUEGO CHILE Y LIMÓN",
+   "PAPAS FRITAS Y SIMILARES, SABRITAS, BOLSA 225 GR. RANCHERITOS",
+   "PAPAS FRITAS Y SIMILARES, SABRITAS, BOLSA 208 GR. PAKETAXO. QUEXO",
+   "PAPAS FRITAS Y SIMILARES, SABRITAS, BOLSA 160 GR. PAPAS FRITAS. CON SAL. ORIGINAL",
+   "PAPAS FRITAS Y SIMILARES, SABRITAS, BOLSA 223 GR. DORITOS. NACHOS",
+   "PAPAS FRITAS Y SIMILARES, SABRITAS, BOLSA 170 GR. FRITOS. SAL Y LIMÓN",
+   "PAPAS FRITAS Y SIMILARES, SABRITAS, BOLSA 185 GR. CHURRUMAIS. CON LIMONCITO",
+   "PAPAS FRITAS Y SIMILARES, SABRITAS, BOLSA 145 GR. CHEETOS TORCIDITOS",
+   "PAPAS FRITAS Y SIMILARES, BARCEL, BOLSA 150 GR. CHIP´S. SABOR SAL",
+   "PAPAS FRITAS Y SIMILARES, SABRITAS, BOLSA 185 GR. RUFFLES. ORIGINAL. (AZUL)",
+   "PAPAS FRITAS Y SIMILARES, BARCEL, BOLSA 150 GR. CHIP´S. JALAPEÑO",
+   "PAPAS FRITAS Y SIMILARES, BARCEL, BOLSA 150 GR. CHIP´S. FUEGO CHILE Y LIMÓN",
+   "PAPAYA, S/M, 1 KG. MARADOL",
+   "PAPA, S/M, 1 KG. EN MALLA. ALFA/BLANCA",
+   "PAPAS FRITAS Y SIMILARES, SABRITAS, BOLSA 400 GR. TOSTITOS. NACHOS",
+   "PAPA, S/M, 1 KG. ALFA/BLANCA"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "CENTRAL DE ABASTOS",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA",
+   "LA COMER"
+  ]
+ },
+ "jitomate|1502": {
+  "n": 25,
+  "ejemplo": [
+   {
+    "producto": "JITOMATE, S/M, 1 KG. SALADETTE/ HUAJE O TOMATE SALADETTE/ HUAJE",
+    "tipo_producto": "JITOMATE",
+    "precio": 30,
+    "fecha_observacion": "2026-10-28",
+    "cadena_comercial": "CENTRAL DE ABASTOS",
+    "establecimiento": "CENTRAL DE ABASTO ECATEPEC (ECATEPEC)",
+    "direccion": "AVENIDA CENTRAL S/N, ESQ. BLVD. JOSÉ LOPEZ PORTILLO",
+    "colonia": "SANTA CRUZ VENTA DE CARPIO",
+    "cp": "55060",
+    "municipio": "Ecatepec",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "JITOMATE, S/M, 1 KG. SALADETTE/ HUAJE O TOMATE SALADETTE/ HUAJE",
+    "tipo_producto": "JITOMATE",
+    "precio": 30,
+    "fecha_observacion": "2026-10-28",
+    "cadena_comercial": "CENTRAL DE ABASTOS",
+    "establecimiento": "CENTRAL DE ABASTO ECATEPEC (ECATEPEC)",
+    "direccion": "AVENIDA CENTRAL S/N, ESQ. BLVD. JOSÉ LOPEZ PORTILLO",
+    "colonia": "SANTA CRUZ VENTA DE CARPIO",
+    "cp": "55060",
+    "municipio": "Ecatepec",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "JITOMATE, S/M, 1 KG. SALADETTE/ HUAJE O TOMATE SALADETTE/ HUAJE",
+   "JITOMATE, S/M, 1 KG. BOLA/SINALOA O TOMATE BOLA"
+  ],
+  "cadenas": [
+   "CENTRAL DE ABASTOS",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "LA COMER"
+  ]
+ },
+ "cebolla|1502": {
+  "n": 103,
+  "ejemplo": [
+   {
+    "producto": "CEBOLLA, S/M, 1 KG. EN MALLA. BLANCA SIN RABO",
+    "tipo_producto": "CEBOLLA",
+    "precio": 36,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CEBOLLA, S/M, 1 KG. EN MALLA. BLANCA SIN RABO",
+    "tipo_producto": "CEBOLLA",
+    "precio": 36,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CEBOLLA, S/M, 1 KG. EN MALLA. BLANCA SIN RABO",
+   "CEBOLLA, S/M, 1 KG. MORADA",
+   "CEBOLLA, S/M, MANOJO. CAMBRAY",
+   "CEBOLLA, S/M, 1 KG. AMARILLA",
+   "CEBOLLA, S/M, 1 KG. BLANCA SIN RABO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA",
+   "LA COMER"
+  ]
+ },
+ "ajo|1502": {
+  "n": 38,
+  "ejemplo": [
+   {
+    "producto": "AJO, MC CORMICK, FRASCO 77 GR. EN POLVO",
+    "tipo_producto": "AJO",
+    "precio": 47.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "AJO, MC CORMICK, FRASCO 77 GR. EN POLVO",
+    "tipo_producto": "AJO",
+    "precio": 47.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "AJO, MC CORMICK, FRASCO 77 GR. EN POLVO",
+   "AJO, S/M, 1 KG. O AJO MORADO",
+   "AJONJOLÍ, VERDE VALLE, SOBRE 100 GR.",
+   "AJONJOLÍ, S/M, 1 KG. GRANEL"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "CENTRAL DE ABASTOS",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "chile|1502": {
+  "n": 443,
+  "ejemplo": [
+   {
+    "producto": "CHILE FRESCO, S/M, 1 KG. HABANERO",
+    "tipo_producto": "CHILE FRESCO",
+    "precio": 129,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CHILE FRESCO, S/M, 1 KG. HABANERO",
+    "tipo_producto": "CHILE FRESCO",
+    "precio": 129,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CHILE FRESCO, S/M, 1 KG. HABANERO",
+   "CHILE FRESCO, S/M, 1 KG. DE ARBOL (VERDE)",
+   "CHILE FRESCO, S/M, 1 KG. SERRANO",
+   "CHILE FRESCO, S/M, 1 KG. POBLANO O PARA RELLENAR",
+   "CHILE FRESCO, S/M, 1 KG. GUERO-LARGO",
+   "CHILE FRESCO, S/M, 1 KG. CARIBE",
+   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. PASILLA",
+   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
+   "CHILES, LA MORENA, LATA 380 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 380 GR. JALAPEÑOS RAJAS",
+   "CHILES, CLEMENTE JACQUES, LATA 380 GR. JALAPEÑOS RAJAS",
+   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑOS RAJAS",
+   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS EN ESCABECHE",
+   "CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS",
+   "CHILES, LA COSTEÑA, LATA 220 GR. CHIPOTLES EN ADOBO",
+   "CHILES, LA COSTEÑA, LATA 105 GR. JALAPEÑO RAJAS",
+   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA COSTEÑA, LATA 340 GR. JALAPEÑO RAJAS",
+   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO RAJAS",
+   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 220 GR. SERRANO",
+   "CHILES, LA COSTEÑA, LATA 105 GR. SERRANO",
+   "CHILE FRESCO, S/M, 1 KG. JALAPEÑO O CUARESMEÑO",
+   "CHILE SECO, S/M, 1 KG. GRANEL. ANCHO",
+   "CHILE SECO, S/M, 1 KG. GRANEL. PASILLA",
+   "CHILE SECO, S/M, 1 KG. GRANEL. CASCABEL",
+   "CHILES, LA MORENA, LATA 210 GR. JALAPEÑOS EN ESCABECHE",
+   "CHILE SECO, SAN LAZARO, BOLSA 100 GR. ANCHO",
+   "CHILE SECO, SAN LAZARO, BOLSA 100 GR. PASILLA",
+   "CHILE SECO, S/M, 1 KG. GRANEL. GUAJILLO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "CENTRAL DE ABASTOS",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA",
+   "LA COMER"
+  ]
+ },
+ "cilantro|1502": {
+  "n": 40,
+  "ejemplo": [
+   {
+    "producto": "CILANTRO, S/M, MANOJO",
+    "tipo_producto": "CILANTRO",
+    "precio": 11.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CILANTRO, S/M, MANOJO",
+    "tipo_producto": "CILANTRO",
+    "precio": 11.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CILANTRO, S/M, MANOJO"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "lechuga|1502": {
+  "n": 38,
+  "ejemplo": [
+   {
+    "producto": "LECHUGA, S/M, PZA. ROMANA",
+    "tipo_producto": "LECHUGA",
+    "precio": 24,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "LECHUGA, S/M, PZA. ROMANA",
+    "tipo_producto": "LECHUGA",
+    "precio": 24,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "LECHUGA, S/M, PZA. ROMANA",
+   "LECHUGA, S/M, PZA. OREJONA O LARGA"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "MERCADO SORIANA",
+   "CENTRAL DE ABASTOS",
+   "BODEGA AURRERA",
+   "MERCADO PUBLICO"
+  ]
+ },
+ "aguacate|1502": {
+  "n": 40,
+  "ejemplo": [
+   {
+    "producto": "AGUACATE, S/M, 1 KG. HASS",
+    "tipo_producto": "AGUACATE",
+    "precio": 42,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "AGUACATE, S/M, 1 KG. HASS",
+    "tipo_producto": "AGUACATE",
+    "precio": 42,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "AGUACATE, S/M, 1 KG. HASS"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "CENTRAL DE ABASTOS",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "limon|1502": {
+  "n": 53,
+  "ejemplo": [
+   {
+    "producto": "LIMÓN, S/M, 1 KG. AGRIO SIN SEMILLA O LIMON PERSA",
+    "tipo_producto": "LIMÓN",
+    "precio": 42,
+    "fecha_observacion": "2026-10-28",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL PLAZA ARAGON",
+    "direccion": "CARLOS HANK GONZALEZ 120, ESQ. BLVD. GUERREROS",
+    "colonia": "CIUDAD AZTECA",
+    "cp": "55120",
+    "municipio": "Ecatepec",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "LIMÓN, S/M, 1 KG. AGRIO SIN SEMILLA O LIMON PERSA",
+    "tipo_producto": "LIMÓN",
+    "precio": 42,
+    "fecha_observacion": "2026-10-28",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL PLAZA ARAGON",
+    "direccion": "CARLOS HANK GONZALEZ 120, ESQ. BLVD. GUERREROS",
+    "colonia": "CIUDAD AZTECA",
+    "cp": "55120",
+    "municipio": "Ecatepec",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "LIMÓN, S/M, 1 KG. AGRIO SIN SEMILLA O LIMON PERSA",
+   "LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O COLIMA. UPC 4306. EN MALLA",
+   "LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O LIMON COLIMA",
+   "LIMÓN, S/M, 1 KG. EN MALLA. AGRIO SIN SEMILLA"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA",
+   "LA COMER"
+  ]
+ },
+ "calabaza|1502": {
+  "n": 34,
+  "ejemplo": [
+   {
+    "producto": "CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)",
+    "tipo_producto": "CALABAZA",
+    "precio": 28.8,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)",
+    "tipo_producto": "CALABAZA",
+    "precio": 28.8,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "CENTRAL DE ABASTOS",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "zanahoria|1502": {
+  "n": 43,
+  "ejemplo": [
+   {
+    "producto": "ZANAHORIA, S/M, 1 KG. GRANDE",
+    "tipo_producto": "ZANAHORIA",
+    "precio": 13.6,
+    "fecha_observacion": "2026-10-28",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "M. SORIANA SUC R-1 LA GOBERNADORA 427",
+    "direccion": "ADOLFO LOPEZ MATEOS S/N, ESQ. LA GOBERNADORA",
+    "colonia": "INDUS TULPETLAC",
+    "cp": "51074",
+    "municipio": "Ecatepec",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "ZANAHORIA, S/M, 1 KG. GRANDE",
+    "tipo_producto": "ZANAHORIA",
+    "precio": 13.6,
+    "fecha_observacion": "2026-10-28",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "M. SORIANA SUC R-1 LA GOBERNADORA 427",
+    "direccion": "ADOLFO LOPEZ MATEOS S/N, ESQ. LA GOBERNADORA",
+    "colonia": "INDUS TULPETLAC",
+    "cp": "51074",
+    "municipio": "Ecatepec",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "ZANAHORIA, S/M, 1 KG. GRANDE",
+   "ZANAHORIA, S/M, 1 KG. MEDIANA"
+  ],
+  "cadenas": [
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "WAL-MART",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA",
+   "LA COMER"
+  ]
+ },
+ "nopal|1502": {
+  "n": 18,
+  "ejemplo": [
+   {
+    "producto": "NOPAL, S/M, 1 KG. SIN ESPINAS",
+    "tipo_producto": "NOPAL",
+    "precio": 44.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "NOPAL, S/M, 1 KG. SIN ESPINAS",
+    "tipo_producto": "NOPAL",
+    "precio": 44.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "NOPAL, S/M, 1 KG. SIN ESPINAS"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "MERCADO SORIANA",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "platano|1502": {
+  "n": 41,
+  "ejemplo": [
+   {
+    "producto": "PLÁTANO, S/M, 1 KG. MACHO",
+    "tipo_producto": "PLÁTANO",
+    "precio": 40.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "PLÁTANO, S/M, 1 KG. MACHO",
+    "tipo_producto": "PLÁTANO",
+    "precio": 40.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "PLÁTANO, S/M, 1 KG. MACHO",
+   "PLÁTANO, S/M, 1 KG. TABASCO/CHIAPAS/ROATÁN/PORTALIMÓN"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "LA COMER"
+  ]
+ },
+ "manzana|1502": {
+  "n": 127,
+  "ejemplo": [
+   {
+    "producto": "MANZANA, S/M, 1 KG. GRANNY SMITH",
+    "tipo_producto": "MANZANA",
+    "precio": 54,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "MANZANA, S/M, 1 KG. GRANNY SMITH",
+    "tipo_producto": "MANZANA",
+    "precio": 54,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "MANZANA, S/M, 1 KG. GRANNY SMITH",
+   "MANZANA, S/M, 1 KG. ROYAL GALA",
+   "MANZANA, S/M, 1 KG. GOLDEN",
+   "MANZANA, S/M, 1 KG. GRANEL. GOLDEN DELICIOUS",
+   "MANZANA, MARKETSIDE, 1 KG. RED DELICIOUS",
+   "MANZANA, S/M, 1 KG. RED DELICIOUS/MANZANA ROJA/ MANZANA ROJA MEDIANA/ MANZANA ROJA AMERICANA/",
+   "MANZANA, VALLEY FOODS. FRESH, 1 KG. RED DELICIOUS"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA",
+   "LA COMER"
+  ]
+ },
+ "piña|1502": {
+  "n": 86,
+  "ejemplo": [
+   {
+    "producto": "PIÑA, S/M, 1 KG. MIEL",
+    "tipo_producto": "PIÑA",
+    "precio": 30,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "PIÑA, S/M, 1 KG. MIEL",
+    "tipo_producto": "PIÑA",
+    "precio": 30,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "PIÑA, S/M, 1 KG. MIEL",
+   "PIÑA EN ALMÍBAR, LA COSTEÑA, LATA 800 GR. TROCITOS",
+   "PIÑA EN ALMÍBAR, LA COSTEÑA, LATA 800 GR. REBANADA",
+   "PIÑA EN ALMÍBAR, CLEMENTE JACQUES, LATA 800 GR. TROCITOS"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "CENTRAL DE ABASTOS",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "pina|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "champiñón|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "champiñones|1502": {
+  "n": 20,
+  "ejemplo": [
+   {
+    "producto": "CHAMPIÑONES, S/M, 1 KG.",
+    "tipo_producto": "CHAMPIÑONES",
+    "precio": 119,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CHAMPIÑONES, S/M, 1 KG.",
+    "tipo_producto": "CHAMPIÑONES",
+    "precio": 119,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CHAMPIÑONES, S/M, 1 KG."
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "CENTRAL DE ABASTOS",
+   "BODEGA AURRERA",
+   "MERCADO PUBLICO",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "hongo|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "hongos|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "pimiento|1502": {
+  "n": 34,
+  "ejemplo": [
+   {
+    "producto": "PIMIENTO, S/M, 1 KG. MORRON VERDE",
+    "tipo_producto": "PIMIENTO",
+    "precio": 88,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "PIMIENTO, S/M, 1 KG. MORRON VERDE",
+    "tipo_producto": "PIMIENTO",
+    "precio": 88,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "PIMIENTO, S/M, 1 KG. MORRON VERDE"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "FRESKO LA COMER",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "tomate|1502": {
+  "n": 40,
+  "ejemplo": [
+   {
+    "producto": "TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
+    "tipo_producto": "TOMATE",
+    "precio": 39,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
+    "tipo_producto": "TOMATE",
+    "precio": 39,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
+   "TOMATE, S/M, 1 KG. O TOMATE VERDE"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "CENTRAL DE ABASTOS",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "granola|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "cereal|1502": {
+  "n": 208,
+  "ejemplo": [
+   {
+    "producto": "CEREALES, SPECIAL K. KELLOGG´S, CAJA 530 GR. ORIGINAL",
+    "tipo_producto": "CEREALES",
+    "precio": 73,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CEREALES, SPECIAL K. KELLOGG´S, CAJA 530 GR. ORIGINAL",
+    "tipo_producto": "CEREALES",
+    "precio": 73,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CEREALES, SPECIAL K. KELLOGG´S, CAJA 530 GR. ORIGINAL",
+   "CEREALES, NESTLÉ, CAJA 500 GR.",
+   "CEREALES, CORN FLAKES. KELLOGG´S, CAJA 370 GR. EL ORIGINAL",
+   "CEREALES, CORN FLAKES. KELLOGG´S, CAJA 385 GR. EL ORIGINAL",
+   "CEREALES, CHOCO KRISPIS. KELLOGG´S, CAJA 540 GR.",
+   "CEREALES, CHOCO KRISPIS. KELLOGG´S, CAJA 560 GR.",
+   "CEREALES, ZUCARITAS. KELLOGG´S, CAJA 600 GR.",
+   "CEREALES, ZUCARITAS. KELLOGG´S, CAJA 380 GR.",
+   "CEREALES, ZUCARITAS. KELLOGG´S, CAJA 30 GR.",
+   "CEREALES, ALL-BRAN KELLOGG´S, CAJA 775 GR. ORIGINAL",
+   "CEREALES, ALL-BRAN KELLOGG´S, CAJA 570 GR. FLAKES. NUTRI FIBRA. NATURAL",
+   "CEREALES, FITNESS NESTLÉ, CAJA 570 GR.",
+   "CEREALES, CORN POPS. KELLOGG´S, CAJA 450 GR.",
+   "CEREALES, NESQUIK NESTLÉ. MÁS CHOCOLATOSO, CAJA 650 GR.",
+   "CEREALES, NESQUIK NESTLÉ, CAJA 620 GR.",
+   "CEREALES, NESTLÉ, CAJA 530 GR.",
+   "CEREALES, CHOCO KRISPIS. KELLOGG´S, CAJA 38 GR.",
+   "CEREALES, ZUCARITAS. KELLOGG´S, CAJA 620 GR."
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "WAL-MART EXPRESS"
+  ]
  }
 }
