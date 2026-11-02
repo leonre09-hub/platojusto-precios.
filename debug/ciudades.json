@@ -1,0 +1,156 @@
+{
+ "success": true,
+ "message": "Datos obtenidos",
+ "data": {
+  "ciudades": [
+   {
+    "clave_ciudad": "1201",
+    "ciudad": "Acapulco"
+   },
+   {
+    "clave_ciudad": "0101",
+    "ciudad": "Aguascalientes"
+   },
+   {
+    "clave_ciudad": "2902",
+    "ciudad": "Apizaco"
+   },
+   {
+    "clave_ciudad": "0401",
+    "ciudad": "Campeche"
+   },
+   {
+    "clave_ciudad": "2301",
+    "ciudad": "Cancún"
+   },
+   {
+    "clave_ciudad": "0801",
+    "ciudad": "Chihuahua"
+   },
+   {
+    "clave_ciudad": "0802",
+    "ciudad": "Ciudad Juárez"
+   },
+   {
+    "clave_ciudad": "0901",
+    "ciudad": "Ciudad de México"
+   },
+   {
+    "clave_ciudad": "1701",
+    "ciudad": "Cuernavaca"
+   },
+   {
+    "clave_ciudad": "2501",
+    "ciudad": "Culiacán"
+   },
+   {
+    "clave_ciudad": "1001",
+    "ciudad": "Durango"
+   },
+   {
+    "clave_ciudad": "1502",
+    "ciudad": "Estado de México"
+   },
+   {
+    "clave_ciudad": "1401",
+    "ciudad": "Guadalajara"
+   },
+   {
+    "clave_ciudad": "2601",
+    "ciudad": "Hermosillo"
+   },
+   {
+    "clave_ciudad": "0301",
+    "ciudad": "La Paz"
+   },
+   {
+    "clave_ciudad": "1602",
+    "ciudad": "La Piedad"
+   },
+   {
+    "clave_ciudad": "1101",
+    "ciudad": "León"
+   },
+   {
+    "clave_ciudad": "1901",
+    "ciudad": "Monterrey"
+   },
+   {
+    "clave_ciudad": "1601",
+    "ciudad": "Morelia"
+   },
+   {
+    "clave_ciudad": "3101",
+    "ciudad": "Mérida"
+   },
+   {
+    "clave_ciudad": "2001",
+    "ciudad": "Oaxaca"
+   },
+   {
+    "clave_ciudad": "3004",
+    "ciudad": "Orizaba"
+   },
+   {
+    "clave_ciudad": "1301",
+    "ciudad": "Pachuca"
+   },
+   {
+    "clave_ciudad": "2303",
+    "ciudad": "Playa del carmen"
+   },
+   {
+    "clave_ciudad": "2101",
+    "ciudad": "Puebla"
+   },
+   {
+    "clave_ciudad": "2201",
+    "ciudad": "Querétaro"
+   },
+   {
+    "clave_ciudad": "0501",
+    "ciudad": "Saltillo"
+   },
+   {
+    "clave_ciudad": "2401",
+    "ciudad": "San Luis Potosí"
+   },
+   {
+    "clave_ciudad": "2804",
+    "ciudad": "Tampico"
+   },
+   {
+    "clave_ciudad": "0201",
+    "ciudad": "Tijuana"
+   },
+   {
+    "clave_ciudad": "2901",
+    "ciudad": "Tlaxcala"
+   },
+   {
+    "clave_ciudad": "1501",
+    "ciudad": "Toluca"
+   },
+   {
+    "clave_ciudad": "0504",
+    "ciudad": "Torreón"
+   },
+   {
+    "clave_ciudad": "0701",
+    "ciudad": "Tuxtla Gutiérrez"
+   },
+   {
+    "clave_ciudad": "3001",
+    "ciudad": "Veracruz"
+   },
+   {
+    "clave_ciudad": "2701",
+    "ciudad": "Villahermosa"
+   },
+   {
+    "clave_ciudad": "3201",
+    "ciudad": "Zacatecas"
+   }
+  ]
+ }
+}

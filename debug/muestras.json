@@ -1,0 +1,2859 @@
+{
+ "pechuga|0901": {
+  "n": 183,
+  "ejemplo": [
+   {
+    "producto": "PECHUGA, S/M, 1 KG. GRANEL. PECHUGA. CORTE AMERICANO",
+    "tipo_producto": "PECHUGA",
+    "precio": 80,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "CHEDRAUI",
+    "establecimiento": "CHEDRAUI SUCURSAL ANFORA",
+    "direccion": "ANFORA 71, ESQ. EJE 1 NORTE",
+    "colonia": "MADERO",
+    "cp": "15320",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "PECHUGA, S/M, 1 KG. GRANEL. PECHUGA. CORTE AMERICANO",
+    "tipo_producto": "PECHUGA",
+    "precio": 80,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "CHEDRAUI",
+    "establecimiento": "CHEDRAUI SUCURSAL ANFORA",
+    "direccion": "ANFORA 71, ESQ. EJE 1 NORTE",
+    "colonia": "MADERO",
+    "cp": "15320",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "PECHUGA, S/M, 1 KG. GRANEL. PECHUGA. CORTE AMERICANO",
+   "PECHUGA, S/M, 1 KG. GRANEL. PECHUGA CON HUESO O ANATÓMICA O SIN RABADILLA (CON PIEL)",
+   "PECHUGA, S/M, 1 KG. GRANEL. PECHUGA SIN HUESO (SIN PIEL)",
+   "PECHUGA, S/M, 1 KG. GRANEL. PECHUGA. FILETE",
+   "PECHUGA DE PAVO, FUD, 1 KG. GRANEL. VIRGINIA"
+  ],
+  "cadenas": [
+   "CHEDRAUI",
+   "WAL-MART",
+   "MERCADO PUBLICO",
+   "BODEGA AURRERA",
+   "LA COMER",
+   "HIPERMERCADO SORIANA",
+   "U.N.A.M.",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA EXPRESS",
+   "CENTRAL DE ABASTOS",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "pollo|0901": {
+  "n": 33,
+  "ejemplo": [
+   {
+    "producto": "POLLO ROSTIZADO. TRADICIONAL, S/M, PIEZA (CHAROLA O BOLSA, NO INCLUYE COMPLEMENTOS)",
+    "tipo_producto": "POLLO ROSTIZADO. TRADICIONAL",
+    "precio": 178,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "LA COMER",
+    "establecimiento": "LACOMER SUCURSAL MIGUEL ANGEL DE QUEVEDO",
+    "direccion": "MIGUEL ANGEL DE QUEVEDO 443, ENTRE MELCHOR OCAMPO Y PSI",
+    "colonia": "ROMERO DE TERREROS",
+    "cp": "04310",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "POLLO ROSTIZADO. TRADICIONAL, S/M, PIEZA (CHAROLA O BOLSA, NO INCLUYE COMPLEMENTOS)",
+    "tipo_producto": "POLLO ROSTIZADO. TRADICIONAL",
+    "precio": 178,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "LA COMER",
+    "establecimiento": "LACOMER SUCURSAL MIGUEL ANGEL DE QUEVEDO",
+    "direccion": "MIGUEL ANGEL DE QUEVEDO 443, ENTRE MELCHOR OCAMPO Y PSI",
+    "colonia": "ROMERO DE TERREROS",
+    "cp": "04310",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "POLLO ROSTIZADO. TRADICIONAL, S/M, PIEZA (CHAROLA O BOLSA, NO INCLUYE COMPLEMENTOS)"
+  ],
+  "cadenas": [
+   "LA COMER",
+   "MERCADO SORIANA",
+   "WAL-MART",
+   "CHEDRAUI",
+   "HIPERMERCADO SORIANA",
+   "BODEGA AURRERA",
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "pierna|0901": {
+  "n": 144,
+  "ejemplo": [
+   {
+    "producto": "PIERNA, S/M, 1 KG. GRANEL. PIERNA O PIERNA BATE",
+    "tipo_producto": "PIERNA",
+    "precio": 104,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL NEXTENGO",
+    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
+    "colonia": "SANTA CRUZ ACAYUCAN",
+    "cp": "02770",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "PIERNA, S/M, 1 KG. GRANEL. PIERNA O PIERNA BATE",
+    "tipo_producto": "PIERNA",
+    "precio": 104,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL NEXTENGO",
+    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
+    "colonia": "SANTA CRUZ ACAYUCAN",
+    "cp": "02770",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "PIERNA, S/M, 1 KG. GRANEL. PIERNA O PIERNA BATE",
+   "PIERNA CON MUSLO, S/M, 1 KG. GRANEL. PIERNA CON MUSLO DE POLLO. CORTE AMERICANO",
+   "PIERNA CON MUSLO, S/M, 1 KG. GRANEL. PIERNA CON MUSLO. PIGMENTADA",
+   "PIERNA ENTERA/PERNIL, S/M, 1 KG. GRANEL. CARNE CERDO. PIERNA ENTERA SIN HUESO, O PERNIL SIN HUESO",
+   "PIERNA CON MUSLO, S/M, 1 KG. GRANEL. PIERNA CON MUSLO",
+   "PIERNA ENTERA/PERNIL, S/M, 1 KG. GRANEL CON HUESO",
+   "PIERNA CON MUSLO, S/M, 500 GR. PAQUETE. PIERNA CON MUSLO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "LA COMER",
+   "U.N.A.M.",
+   "MERCADO PUBLICO",
+   "HIPERMERCADO SORIANA",
+   "BODEGA AURRERA",
+   "CHEDRAUI",
+   "MERCADO SORIANA",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "carne molida|0901": {
+  "n": 136,
+  "ejemplo": [
+   {
+    "producto": "CARNE MOLIDA, S/M, 1 KG. GRANEL. O PULPA MOLIDA",
+    "tipo_producto": "CARNE MOLIDA",
+    "precio": 104,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL CONSULADO (418)",
+    "direccion": "RIO CONSULADO 2355, ESQ. CARLOS MARX",
+    "colonia": "SIMON BOLIVAR",
+    "cp": "15410",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "CARNE MOLIDA, S/M, 1 KG. GRANEL. O PULPA MOLIDA",
+    "tipo_producto": "CARNE MOLIDA",
+    "precio": 104,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL CONSULADO (418)",
+    "direccion": "RIO CONSULADO 2355, ESQ. CARLOS MARX",
+    "colonia": "SIMON BOLIVAR",
+    "cp": "15410",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "CARNE MOLIDA, S/M, 1 KG. GRANEL. O PULPA MOLIDA",
+   "CARNE MOLIDA, S/M, 1 KG. GRANEL. MOLIDA ESPECIAL 80/20",
+   "CARNE MOLIDA, S/M, 1 KG. GRANEL. MOLIDA TOP SIRLION 90-10 O MOLIDA DE SIRLION 90-10",
+   "CARNE MOLIDA, S/M, 1 KG. GRANEL. MOLIDA DE RES"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "LA COMER",
+   "WAL-MART",
+   "MERCADO PUBLICO",
+   "CHEDRAUI",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "U.N.A.M.",
+   "CENTRAL DE ABASTOS",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "res|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "bistec|0901": {
+  "n": 113,
+  "ejemplo": [
+   {
+    "producto": "BISTEC DE ESPALDILLA, S/M, 1 KG. GRANEL",
+    "tipo_producto": "BISTEC DE ESPALDILLA",
+    "precio": 230,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MERCADO PUBLICO",
+    "establecimiento": "MERCADO VICTORIA DE LAS DEMOCRACIAS",
+    "direccion": "PIMIENTA S/N, ESQ. TORONJIL",
+    "colonia": "IGNACIO ALLENDE",
+    "cp": "02810",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "BISTEC DE ESPALDILLA, S/M, 1 KG. GRANEL",
+    "tipo_producto": "BISTEC DE ESPALDILLA",
+    "precio": 230,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MERCADO PUBLICO",
+    "establecimiento": "MERCADO VICTORIA DE LAS DEMOCRACIAS",
+    "direccion": "PIMIENTA S/N, ESQ. TORONJIL",
+    "colonia": "IGNACIO ALLENDE",
+    "cp": "02810",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "BISTEC DE ESPALDILLA, S/M, 1 KG. GRANEL",
+   "BISTEC DE DIEZMILLO, S/M, 1 KG. GRANEL. BISTEC DIEZMILLO O DIEZMILLO SIN HUESO",
+   "BISTEC DEL 0, S/M, 1 KG. GRANEL. BISTEC DEL 0",
+   "BISTEC DEL 0, S/M, 1 KG. GRANEL. BISTEC/CHULETA DEL 0",
+   "BISTEC. CORTE DELGADO, S/M, 1 KG. GRANEL. BISTEC DE RES CORTE DELGADO O BISTEC DE RES",
+   "BISTEC RANCHERO, S/M, 1 KG. GRANEL. BISTEC RANCHERO",
+   "BISTEC DEL 7, S/M, 1 KG. GRANEL. BISTEC DEL 7",
+   "BISTEC FLECHA, S/M, 1 KG. GRANEL. BISTEC FLECHA PARA ASAR",
+   "BISTEC DE ESPALDILLA, S/M, 1 KG. GRANEL. BISTEC PARA ASAR REBANADO",
+   "BISTEC DEL 0, S/M, 500 GR. PAQUETE. BISTEC",
+   "BISTEC. CORTE DELGADO, S/M, 1 KG. GRANEL. BISTEC PARA EL ASADOR"
+  ],
+  "cadenas": [
+   "MERCADO PUBLICO",
+   "HIPERMERCADO SORIANA",
+   "LA COMER",
+   "MERCADO SORIANA",
+   "U.N.A.M.",
+   "WAL-MART",
+   "CHEDRAUI",
+   "CENTRAL DE ABASTOS",
+   "SUPERISSSTE",
+   "BODEGA AURRERA",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "cerdo|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "puerco|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "chorizo|0901": {
+  "n": 156,
+  "ejemplo": [
+   {
+    "producto": "CHORIZO, PARMA. CAMPESTRE, 1 KG. GRANEL. RANCHERO",
+    "tipo_producto": "CHORIZO",
+    "precio": 276,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL NEXTENGO",
+    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
+    "colonia": "SANTA CRUZ ACAYUCAN",
+    "cp": "02770",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "CHORIZO, PARMA. CAMPESTRE, 1 KG. GRANEL. RANCHERO",
+    "tipo_producto": "CHORIZO",
+    "precio": 276,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL NEXTENGO",
+    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
+    "colonia": "SANTA CRUZ ACAYUCAN",
+    "cp": "02770",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "CHORIZO, PARMA. CAMPESTRE, 1 KG. GRANEL. RANCHERO",
+   "CHORIZO, ZWAN, 1 KG. GRANEL",
+   "CHORIZO, FUD, 1 KG. GRANEL. ESTILO CANTIMPALO",
+   "CHORIZO, SAN RAFAEL, 1 KG. GRANEL. ESTILO ESPAÑOL"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "U.N.A.M.",
+   "LA COMER",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "CHEDRAUI",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "jamon|0901": {
+  "n": 1013,
+  "ejemplo": [
+   {
+    "producto": "JAMÓN, KIR, 1 KG. GRANEL. DE PAVO. VIRGINIA",
+    "tipo_producto": "JAMÓN",
+    "precio": 180,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL PORTAL CENTRO",
+    "direccion": "AV. LORENZO BOTURINI 258, ENTRE FRANCISCO JAVIER CLAVIJ",
+    "colonia": "TRANSITO",
+    "cp": "06820",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "JAMÓN, KIR, 1 KG. GRANEL. DE PAVO. VIRGINIA",
+    "tipo_producto": "JAMÓN",
+    "precio": 180,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL PORTAL CENTRO",
+    "direccion": "AV. LORENZO BOTURINI 258, ENTRE FRANCISCO JAVIER CLAVIJ",
+    "colonia": "TRANSITO",
+    "cp": "06820",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "JAMÓN, KIR, 1 KG. GRANEL. DE PAVO. VIRGINIA",
+   "JAMÓN, FUD, 1 KG. GRANEL. DE PAVO. VIRGINIA",
+   "JAMÓN, IBERO, 1 KG. (GRANEL). JAMÓN DE PAVO. BARCELONA",
+   "JAMÓN, FUD, PAQUETE 290 GR. VIRGINIA DE PAVO",
+   "JAMÓN, FUD, PAQUETE 290 GR. VIRGINIA DE PAVO Y CERDO",
+   "JAMÓN, KIR, PAQUETE 250 GR. VIRGINIA DE PAVO",
+   "JAMÓN, SAN RAFAEL, PAQUETE 300 GR. DE PIERNA REAL",
+   "JAMÓN, KIR, 1 KG. GRANEL. DE PIERNA (MANDOLINA)",
+   "JAMÓN, BAFAR, 1 KG. GRANEL. DE PAVO. TIPO VIRGINIA",
+   "JAMÓN, ZWAN, 1 KG. (GRANEL). DE CERDO Y PAVO. TIPO VIRGINIA",
+   "JAMÓN, ZWAN. PREMIUM, 1 KG. GRANEL. DE PIERNA",
+   "JAMÓN, FUD. YORK, 1 KG. GRANEL. DE PIERNA.TIPO YORK",
+   "JAMÓN, SAN RAFAEL. REAL, 1 KG. GRANEL. DE PIERNA",
+   "JAMÓN, PARMA. CAMPESTRE, 1 KG. GRANEL. DE PIERNA",
+   "JAMÓN, IBERO. BARCELONA, 1 KG. GRANEL. DE CERDO Y PAVO",
+   "JAMÓN, ZWAN, 1 KG. GRANEL. DE PAVO. TIPO VIRGINIA",
+   "JAMÓN, SAN RAFAEL, 1 KG. GRANEL. DE PAVO. VIRGINIA",
+   "JAMÓN, KIR, 1 KG. GRANEL. DE PIERNA. TRADICIONAL",
+   "JAMÓN, FUD, 1 KG. GRANEL. DE PIERNA. HORNEADO",
+   "JAMÓN, ZWAN. PREMIUM, PAQUETE 250 GR. VIRGINIA DE PAVO",
+   "JAMÓN, CHIMEX, 1 KG. GRANEL. DE PAVO. CLÁSICO",
+   "JAMÓN, CAPISTRANO, 1 KG. GRANEL. DE PAVO. VIRGINIA",
+   "JAMÓN, CAPISTRANO, 1 KG. GRANEL. DE PAVO Y CERDO. CALIFORNIA",
+   "JAMÓN, PARMA. SABORI, 1 KG. GRANEL. DE PAVO. VIRGINIA",
+   "JAMÓN, CAPISTRANO, PAQUETE 250 GR. DE PIERNA. TIPO YORK",
+   "JAMÓN, CAPISTRANO, PAQUETE 250 GR. DE PAVO. VIRGINIA",
+   "JAMÓN, FUD, 1 KG. GRANEL. DE PIERNA. HORNEADO ESPECIAL",
+   "JAMÓN, CAPISTRANO, 1 KG. GRANEL. JAMÓN DE PAVO Y CERDO. AMERICANO. ESPECIAL",
+   "JAMÓN, SAN RAFAEL. REAL, 1 KG. GRANEL. DE PAVO",
+   "JAMÓN, ZWAN. PREMIUM, 1 KG. GRANEL. DE PAVO. NATURAL",
+   "JAMÓN, FUD, 1 KG. GRANEL. DE PAVO Y CERDO. VIRGINIA",
+   "JAMÓN, ALPINO, 1 KG. GRANEL. DE PAVO Y CERDO. NÁPOLES",
+   "JAMÓN, SAN RAFAEL, PAQUETE 300 GR. DE PAVO REAL",
+   "JAMÓN, S/M, 1 KG. GRANEL. DE PAVO",
+   "JAMÓN, GALICIA, 1 KG. GRANEL. DE PIERNA. HORNEADO",
+   "JAMÓN, GALICIA, 1 KG. GRANEL. DE PAVO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "U.N.A.M.",
+   "LA COMER",
+   "CHEDRAUI",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "MERCADO PUBLICO",
+   "BODEGA AURRERA EXPRESS",
+   "CENTRAL DE ABASTOS",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "salchicha|0901": {
+  "n": 545,
+  "ejemplo": [
+   {
+    "producto": "SALCHICHA, KIR, 1 KG. GRANEL. FRANKFURT DE PAVO",
+    "tipo_producto": "SALCHICHA",
+    "precio": 106,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL CUITLAHUAC",
+    "direccion": "CUITLAHUAC 3651, ENTRE TORONJIL Y FERROCARRIL C.",
+    "colonia": "HOGAR Y SEGURIDAD",
+    "cp": "02820",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "SALCHICHA, KIR, 1 KG. GRANEL. FRANKFURT DE PAVO",
+    "tipo_producto": "SALCHICHA",
+    "precio": 106,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL CUITLAHUAC",
+    "direccion": "CUITLAHUAC 3651, ENTRE TORONJIL Y FERROCARRIL C.",
+    "colonia": "HOGAR Y SEGURIDAD",
+    "cp": "02820",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "SALCHICHA, KIR, 1 KG. GRANEL. FRANKFURT DE PAVO",
+   "SALCHICHA, CAPISTRANO, PAQUETE 500 GR. CON PAVO",
+   "SALCHICHA, KIR, PAQUETE 500 GR. DE PAVO",
+   "SALCHICHA, ZWAN, PAQUETE 500 GR. VIENESA",
+   "SALCHICHA, SAN RAFAEL, PAQUETE 500 GR. DE PAVO",
+   "SALCHICHA, FUD, PAQUETE 500 GR. SALCHICHA. DE PAVO",
+   "SALCHICHA, FUD, PAQUETE 500 GR. PARA HOT DOG",
+   "SALCHICHA, ZWAN. PREMIUM, PAQUETE 500 GR. COCKTAIL",
+   "SALCHICHA, FUD, PAQUETE 500 GR. CON PAVO. PARA HOT DOG.",
+   "SALCHICHA, FUD, PAQUETE 500 GR. CON PAVO. TIPO COCKTAIL",
+   "SALCHICHA, ALPINO. PAVINO, PAQUETE 500 GR. FRANKFURT DE PAVO",
+   "SALCHICHA, ZWAN. PREMIUM, PAQUETE 500 GR. DE PAVO",
+   "SALCHICHA, FUD, 1 KG. GRANEL. SALCHICHA. DE PAVO.",
+   "SALCHICHA, SAN RAFAEL, 1 KG. GRANEL. DE PAVO",
+   "SALCHICHA, S/M, 1 KG. GRANEL. DE PAVO",
+   "SALCHICHA, BAFAR, PAQUETE 500 GR. CON PAVO. FRANKFORT",
+   "SALCHICHA, SAN RAFAEL, PAQUETE 500 GR. BOTANERA. DE PAVO",
+   "SALCHICHA, FUD, 1 KG. GRANEL. HOT DOG",
+   "SALCHICHA, ZWAN. PREMIUM, 1 KG. GRANEL. DE PAVO",
+   "SALCHICHA, FUD, 1 KG. GRANEL. HOT DOG. DE PAVO",
+   "SALCHICHA, ZWAN. PREMIUM, PAQUETE 520 GR. DE PAVO",
+   "SALCHICHA, KIR, 1 KG. GRANEL. DE PAVO",
+   "SALCHICHA, CHIMEX, 1 KG. GRANEL. ESTILO VIENA",
+   "SALCHICHA, VIVA, 1 KG. GRANEL. VIENA",
+   "SALCHICHA, ALPINO. PAVINO, 1 KG. GRANEL. FRANKFURT DE PAVO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "MERCADO PUBLICO",
+   "MERCADO SORIANA",
+   "CHEDRAUI",
+   "LA COMER",
+   "U.N.A.M.",
+   "BODEGA AURRERA EXPRESS",
+   "BODEGA AURRERA",
+   "SUPERISSSTE",
+   "CENTRAL DE ABASTOS",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "atun|0901": {
+  "n": 734,
+  "ejemplo": [
+   {
+    "producto": "ATÚN, TUNY, LATA 140 GR. (CLASICO). EN HOJUELAS EN AGUA CON ACEITE",
+    "tipo_producto": "ATÚN",
+    "precio": 21,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL PORTAL CENTRO",
+    "direccion": "AV. LORENZO BOTURINI 258, ENTRE FRANCISCO JAVIER CLAVIJ",
+    "colonia": "TRANSITO",
+    "cp": "06820",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "ATÚN, TUNY, LATA 140 GR. (CLASICO). EN HOJUELAS EN AGUA CON ACEITE",
+    "tipo_producto": "ATÚN",
+    "precio": 21,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL PORTAL CENTRO",
+    "direccion": "AV. LORENZO BOTURINI 258, ENTRE FRANCISCO JAVIER CLAVIJ",
+    "colonia": "TRANSITO",
+    "cp": "06820",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "ATÚN, TUNY, LATA 140 GR. (CLASICO). EN HOJUELAS EN AGUA CON ACEITE",
+   "ATÚN, TUNY, LATA 140 GR. (CLASICO). EN HOJUELAS EN AGUA",
+   "ATÚN, DOLORES, LATA 140 GR. EN HOJUELAS EN AGUA CON ACEITE",
+   "ATÚN, DOLORES, LATA 140 GR. EN HOJUELAS EN AGUA",
+   "ATÚN, HERDEZ, LATA 130 GR. EN HOJUELAS EN ACEITE CON AGUA",
+   "ATÚN, HERDEZ, LATA 130 GR. EN HOJUELAS EN AGUA",
+   "ATÚN, DOLORES, BOLSA 78 GR. EN TROZOS EN AGUA",
+   "ATÚN, GREAT VALUE, LATA 140 GR. EN HOJUELAS EN AGUA",
+   "ATÚN, DOLORES, BOLSA 74 GR. ALETA AMARILLA EN TROZOS EN AGUA",
+   "ATÚN, FISHA TUNA, LATA 140 GR. EN AGUA",
+   "ATÚN, DOLORES, BOLSA 110 GR. ENSALADA",
+   "ATÚN, MAZATÚN, LATA 130 GR. EN HOJUELAS EN AGUA CON ACEITE",
+   "ATÚN, MAZATÚN, LATA 130 GR. EN HOJUELAS EN AGUA",
+   "ATÚN, VALLEY FOODS, LATA 140 GR. HOJUELAS EN AGUA CON ACEITE",
+   "ATÚN, VALLEY FOODS, LATA 140 GR. HOJUELAS EN AGUA",
+   "ATÚN, FRESH LABEL, LATA 140 GR. DESMENUZADO EN AGUA. STANDARD, SIN SOYA",
+   "ATÚN, FRESH LABEL, LATA 140 GR. DESMENUZADO EN ACEITE. STANDARD, SIN SOYA",
+   "ATÚN, EL DORADO, LATA 130 GR. CON 30% DE SOYA EN AGUA CON ACEITE",
+   "ATÚN, EL DORADO, LATA 130 GR. CON 30% DE SOYA EN AGUA",
+   "ATÚN, ANCLA, LATA 120 GR. CON 20% DE PROTEÍNA DE SOYA EN AGUA CON ACEITE",
+   "ATÚN, DOLORES, BOLSA 78 GR. ALETA AMARILLA EN TROZOS EN ACEITE CON AGUA",
+   "ATÚN, ANCLA, LATA 120 GR. CON 20% DE PROTEÍNA DE SOYA EN AGUA",
+   "ATÚN, TUNY, LATA 130 GR. (CLÁSICO). EN HOJUELAS EN AGUA",
+   "ATÚN, VALLEY FOODS, LATA 140 GR. EN HOJUELAS EN AGUA",
+   "ATÚN, VALLEY FOODS, LATA 140 GR. EN HOJUELAS EN AGUA CON ACEITE",
+   "ATÚN, S/M, 1 KG. CENTRO DE LOMO",
+   "ATÚN, S/M, 1 KG. STEAK DE ATÚN ALETA AMARILLA",
+   "ATÚN, DOLORES, LATA 133 GR. ALETA AMARILLA EN HOJUELAS EN AGUA",
+   "ATÚN, CALMEX, LATA 135 GR. ALETA AMARILLA CON 4% DE SOYA EN ACEITE CON AGUA",
+   "ATÚN, TUNY, LATA 130 GR. (CLÁSICO). EN HOJUELAS EN AGUA CON ACEITE",
+   "ATÚN, S/M, 1 KG. GRANEL. AHUMADO. LOMO",
+   "ATÚN, S/M, 1 KG. GRANEL. AHUMADO. LOMO. ALETA AMARILLA",
+   "ATÚN, S/M, 1 KG. LOMO. PACÍFICO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "U.N.A.M.",
+   "LA COMER",
+   "MERCADO SORIANA",
+   "CHEDRAUI",
+   "BODEGA AURRERA",
+   "BODEGA AURRERA EXPRESS",
+   "SUPERISSSTE",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "tilapia|0901": {
+  "n": 40,
+  "ejemplo": [
+   {
+    "producto": "TILAPIA, S/M, 1 KG. GRANEL. FILETE. CONGELADO",
+    "tipo_producto": "TILAPIA",
+    "precio": 103,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL NEXTENGO",
+    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
+    "colonia": "SANTA CRUZ ACAYUCAN",
+    "cp": "02770",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "TILAPIA, S/M, 1 KG. GRANEL. FILETE. CONGELADO",
+    "tipo_producto": "TILAPIA",
+    "precio": 103,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL NEXTENGO",
+    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
+    "colonia": "SANTA CRUZ ACAYUCAN",
+    "cp": "02770",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "TILAPIA, S/M, 1 KG. GRANEL. FILETE. CONGELADO",
+   "TILAPIA, S/M, 1 KG. FILETE",
+   "TILAPIA, S/M, 1 KG. GRANEL. FILETE. DESCONGELADO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "LA COMER",
+   "CHEDRAUI",
+   "CENTRAL DE ABASTOS",
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "pescado|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "huevo|0901": {
+  "n": 414,
+  "ejemplo": [
+   {
+    "producto": "HUEVO, SAN JUAN, PAQUETE CON 30 BLANCO",
+    "tipo_producto": "HUEVO",
+    "precio": 72,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL TAXQUEÑA",
+    "direccion": "MIGUEL ANGEL DE QUEVEDO 175",
+    "colonia": "OXTOPULCO UNIVERSIDAD",
+    "cp": "04318",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "HUEVO, SAN JUAN, PAQUETE CON 30 BLANCO",
+    "tipo_producto": "HUEVO",
+    "precio": 72,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL TAXQUEÑA",
+    "direccion": "MIGUEL ANGEL DE QUEVEDO 175",
+    "colonia": "OXTOPULCO UNIVERSIDAD",
+    "cp": "04318",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "HUEVO, SAN JUAN, PAQUETE CON 30 BLANCO",
+   "HUEVO, EL CALVARIO, PAQUETE C/30. BLANCO",
+   "HUEVO, AURRERA, PAQUETE C/12. BLANCO",
+   "HUEVO, BACHOCO, PAQUETE CON 12 BLANCO",
+   "HUEVO, SAN JUAN, PAQUETE CON 12 BLANCO",
+   "HUEVO, EL CALVARIO, PAQUETE CON 18. BLANCO",
+   "HUEVO, SAN JUAN, PAQUETE CON 18. BLANCO",
+   "HUEVO, BACHOCO, PAQUETE CON 18 ROJO",
+   "HUEVO, TEHUACAN, PAQUETE CON 18. BLANCO",
+   "HUEVO, BACHOCO, PAQUETE CON 12 ROJO",
+   "HUEVO, TEHUACAN, PAQUETE CON 12 BLANCO",
+   "HUEVO, EL CALVARIO, PAQUETE CON 12 BLANCO",
+   "HUEVO, AURRERA, PAQUETE C/18. BLANCO",
+   "HUEVO, PRECISSIMO, PAQUETE C/12. BLANCO",
+   "HUEVO, BACHOCO, PAQUETE CON 18. BLANCO",
+   "HUEVO, PRECISSIMO, PAQUETE C/18. BLANCO",
+   "HUEVO, TEHUACÁN, PAQUETE C/30. BLANCO",
+   "HUEVO, S/M, 1 KG. GRANEL. BLANCO",
+   "HUEVO, S/M, 1 KG. GRANEL. ROJO",
+   "HUEVO, D´ORO, PAQUETE C/18 BLANCO",
+   "HUEVO, GUADALUPE, PAQUETE CON 18. BLANCO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "BODEGA AURRERA",
+   "LA COMER",
+   "BODEGA AURRERA EXPRESS",
+   "U.N.A.M.",
+   "CHEDRAUI",
+   "MERCADO SORIANA",
+   "CENTRAL DE ABASTOS",
+   "SUPERISSSTE",
+   "MEGA SORIANA",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "leche|0901": {
+  "n": 1169,
+  "ejemplo": [
+   {
+    "producto": "LECHE EN POLVO, NIDO. ENTERA. FORTICRECE, BOLSA 480 GR.",
+    "tipo_producto": "LECHE EN POLVO",
+    "precio": 99,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "BODEGA AURRERA",
+    "establecimiento": "BODEGA AURRERA SUCURSAL LA VIGA",
+    "direccion": "CALZ. DE LA VIGA 136 ESQ. DEL TALLER",
+    "colonia": "LORENZO BOTURINI",
+    "cp": "15820",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "LECHE EN POLVO, NIDO. ENTERA. FORTICRECE, BOLSA 480 GR.",
+    "tipo_producto": "LECHE EN POLVO",
+    "precio": 99,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "BODEGA AURRERA",
+    "establecimiento": "BODEGA AURRERA SUCURSAL LA VIGA",
+    "direccion": "CALZ. DE LA VIGA 136 ESQ. DEL TALLER",
+    "colonia": "LORENZO BOTURINI",
+    "cp": "15820",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "LECHE EN POLVO, NIDO. ENTERA. FORTICRECE, BOLSA 480 GR.",
+   "LECHE EN POLVO, ALPURA. DESLACTOSADA, BOLSA 460 GR. PARCIALMENTE DESCREMADA DESLACTOSADA",
+   "LECHE EN POLVO, NIDO. KINDER, NIÑOS. LATA 360 GR. (ALIMENTO PARA NIÑOS...)",
+   "LECHE EN POLVO, ALPURA. CLÁSICA, BOLSA 460 GR. ENTERA",
+   "LECHE EN POLVO, NIDO. KINDER, NIÑOS. LATA 1.5 KG. (ALIMENTO PARA NIÑOS...)",
+   "LECHE EN POLVO, NIDO. KINDER, LATA 1.4 KG. (ALIMENTO PARA NIÑOS...)",
+   "LECHE EVAPORADA, CARNATION. CLAVEL, LATA 360 GR. EVAPORADA PARCIALMENTE DESCREMADA",
+   "LECHE EVAPORADA, CARNATION. CLAVEL, LATA 360 GR. REDUCIDA EN GRASA",
+   "LECHE CONDENSADA, LA LECHERA. ORIGINAL, LATA 375 GR.",
+   "LECHE CONDENSADA, LA LECHERA, LATA 100 GR.",
+   "LECHE CONDENSADA, LA LECHERA. ORIGINAL, BOTELLA 335 GR. (PLASTICO)",
+   "LECHE CONDENSADA, LA LECHERA. ZERO, LATA 385 GR.",
+   "LECHE PASTEURIZADA, LALA, CAJA 1 LT. SEMIDESCREMADA. DESLACTOSADA",
+   "LECHE PASTEURIZADA, LALA. LIGTH, PARCIALMENTE DESCREMADA. BAJA EN GRASA. CAJA 1 LT.",
+   "LECHE PASTEURIZADA, LALA. ENTERA, CAJA 1 LT.",
+   "LECHE PASTEURIZADA, ALPURA. CLASICA, ENTERA. ENVASE O CAJA 1 LT.",
+   "LECHE ULTRAPASTEURIZADA, SAN MARCOS, ENTERA. CAJA 1 LT.",
+   "LECHE ULTRAPASTEURIZADA, LALA. SEMIDESCREMADA. REDUCIDA EN GRASA, CAJA 1 LT. SEMIDESCREMADA",
+   "LECHE ULTRAPASTEURIZADA, SANTA CLARA. LIGHT, CAJA 1 LT.",
+   "LECHE ULTRAPASTEURIZADA, GREAT VALUE, ENVASE O CAJA 1 LT. ENTERA",
+   "LECHE ULTRAPASTEURIZADA, ALPURA. CLÁSICA, PARCIALMENTE DESCREMADA. CAJA 200 ML.",
+   "LECHE ULTRAPASTEURIZADA, VALLEY FOODS, BOLSA 1 LT. ENTERA",
+   "LECHE ULTRAPASTEURIZADA, VALLEY FOODS, ENVASE O CAJA 1 LT. ENTERA",
+   "LECHE ULTRAPASTEURIZADA, SANTA CLARA. ENTERA, CAJA 1 LT.",
+   "LECHE ULTRAPASTEURIZADA, SAN MARCOS, SEMIDESCREMADA. CAJA 1 LT.",
+   "LECHE ULTRAPASTEURIZADA, LALA. ENTERA, CAJA 1 LT.",
+   "LECHE ULTRAPASTEURIZADA, LALA. LIGHT. BAJA EN GRASA, PARCIALMENTE DESCREMADA. CAJA 1 LT.",
+   "LECHE ULTRAPASTEURIZADA, ALPURA. SEMI, PARCIALMENTE DESCREMADA. CAJA 1 LT.",
+   "LECHE ULTRAPASTEURIZADA, ALPURA. LIGHT, PARCIALMENTE DESCREMADA. CAJA 1 LT.",
+   "LECHE ULTRAPASTEURIZADA, ALPURA. CLÁSICA, PARCIALMENTE DESCREMADA. CAJA 1 LT. AZUL",
+   "LECHE ULTRAPASTEURIZADA, AGUASCALIENTES, ENVASE O CAJA 1 LT. ENTERA",
+   "LECHE ULTRAPASTEURIZADA, SELECTO BRAND, CAJA 1 LT. ENTERA",
+   "LECHE ULTRAPASTEURIZADA, ALPURA.VAQUITAS, SEMIDESCREMADA. CAJA 200 ML. CHOCOPOWER. SABOR CHOCOLATE",
+   "LECHE ULTRAPASTEURIZADA, VACA PINTA, CAJA 1 LT. ENTERA",
+   "LECHE ULTRAPASTEURIZADA, LICONSA. PLUS, CAJA 1 LT. ENTERA",
+   "LECHE EN POLVO, NIDO. ENTERA. FORTICRECE, LATA. 1.08 KG."
+  ],
+  "cadenas": [
+   "BODEGA AURRERA",
+   "LA COMER",
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "BODEGA AURRERA EXPRESS",
+   "CHEDRAUI",
+   "U.N.A.M.",
+   "MERCADO SORIANA",
+   "SUPERISSSTE",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "queso oaxaca|0901": {
+  "n": 348,
+  "ejemplo": [
+   {
+    "producto": "QUESO OAXACA, LALA, PAQUETE 400 GR.",
+    "tipo_producto": "QUESO OAXACA",
+    "precio": 79,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "LA COMER",
+    "establecimiento": "LACOMER SUCURSAL SANTA MARIA LA RIBERA",
+    "direccion": "NOGAL 212, ESQ. CARPIO",
+    "colonia": "SANTA MARIA LA RIBERA",
+    "cp": "06400",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "QUESO OAXACA, LALA, PAQUETE 400 GR.",
+    "tipo_producto": "QUESO OAXACA",
+    "precio": 79,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "LA COMER",
+    "establecimiento": "LACOMER SUCURSAL SANTA MARIA LA RIBERA",
+    "direccion": "NOGAL 212, ESQ. CARPIO",
+    "colonia": "SANTA MARIA LA RIBERA",
+    "cp": "06400",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "QUESO OAXACA, LALA, PAQUETE 400 GR.",
+   "QUESO OAXACA, LOS VOLCANES, BOTE 400 GR.",
+   "QUESO OAXACA, ESMERALDA, PAQUETE 400 GR.",
+   "QUESO OAXACA, NOCHE BUENA, 1 KG. GRANEL",
+   "QUESO OAXACA, LA VILLITA, PAQUETE 400 GR.",
+   "QUESO OAXACA, PARMA. SABORI, 1 KG. GRANEL",
+   "QUESO OAXACA, FRANJA, 1 KG. GRANEL. IMITACIÓN QUESO OAXACA",
+   "QUESO OAXACA, ZWAN, PAQUETE 400 GR.",
+   "QUESO OAXACA, FUD, PAQUETE 400 GR. QUESO OAXACA",
+   "QUESO OAXACA, ESMERALDA, 1 KG. GRANEL",
+   "QUESO OAXACA, LA VILLITA, 1 KG. GRANEL. IMITACIÓN QUESO OAXACA",
+   "QUESO OAXACA, S/M, 1 KG. GRANEL",
+   "QUESO OAXACA, CAPERUCITA, 1 KG. GRANEL",
+   "QUESO OAXACA, EL CIERVO, 1 KG. GRANEL"
+  ],
+  "cadenas": [
+   "LA COMER",
+   "WAL-MART",
+   "BODEGA AURRERA",
+   "BODEGA AURRERA EXPRESS",
+   "HIPERMERCADO SORIANA",
+   "MERCADO PUBLICO",
+   "MERCADO SORIANA",
+   "U.N.A.M.",
+   "CHEDRAUI",
+   "CENTRAL DE ABASTOS",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "queso|0901": {
+  "n": 1690,
+  "ejemplo": [
+   {
+    "producto": "QUESO AMERICANO, ZWAN, PAQUETE 144 GR. QUESO PROCESADO",
+    "tipo_producto": "QUESO AMERICANO",
+    "precio": 37.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA SUCURSAL CANTIL (419)",
+    "direccion": "AZTECAS 270, ESQ. REY MOCTEZUMA",
+    "colonia": "LOS REYES",
+    "cp": "04330",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "QUESO AMERICANO, ZWAN, PAQUETE 144 GR. QUESO PROCESADO",
+    "tipo_producto": "QUESO AMERICANO",
+    "precio": 37.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA SUCURSAL CANTIL (419)",
+    "direccion": "AZTECAS 270, ESQ. REY MOCTEZUMA",
+    "colonia": "LOS REYES",
+    "cp": "04330",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "QUESO AMERICANO, ZWAN, PAQUETE 144 GR. QUESO PROCESADO",
+   "QUESO AMERICANO, CAPERUCITA, PAQUETE 8 REBANADAS (140 GR.) QUESO TIPO AMERICANO",
+   "QUESO AMERICANO, FUD, PAQUETE 140 GR.",
+   "QUESO AMERICANO, KRAFT. SINGLES, PAQUETE 8 REBANADAS  (144 GR.) QUESO TIPO AMERICANO",
+   "QUESO AMERICANO, NUTRI, PAQUETE 140 GR. 8 REBANADAS. IMITACIÓN QUESO AMERICANO",
+   "QUESO AMERICANO, LA VILLITA, PAQUETE 12 REBANADAS (210 GR.) IMITACIÓN QUESO AMERICANO",
+   "QUESO AMERICANO, LALA, PAQUETE 8 REBANADAS (144 GR.) QUESO TIPO AMERICANO",
+   "QUESO AMERICANO, LA VILLITA, PAQUETE 8+2 REBANADAS (175 GR.) IMITACIÓN QUESO AMERICANO",
+   "QUESO AMERICANO, PHILADELPHIA, PAQUETE 144 GR.",
+   "QUESO DE PUERCO, FUD, 1 KG. GRANEL",
+   "QUESO DE PUERCO, PARMA. CAMPESTRE, 1 KG. GRANEL",
+   "QUESO DE PUERCO, ALPINO, 1 KG. GRANEL",
+   "QUESO CHIHUAHUA, LALA, PAQUETE 400 GR.",
+   "QUESO MANCHEGO, CAPERUCITA, 1 KG. GRANEL",
+   "QUESO MANCHEGO, ESMERALDA, 1 KG. GRANEL",
+   "QUESO MANCHEGO, NOCHE BUENA, 1 KG. GRANEL",
+   "QUESO MANCHEGO, LA VILLITA, 1 KG. GRANEL",
+   "QUESO MANCHEGO, CAPERUCITA, PAQUETE 400 GR.",
+   "QUESO MANCHEGO, NOCHE BUENA, PAQUETE 400 GR.",
+   "QUESO MANCHEGO, PARMA. SABORI, 1 KG. GRANEL",
+   "QUESO MANCHEGO, LALA, PAQUETE 400 GR. REBANADO",
+   "QUESO MANCHEGO, NOCHE BUENA, PAQUETE 400 GR. REBANADO",
+   "QUESO MANCHEGO, LA VILLITA, PAQUETE 400 GR. QUESO MANCHEGO. REBANADO",
+   "QUESO MANCHEGO, EL CIERVO, 1 KG. GRANEL",
+   "QUESO MANCHEGO, LALA, PAQUETE 400 GR.",
+   "QUESO MANCHEGO, ZWAN. PREMIUM, PAQUETE 400 GR. REBANADO",
+   "QUESO MANCHEGO, S/M, 1 KG. GRANEL",
+   "QUESO OAXACA, LALA, PAQUETE 400 GR.",
+   "QUESO OAXACA, LOS VOLCANES, BOTE 400 GR.",
+   "QUESO OAXACA, ESMERALDA, PAQUETE 400 GR.",
+   "QUESO OAXACA, NOCHE BUENA, 1 KG. GRANEL",
+   "QUESO OAXACA, LA VILLITA, PAQUETE 400 GR.",
+   "QUESO OAXACA, PARMA. SABORI, 1 KG. GRANEL",
+   "QUESO OAXACA, FRANJA, 1 KG. GRANEL. IMITACIÓN QUESO OAXACA",
+   "QUESO OAXACA, ZWAN, PAQUETE 400 GR.",
+   "QUESO OAXACA, FUD, PAQUETE 400 GR. QUESO OAXACA",
+   "QUESO OAXACA, ESMERALDA, 1 KG. GRANEL",
+   "QUESO OAXACA, LA VILLITA, 1 KG. GRANEL. IMITACIÓN QUESO OAXACA",
+   "QUESO OAXACA, S/M, 1 KG. GRANEL",
+   "QUESO OAXACA, CAPERUCITA, 1 KG. GRANEL"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "LA COMER",
+   "CHEDRAUI",
+   "WAL-MART",
+   "U.N.A.M.",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "BODEGA AURRERA EXPRESS",
+   "MERCADO PUBLICO",
+   "SUPERISSSTE",
+   "CENTRAL DE ABASTOS",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "queso panela|0901": {
+  "n": 362,
+  "ejemplo": [
+   {
+    "producto": "QUESO PANELA, ESMERALDA, 1 KG. GRANEL",
+    "tipo_producto": "QUESO PANELA",
+    "precio": 248,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "LA COMER",
+    "establecimiento": "LACOMER SUCURSAL MIGUEL ANGEL DE QUEVEDO",
+    "direccion": "MIGUEL ANGEL DE QUEVEDO 443, ENTRE MELCHOR OCAMPO Y PSI",
+    "colonia": "ROMERO DE TERREROS",
+    "cp": "04310",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "QUESO PANELA, ESMERALDA, 1 KG. GRANEL",
+    "tipo_producto": "QUESO PANELA",
+    "precio": 248,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "LA COMER",
+    "establecimiento": "LACOMER SUCURSAL MIGUEL ANGEL DE QUEVEDO",
+    "direccion": "MIGUEL ANGEL DE QUEVEDO 443, ENTRE MELCHOR OCAMPO Y PSI",
+    "colonia": "ROMERO DE TERREROS",
+    "cp": "04310",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "QUESO PANELA, ESMERALDA, 1 KG. GRANEL",
+   "QUESO PANELA, LOS VOLCANES, BOTE 400 GR.",
+   "QUESO PANELA, LALA, PAQUETE 400 GR.",
+   "QUESO PANELA, CAPERUCITA, PAQUETE 400 GR.",
+   "QUESO PANELA, FUD, PAQUETE 400 GR. QUESO PANELA",
+   "QUESO PANELA, FUD, 1 KG. GRANEL. QUESO PANELA",
+   "QUESO PANELA, ZWAN. PREMIUM, PAQUETE 400 GR.",
+   "QUESO PANELA, LA VILLITA, PAQUETE 400 GR. (2 PACK)",
+   "QUESO PANELA, ESMERALDA, PAQUETE 400 GR.",
+   "QUESO PANELA, EL CIERVO, 1 KG. GRANEL",
+   "QUESO PANELA, LA VILLITA, 1 KG. GRANEL. IMITACIÓN QUESO PANELA CANASTO",
+   "QUESO PANELA, LA VILLITA, PAQUETE 440 GR. (2 PACK)",
+   "QUESO PANELA, CAPERUCITA, 1 KG. (GRANEL)",
+   "QUESO PANELA, NOCHE BUENA, 1 KG. GRANEL. CREMOSO",
+   "QUESO PANELA, S/M, 1 KG. GRANEL"
+  ],
+  "cadenas": [
+   "LA COMER",
+   "WAL-MART",
+   "MERCADO SORIANA",
+   "U.N.A.M.",
+   "BODEGA AURRERA",
+   "CHEDRAUI",
+   "BODEGA AURRERA EXPRESS",
+   "HIPERMERCADO SORIANA",
+   "MERCADO PUBLICO",
+   "SUPERISSSTE",
+   "CENTRAL DE ABASTOS",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "crema|0901": {
+  "n": 1052,
+  "ejemplo": [
+   {
+    "producto": "CREMA, ALPURA, BOTE 426 ML.",
+    "tipo_producto": "CREMA",
+    "precio": 41.64,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "U.N.A.M.",
+    "establecimiento": "U.N.A.M. SUCURSAL 02 CD UNIVERSITARIA",
+    "direccion": "DALIAS S/N CERCA METRO UNIVERSIDAD",
+    "colonia": "COPILCO EL ALTO",
+    "cp": "04360",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "CREMA, ALPURA, BOTE 426 ML.",
+    "tipo_producto": "CREMA",
+    "precio": 41.64,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "U.N.A.M.",
+    "establecimiento": "U.N.A.M. SUCURSAL 02 CD UNIVERSITARIA",
+    "direccion": "DALIAS S/N CERCA METRO UNIVERSIDAD",
+    "colonia": "COPILCO EL ALTO",
+    "cp": "04360",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "CREMA, ALPURA, BOTE 426 ML.",
+   "CREMA, LALA, VASO 196 GR.",
+   "CREMA, LALA, BOTE 417 GR.",
+   "CREMA, ALPURA, BOTE 426 ML. REDUCIDA EN GRASA",
+   "CREMA, LALA, BOTE 417 GR. REDUCIDA EN GRASA",
+   "CREMA, ALPURA, VASO 200 ML.",
+   "CREMA, ALPURA, BOTE 450 ML.",
+   "CREMA BATIDA, CHANTILLY, BOTE 1 LT. VEGETAL",
+   "CREMA BATIDA, CHANTILLY, BOTE 500 ML. VEGETAL",
+   "CREMA DE CACAHUATE, ALADINO, FRASCO 425 GR. CREMOSA",
+   "CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 90 ML. SABOR ORIGINAL",
+   "CREMA DENTAL, COLGATE. SENSITIVE, TUBO 73 ML. ENCÍAS",
+   "CREMA DENTAL, COLGATE. MAXIMA PROTECCION ANTICARIES, TUBO 125 ML. MAXIMA PROTECCION ANTICARIES. CON CALCIO",
+   "CREMA DENTAL, COLGATE. TRIPLE ACCIÓN, TUBO 100 ML. MENTA ORIGINAL",
+   "CREMA DENTAL, COLGATE, TUBO 75 ML.. SMILES. PARA NIÑOS. MI VILLANO FAVORITO. MINIONS",
+   "CREMA DENTAL, COLGATE, TUBO 75 ML.. SMILES. LIGA DE LA JUSTICIA",
+   "CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 135 ML. SABOR ORIGINAL",
+   "CREMA LÍQUIDA, DOVE, BOTELLA 400 ML. PRO-CERAMIDAS. PIEL SECA",
+   "CREMA LÍQUIDA, LUBRIDERM, BOTELLA 400 ML. HUMECTACIÓN DIARIA. PIEL NORMAL A SECA",
+   "CREMA LÍQUIDA, VASENOL, BOTELLA 400 ML. RECUPERACIÓN ESENCIAL",
+   "CREMA LÍQUIDA, TEATRICAL, BOTELLA 400 ML. CELULAS MADRE. HUMECTANTE",
+   "CREMA LÍQUIDA, PALMOLIVE. NEUTRO BALANCE, BOTELLA 400 ML. PIEL NORMAL",
+   "CREMA LÍQUIDA, NIVEA, BOTELLA 400 ML. SOFT MILK. PIEL SECA",
+   "CREMA LÍQUIDA, JOHNSON´S BABY, BOTELLA 200 ML. PARA BEBÉ. HIDRATANTE. CON GLICERINA",
+   "CREMA LÍQUIDA, HINDS, BOTELLA 500 ML. CLÁSICA. PIEL SECA",
+   "CREMA LÍQUIDA, GOICOECHEA. DIABET TX, BOTELLA 400 ML.",
+   "CREMA LÍQUIDA, NIVEA, BOTELLA 400 ML. EXPRESS HIDRATION. PIEL NORMAL",
+   "CREMA SÓLIDA, POND´S. CLARANT B3, FRASCO 400 GR. PIEL BALANCEADA A SECA",
+   "CREMA SÓLIDA, NIVEA, ENVASE 100 ML.",
+   "CREMA SÓLIDA, NIVEA, FRASCO 400 ML.",
+   "CREMA SÓLIDA, POND´S. S, FRASCO 200 GR.",
+   "CREMA SÓLIDA, POND´S. REJUVENESS, FRASCO 400 GR. CONTRA ARRUGAS",
+   "CREMA SÓLIDA, ATRIX. INTENSIVE, FRASCO 200 ML.",
+   "CREMA PARA ROZADURAS, CAPENT, TUBO 110 GR.",
+   "CREMA, S/M, 1 KG. GRANEL"
+  ],
+  "cadenas": [
+   "U.N.A.M.",
+   "WAL-MART",
+   "LA COMER",
+   "MERCADO SORIANA",
+   "HIPERMERCADO SORIANA",
+   "BODEGA AURRERA EXPRESS",
+   "BODEGA AURRERA",
+   "CHEDRAUI",
+   "MERCADO PUBLICO",
+   "CENTRAL DE ABASTOS",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "yoghurt|0901": {
+  "n": 1278,
+  "ejemplo": [
+   {
+    "producto": "YOGHURT, YOPLAIT, BOTE 1 KG. SABOR NATURAL",
+    "tipo_producto": "YOGHURT",
+    "precio": 44.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "LA COMER",
+    "establecimiento": "LACOMER SUCURSAL SANTA MARIA LA RIBERA",
+    "direccion": "NOGAL 212, ESQ. CARPIO",
+    "colonia": "SANTA MARIA LA RIBERA",
+    "cp": "06400",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "YOGHURT, YOPLAIT, BOTE 1 KG. SABOR NATURAL",
+    "tipo_producto": "YOGHURT",
+    "precio": 44.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "LA COMER",
+    "establecimiento": "LACOMER SUCURSAL SANTA MARIA LA RIBERA",
+    "direccion": "NOGAL 212, ESQ. CARPIO",
+    "colonia": "SANTA MARIA LA RIBERA",
+    "cp": "06400",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "YOGHURT, YOPLAIT, BOTE 1 KG. SABOR NATURAL",
+   "YOGHURT, YOPLAIT, VASO 125 GR. SABOR NATURAL CON ENDULZANTES",
+   "YOGHURT, LALA, BOTE 900 GR. NATURAL. SIN AZÚCAR",
+   "YOGHURT, ALPURA, BOTE 900 GR. NATURAL. SIN AZÚCAR",
+   "YOGHURT, YOPLAIT, BOTE DE 1 KG. NATURAL. BAJO EN GRASA. GRIEGO",
+   "YOGHURT, YOPLAIT, VASO 145 GR. NATURAL. BAJO EN GRASA. GRIEGO",
+   "YOGHURT, LALA, VASO 120 GR. NATURAL ENDULZADO. GRIEGO",
+   "YOGHURT, YOPLAIT, VASO 145 GR. NATURAL. BAJO EN GRASA. 0% AZÚCAR AÑADIDA. GRIEGO",
+   "YOGHURT, OIKOS, BOTE 900 GR. NATURAL CON ENDULZANTES. GRIEGO",
+   "YOGHURT, OIKOS, VASO 150 GR. NATURAL CON ENDULZANTES. GRIEGO",
+   "YOGHURT, OIKOS, BOTE 900 GR. NATURAL. DESLACTOSADO. SIN AZÚCAR AÑADIDA. GRIEGO",
+   "YOGHURT, OIKOS, VASO 150 GR. NATURAL. DESLACTOSADO. SIN AZÚCAR AÑADIDA. GRIEGO",
+   "YOGHURT, DANONE, BOTE 900 GR. FRUTAS SELECTAS. CON TROZOS DE FRESA",
+   "YOGHURT, YOPLAIT, ENVASE 242 GR. BEBIBLE. FRESA",
+   "YOGHURT, DANONE, ENVASE 220 GR. BEBIBLE. FRESA",
+   "YOGHURT, ALPURA, ENVASE 220 GR. BEBIBLE. FRESA",
+   "YOGHURT, ALPURA, BOTE 900 GR. FRESA",
+   "YOGHURT, LALA, BOTE 900 GR. FRESA",
+   "YOGHURT, LALA, VASO 120 GR. FRESA",
+   "YOGHURT, ALPURA, VASO 125 GR. FRESA",
+   "YOGHURT, DANONE, BOTE 900 GR. SABOR FRESA",
+   "YOGHURT, DANONE. ACTIVIA, BOTE 900 GR. CIRUELA PASA",
+   "YOGHURT, YOPLAIT, VASO 125 GR. FRESA",
+   "YOGHURT, YOPLAIT, BOTE 1 KG. FRESA",
+   "YOGHURT, LALA, ENVASE 220 GR. BEBIBLE. FRESA",
+   "YOGHURT, YOPLAIT, ENVASE 220 GR. BEBIBLE. FRESA",
+   "YOGHURT, ALPURA, VASO 120 GR. FRESA",
+   "YOGHURT, NUTRI, BOTE 900 GR. FRESA",
+   "YOGHURT, YOPLAIT, BOTE 1 KG. NATURAL. BAJO EN GRASA. 0% AZÚCAR AÑADIDA. GRIEGO",
+   "YOGHURT, DANONE, BOTE 900 GR. NATURAL. SIN AZÚCAR AÑADIDA",
+   "YOGHURT, LALA, VASO 120 GR. NATURAL. ENDULZADO",
+   "YOGHURT, LALA, BOTE 900 GR. NATURAL ENDULZADO. GRIEGO",
+   "YOGHURT, NUTRI, VASO 120 GR. FRESA"
+  ],
+  "cadenas": [
+   "LA COMER",
+   "BODEGA AURRERA EXPRESS",
+   "BODEGA AURRERA",
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "CHEDRAUI",
+   "MERCADO SORIANA",
+   "U.N.A.M.",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "yogurt|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "yogur|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "tortilla|0901": {
+  "n": 273,
+  "ejemplo": [
+   {
+    "producto": "TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL",
+    "tipo_producto": "TORTILLA DE MAÍZ",
+    "precio": 24,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "TORTILLERIAS TRADICIONALES",
+    "establecimiento": "TORTILLERÍA ESTRELLA",
+    "direccion": "PERSIA 48, ENTRE ASIA Y CAIRO",
+    "colonia": "ROMERO RUBIO",
+    "cp": "15400",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL",
+    "tipo_producto": "TORTILLA DE MAÍZ",
+    "precio": 24,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "TORTILLERIAS TRADICIONALES",
+    "establecimiento": "TORTILLERÍA ESTRELLA",
+    "direccion": "PERSIA 48, ENTRE ASIA Y CAIRO",
+    "colonia": "ROMERO RUBIO",
+    "cp": "15400",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL",
+   "TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL. AMARILLA",
+   "TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL. AMARILLA. CHICA",
+   "TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL. BLANCA. CHICA",
+   "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TIA ROSA, BOLSA 22 PIEZAS",
+   "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR.",
+   "TORTILLA DE MAÍZ, S/M, BOLSA 1 KG."
+  ],
+  "cadenas": [
+   "TORTILLERIAS TRADICIONALES",
+   "MERCADO SORIANA",
+   "CHEDRAUI",
+   "HIPERMERCADO SORIANA",
+   "BODEGA AURRERA EXPRESS",
+   "WAL-MART",
+   "U.N.A.M.",
+   "LA COMER",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "tortilla de harina|0901": {
+  "n": 112,
+  "ejemplo": [
+   {
+    "producto": "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TIA ROSA, BOLSA 22 PIEZAS",
+    "tipo_producto": "TORTILLA DE HARINA DE TRIGO",
+    "precio": 32.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL CONSULADO (418)",
+    "direccion": "RIO CONSULADO 2355, ESQ. CARLOS MARX",
+    "colonia": "SIMON BOLIVAR",
+    "cp": "15410",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TIA ROSA, BOLSA 22 PIEZAS",
+    "tipo_producto": "TORTILLA DE HARINA DE TRIGO",
+    "precio": 32.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL CONSULADO (418)",
+    "direccion": "RIO CONSULADO 2355, ESQ. CARLOS MARX",
+    "colonia": "SIMON BOLIVAR",
+    "cp": "15410",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TIA ROSA, BOLSA 22 PIEZAS",
+   "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR."
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "WAL-MART",
+   "U.N.A.M.",
+   "LA COMER",
+   "MERCADO SORIANA",
+   "CHEDRAUI",
+   "BODEGA AURRERA",
+   "BODEGA AURRERA EXPRESS",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "bolillo|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "pan blanco|0901": {
+  "n": 57,
+  "ejemplo": [
+   {
+    "producto": "PAN BLANCO BOLILLO, S/M, PIEZA",
+    "tipo_producto": "PAN BLANCO BOLILLO",
+    "precio": 2,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "BODEGA AURRERA EXPRESS",
+    "establecimiento": "BODEGA AURRERA EXPRESS SUCURSAL LOS GALLOS",
+    "direccion": "FLORES MAGON 523, ESQ. CIRCUITO INTERIOR",
+    "colonia": "SANTA MARIA LA RIBERA",
+    "cp": "06400",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "PAN BLANCO BOLILLO, S/M, PIEZA",
+    "tipo_producto": "PAN BLANCO BOLILLO",
+    "precio": 2,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "BODEGA AURRERA EXPRESS",
+    "establecimiento": "BODEGA AURRERA EXPRESS SUCURSAL LOS GALLOS",
+    "direccion": "FLORES MAGON 523, ESQ. CIRCUITO INTERIOR",
+    "colonia": "SANTA MARIA LA RIBERA",
+    "cp": "06400",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "PAN BLANCO BOLILLO, S/M, PIEZA"
+  ],
+  "cadenas": [
+   "BODEGA AURRERA EXPRESS",
+   "LA COMER",
+   "MERCADO SORIANA",
+   "HIPERMERCADO SORIANA",
+   "WAL-MART",
+   "CHEDRAUI",
+   "BODEGA AURRERA",
+   "PANADERIAS TRADICIONALES",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "tostada|0901": {
+  "n": 73,
+  "ejemplo": [
+   {
+    "producto": "TOSTADAS DE MAÍZ, SANISSIMO. 100%, CAJA 240 GR. HORNEADAS SIN GRASA. MAÍZ BLANCO",
+    "tipo_producto": "TOSTADAS DE MAÍZ",
+    "precio": 45,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL CUITLAHUAC",
+    "direccion": "CUITLAHUAC 3651, ENTRE TORONJIL Y FERROCARRIL C.",
+    "colonia": "HOGAR Y SEGURIDAD",
+    "cp": "02820",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "TOSTADAS DE MAÍZ, SANISSIMO. 100%, CAJA 240 GR. HORNEADAS SIN GRASA. MAÍZ BLANCO",
+    "tipo_producto": "TOSTADAS DE MAÍZ",
+    "precio": 45,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL CUITLAHUAC",
+    "direccion": "CUITLAHUAC 3651, ENTRE TORONJIL Y FERROCARRIL C.",
+    "colonia": "HOGAR Y SEGURIDAD",
+    "cp": "02820",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "TOSTADAS DE MAÍZ, SANISSIMO. 100%, CAJA 240 GR. HORNEADAS SIN GRASA. MAÍZ BLANCO",
+   "TOSTADAS DE MAÍZ, SANISSIMO. 100%, CAJA 216 GR. HORNEADAS SIN GRASA. MAÍZ BLANCO",
+   "TOSTADAS DE MAÍZ, CHARRAS. ORIGINAL, PAQUETE 300 GR.",
+   "TOSTADAS DE MAÍZ, MILPA REAL, PAQUETE 324 GR. ONDULADAS"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "LA COMER",
+   "BODEGA AURRERA EXPRESS",
+   "MERCADO SORIANA",
+   "U.N.A.M.",
+   "BODEGA AURRERA",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "arroz|0901": {
+  "n": 251,
+  "ejemplo": [
+   {
+    "producto": "ARROZ, VERDE VALLE, BOLSA 1 KG. SUPER EXTRA",
+    "tipo_producto": "ARROZ",
+    "precio": 39,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL PORTAL CENTRO",
+    "direccion": "AV. LORENZO BOTURINI 258, ENTRE FRANCISCO JAVIER CLAVIJ",
+    "colonia": "TRANSITO",
+    "cp": "06820",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "ARROZ, VERDE VALLE, BOLSA 1 KG. SUPER EXTRA",
+    "tipo_producto": "ARROZ",
+    "precio": 39,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL PORTAL CENTRO",
+    "direccion": "AV. LORENZO BOTURINI 258, ENTRE FRANCISCO JAVIER CLAVIJ",
+    "colonia": "TRANSITO",
+    "cp": "06820",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "ARROZ, VERDE VALLE, BOLSA 1 KG. SUPER EXTRA",
+   "ARROZ, SOS, BOLSA 907 GR. SUPER EXTRA. GRUESO",
+   "ARROZ, LA MERCED, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, VERDE VALLE, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, SOS, BOLSA 1 KG. SUPER EXTRA. INTEGRAL",
+   "ARROZ, AURRERA, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, SCHETTINO, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, PRECISSIMO, BOLSA 900 GR. EXTRA. (GRANO LARGO)",
+   "ARROZ, KE PRECIO, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, LA MERCED, BOLSA 907 GR. SUPER EXTRA",
+   "ARROZ, LA MERCED, BOLSA 750 GR. INTEGRAL",
+   "ARROZ, AURRERA, BOLSA 900 GR. EXTRA",
+   "ARROZ, GREAT VALUE, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, S/M, 1 KG. GRANEL. GRANDE ENTERO",
+   "ARROZ, S/M, 1 KG. GRANEL. CHICO QUEBRADO",
+   "ARROZ, EL MILAGRO, BOLSA 900 GR.",
+   "ARROZ, SCHETTINO, BOLSA 1 KG. SUPER EXTRA",
+   "ARROZ, VILLA CAMPO, BOLSA 1 KG. SUPER EXTRA",
+   "ARROZ, SAHUAYO, BOLSA 1 KG.",
+   "ARROZ, 7 SEMILLAS, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, SOS, BOLSA 1 KG. SUPER EXTRA. GRANO LARGO",
+   "ARROZ, SCHETTINO, BOLSA 900 GR. EXTRA",
+   "ARROZ, SCHETTINO, BOLSA 907 GR. SUPER EXTRA"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "CHEDRAUI",
+   "MERCADO SORIANA",
+   "LA COMER",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "frijol|0901": {
+  "n": 789,
+  "ejemplo": [
+   {
+    "producto": "FRIJOL, VERDE VALLE, BOLSA 900 GR. NEGRO",
+    "tipo_producto": "FRIJOL",
+    "precio": 35,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL NEXTENGO",
+    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
+    "colonia": "SANTA CRUZ ACAYUCAN",
+    "cp": "02770",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "FRIJOL, VERDE VALLE, BOLSA 900 GR. NEGRO",
+    "tipo_producto": "FRIJOL",
+    "precio": 35,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL NEXTENGO",
+    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
+    "colonia": "SANTA CRUZ ACAYUCAN",
+    "cp": "02770",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "FRIJOL, VERDE VALLE, BOLSA 900 GR. NEGRO",
+   "FRIJOL, VERDE VALLE, BOLSA 900 GR. PERUANO",
+   "FRIJOL, VERDE VALLE, BOLSA 900 GR. PINTO",
+   "FRIJOL, GREAT VALUE, BOLSA 900 GR. NEGRO. QUERÉTARO",
+   "FRIJOL, VERDE VALLE, BOLSA 900 GR. FLOR DE MAYO",
+   "FRIJOL, GREAT VALUE, BOLSA 900 GR. PINTO",
+   "FRIJOL, GREAT VALUE, BOLSA 900 GR. FLOR DE MAYO",
+   "FRIJOL, SCHETTINO, BOLSA 907 GR. PINTO",
+   "FRIJOL, AURRERA, BOLSA 900 GR. NEGRO. QUERÉTARO",
+   "FRIJOL, SCHETTINO, BOLSA 907 GR. NEGRO. QUERÉTARO",
+   "FRIJOL, VERDE VALLE, BOLSA 900 GR. NEGRO. JAMAPA",
+   "FRIJOL, LA MERCED, BOLSA 750 GR. FLOR DE MAYO",
+   "FRIJOL, LA MERCED, BOLSA 907 GR. NEGRO. QUERÉTARO",
+   "FRIJOL, LA MERCED, BOLSA 907 GR. PINTO",
+   "FRIJOL, SCHETTINO, BOLSA 900 GR. PINTO",
+   "FRIJOL, LA MERCED, BOLSA 900 GR. FLOR DE MAYO",
+   "FRIJOL, S/M, 1 KG. GRANEL. BAYO",
+   "FRIJOL, S/M, 1 KG. GRANEL. FLOR DE MAYO",
+   "FRIJOL, S/M, 1 KG. GRANEL. NEGRO",
+   "FRIJOL, S/M, 1 KG. GRANEL. PERUANO",
+   "FRIJOL, S/M, 1 KG. GRANEL. PINTO",
+   "FRIJOL, SCHETTINO, BOLSA 900 GR. NEGRO. QUERÉTARO",
+   "FRIJOL, LA MERCED, BOLSA 900 GR. NEGRO. QUERÉTARO",
+   "FRIJOL, LA MERCED, BOLSA 900 GR. PINTO (NACIONAL)",
+   "FRIJOL, PRECÍSSIMO, BOLSA 908 GR. PINTO",
+   "FRIJOL, LA MERCED, BOLSA 900 GR. BAYO",
+   "FRIJOL, PRECISSIMO, BOLSA 908 GR. NEGRO",
+   "FRIJOL, BUENO, BOLSA 900 GR. BAYO",
+   "FRIJOL, CHEDRAUI, BOLSA 900 GR. PINTO",
+   "FRIJOLES, LA SIERRA, LATA 560 GR. ENTERO. BAYO",
+   "FRIJOLES, LA SIERRA, BOLSA 400 GR. REFRITOS. BAYOS",
+   "FRIJOLES, ISADORA, BOLSA 400 GR. REFRITOS. NEGROS",
+   "FRIJOLES, LA COSTEÑA, LATA 580 GR. REFRITOS. NEGRO",
+   "FRIJOLES, LA SIERRA, BOLSA 430 GR. REFRITOS. BAYOS",
+   "FRIJOLES, ISADORA, BOLSA 430 GR. REFRITOS. NEGROS",
+   "FRIJOL, VERDE VALLE, BOLSA 1 KG.  NEGRO. JAMAPA",
+   "FRIJOL, VERDE VALLE, BOLSA 1 KG. PINTO",
+   "FRIJOL, VERDE VALLE, BOLSA 1 KG. NEGRO",
+   "FRIJOL, EL LABRADOR, BOLSA 1 KG. NEGRO",
+   "FRIJOL, SELECCIÓN DE LA CASA, BOLSA 1 KG. NEGRO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "BODEGA AURRERA",
+   "BODEGA AURRERA EXPRESS",
+   "LA COMER",
+   "MERCADO PUBLICO",
+   "HIPERMERCADO SORIANA",
+   "MERCADO SORIANA",
+   "CHEDRAUI",
+   "U.N.A.M.",
+   "MEGA SORIANA",
+   "CENTRAL DE ABASTOS",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "lenteja|0901": {
+  "n": 119,
+  "ejemplo": [
+   {
+    "producto": "LENTEJA, SCHETTINO, BOLSA 500 GR.",
+    "tipo_producto": "LENTEJA",
+    "precio": 15,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "BODEGA AURRERA",
+    "establecimiento": "BODEGA AURRERA SUCURSAL LA VIGA",
+    "direccion": "CALZ. DE LA VIGA 136 ESQ. DEL TALLER",
+    "colonia": "LORENZO BOTURINI",
+    "cp": "15820",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "LENTEJA, SCHETTINO, BOLSA 500 GR.",
+    "tipo_producto": "LENTEJA",
+    "precio": 15,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "BODEGA AURRERA",
+    "establecimiento": "BODEGA AURRERA SUCURSAL LA VIGA",
+    "direccion": "CALZ. DE LA VIGA 136 ESQ. DEL TALLER",
+    "colonia": "LORENZO BOTURINI",
+    "cp": "15820",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "LENTEJA, SCHETTINO, BOLSA 500 GR.",
+   "LENTEJA, VERDE VALLE, BOLSA 500 GR.",
+   "LENTEJA, LA MERCED, BOLSA 500 GR.",
+   "LENTEJA, S/M, 1 KG. GRANEL",
+   "LENTEJA, LA MERCED, BOLSA 454 GR.",
+   "LENTEJA, SAN LAZARO, BOLSA 500 GR."
+  ],
+  "cadenas": [
+   "BODEGA AURRERA",
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "LA COMER",
+   "MERCADO PUBLICO",
+   "CHEDRAUI",
+   "CENTRAL DE ABASTOS",
+   "SUPERISSSTE",
+   "MERCADO SORIANA",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "pasta|0901": {
+  "n": 483,
+  "ejemplo": [
+   {
+    "producto": "PASTA PARA SOPA, LA MODERNA, PAQUETE 200 GR. FIDEO 2",
+    "tipo_producto": "PASTA PARA SOPA",
+    "precio": 10.32,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "U.N.A.M.",
+    "establecimiento": "U.N.A.M. SUCURSAL 02 CD UNIVERSITARIA",
+    "direccion": "DALIAS S/N CERCA METRO UNIVERSIDAD",
+    "colonia": "COPILCO EL ALTO",
+    "cp": "04360",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "PASTA PARA SOPA, LA MODERNA, PAQUETE 200 GR. FIDEO 2",
+    "tipo_producto": "PASTA PARA SOPA",
+    "precio": 10.32,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "U.N.A.M.",
+    "establecimiento": "U.N.A.M. SUCURSAL 02 CD UNIVERSITARIA",
+    "direccion": "DALIAS S/N CERCA METRO UNIVERSIDAD",
+    "colonia": "COPILCO EL ALTO",
+    "cp": "04360",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "PASTA PARA SOPA, LA MODERNA, PAQUETE 200 GR. FIDEO 2",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. FIDEO",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. FIDEO MEDIANO",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. MUNICIÓN",
+   "PASTA PARA SOPA, LA MODERNA, PAQUETE 200 GR. SPAGHETTI",
+   "PASTA PARA SOPA, LA MODERNA, PAQUETE 220 GR. SPAGHETTI",
+   "PASTA PARA SOPA, BARILLA, PAQUETE 200 GR. FIDEO NO. 2",
+   "PASTA PARA SOPA, BARILLA, PAQUETE 200 GR. LETRA",
+   "PASTA PARA SOPA, LA MODERNA, PAQUETE 220 GR. FIDEO 2",
+   "PASTA PARA SOPA, BARILLA, PAQUETE 200 GR. LENGÜITA",
+   "PASTA PARA SOPA, KE PRECIO, PAQUETE 200 GR. FIDEO",
+   "PASTA PARA SOPA, LA PERLA, PAQUETE 200 GR. CODO 2",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. CODO",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. CODO MEDIANO",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. SPAGHETTI",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. ESTRELLA",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. LENGUA",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. LETRAS",
+   "PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. PLUMA",
+   "PASTA PARA SOPA, BARILLA, PAQUETE 200 GR. SPAGHETTI NO. 5",
+   "PASTA PARA SOPA, ITALPASTA, PAQUETE 200 GR. FIDEO CORTADO NO. 1",
+   "PASTA PARA SOPA, AURRERA, PAQUETE 200 GR. FIDEO MEDIANO",
+   "PASTA PARA SOPA, LA MODERNA, PAQUETE 220 GR. MOÑITO",
+   "PASTA PARA SOPA, CHEDRAUI, PAQUETE 180 GR. SPAGHETTI",
+   "PASTA PARA SOPA, YEMINA, PAQUETE 220 GR. FIDEO MEDIANO",
+   "PASTA PARA SOPA, LA MODERNA, PAQUETE 200 GR. FIDEO 1",
+   "PASTA PARA SOPA, LA PERLA, PAQUETE 200 GR. SPAGHETTI",
+   "PASTA PARA SOPA, YABER, PAQUETE 200 GR. FIDEO 0"
+  ],
+  "cadenas": [
+   "U.N.A.M.",
+   "HIPERMERCADO SORIANA",
+   "LA COMER",
+   "MERCADO SORIANA",
+   "WAL-MART",
+   "BODEGA AURRERA",
+   "CHEDRAUI",
+   "SUPERISSSTE",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "WAL-MART EXPRESS",
+   "BODEGA AURRERA EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "spaghetti|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "fideo|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "avena|0901": {
+  "n": 194,
+  "ejemplo": [
+   {
+    "producto": "AVENA, 3 MINUTOS, BOTE 400 GR. Y SÉMOLA DE TRIGO. FORTIFICADO",
+    "tipo_producto": "AVENA",
+    "precio": 40,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "BODEGA AURRERA",
+    "establecimiento": "BODEGA AURRERA SUCURSAL LA VIGA",
+    "direccion": "CALZ. DE LA VIGA 136 ESQ. DEL TALLER",
+    "colonia": "LORENZO BOTURINI",
+    "cp": "15820",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "AVENA, 3 MINUTOS, BOTE 400 GR. Y SÉMOLA DE TRIGO. FORTIFICADO",
+    "tipo_producto": "AVENA",
+    "precio": 40,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "BODEGA AURRERA",
+    "establecimiento": "BODEGA AURRERA SUCURSAL LA VIGA",
+    "direccion": "CALZ. DE LA VIGA 136 ESQ. DEL TALLER",
+    "colonia": "LORENZO BOTURINI",
+    "cp": "15820",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "AVENA, 3 MINUTOS, BOTE 400 GR. Y SÉMOLA DE TRIGO. FORTIFICADO",
+   "AVENA, QUAKER OATS, BOTE 475 GR. HOJUELA INTEGRAL",
+   "AVENA, GRANVITA, BOLSA 400 GR.",
+   "AVENA, GRANVITA 0%, CAJA 280 GR. INTEGRAL. FRESAS CON CREMA",
+   "AVENA, GRANVITA 0%, CAJA 280 GR. INTEGRAL. ARÁNDANOS",
+   "AVENA, AVENA 1, BOLSA 400 GR. HOJUELA"
+  ],
+  "cadenas": [
+   "BODEGA AURRERA",
+   "BODEGA AURRERA EXPRESS",
+   "CHEDRAUI",
+   "HIPERMERCADO SORIANA",
+   "WAL-MART",
+   "LA COMER",
+   "U.N.A.M.",
+   "SUPERISSSTE",
+   "MERCADO SORIANA",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "maiz pozolero|0901": {
+  "n": 44,
+  "ejemplo": [
+   {
+    "producto": "MAÍZ POZOLERO, OVARB-LOLITA, BOLSA 1 KG. (ROJA)",
+    "tipo_producto": "MAÍZ POZOLERO",
+    "precio": 48.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "CHEDRAUI",
+    "establecimiento": "CHEDRAUI SUCURSAL ANFORA",
+    "direccion": "ANFORA 71, ESQ. EJE 1 NORTE",
+    "colonia": "MADERO",
+    "cp": "15320",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "MAÍZ POZOLERO, OVARB-LOLITA, BOLSA 1 KG. (ROJA)",
+    "tipo_producto": "MAÍZ POZOLERO",
+    "precio": 48.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "CHEDRAUI",
+    "establecimiento": "CHEDRAUI SUCURSAL ANFORA",
+    "direccion": "ANFORA 71, ESQ. EJE 1 NORTE",
+    "colonia": "MADERO",
+    "cp": "15320",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "MAÍZ POZOLERO, OVARB-LOLITA, BOLSA 1 KG. (ROJA)",
+   "MAÍZ POZOLERO, OVARB, BOLSA 1 KG.",
+   "MAÍZ POZOLERO, S/M, 1 KG. GRANEL. SIN CABEZA"
+  ],
+  "cadenas": [
+   "CHEDRAUI",
+   "HIPERMERCADO SORIANA",
+   "MERCADO SORIANA",
+   "LA COMER",
+   "WAL-MART",
+   "CENTRAL DE ABASTOS",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "pozole|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "pan molido|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "aceite|0901": {
+  "n": 442,
+  "ejemplo": [
+   {
+    "producto": "ACEITE, 1-2-3, BOTELLA 1 LT. VEGETAL",
+    "tipo_producto": "ACEITE",
+    "precio": 41.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA SUCURSAL CANTIL (419)",
+    "direccion": "AZTECAS 270, ESQ. REY MOCTEZUMA",
+    "colonia": "LOS REYES",
+    "cp": "04330",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "ACEITE, 1-2-3, BOTELLA 1 LT. VEGETAL",
+    "tipo_producto": "ACEITE",
+    "precio": 41.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA SUCURSAL CANTIL (419)",
+    "direccion": "AZTECAS 270, ESQ. REY MOCTEZUMA",
+    "colonia": "LOS REYES",
+    "cp": "04330",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "ACEITE, 1-2-3, BOTELLA 1 LT. VEGETAL",
+   "ACEITE, NUTRIOLI, BOTELLA 850 ML. SOYA",
+   "ACEITE, OLEICO, BOTELLA 825 ML. CÁRTAMO",
+   "ACEITE, GRAN TRADICIÓN, BOTELLA 800 ML. VEGETAL",
+   "ACEITE, CAPULLO, BOTELLA 750 ML. CANOLA",
+   "ACEITE, NUTRIOLI, BOTELLA 946 ML. SOYA",
+   "ACEITE, PRECÍSSIMO, BOTELLA 850 ML. VEGETAL",
+   "ACEITE, CAPULLO, BOTELLA 840 ML. CANOLA",
+   "ACEITE, SABROSANO, BOTELLA 850 ML. VEGETAL. SABOR MANTEQUILLA",
+   "ACEITE, CHEDRAUI, BOTELLA 800 ML. MIXTO",
+   "ACEITE, AVE, BOTELLA 850 ML. VEGETAL",
+   "ACEITE, AURRERA, BOTELLA 800 ML. VEGETAL",
+   "ACEITE, MAZOLA, BOTELLA 765 ML. MAÍZ",
+   "ACEITE, CANOIL, BOTELLA 946 ML. CANOLA",
+   "ACEITE, KE PRECIO, BOTELLA 850 ML. VEGETAL",
+   "ACEITE DE OLIVA, BORGES. ORIGINAL, BOTELLA 500 ML. EXTRA VIRGEN (ETIQ. VERDE).",
+   "ACEITE DE OLIVA, CARBONELL. CLÁSICO, LATA 950 ML.",
+   "ACEITE DE OLIVA, CARBONELL. CLÁSICO, LATA 450 ML.",
+   "ACEITE DE OLIVA, CARBONELL, BOTELLA 750 ML. EXTRA VIRGEN",
+   "ACEITE DE OLIVA, FILIPPO BERIO, BOTELLA 750 ML. (IDEAL PARA COCINAR SALSAS Y PASTAS)",
+   "ACEITE, GRAN TRADICIÓN, BOTELLA 1 LT. VEGETAL",
+   "ACEITE, MARAVILLA, BOTELLA 1 LT. CANOLA",
+   "ACEITE, 1-2-3, BOTELLA 500 ML. MIXTO",
+   "ACEITE, SARITA, BOTELLA 850 ML. SOYA",
+   "ACEITE, GRAN TRADICIÓN, BOTELLA 850 ML. VEGETAL",
+   "ACEITE DE OLIVA, BORGES, BOTELLA 500 ML. (ETIQ. AMARILLA).",
+   "ACEITE, GREAT VALUE, BOTELLA 946 ML. MIXTO"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "WAL-MART",
+   "MERCADO SORIANA",
+   "CHEDRAUI",
+   "U.N.A.M.",
+   "LA COMER",
+   "BODEGA AURRERA",
+   "BODEGA AURRERA EXPRESS",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "chile chipotle|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "chipotle|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "chiles|0901": {
+  "n": 524,
+  "ejemplo": [
+   {
+    "producto": "CHILES, LA COSTEÑA, LATA 380 GR. JALAPEÑOS RAJAS",
+    "tipo_producto": "CHILES",
+    "precio": 26.05,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "U.N.A.M.",
+    "establecimiento": "U.N.A.M. SUCURSAL 02 CD UNIVERSITARIA",
+    "direccion": "DALIAS S/N CERCA METRO UNIVERSIDAD",
+    "colonia": "COPILCO EL ALTO",
+    "cp": "04360",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "CHILES, LA COSTEÑA, LATA 380 GR. JALAPEÑOS RAJAS",
+    "tipo_producto": "CHILES",
+    "precio": 26.05,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "U.N.A.M.",
+    "establecimiento": "U.N.A.M. SUCURSAL 02 CD UNIVERSITARIA",
+    "direccion": "DALIAS S/N CERCA METRO UNIVERSIDAD",
+    "colonia": "COPILCO EL ALTO",
+    "cp": "04360",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "CHILES, LA COSTEÑA, LATA 380 GR. JALAPEÑOS RAJAS",
+   "CHILES, CLEMENTE JACQUES, LATA 380 GR. JALAPEÑOS RAJAS",
+   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 220 GR. CHIPOTLES EN ADOBO",
+   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA COSTEÑA, LATA 105 GR. JALAPEÑO RAJAS",
+   "CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS",
+   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO RAJAS",
+   "CHILES, LA COSTEÑA, LATA 220 GR. SERRANO",
+   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, LA MORENA, LATA 380 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 340 GR. JALAPEÑO RAJAS",
+   "CHILES, LA COSTEÑA, LATA 105 GR. SERRANO",
+   "CHILES, LA MORENA, LATA 210 GR. JALAPEÑOS EN ESCABECHE"
+  ],
+  "cadenas": [
+   "U.N.A.M.",
+   "LA COMER",
+   "CHEDRAUI",
+   "BODEGA AURRERA",
+   "HIPERMERCADO SORIANA",
+   "WAL-MART",
+   "BODEGA AURRERA EXPRESS",
+   "SUPERISSSTE",
+   "CENTRAL DE ABASTOS",
+   "MERCADO SORIANA",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "guajillo|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "chile seco|0901": {
+  "n": 69,
+  "ejemplo": [
+   {
+    "producto": "CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
+    "tipo_producto": "CHILE SECO",
+    "precio": 38.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA SUCURSAL CANTIL (419)",
+    "direccion": "AZTECAS 270, ESQ. REY MOCTEZUMA",
+    "colonia": "LOS REYES",
+    "cp": "04330",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
+    "tipo_producto": "CHILE SECO",
+    "precio": 38.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA SUCURSAL CANTIL (419)",
+    "direccion": "AZTECAS 270, ESQ. REY MOCTEZUMA",
+    "colonia": "LOS REYES",
+    "cp": "04330",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
+   "CHILE SECO, S/M, 1 KG. GRANEL. PASILLA",
+   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. PASILLA",
+   "CHILE SECO, S/M, 1 KG. GRANEL. GUAJILLO",
+   "CHILE SECO, S/M, 1 KG. GRANEL. CASCABEL",
+   "CHILE SECO, S/M, 1 KG. GRANEL. ANCHO",
+   "CHILE SECO, SAN LAZARO, BOLSA 100 GR. ANCHO",
+   "CHILE SECO, SAN LAZARO, BOLSA 100 GR. PASILLA"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "MERCADO PUBLICO",
+   "LA COMER",
+   "CHEDRAUI",
+   "CENTRAL DE ABASTOS",
+   "SORIANA SUPER"
+  ]
+ },
+ "chile|0901": {
+  "n": 835,
+  "ejemplo": [
+   {
+    "producto": "CHILE FRESCO, S/M, 1 KG. GUERO-LARGO",
+    "tipo_producto": "CHILE FRESCO",
+    "precio": 129,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL NEXTENGO",
+    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
+    "colonia": "SANTA CRUZ ACAYUCAN",
+    "cp": "02770",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "CHILE FRESCO, S/M, 1 KG. GUERO-LARGO",
+    "tipo_producto": "CHILE FRESCO",
+    "precio": 129,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL NEXTENGO",
+    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
+    "colonia": "SANTA CRUZ ACAYUCAN",
+    "cp": "02770",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "CHILE FRESCO, S/M, 1 KG. GUERO-LARGO",
+   "CHILE FRESCO, S/M, 1 KG. POBLANO O PARA RELLENAR",
+   "CHILE FRESCO, S/M, 1 KG. SERRANO",
+   "CHILE FRESCO, S/M, 1 KG. DE ARBOL (VERDE)",
+   "CHILE FRESCO, S/M, 1 KG. HABANERO",
+   "CHILE FRESCO, S/M, 1 KG. JALAPEÑO O CUARESMEÑO",
+   "CHILE FRESCO, S/M, 1 KG. CARIBE",
+   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
+   "CHILE SECO, S/M, 1 KG. GRANEL. PASILLA",
+   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. PASILLA",
+   "CHILE SECO, S/M, 1 KG. GRANEL. GUAJILLO",
+   "CHILE SECO, S/M, 1 KG. GRANEL. CASCABEL",
+   "CHILE SECO, S/M, 1 KG. GRANEL. ANCHO",
+   "CHILES, LA COSTEÑA, LATA 380 GR. JALAPEÑOS RAJAS",
+   "CHILES, CLEMENTE JACQUES, LATA 380 GR. JALAPEÑOS RAJAS",
+   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 220 GR. CHIPOTLES EN ADOBO",
+   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA COSTEÑA, LATA 105 GR. JALAPEÑO RAJAS",
+   "CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS",
+   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO RAJAS",
+   "CHILES, LA COSTEÑA, LATA 220 GR. SERRANO",
+   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, LA MORENA, LATA 380 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 340 GR. JALAPEÑO RAJAS",
+   "CHILES, LA COSTEÑA, LATA 105 GR. SERRANO",
+   "CHILES, LA MORENA, LATA 210 GR. JALAPEÑOS EN ESCABECHE",
+   "CHILE FRESCO, S/M, 250 GR. BOLSA. JALAPEÑO O CUARESMEÑO",
+   "CHILE SECO, SAN LAZARO, BOLSA 100 GR. ANCHO",
+   "CHILE SECO, SAN LAZARO, BOLSA 100 GR. PASILLA"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "MERCADO PUBLICO",
+   "CHEDRAUI",
+   "U.N.A.M.",
+   "MERCADO SORIANA",
+   "LA COMER",
+   "BODEGA AURRERA",
+   "BODEGA AURRERA EXPRESS",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "papa|0901": {
+  "n": 565,
+  "ejemplo": [
+   {
+    "producto": "PAPAS FRITAS Y SIMILARES, BARCEL, BOLSA 150 GR. CHIP´S. JALAPEÑO",
+    "tipo_producto": "PAPAS FRITAS Y SIMILARES",
+    "precio": 47.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "LA COMER",
+    "establecimiento": "LACOMER SUCURSAL SANTA MARIA LA RIBERA",
+    "direccion": "NOGAL 212, ESQ. CARPIO",
+    "colonia": "SANTA MARIA LA RIBERA",
+    "cp": "06400",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "PAPAS FRITAS Y SIMILARES, BARCEL, BOLSA 150 GR. CHIP´S. JALAPEÑO",
+    "tipo_producto": "PAPAS FRITAS Y SIMILARES",
+    "precio": 47.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "LA COMER",
+    "establecimiento": "LACOMER SUCURSAL SANTA MARIA LA RIBERA",
+    "direccion": "NOGAL 212, ESQ. CARPIO",
+    "colonia": "SANTA MARIA LA RIBERA",
+    "cp": "06400",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "PAPAS FRITAS Y SIMILARES, BARCEL, BOLSA 150 GR. CHIP´S. JALAPEÑO",
+   "PAPAS FRITAS Y SIMILARES, BARCEL, BOLSA 150 GR. CHIP´S. FUEGO CHILE Y LIMÓN",
+   "PAPAS FRITAS Y SIMILARES, SABRITAS, BOLSA 223 GR. DORITOS. NACHOS",
+   "PAPAS FRITAS Y SIMILARES, SABRITAS, BOLSA 160 GR. PAPAS FRITAS. CON SAL. ORIGINAL",
+   "PAPAS FRITAS Y SIMILARES, SABRITAS, BOLSA 208 GR. PAKETAXO. QUEXO",
+   "PAPAS FRITAS Y SIMILARES, BARCEL, BOLSA 160 GR. CHIP´S. PAPAS FRITAS. SABOR SAL",
+   "PAPAS FRITAS Y SIMILARES, BARCEL, BOLSA 160 GR. CHIP´S. PAPAS FRITAS. JALAPEÑO",
+   "PAPAS FRITAS Y SIMILARES, BARCEL, BOLSA 160 GR. CHIP´S. PAPAS FRITAS. FUEGO CHILE Y LIMÓN",
+   "PAPAS FRITAS Y SIMILARES, SABRITAS, BOLSA 225 GR. RANCHERITOS",
+   "PAPAS FRITAS Y SIMILARES, SABRITAS, BOLSA 185 GR. RUFFLES. ORIGINAL. (AZUL)",
+   "PAPAS FRITAS Y SIMILARES, BARCEL, BOLSA 150 GR. CHIP´S. SABOR SAL",
+   "PAPAS FRITAS Y SIMILARES, SABRITAS, BOLSA 145 GR. CHEETOS TORCIDITOS",
+   "PAPAS FRITAS Y SIMILARES, SABRITAS, BOLSA 185 GR. CHURRUMAIS. CON LIMONCITO",
+   "PAPAS FRITAS Y SIMILARES, SABRITAS, BOLSA 170 GR. FRITOS. SAL Y LIMÓN",
+   "PAPAS FRITAS Y SIMILARES, SABRITAS, BOLSA 400 GR. TOSTITOS. NACHOS",
+   "PAPAYA, S/M, 1 KG. MARADOL",
+   "PAPA, S/M, 1 KG. EN MALLA. ALFA/BLANCA",
+   "PAPA, S/M, 1 KG. ALFA/BLANCA"
+  ],
+  "cadenas": [
+   "LA COMER",
+   "BODEGA AURRERA",
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "U.N.A.M.",
+   "CHEDRAUI",
+   "BODEGA AURRERA EXPRESS",
+   "MERCADO SORIANA",
+   "MERCADO PUBLICO",
+   "SUPERISSSTE",
+   "MEGA SORIANA",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "jitomate|0901": {
+  "n": 36,
+  "ejemplo": [
+   {
+    "producto": "JITOMATE, S/M, 1 KG. GRANEL. SALADETTE/HUAJE O TOMATE SALADETTE/HUAJE. PRIMERA",
+    "tipo_producto": "JITOMATE",
+    "precio": 40,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "CENTRAL DE ABASTOS",
+    "establecimiento": "CENTRAL DE ABASTO IZTAPALAPA (IZTAPALAPA)",
+    "direccion": "PROL. EJE 6 SUR 520, ESQ. CANAL DE APATLACO",
+    "colonia": "EJIDOS DEL MORAL",
+    "cp": "09030",
+    "municipio": "Iztapalapa",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "JITOMATE, S/M, 1 KG. GRANEL. SALADETTE/HUAJE O TOMATE SALADETTE/HUAJE. PRIMERA",
+    "tipo_producto": "JITOMATE",
+    "precio": 40,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "CENTRAL DE ABASTOS",
+    "establecimiento": "CENTRAL DE ABASTO IZTAPALAPA (IZTAPALAPA)",
+    "direccion": "PROL. EJE 6 SUR 520, ESQ. CANAL DE APATLACO",
+    "colonia": "EJIDOS DEL MORAL",
+    "cp": "09030",
+    "municipio": "Iztapalapa",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "JITOMATE, S/M, 1 KG. GRANEL. SALADETTE/HUAJE O TOMATE SALADETTE/HUAJE. PRIMERA",
+   "JITOMATE, S/M, 1 KG. SALADETTE/ HUAJE O TOMATE SALADETTE/ HUAJE",
+   "JITOMATE, S/M, 1 KG. BOLA/SINALOA O TOMATE BOLA",
+   "JITOMATE, S/M, 1 KG. GRANEL. SALADETTE/HUAJE O TOMATE SALADETTE/HUAJE. SEGUNDA",
+   "JITOMATE, S/M, 1 KG. EN MALLA. SALADETTE/HUAJE O TOMATE SALADETTE/HUAJE"
+  ],
+  "cadenas": [
+   "CENTRAL DE ABASTOS",
+   "MERCADO PUBLICO",
+   "U.N.A.M.",
+   "LA COMER",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA EXPRESS",
+   "MEGA SORIANA",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "cebolla|0901": {
+  "n": 155,
+  "ejemplo": [
+   {
+    "producto": "CEBOLLA, S/M, 1 KG. MORADA",
+    "tipo_producto": "CEBOLLA",
+    "precio": 65,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "BODEGA AURRERA",
+    "establecimiento": "BODEGA AURRERA SUCURSAL LA VIGA",
+    "direccion": "CALZ. DE LA VIGA 136 ESQ. DEL TALLER",
+    "colonia": "LORENZO BOTURINI",
+    "cp": "15820",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "CEBOLLA, S/M, 1 KG. MORADA",
+    "tipo_producto": "CEBOLLA",
+    "precio": 65,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "BODEGA AURRERA",
+    "establecimiento": "BODEGA AURRERA SUCURSAL LA VIGA",
+    "direccion": "CALZ. DE LA VIGA 136 ESQ. DEL TALLER",
+    "colonia": "LORENZO BOTURINI",
+    "cp": "15820",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "CEBOLLA, S/M, 1 KG. MORADA",
+   "CEBOLLA, S/M, 1 KG. BLANCA SIN RABO",
+   "CEBOLLA, S/M, MANOJO. CAMBRAY",
+   "CEBOLLA, S/M, 1 KG. EN MALLA. BLANCA SIN RABO",
+   "CEBOLLA, S/M, 1 KG. AMARILLA"
+  ],
+  "cadenas": [
+   "BODEGA AURRERA",
+   "MERCADO PUBLICO",
+   "HIPERMERCADO SORIANA",
+   "WAL-MART",
+   "BODEGA AURRERA EXPRESS",
+   "LA COMER",
+   "CHEDRAUI",
+   "U.N.A.M.",
+   "MERCADO SORIANA",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "ajo|0901": {
+  "n": 95,
+  "ejemplo": [
+   {
+    "producto": "AJO, MC CORMICK, FRASCO 77 GR. EN POLVO",
+    "tipo_producto": "AJO",
+    "precio": 47.7,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "LA COMER",
+    "establecimiento": "LACOMER SUCURSAL MIGUEL ANGEL DE QUEVEDO",
+    "direccion": "MIGUEL ANGEL DE QUEVEDO 443, ENTRE MELCHOR OCAMPO Y PSI",
+    "colonia": "ROMERO DE TERREROS",
+    "cp": "04310",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "AJO, MC CORMICK, FRASCO 77 GR. EN POLVO",
+    "tipo_producto": "AJO",
+    "precio": 47.7,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "LA COMER",
+    "establecimiento": "LACOMER SUCURSAL MIGUEL ANGEL DE QUEVEDO",
+    "direccion": "MIGUEL ANGEL DE QUEVEDO 443, ENTRE MELCHOR OCAMPO Y PSI",
+    "colonia": "ROMERO DE TERREROS",
+    "cp": "04310",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "AJO, MC CORMICK, FRASCO 77 GR. EN POLVO",
+   "AJO, S/M, 1 KG. O AJO MORADO",
+   "AJONJOLÍ, VERDE VALLE, SOBRE 100 GR.",
+   "AJONJOLÍ, S/M, 1 KG. GRANEL",
+   "AJONJOLÍ, CATARINO´S, SOBRE 100 GR."
+  ],
+  "cadenas": [
+   "LA COMER",
+   "WAL-MART",
+   "CHEDRAUI",
+   "HIPERMERCADO SORIANA",
+   "U.N.A.M.",
+   "MERCADO SORIANA",
+   "MERCADO PUBLICO",
+   "CENTRAL DE ABASTOS",
+   "BODEGA AURRERA",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "chile serrano|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "cilantro|0901": {
+  "n": 57,
+  "ejemplo": [
+   {
+    "producto": "CILANTRO, S/M, MANOJO",
+    "tipo_producto": "CILANTRO",
+    "precio": 10,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL TAXQUEÑA",
+    "direccion": "MIGUEL ANGEL DE QUEVEDO 175",
+    "colonia": "OXTOPULCO UNIVERSIDAD",
+    "cp": "04318",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "CILANTRO, S/M, MANOJO",
+    "tipo_producto": "CILANTRO",
+    "precio": 10,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL TAXQUEÑA",
+    "direccion": "MIGUEL ANGEL DE QUEVEDO 175",
+    "colonia": "OXTOPULCO UNIVERSIDAD",
+    "cp": "04318",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "CILANTRO, S/M, MANOJO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "HIPERMERCADO SORIANA",
+   "CHEDRAUI",
+   "LA COMER",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "BODEGA AURRERA EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "lechuga|0901": {
+  "n": 93,
+  "ejemplo": [
+   {
+    "producto": "LECHUGA, S/M, PZA. ROMANA",
+    "tipo_producto": "LECHUGA",
+    "precio": 24,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "BODEGA AURRERA EXPRESS",
+    "establecimiento": "BODEGA AURRERA EXPRESS SUCURSAL LOS GALLOS",
+    "direccion": "FLORES MAGON 523, ESQ. CIRCUITO INTERIOR",
+    "colonia": "SANTA MARIA LA RIBERA",
+    "cp": "06400",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "LECHUGA, S/M, PZA. ROMANA",
+    "tipo_producto": "LECHUGA",
+    "precio": 24,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "BODEGA AURRERA EXPRESS",
+    "establecimiento": "BODEGA AURRERA EXPRESS SUCURSAL LOS GALLOS",
+    "direccion": "FLORES MAGON 523, ESQ. CIRCUITO INTERIOR",
+    "colonia": "SANTA MARIA LA RIBERA",
+    "cp": "06400",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "LECHUGA, S/M, PZA. ROMANA",
+   "LECHUGA, S/M, PZA. OREJONA O LARGA"
+  ],
+  "cadenas": [
+   "BODEGA AURRERA EXPRESS",
+   "CHEDRAUI",
+   "LA COMER",
+   "WAL-MART",
+   "BODEGA AURRERA",
+   "MERCADO PUBLICO",
+   "HIPERMERCADO SORIANA",
+   "MERCADO SORIANA",
+   "CENTRAL DE ABASTOS",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "aguacate|0901": {
+  "n": 62,
+  "ejemplo": [
+   {
+    "producto": "AGUACATE, S/M, 1 KG. HASS",
+    "tipo_producto": "AGUACATE",
+    "precio": 40,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "BODEGA AURRERA EXPRESS",
+    "establecimiento": "BODEGA AURRERA EXPRESS SUCURSAL LOS GALLOS",
+    "direccion": "FLORES MAGON 523, ESQ. CIRCUITO INTERIOR",
+    "colonia": "SANTA MARIA LA RIBERA",
+    "cp": "06400",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "AGUACATE, S/M, 1 KG. HASS",
+    "tipo_producto": "AGUACATE",
+    "precio": 40,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "BODEGA AURRERA EXPRESS",
+    "establecimiento": "BODEGA AURRERA EXPRESS SUCURSAL LOS GALLOS",
+    "direccion": "FLORES MAGON 523, ESQ. CIRCUITO INTERIOR",
+    "colonia": "SANTA MARIA LA RIBERA",
+    "cp": "06400",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "AGUACATE, S/M, 1 KG. HASS"
+  ],
+  "cadenas": [
+   "BODEGA AURRERA EXPRESS",
+   "WAL-MART",
+   "LA COMER",
+   "U.N.A.M.",
+   "MERCADO SORIANA",
+   "CHEDRAUI",
+   "MERCADO PUBLICO",
+   "HIPERMERCADO SORIANA",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "limon|0901": {
+  "n": 83,
+  "ejemplo": [
+   {
+    "producto": "LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O LIMON COLIMA",
+    "tipo_producto": "LIMÓN",
+    "precio": 39.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "LA COMER",
+    "establecimiento": "LACOMER SUCURSAL MIGUEL ANGEL DE QUEVEDO",
+    "direccion": "MIGUEL ANGEL DE QUEVEDO 443, ENTRE MELCHOR OCAMPO Y PSI",
+    "colonia": "ROMERO DE TERREROS",
+    "cp": "04310",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O LIMON COLIMA",
+    "tipo_producto": "LIMÓN",
+    "precio": 39.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "LA COMER",
+    "establecimiento": "LACOMER SUCURSAL MIGUEL ANGEL DE QUEVEDO",
+    "direccion": "MIGUEL ANGEL DE QUEVEDO 443, ENTRE MELCHOR OCAMPO Y PSI",
+    "colonia": "ROMERO DE TERREROS",
+    "cp": "04310",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O LIMON COLIMA",
+   "LIMÓN, S/M, 1 KG. AGRIO SIN SEMILLA O LIMON PERSA",
+   "LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O COLIMA. UPC 4306. EN MALLA",
+   "LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O COLIMA. EN MALLA",
+   "LIMÓN, S/M, 1 KG. EN MALLA. AGRIO SIN SEMILLA"
+  ],
+  "cadenas": [
+   "LA COMER",
+   "U.N.A.M.",
+   "WAL-MART",
+   "BODEGA AURRERA",
+   "BODEGA AURRERA EXPRESS",
+   "MERCADO PUBLICO",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "SUPERISSSTE",
+   "HIPERMERCADO SORIANA",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "calabacita|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "calabaza|0901": {
+  "n": 59,
+  "ejemplo": [
+   {
+    "producto": "CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)",
+    "tipo_producto": "CALABAZA",
+    "precio": 39.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL CUITLAHUAC (253)",
+    "direccion": "CUITLAHUAC 372, ENTRE PANTACO Y RABAI",
+    "colonia": "JARDÍN AZPETIA",
+    "cp": "02530",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)",
+    "tipo_producto": "CALABAZA",
+    "precio": 39.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL CUITLAHUAC (253)",
+    "direccion": "CUITLAHUAC 372, ENTRE PANTACO Y RABAI",
+    "colonia": "JARDÍN AZPETIA",
+    "cp": "02530",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "WAL-MART",
+   "CHEDRAUI",
+   "BODEGA AURRERA",
+   "LA COMER",
+   "MERCADO SORIANA",
+   "MERCADO PUBLICO",
+   "U.N.A.M.",
+   "CENTRAL DE ABASTOS",
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "zanahoria|0901": {
+  "n": 78,
+  "ejemplo": [
+   {
+    "producto": "ZANAHORIA, S/M, 1 KG. MEDIANA",
+    "tipo_producto": "ZANAHORIA",
+    "precio": 14.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL CONSULADO (418)",
+    "direccion": "RIO CONSULADO 2355, ESQ. CARLOS MARX",
+    "colonia": "SIMON BOLIVAR",
+    "cp": "15410",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "ZANAHORIA, S/M, 1 KG. MEDIANA",
+    "tipo_producto": "ZANAHORIA",
+    "precio": 14.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL CONSULADO (418)",
+    "direccion": "RIO CONSULADO 2355, ESQ. CARLOS MARX",
+    "colonia": "SIMON BOLIVAR",
+    "cp": "15410",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "ZANAHORIA, S/M, 1 KG. MEDIANA",
+   "ZANAHORIA, S/M, 1 KG. GRANDE",
+   "ZANAHORIA, S/M, 1 KG. EN MALLA"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "CHEDRAUI",
+   "WAL-MART",
+   "BODEGA AURRERA",
+   "LA COMER",
+   "MERCADO PUBLICO",
+   "U.N.A.M.",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "SUPERISSSTE",
+   "MERCADO SORIANA",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "nopal|0901": {
+  "n": 41,
+  "ejemplo": [
+   {
+    "producto": "NOPAL, S/M, 1 KG. SIN ESPINAS",
+    "tipo_producto": "NOPAL",
+    "precio": 34.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "LA COMER",
+    "establecimiento": "LACOMER SUCURSAL SANTA MARIA LA RIBERA",
+    "direccion": "NOGAL 212, ESQ. CARPIO",
+    "colonia": "SANTA MARIA LA RIBERA",
+    "cp": "06400",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "NOPAL, S/M, 1 KG. SIN ESPINAS",
+    "tipo_producto": "NOPAL",
+    "precio": 34.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "LA COMER",
+    "establecimiento": "LACOMER SUCURSAL SANTA MARIA LA RIBERA",
+    "direccion": "NOGAL 212, ESQ. CARPIO",
+    "colonia": "SANTA MARIA LA RIBERA",
+    "cp": "06400",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "NOPAL, S/M, 1 KG. SIN ESPINAS"
+  ],
+  "cadenas": [
+   "LA COMER",
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "U.N.A.M.",
+   "BODEGA AURRERA",
+   "CHEDRAUI",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "platano|0901": {
+  "n": 72,
+  "ejemplo": [
+   {
+    "producto": "PLÁTANO, S/M, 1 KG. MACHO",
+    "tipo_producto": "PLÁTANO",
+    "precio": 42.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL PORTAL CENTRO",
+    "direccion": "AV. LORENZO BOTURINI 258, ENTRE FRANCISCO JAVIER CLAVIJ",
+    "colonia": "TRANSITO",
+    "cp": "06820",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "PLÁTANO, S/M, 1 KG. MACHO",
+    "tipo_producto": "PLÁTANO",
+    "precio": 42.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL PORTAL CENTRO",
+    "direccion": "AV. LORENZO BOTURINI 258, ENTRE FRANCISCO JAVIER CLAVIJ",
+    "colonia": "TRANSITO",
+    "cp": "06820",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "PLÁTANO, S/M, 1 KG. MACHO",
+   "PLÁTANO, S/M, 1 KG. TABASCO/CHIAPAS/ROATÁN/PORTALIMÓN",
+   "PLÁTANO, S/M, 1 KG. PENCA. TABASCO/CHIAPAS/ROATÁN/PORTALIMÓN"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "LA COMER",
+   "MERCADO PUBLICO",
+   "BODEGA AURRERA EXPRESS",
+   "U.N.A.M.",
+   "BODEGA AURRERA",
+   "CHEDRAUI",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "manzana|0901": {
+  "n": 208,
+  "ejemplo": [
+   {
+    "producto": "MANZANA, S/M, 1 KG. GRANEL. GOLDEN DELICIOUS",
+    "tipo_producto": "MANZANA",
+    "precio": 49.8,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL CUITLAHUAC (253)",
+    "direccion": "CUITLAHUAC 372, ENTRE PANTACO Y RABAI",
+    "colonia": "JARDÍN AZPETIA",
+    "cp": "02530",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "MANZANA, S/M, 1 KG. GRANEL. GOLDEN DELICIOUS",
+    "tipo_producto": "MANZANA",
+    "precio": 49.8,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL CUITLAHUAC (253)",
+    "direccion": "CUITLAHUAC 372, ENTRE PANTACO Y RABAI",
+    "colonia": "JARDÍN AZPETIA",
+    "cp": "02530",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "MANZANA, S/M, 1 KG. GRANEL. GOLDEN DELICIOUS",
+   "MANZANA, S/M, 1 KG. ROYAL GALA",
+   "MANZANA, S/M, 1 KG. GOLDEN",
+   "MANZANA, S/M, 1 KG. GRANNY SMITH",
+   "MANZANA, MARKETSIDE, 1 KG. RED DELICIOUS",
+   "MANZANA, S/M, 1 KG. RED DELICIOUS/MANZANA ROJA/ MANZANA ROJA MEDIANA/ MANZANA ROJA AMERICANA/",
+   "MANZANA, VALLEY FOODS. FRESH, 1 KG. RED DELICIOUS",
+   "MANZANA, VALLEY FOODS. FRESH, 1.36 KG. RED DELICIOUS. EN BOLSA",
+   "MANZANA, S/M, 1 KG. GRANEL. GOLDEN. MEDIANA",
+   "MANZANA, S/M, 1 KG. GRANEL. EN MALLA"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "CHEDRAUI",
+   "MERCADO PUBLICO",
+   "WAL-MART",
+   "BODEGA AURRERA EXPRESS",
+   "U.N.A.M.",
+   "BODEGA AURRERA",
+   "LA COMER",
+   "MERCADO SORIANA",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "pina|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "champinon|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "champinones|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "pimiento|0901": {
+  "n": 47,
+  "ejemplo": [
+   {
+    "producto": "PIMIENTO, S/M, 1 KG. MORRON VERDE",
+    "tipo_producto": "PIMIENTO",
+    "precio": 82,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL TAXQUEÑA",
+    "direccion": "MIGUEL ANGEL DE QUEVEDO 175",
+    "colonia": "OXTOPULCO UNIVERSIDAD",
+    "cp": "04318",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "PIMIENTO, S/M, 1 KG. MORRON VERDE",
+    "tipo_producto": "PIMIENTO",
+    "precio": 82,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL TAXQUEÑA",
+    "direccion": "MIGUEL ANGEL DE QUEVEDO 175",
+    "colonia": "OXTOPULCO UNIVERSIDAD",
+    "cp": "04318",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "PIMIENTO, S/M, 1 KG. MORRON VERDE"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "LA COMER",
+   "HIPERMERCADO SORIANA",
+   "CHEDRAUI",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "chile morron|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "tomate verde|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "tomate|0901": {
+  "n": 61,
+  "ejemplo": [
+   {
+    "producto": "TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
+    "tipo_producto": "TOMATE",
+    "precio": 43,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL PORTAL CENTRO",
+    "direccion": "AV. LORENZO BOTURINI 258, ENTRE FRANCISCO JAVIER CLAVIJ",
+    "colonia": "TRANSITO",
+    "cp": "06820",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
+    "tipo_producto": "TOMATE",
+    "precio": 43,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL PORTAL CENTRO",
+    "direccion": "AV. LORENZO BOTURINI 258, ENTRE FRANCISCO JAVIER CLAVIJ",
+    "colonia": "TRANSITO",
+    "cp": "06820",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
+   "TOMATE, S/M, 1 KG. O TOMATE VERDE"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "U.N.A.M.",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "LA COMER",
+   "CENTRAL DE ABASTOS",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "granola|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ }
+}
