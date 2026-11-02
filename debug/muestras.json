@@ -3215,75 +3215,6 @@
   "nombres": [],
   "cadenas": []
  },
- "arroz|0901": {
-  "n": 251,
-  "ejemplo": [
-   {
-    "producto": "ARROZ, VERDE VALLE, BOLSA 1 KG. SUPER EXTRA",
-    "tipo_producto": "ARROZ",
-    "precio": 39,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL PORTAL CENTRO",
-    "direccion": "AV. LORENZO BOTURINI 258, ENTRE FRANCISCO JAVIER CLAVIJ",
-    "colonia": "TRANSITO",
-    "cp": "06820",
-    "municipio": "Cuauhtémoc",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "ARROZ, VERDE VALLE, BOLSA 1 KG. SUPER EXTRA",
-    "tipo_producto": "ARROZ",
-    "precio": 39,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL PORTAL CENTRO",
-    "direccion": "AV. LORENZO BOTURINI 258, ENTRE FRANCISCO JAVIER CLAVIJ",
-    "colonia": "TRANSITO",
-    "cp": "06820",
-    "municipio": "Cuauhtémoc",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "ARROZ, VERDE VALLE, BOLSA 1 KG. SUPER EXTRA",
-   "ARROZ, SOS, BOLSA 907 GR. SUPER EXTRA. GRUESO",
-   "ARROZ, LA MERCED, BOLSA 900 GR. SUPER EXTRA",
-   "ARROZ, VERDE VALLE, BOLSA 900 GR. SUPER EXTRA",
-   "ARROZ, SOS, BOLSA 1 KG. SUPER EXTRA. INTEGRAL",
-   "ARROZ, AURRERA, BOLSA 900 GR. SUPER EXTRA",
-   "ARROZ, SCHETTINO, BOLSA 900 GR. SUPER EXTRA",
-   "ARROZ, PRECISSIMO, BOLSA 900 GR. EXTRA. (GRANO LARGO)",
-   "ARROZ, KE PRECIO, BOLSA 900 GR. SUPER EXTRA",
-   "ARROZ, LA MERCED, BOLSA 907 GR. SUPER EXTRA",
-   "ARROZ, LA MERCED, BOLSA 750 GR. INTEGRAL",
-   "ARROZ, AURRERA, BOLSA 900 GR. EXTRA",
-   "ARROZ, GREAT VALUE, BOLSA 900 GR. SUPER EXTRA",
-   "ARROZ, S/M, 1 KG. GRANEL. GRANDE ENTERO",
-   "ARROZ, S/M, 1 KG. GRANEL. CHICO QUEBRADO",
-   "ARROZ, EL MILAGRO, BOLSA 900 GR.",
-   "ARROZ, SCHETTINO, BOLSA 1 KG. SUPER EXTRA",
-   "ARROZ, VILLA CAMPO, BOLSA 1 KG. SUPER EXTRA",
-   "ARROZ, SAHUAYO, BOLSA 1 KG.",
-   "ARROZ, 7 SEMILLAS, BOLSA 900 GR. SUPER EXTRA",
-   "ARROZ, SOS, BOLSA 1 KG. SUPER EXTRA. GRANO LARGO",
-   "ARROZ, SCHETTINO, BOLSA 900 GR. EXTRA",
-   "ARROZ, SCHETTINO, BOLSA 907 GR. SUPER EXTRA"
-  ],
-  "cadenas": [
-   "WAL-MART",
-   "HIPERMERCADO SORIANA",
-   "CHEDRAUI",
-   "MERCADO SORIANA",
-   "LA COMER",
-   "BODEGA AURRERA",
-   "CENTRAL DE ABASTOS",
-   "MEGA SORIANA",
-   "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
-  ]
- },
  "pan|1502": {
   "n": 697,
   "ejemplo": [
@@ -3375,6 +3306,75 @@
    "LA COMER",
    "PALACIO DE HIERRO",
    "SANBORN S HNOS."
+  ]
+ },
+ "arroz|0901": {
+  "n": 251,
+  "ejemplo": [
+   {
+    "producto": "ARROZ, VERDE VALLE, BOLSA 1 KG. SUPER EXTRA",
+    "tipo_producto": "ARROZ",
+    "precio": 39,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL PORTAL CENTRO",
+    "direccion": "AV. LORENZO BOTURINI 258, ENTRE FRANCISCO JAVIER CLAVIJ",
+    "colonia": "TRANSITO",
+    "cp": "06820",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "ARROZ, VERDE VALLE, BOLSA 1 KG. SUPER EXTRA",
+    "tipo_producto": "ARROZ",
+    "precio": 39,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL PORTAL CENTRO",
+    "direccion": "AV. LORENZO BOTURINI 258, ENTRE FRANCISCO JAVIER CLAVIJ",
+    "colonia": "TRANSITO",
+    "cp": "06820",
+    "municipio": "Cuauhtémoc",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "ARROZ, VERDE VALLE, BOLSA 1 KG. SUPER EXTRA",
+   "ARROZ, SOS, BOLSA 907 GR. SUPER EXTRA. GRUESO",
+   "ARROZ, LA MERCED, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, VERDE VALLE, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, SOS, BOLSA 1 KG. SUPER EXTRA. INTEGRAL",
+   "ARROZ, AURRERA, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, SCHETTINO, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, PRECISSIMO, BOLSA 900 GR. EXTRA. (GRANO LARGO)",
+   "ARROZ, KE PRECIO, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, LA MERCED, BOLSA 907 GR. SUPER EXTRA",
+   "ARROZ, LA MERCED, BOLSA 750 GR. INTEGRAL",
+   "ARROZ, AURRERA, BOLSA 900 GR. EXTRA",
+   "ARROZ, GREAT VALUE, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, S/M, 1 KG. GRANEL. GRANDE ENTERO",
+   "ARROZ, S/M, 1 KG. GRANEL. CHICO QUEBRADO",
+   "ARROZ, EL MILAGRO, BOLSA 900 GR.",
+   "ARROZ, SCHETTINO, BOLSA 1 KG. SUPER EXTRA",
+   "ARROZ, VILLA CAMPO, BOLSA 1 KG. SUPER EXTRA",
+   "ARROZ, SAHUAYO, BOLSA 1 KG.",
+   "ARROZ, 7 SEMILLAS, BOLSA 900 GR. SUPER EXTRA",
+   "ARROZ, SOS, BOLSA 1 KG. SUPER EXTRA. GRANO LARGO",
+   "ARROZ, SCHETTINO, BOLSA 900 GR. EXTRA",
+   "ARROZ, SCHETTINO, BOLSA 907 GR. SUPER EXTRA"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "CHEDRAUI",
+   "MERCADO SORIANA",
+   "LA COMER",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
   ]
  },
  "aceite|1502": {
@@ -3834,6 +3834,51 @@
    "LA COMER"
   ]
  },
+ "jitomate|1502": {
+  "n": 25,
+  "ejemplo": [
+   {
+    "producto": "JITOMATE, S/M, 1 KG. SALADETTE/ HUAJE O TOMATE SALADETTE/ HUAJE",
+    "tipo_producto": "JITOMATE",
+    "precio": 30,
+    "fecha_observacion": "2026-10-28",
+    "cadena_comercial": "CENTRAL DE ABASTOS",
+    "establecimiento": "CENTRAL DE ABASTO ECATEPEC (ECATEPEC)",
+    "direccion": "AVENIDA CENTRAL S/N, ESQ. BLVD. JOSÉ LOPEZ PORTILLO",
+    "colonia": "SANTA CRUZ VENTA DE CARPIO",
+    "cp": "55060",
+    "municipio": "Ecatepec",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "JITOMATE, S/M, 1 KG. SALADETTE/ HUAJE O TOMATE SALADETTE/ HUAJE",
+    "tipo_producto": "JITOMATE",
+    "precio": 30,
+    "fecha_observacion": "2026-10-28",
+    "cadena_comercial": "CENTRAL DE ABASTOS",
+    "establecimiento": "CENTRAL DE ABASTO ECATEPEC (ECATEPEC)",
+    "direccion": "AVENIDA CENTRAL S/N, ESQ. BLVD. JOSÉ LOPEZ PORTILLO",
+    "colonia": "SANTA CRUZ VENTA DE CARPIO",
+    "cp": "55060",
+    "municipio": "Ecatepec",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "JITOMATE, S/M, 1 KG. SALADETTE/ HUAJE O TOMATE SALADETTE/ HUAJE",
+   "JITOMATE, S/M, 1 KG. BOLA/SINALOA O TOMATE BOLA"
+  ],
+  "cadenas": [
+   "CENTRAL DE ABASTOS",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "LA COMER"
+  ]
+ },
  "avena|0901": {
   "n": 194,
   "ejemplo": [
@@ -3884,51 +3929,6 @@
    "MERCADO SORIANA",
    "WAL-MART EXPRESS",
    "SORIANA SUPER"
-  ]
- },
- "jitomate|1502": {
-  "n": 25,
-  "ejemplo": [
-   {
-    "producto": "JITOMATE, S/M, 1 KG. SALADETTE/ HUAJE O TOMATE SALADETTE/ HUAJE",
-    "tipo_producto": "JITOMATE",
-    "precio": 30,
-    "fecha_observacion": "2026-10-28",
-    "cadena_comercial": "CENTRAL DE ABASTOS",
-    "establecimiento": "CENTRAL DE ABASTO ECATEPEC (ECATEPEC)",
-    "direccion": "AVENIDA CENTRAL S/N, ESQ. BLVD. JOSÉ LOPEZ PORTILLO",
-    "colonia": "SANTA CRUZ VENTA DE CARPIO",
-    "cp": "55060",
-    "municipio": "Ecatepec",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "JITOMATE, S/M, 1 KG. SALADETTE/ HUAJE O TOMATE SALADETTE/ HUAJE",
-    "tipo_producto": "JITOMATE",
-    "precio": 30,
-    "fecha_observacion": "2026-10-28",
-    "cadena_comercial": "CENTRAL DE ABASTOS",
-    "establecimiento": "CENTRAL DE ABASTO ECATEPEC (ECATEPEC)",
-    "direccion": "AVENIDA CENTRAL S/N, ESQ. BLVD. JOSÉ LOPEZ PORTILLO",
-    "colonia": "SANTA CRUZ VENTA DE CARPIO",
-    "cp": "55060",
-    "municipio": "Ecatepec",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "JITOMATE, S/M, 1 KG. SALADETTE/ HUAJE O TOMATE SALADETTE/ HUAJE",
-   "JITOMATE, S/M, 1 KG. BOLA/SINALOA O TOMATE BOLA"
-  ],
-  "cadenas": [
-   "CENTRAL DE ABASTOS",
-   "FRESKO LA COMER",
-   "CITY MARKET",
-   "MERCADO PUBLICO",
-   "WAL-MART EXPRESS",
-   "WAL-MART",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
   ]
  },
  "cebolla|1502": {
@@ -4631,6 +4631,53 @@
    "HIPERMERCADO SORIANA"
   ]
  },
+ "zanahoria|1502": {
+  "n": 43,
+  "ejemplo": [
+   {
+    "producto": "ZANAHORIA, S/M, 1 KG. GRANDE",
+    "tipo_producto": "ZANAHORIA",
+    "precio": 13.6,
+    "fecha_observacion": "2026-10-28",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "M. SORIANA SUC R-1 LA GOBERNADORA 427",
+    "direccion": "ADOLFO LOPEZ MATEOS S/N, ESQ. LA GOBERNADORA",
+    "colonia": "INDUS TULPETLAC",
+    "cp": "51074",
+    "municipio": "Ecatepec",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "ZANAHORIA, S/M, 1 KG. GRANDE",
+    "tipo_producto": "ZANAHORIA",
+    "precio": 13.6,
+    "fecha_observacion": "2026-10-28",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "M. SORIANA SUC R-1 LA GOBERNADORA 427",
+    "direccion": "ADOLFO LOPEZ MATEOS S/N, ESQ. LA GOBERNADORA",
+    "colonia": "INDUS TULPETLAC",
+    "cp": "51074",
+    "municipio": "Ecatepec",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "ZANAHORIA, S/M, 1 KG. GRANDE",
+   "ZANAHORIA, S/M, 1 KG. MEDIANA"
+  ],
+  "cadenas": [
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "CENTRAL DE ABASTOS",
+   "WAL-MART",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "MERCADO PUBLICO",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA",
+   "LA COMER"
+  ]
+ },
  "chile seco|0901": {
   "n": 69,
   "ejemplo": [
@@ -4678,53 +4725,6 @@
    "CHEDRAUI",
    "CENTRAL DE ABASTOS",
    "SORIANA SUPER"
-  ]
- },
- "zanahoria|1502": {
-  "n": 43,
-  "ejemplo": [
-   {
-    "producto": "ZANAHORIA, S/M, 1 KG. GRANDE",
-    "tipo_producto": "ZANAHORIA",
-    "precio": 13.6,
-    "fecha_observacion": "2026-10-28",
-    "cadena_comercial": "MERCADO SORIANA",
-    "establecimiento": "M. SORIANA SUC R-1 LA GOBERNADORA 427",
-    "direccion": "ADOLFO LOPEZ MATEOS S/N, ESQ. LA GOBERNADORA",
-    "colonia": "INDUS TULPETLAC",
-    "cp": "51074",
-    "municipio": "Ecatepec",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "ZANAHORIA, S/M, 1 KG. GRANDE",
-    "tipo_producto": "ZANAHORIA",
-    "precio": 13.6,
-    "fecha_observacion": "2026-10-28",
-    "cadena_comercial": "MERCADO SORIANA",
-    "establecimiento": "M. SORIANA SUC R-1 LA GOBERNADORA 427",
-    "direccion": "ADOLFO LOPEZ MATEOS S/N, ESQ. LA GOBERNADORA",
-    "colonia": "INDUS TULPETLAC",
-    "cp": "51074",
-    "municipio": "Ecatepec",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "ZANAHORIA, S/M, 1 KG. GRANDE",
-   "ZANAHORIA, S/M, 1 KG. MEDIANA"
-  ],
-  "cadenas": [
-   "MERCADO SORIANA",
-   "BODEGA AURRERA",
-   "CENTRAL DE ABASTOS",
-   "WAL-MART",
-   "FRESKO LA COMER",
-   "CITY MARKET",
-   "MERCADO PUBLICO",
-   "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
   ]
  },
  "nopal|1502": {
@@ -5685,57 +5685,6 @@
    "WAL-MART EXPRESS"
   ]
  },
- "zanahoria|0901": {
-  "n": 78,
-  "ejemplo": [
-   {
-    "producto": "ZANAHORIA, S/M, 1 KG. MEDIANA",
-    "tipo_producto": "ZANAHORIA",
-    "precio": 14.9,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL CONSULADO (418)",
-    "direccion": "RIO CONSULADO 2355, ESQ. CARLOS MARX",
-    "colonia": "SIMON BOLIVAR",
-    "cp": "15410",
-    "municipio": "Venustiano Carranza",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "ZANAHORIA, S/M, 1 KG. MEDIANA",
-    "tipo_producto": "ZANAHORIA",
-    "precio": 14.9,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL CONSULADO (418)",
-    "direccion": "RIO CONSULADO 2355, ESQ. CARLOS MARX",
-    "colonia": "SIMON BOLIVAR",
-    "cp": "15410",
-    "municipio": "Venustiano Carranza",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "ZANAHORIA, S/M, 1 KG. MEDIANA",
-   "ZANAHORIA, S/M, 1 KG. GRANDE",
-   "ZANAHORIA, S/M, 1 KG. EN MALLA"
-  ],
-  "cadenas": [
-   "HIPERMERCADO SORIANA",
-   "CHEDRAUI",
-   "WAL-MART",
-   "BODEGA AURRERA",
-   "LA COMER",
-   "MERCADO PUBLICO",
-   "U.N.A.M.",
-   "CENTRAL DE ABASTOS",
-   "MEGA SORIANA",
-   "SUPERISSSTE",
-   "MERCADO SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
-  ]
- },
  "jabon|1502": {
   "n": 395,
   "ejemplo": [
@@ -5806,6 +5755,57 @@
    "WAL-MART EXPRESS",
    "HIPERMERCADO SORIANA",
    "LA COMER"
+  ]
+ },
+ "zanahoria|0901": {
+  "n": 78,
+  "ejemplo": [
+   {
+    "producto": "ZANAHORIA, S/M, 1 KG. MEDIANA",
+    "tipo_producto": "ZANAHORIA",
+    "precio": 14.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL CONSULADO (418)",
+    "direccion": "RIO CONSULADO 2355, ESQ. CARLOS MARX",
+    "colonia": "SIMON BOLIVAR",
+    "cp": "15410",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "ZANAHORIA, S/M, 1 KG. MEDIANA",
+    "tipo_producto": "ZANAHORIA",
+    "precio": 14.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL CONSULADO (418)",
+    "direccion": "RIO CONSULADO 2355, ESQ. CARLOS MARX",
+    "colonia": "SIMON BOLIVAR",
+    "cp": "15410",
+    "municipio": "Venustiano Carranza",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "ZANAHORIA, S/M, 1 KG. MEDIANA",
+   "ZANAHORIA, S/M, 1 KG. GRANDE",
+   "ZANAHORIA, S/M, 1 KG. EN MALLA"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "CHEDRAUI",
+   "WAL-MART",
+   "BODEGA AURRERA",
+   "LA COMER",
+   "MERCADO PUBLICO",
+   "U.N.A.M.",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "SUPERISSSTE",
+   "MERCADO SORIANA",
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
   ]
  },
  "detergente|1502": {
@@ -6667,6 +6667,12 @@
    "WAL-MART EXPRESS"
   ]
  },
+ "pasta dental|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "tomate|0901": {
   "n": 61,
   "ejemplo": [
@@ -6712,12 +6718,6 @@
    "WAL-MART EXPRESS",
    "SORIANA SUPER"
   ]
- },
- "pasta dental|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "pasta de dientes|1502": {
   "n": 0,
@@ -6982,6 +6982,12 @@
    "WAL-MART EXPRESS"
   ]
  },
+ "cepillo de dientes|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "detergente|0901": {
   "n": 724,
   "ejemplo": [
@@ -7065,12 +7071,6 @@
    "WAL-MART EXPRESS",
    "SORIANA SUPER"
   ]
- },
- "cepillo de dientes|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "cepillo|1502": {
   "n": 10,
@@ -7297,6 +7297,75 @@
   "nombres": [],
   "cadenas": []
  },
+ "toalla|1502": {
+  "n": 282,
+  "ejemplo": [
+   {
+    "producto": "TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. ULTRA INVISIBLE. ULTRADELGADA. CON ALAS",
+    "tipo_producto": "TOALLA FEMENINA",
+    "precio": 48,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. ULTRA INVISIBLE. ULTRADELGADA. CON ALAS",
+    "tipo_producto": "TOALLA FEMENINA",
+    "precio": 48,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. ULTRA INVISIBLE. ULTRADELGADA. CON ALAS",
+   "TOALLA FEMENINA, KOTEX, BOLSA 16 PIEZAS. ANATÓMICA. CON ALAS",
+   "TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. INTIMA CLIP. REGULAR. CON ALAS",
+   "TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. INVISIBLE. DELGADA. CON ALAS.",
+   "TOALLA FEMENINA, ALWAYS, BOLSA 22 PIEZAS. SECA. NOCHES TRANQUILAS. NOCTURNA EXTRA LARGA. CON ALAS. FLUJO SÚPER ABUNDANTE",
+   "TOALLA FEMENINA, ALWAYS, BOLSA 22 PIEZAS. SUAVE. NOCHES TRANQUILAS. NOCTURNA EXTRA LARGA. CON ALAS. FLUJO SÚPER ABUNDANTE",
+   "TOALLA FEMENINA, NATURELLA, BOLSA 32 PIEZAS. REGULAR. CON ALAS. FLUJO ABUNDANTE",
+   "TOALLA FEMENINA, NATURELLA, BOLSA 32 PIEZAS. REGULAR. SIN ALAS. FLUJO ABUNDANTE",
+   "TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. NOCTURNA. CON ALAS. FLUJO MAXI ABUNDANTE",
+   "TOALLA FEMENINA, SABA, BOLSA 12 PIEZAS. V-SPORT. ULTRA DELGADA LARGA. CON ALAS FLUJO ABUNDANTE",
+   "TOALLA FEMENINA, SABA, BOLSA 12 PIEZAS. ULTRA INVISIBLE. ULTRADELGADA. BUENOS DÍAS. FLUJO ABUNDANTE LARGA CON ALAS",
+   "TOALLA FEMENINA, ALWAYS, BOLSA 8 PIEZAS. NOCTURNA. EXTRA LARGA FLUJO SÚPER ABUNDANTE. CON ALAS",
+   "TOALLA FEMENINA, NATURELLA, BOLSA 32 PIEZAS. CUIDADO NOCTURNA. FLUJO SUPER ABUNDANTE. EXTRA LARGAS",
+   "TOALLA FEMENINA, SABA, BOLSA 10 PIEZAS. BUENAS NOCHES. NOCTURNA. ULTRADELGADA CON ALAS",
+   "TOALLA FEMENINA, KOTEX, BOLSA 40 PIEZAS. REGULAR CON ALAS. FLUJO ABUNDANTE",
+   "TOALLA FEMENINA, KOTEX, BOLSA 20 PIEZAS. ANATÓMICA. SIN ALAS",
+   "TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. NOCTURNA. CON ALAS",
+   "TOALLA FEMENINA, NATURELLA, BOLSA 10 PIEZAS. REGULAR. CON ALAS. FLUJO ABUNDANTE",
+   "TOALLA FEMENINA, KOTEX, BOLSA 14 PIEZAS. ULTRA DELGADA. CON ALAS",
+   "TOALLA FEMENINA, SABA, BOLSA 32 PIEZAS. INVISIBLE. BUENOS DÍAS. FLUJO MODERADO",
+   "TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. UNIKA. NOCTURNA. CON ALAS. FLUJO SÚPER ABUNDANTE",
+   "TOALLA FEMENINA, NATURELLA, BOLSA 8 PIEZAS. NOCTURNA CON ALAS. EXTRA LARGA. FLUJO SÚPER ABUNDANTE",
+   "TOALLA DE PAPEL, PÉTALO. DECORADA, PAQUETE 3 ROLLOS. 60 HOJAS DOBLES",
+   "TOALLA DE PAPEL, PÉTALO. MULTICORTE, PAQUETE 1 ROLLO. 180 HOJAS DOBLES",
+   "TOALLA DE PAPEL, PRECISSIMO, PAQUETE 3 ROLLOS. 50 HOJAS DOBLES",
+   "TOALLA DE PAPEL, VOGUE, PAQUETE 2 ROLLOS 60 HOJAS DOBLES",
+   "TOALLA FEMENINA, SABA, BOLSA 8 PIEZAS. NOCTURNA. EXTRA LARGA. FLUJO SÚPER ABUNDANTE. CON ALAS"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "WAL-MART EXPRESS"
+  ]
+ },
  "jabon de tocador|0901": {
   "n": 596,
   "ejemplo": [
@@ -7368,75 +7437,6 @@
    "SUPERISSSTE",
    "WAL-MART EXPRESS",
    "SORIANA SUPER"
-  ]
- },
- "toalla|1502": {
-  "n": 282,
-  "ejemplo": [
-   {
-    "producto": "TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. ULTRA INVISIBLE. ULTRADELGADA. CON ALAS",
-    "tipo_producto": "TOALLA FEMENINA",
-    "precio": 48,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
-    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
-    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
-    "cp": "54030",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. ULTRA INVISIBLE. ULTRADELGADA. CON ALAS",
-    "tipo_producto": "TOALLA FEMENINA",
-    "precio": 48,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
-    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
-    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
-    "cp": "54030",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. ULTRA INVISIBLE. ULTRADELGADA. CON ALAS",
-   "TOALLA FEMENINA, KOTEX, BOLSA 16 PIEZAS. ANATÓMICA. CON ALAS",
-   "TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. INTIMA CLIP. REGULAR. CON ALAS",
-   "TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. INVISIBLE. DELGADA. CON ALAS.",
-   "TOALLA FEMENINA, ALWAYS, BOLSA 22 PIEZAS. SECA. NOCHES TRANQUILAS. NOCTURNA EXTRA LARGA. CON ALAS. FLUJO SÚPER ABUNDANTE",
-   "TOALLA FEMENINA, ALWAYS, BOLSA 22 PIEZAS. SUAVE. NOCHES TRANQUILAS. NOCTURNA EXTRA LARGA. CON ALAS. FLUJO SÚPER ABUNDANTE",
-   "TOALLA FEMENINA, NATURELLA, BOLSA 32 PIEZAS. REGULAR. CON ALAS. FLUJO ABUNDANTE",
-   "TOALLA FEMENINA, NATURELLA, BOLSA 32 PIEZAS. REGULAR. SIN ALAS. FLUJO ABUNDANTE",
-   "TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. NOCTURNA. CON ALAS. FLUJO MAXI ABUNDANTE",
-   "TOALLA FEMENINA, SABA, BOLSA 12 PIEZAS. V-SPORT. ULTRA DELGADA LARGA. CON ALAS FLUJO ABUNDANTE",
-   "TOALLA FEMENINA, SABA, BOLSA 12 PIEZAS. ULTRA INVISIBLE. ULTRADELGADA. BUENOS DÍAS. FLUJO ABUNDANTE LARGA CON ALAS",
-   "TOALLA FEMENINA, ALWAYS, BOLSA 8 PIEZAS. NOCTURNA. EXTRA LARGA FLUJO SÚPER ABUNDANTE. CON ALAS",
-   "TOALLA FEMENINA, NATURELLA, BOLSA 32 PIEZAS. CUIDADO NOCTURNA. FLUJO SUPER ABUNDANTE. EXTRA LARGAS",
-   "TOALLA FEMENINA, SABA, BOLSA 10 PIEZAS. BUENAS NOCHES. NOCTURNA. ULTRADELGADA CON ALAS",
-   "TOALLA FEMENINA, KOTEX, BOLSA 40 PIEZAS. REGULAR CON ALAS. FLUJO ABUNDANTE",
-   "TOALLA FEMENINA, KOTEX, BOLSA 20 PIEZAS. ANATÓMICA. SIN ALAS",
-   "TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. NOCTURNA. CON ALAS",
-   "TOALLA FEMENINA, NATURELLA, BOLSA 10 PIEZAS. REGULAR. CON ALAS. FLUJO ABUNDANTE",
-   "TOALLA FEMENINA, KOTEX, BOLSA 14 PIEZAS. ULTRA DELGADA. CON ALAS",
-   "TOALLA FEMENINA, SABA, BOLSA 32 PIEZAS. INVISIBLE. BUENOS DÍAS. FLUJO MODERADO",
-   "TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. UNIKA. NOCTURNA. CON ALAS. FLUJO SÚPER ABUNDANTE",
-   "TOALLA FEMENINA, NATURELLA, BOLSA 8 PIEZAS. NOCTURNA CON ALAS. EXTRA LARGA. FLUJO SÚPER ABUNDANTE",
-   "TOALLA DE PAPEL, PÉTALO. DECORADA, PAQUETE 3 ROLLOS. 60 HOJAS DOBLES",
-   "TOALLA DE PAPEL, PÉTALO. MULTICORTE, PAQUETE 1 ROLLO. 180 HOJAS DOBLES",
-   "TOALLA DE PAPEL, PRECISSIMO, PAQUETE 3 ROLLOS. 50 HOJAS DOBLES",
-   "TOALLA DE PAPEL, VOGUE, PAQUETE 2 ROLLOS 60 HOJAS DOBLES",
-   "TOALLA FEMENINA, SABA, BOLSA 8 PIEZAS. NOCTURNA. EXTRA LARGA. FLUJO SÚPER ABUNDANTE. CON ALAS"
-  ],
-  "cadenas": [
-   "WAL-MART",
-   "MEGA SORIANA",
-   "BODEGA AURRERA",
-   "MERCADO SORIANA",
-   "FRESKO LA COMER",
-   "CITY MARKET",
-   "WAL-MART EXPRESS"
   ]
  },
  "limpiador|1502": {
@@ -7810,6 +7810,12 @@
   "nombres": [],
   "cadenas": []
  },
+ "bolsa|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "shampoo|0901": {
   "n": 908,
   "ejemplo": [
@@ -7883,12 +7889,6 @@
    "WAL-MART EXPRESS",
    "SORIANA SUPER"
   ]
- },
- "bolsa|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "azucar|1502": {
   "n": 125,
@@ -8116,12 +8116,6 @@
    "HIPERMERCADO SORIANA"
   ]
  },
- "dentifrico|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "cafe soluble|1502": {
   "n": 164,
   "ejemplo": [
@@ -8174,6 +8168,12 @@
    "CITY MARKET",
    "WAL-MART EXPRESS"
   ]
+ },
+ "dentifrico|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "cafe|1502": {
   "n": 340,
@@ -8431,12 +8431,6 @@
    "LA COMER"
   ]
  },
- "cepillo de dientes|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "paracetamol|1502": {
   "n": 58,
   "ejemplo": [
@@ -8482,51 +8476,11 @@
    "HIPERMERCADO SORIANA"
   ]
  },
- "cepillo|0901": {
-  "n": 49,
-  "ejemplo": [
-   {
-    "producto": "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
-    "tipo_producto": "CEPILLO DENTAL",
-    "precio": 45,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL NEXTENGO",
-    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
-    "colonia": "SANTA CRUZ ACAYUCAN",
-    "cp": "02770",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
-    "tipo_producto": "CEPILLO DENTAL",
-    "precio": 45,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL NEXTENGO",
-    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
-    "colonia": "SANTA CRUZ ACAYUCAN",
-    "cp": "02770",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
-   "CEPILLO DENTAL, ORAL-B. INDICATOR. MEDIO 40, BLISTER 2 PIEZAS",
-   "CEPILLO DENTAL, ORAL-B. COMPLETE, BLISTER 2 PIEZAS. MEDIANO 40"
-  ],
-  "cadenas": [
-   "WAL-MART",
-   "MERCADO SORIANA",
-   "BODEGA AURRERA",
-   "CHEDRAUI",
-   "HIPERMERCADO SORIANA",
-   "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "BODEGA AURRERA EXPRESS"
-  ]
+ "cepillo de dientes|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "ibuprofeno|1502": {
   "n": 66,
@@ -8574,6 +8528,52 @@
    "WAL-MART EXPRESS",
    "HIPERMERCADO SORIANA",
    "SANBORN S HNOS."
+  ]
+ },
+ "cepillo|0901": {
+  "n": 49,
+  "ejemplo": [
+   {
+    "producto": "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
+    "tipo_producto": "CEPILLO DENTAL",
+    "precio": 45,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL NEXTENGO",
+    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
+    "colonia": "SANTA CRUZ ACAYUCAN",
+    "cp": "02770",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
+    "tipo_producto": "CEPILLO DENTAL",
+    "precio": 45,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL NEXTENGO",
+    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
+    "colonia": "SANTA CRUZ ACAYUCAN",
+    "cp": "02770",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
+   "CEPILLO DENTAL, ORAL-B. INDICATOR. MEDIO 40, BLISTER 2 PIEZAS",
+   "CEPILLO DENTAL, ORAL-B. COMPLETE, BLISTER 2 PIEZAS. MEDIANO 40"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "CHEDRAUI",
+   "HIPERMERCADO SORIANA",
+   "SUPERISSSTE",
+   "WAL-MART EXPRESS",
+   "BODEGA AURRERA EXPRESS"
   ]
  },
  "naproxeno|1502": {
@@ -8754,12 +8754,6 @@
    "SANBORN S HNOS."
   ]
  },
- "toallas sanitarias|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "metamizol|1502": {
   "n": 28,
   "ejemplo": [
@@ -8803,6 +8797,18 @@
    "WAL-MART EXPRESS",
    "HIPERMERCADO SORIANA"
   ]
+ },
+ "toallas sanitarias|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "acido acetilsalicilico|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "toalla|0901": {
   "n": 714,
@@ -8880,12 +8886,6 @@
    "WAL-MART EXPRESS",
    "SORIANA SUPER"
   ]
- },
- "acido acetilsalicilico|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "aspirina|1502": {
   "n": 0,
@@ -9090,13 +9090,13 @@
    "SANBORN S HNOS."
   ]
  },
- "limpiador multiusos|0901": {
+ "esomeprazol|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "esomeprazol|1502": {
+ "limpiador multiusos|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -9170,19 +9170,13 @@
   "nombres": [],
   "cadenas": []
  },
- "bolsa para basura|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "metoclopramida|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "bolsas para basura|0901": {
+ "bolsa para basura|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -9227,6 +9221,12 @@
    "WAL-MART",
    "MERCADO SORIANA"
   ]
+ },
+ "bolsas para basura|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "suero|1502": {
   "n": 52,
@@ -9339,6 +9339,12 @@
   "nombres": [],
   "cadenas": []
  },
+ "clorfenamina|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "azucar|0901": {
   "n": 213,
   "ejemplo": [
@@ -9408,19 +9414,13 @@
    "BODEGA AURRERA EXPRESS"
   ]
  },
- "clorfenamina|1502": {
+ "ambroxol|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
  "sal de mesa|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "ambroxol|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -9620,6 +9620,12 @@
    "SANBORN S HNOS."
   ]
  },
+ "enalapril|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "cafe soluble|0901": {
   "n": 285,
   "ejemplo": [
@@ -9676,12 +9682,6 @@
    "WAL-MART EXPRESS",
    "SORIANA SUPER"
   ]
- },
- "enalapril|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "captopril|1502": {
   "n": 0,
@@ -9784,6 +9784,52 @@
   "nombres": [],
   "cadenas": []
  },
+ "metoprolol|1502": {
+  "n": 34,
+  "ejemplo": [
+   {
+    "producto": "METOPROLOL, S/M, 20 TABLETAS DE 100 MG.",
+    "tipo_producto": "METOPROLOL",
+    "precio": 23,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "METOPROLOL, S/M, 20 TABLETAS DE 100 MG.",
+    "tipo_producto": "METOPROLOL",
+    "precio": 23,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "METOPROLOL, S/M, 20 TABLETAS DE 100 MG."
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "FARMACIAS DEL AHORRO",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA",
+   "SANBORN S HNOS."
+  ]
+ },
  "papel|0901": {
   "n": 284,
   "ejemplo": [
@@ -9851,45 +9897,45 @@
    "SORIANA SUPER"
   ]
  },
- "metoprolol|1502": {
-  "n": 34,
+ "telmisartan|1502": {
+  "n": 46,
   "ejemplo": [
    {
-    "producto": "METOPROLOL, S/M, 20 TABLETAS DE 100 MG.",
-    "tipo_producto": "METOPROLOL",
-    "precio": 23,
+    "producto": "TELMISARTAN, S/M, CAJA CON 28 TABLETAS DE 40 MG.",
+    "tipo_producto": "TELMISARTAN",
+    "precio": 249,
     "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
-    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
-    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
-    "cp": "54030",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
     "municipio": "Tlalnepantla",
     "entidad": "Estado de México"
    },
    {
-    "producto": "METOPROLOL, S/M, 20 TABLETAS DE 100 MG.",
-    "tipo_producto": "METOPROLOL",
-    "precio": 23,
+    "producto": "TELMISARTAN, S/M, CAJA CON 28 TABLETAS DE 40 MG.",
+    "tipo_producto": "TELMISARTAN",
+    "precio": 249,
     "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
-    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
-    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
-    "cp": "54030",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
     "municipio": "Tlalnepantla",
     "entidad": "Estado de México"
    }
   ],
   "nombres": [
-   "METOPROLOL, S/M, 20 TABLETAS DE 100 MG."
+   "TELMISARTAN, S/M, CAJA CON 28 TABLETAS DE 40 MG.",
+   "TELMISARTAN, S/M, CAJA CON 28 TABLETAS DE 80 MG."
   ],
   "cadenas": [
-   "WAL-MART",
    "MEGA SORIANA",
+   "FARMACIAS DEL AHORRO",
    "MERCADO SORIANA",
    "BODEGA AURRERA",
-   "FARMACIAS DEL AHORRO",
    "FRESKO LA COMER",
    "CITY MARKET",
    "WAL-MART EXPRESS",
@@ -9944,52 +9990,6 @@
    "BENAVIDES",
    "SORIANA SUPER",
    "WAL-MART EXPRESS"
-  ]
- },
- "telmisartan|1502": {
-  "n": 46,
-  "ejemplo": [
-   {
-    "producto": "TELMISARTAN, S/M, CAJA CON 28 TABLETAS DE 40 MG.",
-    "tipo_producto": "TELMISARTAN",
-    "precio": 249,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
-    "direccion": "GUSTAVO BAZ 4001",
-    "colonia": "INDUSTRIAL SAN NICOLAS",
-    "cp": "5400",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "TELMISARTAN, S/M, CAJA CON 28 TABLETAS DE 40 MG.",
-    "tipo_producto": "TELMISARTAN",
-    "precio": 249,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
-    "direccion": "GUSTAVO BAZ 4001",
-    "colonia": "INDUSTRIAL SAN NICOLAS",
-    "cp": "5400",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "TELMISARTAN, S/M, CAJA CON 28 TABLETAS DE 40 MG.",
-   "TELMISARTAN, S/M, CAJA CON 28 TABLETAS DE 80 MG."
-  ],
-  "cadenas": [
-   "MEGA SORIANA",
-   "FARMACIAS DEL AHORRO",
-   "MERCADO SORIANA",
-   "BODEGA AURRERA",
-   "FRESKO LA COMER",
-   "CITY MARKET",
-   "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "SANBORN S HNOS."
   ]
  },
  "hidroclorotiazida|1502": {
@@ -10184,6 +10184,12 @@
    "HIPERMERCADO SORIANA"
   ]
  },
+ "sitagliptina|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "diclofenaco|0901": {
   "n": 2,
   "ejemplo": [
@@ -10220,12 +10226,6 @@
   "cadenas": [
    "MERCADO SORIANA"
   ]
- },
- "sitagliptina|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "atorvastatina|1502": {
   "n": 0,
@@ -10375,13 +10375,19 @@
   "nombres": [],
   "cadenas": []
  },
+ "levotiroxina|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "acido acetilsalicilico|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "levotiroxina|1502": {
+ "prednisona|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -10426,12 +10432,6 @@
    "MERCADO SORIANA",
    "WAL-MART"
   ]
- },
- "prednisona|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "dexametasona|1502": {
   "n": 0,
@@ -10547,25 +10547,25 @@
   "nombres": [],
   "cadenas": []
  },
- "esomeprazol|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "ampicilina|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "ranitidina|0901": {
+ "esomeprazol|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
  "ciprofloxacino|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "ranitidina|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -10620,25 +10620,25 @@
   "nombres": [],
   "cadenas": []
  },
- "loperamida|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "claritromicina|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "metoclopramida|0901": {
+ "loperamida|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
  "metronidazol|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "metoclopramida|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -10830,6 +10830,12 @@
   "nombres": [],
   "cadenas": []
  },
+ "clotrimazol|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "loratadina|0901": {
   "n": 74,
   "ejemplo": [
@@ -10878,49 +10884,6 @@
    "SORIANA SUPER"
   ]
  },
- "clotrimazol|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "cetirizina|0901": {
-  "n": 2,
-  "ejemplo": [
-   {
-    "producto": "CETIRIZINA, S/M, CAJA CON 10 TABLETAS DE 10 MG.",
-    "tipo_producto": "CETIRIZINA",
-    "precio": 60,
-    "fecha_observacion": "2026-10-28",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WAL MART SUCURSAL MIRAMONTES",
-    "direccion": "ESCUELA NAVAL MILITAR 753, ESQ. CANAL DE MIRAMONTES",
-    "colonia": "LOS CIPRESES",
-    "cp": "04830",
-    "municipio": "Coyoacán",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "CETIRIZINA, S/M, CAJA CON 10 TABLETAS DE 10 MG.",
-    "tipo_producto": "CETIRIZINA",
-    "precio": 60,
-    "fecha_observacion": "2026-10-28",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WAL MART SUCURSAL MIRAMONTES",
-    "direccion": "ESCUELA NAVAL MILITAR 753, ESQ. CANAL DE MIRAMONTES",
-    "colonia": "LOS CIPRESES",
-    "cp": "04830",
-    "municipio": "Coyoacán",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "CETIRIZINA, S/M, CAJA CON 10 TABLETAS DE 10 MG."
-  ],
-  "cadenas": [
-   "WAL-MART"
-  ]
- },
  "ketoconazol|1502": {
   "n": 36,
   "ejemplo": [
@@ -10964,6 +10927,43 @@
    "CITY MARKET",
    "WAL-MART EXPRESS",
    "HIPERMERCADO SORIANA"
+  ]
+ },
+ "cetirizina|0901": {
+  "n": 2,
+  "ejemplo": [
+   {
+    "producto": "CETIRIZINA, S/M, CAJA CON 10 TABLETAS DE 10 MG.",
+    "tipo_producto": "CETIRIZINA",
+    "precio": 60,
+    "fecha_observacion": "2026-10-28",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WAL MART SUCURSAL MIRAMONTES",
+    "direccion": "ESCUELA NAVAL MILITAR 753, ESQ. CANAL DE MIRAMONTES",
+    "colonia": "LOS CIPRESES",
+    "cp": "04830",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "CETIRIZINA, S/M, CAJA CON 10 TABLETAS DE 10 MG.",
+    "tipo_producto": "CETIRIZINA",
+    "precio": 60,
+    "fecha_observacion": "2026-10-28",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WAL MART SUCURSAL MIRAMONTES",
+    "direccion": "ESCUELA NAVAL MILITAR 753, ESQ. CANAL DE MIRAMONTES",
+    "colonia": "LOS CIPRESES",
+    "cp": "04830",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "CETIRIZINA, S/M, CAJA CON 10 TABLETAS DE 10 MG."
+  ],
+  "cadenas": [
+   "WAL-MART"
   ]
  },
  "fluconazol|1502": {
@@ -11062,13 +11062,19 @@
    "FRESKO LA COMER"
   ]
  },
+ "acido folico|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "dextrometorfano|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "acido folico|1502": {
+ "complejo b|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -11121,12 +11127,6 @@
    "WAL-MART EXPRESS",
    "SORIANA SUPER"
   ]
- },
- "complejo b|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "vitamina c|1502": {
   "n": 0,
@@ -11242,44 +11242,6 @@
    "SANBORN S HNOS."
   ]
  },
- "captopril|0901": {
-  "n": 4,
-  "ejemplo": [
-   {
-    "producto": "CAPTOPRIL, S/M, 30 TABLETAS DE 25 MG.",
-    "tipo_producto": "CAPTOPRIL",
-    "precio": 45,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "MERCADO SORIANA",
-    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
-    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
-    "colonia": "AZCAPOTZALCO",
-    "cp": "02000",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "CAPTOPRIL, S/M, 30 TABLETAS DE 25 MG.",
-    "tipo_producto": "CAPTOPRIL",
-    "precio": 45,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "MERCADO SORIANA",
-    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
-    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
-    "colonia": "AZCAPOTZALCO",
-    "cp": "02000",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "CAPTOPRIL, S/M, 30 TABLETAS DE 25 MG."
-  ],
-  "cadenas": [
-   "MERCADO SORIANA",
-   "WAL-MART"
-  ]
- },
  "tamsulosina|1502": {
   "n": 30,
   "ejemplo": [
@@ -11325,6 +11287,50 @@
    "SANBORN S HNOS."
   ]
  },
+ "captopril|0901": {
+  "n": 4,
+  "ejemplo": [
+   {
+    "producto": "CAPTOPRIL, S/M, 30 TABLETAS DE 25 MG.",
+    "tipo_producto": "CAPTOPRIL",
+    "precio": 45,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "CAPTOPRIL, S/M, 30 TABLETAS DE 25 MG.",
+    "tipo_producto": "CAPTOPRIL",
+    "precio": 45,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "CAPTOPRIL, S/M, 30 TABLETAS DE 25 MG."
+  ],
+  "cadenas": [
+   "MERCADO SORIANA",
+   "WAL-MART"
+  ]
+ },
+ "alopurinol|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "amlodipino|0901": {
   "n": 8,
   "ejemplo": [
@@ -11364,12 +11370,6 @@
    "WAL-MART"
   ]
  },
- "alopurinol|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "colchicina|1502": {
   "n": 0,
   "ejemplo": [],
@@ -11383,6 +11383,12 @@
   "cadenas": []
  },
  "clonazepam|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "alprazolam|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -11432,11 +11438,48 @@
    "WAL-MART EXPRESS"
   ]
  },
- "alprazolam|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
+ "tramadol|1502": {
+  "n": 26,
+  "ejemplo": [
+   {
+    "producto": "TRAMADOL, S/M, CAJA CON 10 TABLETAS DE 100 MG.",
+    "tipo_producto": "TRAMADOL",
+    "precio": 94,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "TRAMADOL, S/M, CAJA CON 10 TABLETAS DE 100 MG.",
+    "tipo_producto": "TRAMADOL",
+    "precio": 94,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "TRAMADOL, S/M, CAJA CON 10 TABLETAS DE 100 MG.",
+   "TRAMADOL, S/M, CAJA CON 10 CAPSULAS DE 50 MG.",
+   "TRAMADOL, S/M, CAJA CON FRASCO GOTERO CON 10 ML. SOLUCION 100 MG./ML."
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "FARMACIAS DEL AHORRO",
+   "BODEGA AURRERA",
+   "CITY MARKET"
+  ]
  },
  "telmisartan|0901": {
   "n": 72,
@@ -11484,49 +11527,6 @@
    "BENAVIDES",
    "WAL-MART EXPRESS",
    "SORIANA SUPER"
-  ]
- },
- "tramadol|1502": {
-  "n": 26,
-  "ejemplo": [
-   {
-    "producto": "TRAMADOL, S/M, CAJA CON 10 TABLETAS DE 100 MG.",
-    "tipo_producto": "TRAMADOL",
-    "precio": 94,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
-    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
-    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
-    "cp": "54030",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "TRAMADOL, S/M, CAJA CON 10 TABLETAS DE 100 MG.",
-    "tipo_producto": "TRAMADOL",
-    "precio": 94,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
-    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
-    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
-    "cp": "54030",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "TRAMADOL, S/M, CAJA CON 10 TABLETAS DE 100 MG.",
-   "TRAMADOL, S/M, CAJA CON 10 CAPSULAS DE 50 MG.",
-   "TRAMADOL, S/M, CAJA CON FRASCO GOTERO CON 10 ML. SOLUCION 100 MG./ML."
-  ],
-  "cadenas": [
-   "WAL-MART",
-   "MEGA SORIANA",
-   "FARMACIAS DEL AHORRO",
-   "BODEGA AURRERA",
-   "CITY MARKET"
   ]
  },
  "sertralina|1502": {
@@ -11680,6 +11680,12 @@
    "HIPERMERCADO SORIANA"
   ]
  },
+ "pregabalina|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "glibenclamida|0901": {
   "n": 26,
   "ejemplo": [
@@ -11725,19 +11731,13 @@
    "WAL-MART EXPRESS"
   ]
  },
- "pregabalina|1502": {
+ "condon|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
  "sitagliptina|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "condon|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -11891,6 +11891,12 @@
    "SANBORN S HNOS."
   ]
  },
+ "gasas|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "bezafibrato|0901": {
   "n": 4,
   "ejemplo": [
@@ -11928,12 +11934,6 @@
    "MERCADO SORIANA",
    "WAL-MART"
   ]
- },
- "gasas|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "venda|1502": {
   "n": 64,
@@ -12052,12 +12052,6 @@
    "HIPERMERCADO SORIANA"
   ]
  },
- "dexametasona|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "agua oxigenada|1502": {
   "n": 56,
   "ejemplo": [
@@ -12107,43 +12101,11 @@
    "HIPERMERCADO SORIANA"
   ]
  },
- "betametasona|0901": {
-  "n": 4,
-  "ejemplo": [
-   {
-    "producto": "BETAMETASONA/ CLOTRIMAZOL/ GENTAMICINA, S/M, CAJA CON TUBO CON 40 GR.  0.05 GR. / 1.00 GR./  0.10GR.",
-    "tipo_producto": "BETAMETASONA/ CLOTRIMAZOL/ GENTAMICINA",
-    "precio": 35,
-    "fecha_observacion": "2026-10-28",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WAL MART SUCURSAL MIRAMONTES",
-    "direccion": "ESCUELA NAVAL MILITAR 753, ESQ. CANAL DE MIRAMONTES",
-    "colonia": "LOS CIPRESES",
-    "cp": "04830",
-    "municipio": "Coyoacán",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "BETAMETASONA/ CLOTRIMAZOL/ GENTAMICINA, S/M, CAJA CON TUBO CON 40 GR.  0.05 GR. / 1.00 GR./  0.10GR.",
-    "tipo_producto": "BETAMETASONA/ CLOTRIMAZOL/ GENTAMICINA",
-    "precio": 35,
-    "fecha_observacion": "2026-10-28",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WAL MART SUCURSAL MIRAMONTES",
-    "direccion": "ESCUELA NAVAL MILITAR 753, ESQ. CANAL DE MIRAMONTES",
-    "colonia": "LOS CIPRESES",
-    "cp": "04830",
-    "municipio": "Coyoacán",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "BETAMETASONA/ CLOTRIMAZOL/ GENTAMICINA, S/M, CAJA CON TUBO CON 40 GR.  0.05 GR. / 1.00 GR./  0.10GR.",
-   "BETAMETASONA/ CLOTRIMAZOL/ GENTAMICINA, S/M, CAJA CON TUBO CON 25 GR. 0.05 GR. /1.00 GR./0.10GR."
-  ],
-  "cadenas": [
-   "WAL-MART"
-  ]
+ "dexametasona|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "vitacilina|1502": {
   "n": 26,
@@ -12188,6 +12150,44 @@
    "WAL-MART EXPRESS",
    "HIPERMERCADO SORIANA",
    "SANBORN S HNOS."
+  ]
+ },
+ "betametasona|0901": {
+  "n": 4,
+  "ejemplo": [
+   {
+    "producto": "BETAMETASONA/ CLOTRIMAZOL/ GENTAMICINA, S/M, CAJA CON TUBO CON 40 GR.  0.05 GR. / 1.00 GR./  0.10GR.",
+    "tipo_producto": "BETAMETASONA/ CLOTRIMAZOL/ GENTAMICINA",
+    "precio": 35,
+    "fecha_observacion": "2026-10-28",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WAL MART SUCURSAL MIRAMONTES",
+    "direccion": "ESCUELA NAVAL MILITAR 753, ESQ. CANAL DE MIRAMONTES",
+    "colonia": "LOS CIPRESES",
+    "cp": "04830",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "BETAMETASONA/ CLOTRIMAZOL/ GENTAMICINA, S/M, CAJA CON TUBO CON 40 GR.  0.05 GR. / 1.00 GR./  0.10GR.",
+    "tipo_producto": "BETAMETASONA/ CLOTRIMAZOL/ GENTAMICINA",
+    "precio": 35,
+    "fecha_observacion": "2026-10-28",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WAL MART SUCURSAL MIRAMONTES",
+    "direccion": "ESCUELA NAVAL MILITAR 753, ESQ. CANAL DE MIRAMONTES",
+    "colonia": "LOS CIPRESES",
+    "cp": "04830",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "BETAMETASONA/ CLOTRIMAZOL/ GENTAMICINA, S/M, CAJA CON TUBO CON 40 GR.  0.05 GR. / 1.00 GR./  0.10GR.",
+   "BETAMETASONA/ CLOTRIMAZOL/ GENTAMICINA, S/M, CAJA CON TUBO CON 25 GR. 0.05 GR. /1.00 GR./0.10GR."
+  ],
+  "cadenas": [
+   "WAL-MART"
   ]
  },
  "vick|1502": {
