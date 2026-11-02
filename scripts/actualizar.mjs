@@ -1,6 +1,8 @@
 // Plato Justo · actualiza precios.json con datos de PROFECO (Quién es Quién en los Precios)
 // Corre en GitHub Actions todos los días. Node 20+, sin dependencias.
 import { writeFileSync, mkdirSync, readFileSync, existsSync } from 'node:fs';
+import { createRequire } from 'node:module';
+const FJ = createRequire(import.meta.url)('./clave.js');
 
 const API = 'https://qqp.profeco.gob.mx/api';
 const CIUDADES = (process.env.CIUDADES || '0901').split(',').map(s => s.trim()).filter(Boolean);
@@ -294,26 +296,38 @@ async function main() {
   };
   writeFileSync('precios.json', JSON.stringify(out));
 
-  // catálogo de farmacia: producto → cadena → precio típico
+  // ---- catálogo de farmacia: PROFECO + tiendas en línea, agrupado por medicamento ----
+  const ofertas = [];
   const F = {};
   for (const city of CIUDADES) for (const t of MEDS) for (const r of cache[t + '|' + city] || []) {
     const st = farmacia(r.cadena_comercial); const pr = Number(r.precio);
     if (!st || !(pr > 0) || !r.producto) continue;
-    const k = r.producto.trim();
-    ((F[k] ||= {})[st] ||= []).push([pr, r.fecha_observacion || '']);
+    ((F[r.producto.trim()] ||= {})[st] ||= []).push([pr, r.fecha_observacion || '']);
   }
-  const prods = Object.entries(F).map(([n, sts]) => {
-    const s2 = {};
-    for (const [st, arr] of Object.entries(sts)) {
-      const mx = arr.map(a => a[1]).sort().pop();
-      const lim = mx ? new Date(new Date(mx).getTime() - DIAS_VALIDOS * 864e5).toISOString().slice(0, 10) : '';
-      const ps = arr.filter(a => !a[1] || a[1] >= lim).map(a => a[0]);
-      s2[st] = [r2(pct(ps, 0.5)), r2(Math.min(...ps)), mx, ps.length];
+  for (const [nm, sts] of Object.entries(F)) for (const [st, arr] of Object.entries(sts)) {
+    const mx = arr.map(a => a[1]).sort().pop();
+    const lim = mx ? new Date(new Date(mx).getTime() - DIAS_VALIDOS * 864e5).toISOString().slice(0, 10) : '';
+    const ps = arr.filter(a => !a[1] || a[1] >= lim).map(a => a[0]);
+    ofertas.push({ st, p: r2(pct(ps, 0.5)), pr: null, nm, src: 'p', f: mx, n: ps.length });
+  }
+  const hoy = new Date().toISOString().slice(0, 10);
+  const webLog = {};
+  await Promise.all(Object.entries(FJ.WEB).map(async ([cad, W]) => {
+    let ok = 0, err = 0, n = 0;
+    for (const t of MEDS) {
+      const j = await getJSON(W.url(t));
+      if (!j) { err++; continue; }
+      try { const os = W.leer(j, hoy); n += os.length; ok++; ofertas.push(...os.map(o => ({ ...o, p: r2(o.p), pr: o.pr ? r2(o.pr) : null }))); } catch (e) { err++; }
+      await sleep(600);
     }
-    return [n, s2];
-  });
-  writeFileSync('farmacia.json', JSON.stringify({ v: 1, actualizado: out.actualizado, datos_hasta: out.datos_hasta, n: prods.length, p: prods }));
-  console.log('Farmacia:', prods.length, 'productos');
+    webLog[cad] = { busquedas_ok: ok, errores: err, productos: n };
+    console.log('Web', cad, webLog[cad]);
+  }));
+  writeFileSync('debug/farmacias_web.json', JSON.stringify(webLog, null, 1));
+  const G = FJ.agrupar(ofertas);
+  const grupos = Object.values(G).map(g => [g.k, g.mol, g.pres, g.o.map(o => [o.st, o.p, o.nm, o.src, o.f || '', o.pr || 0, o.u || ''])]);
+  writeFileSync('farmacia.json', JSON.stringify({ v: 2, actualizado: out.actualizado, datos_hasta: out.datos_hasta, web: webLog, n: grupos.length, g: grupos }));
+  console.log('Farmacia:', grupos.length, 'grupos,', ofertas.length, 'precios');
   console.log('Listo:', total, 'productos con precio');
 }
 
