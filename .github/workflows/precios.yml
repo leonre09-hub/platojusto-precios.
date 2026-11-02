@@ -34,8 +34,11 @@ jobs:
         run: |
           git config user.name "Plato Justo bot"
           git config user.email "actions@users.noreply.github.com"
+          mkdir -p /tmp/out && cp -r precios.json farmacia.json debug /tmp/out/ 2>/dev/null || true
+          git fetch origin main
+          git reset --hard origin/main
+          cp -r /tmp/out/* .
           git add -A precios.json farmacia.json debug
           if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
           git commit -m "Precios del $(date -u +%Y-%m-%d)"
-          git pull --rebase origin main
-          git push
+          git push origin HEAD:main

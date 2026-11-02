@@ -4,7 +4,7 @@ import { writeFileSync, mkdirSync, readFileSync, existsSync } from 'node:fs';
 
 const API = 'https://qqp.profeco.gob.mx/api';
 const CIUDADES = (process.env.CIUDADES || '0901').split(',').map(s => s.trim()).filter(Boolean);
-const PAUSA = 800;
+const PAUSA = 350;
 const DIAS_VALIDOS = 35; // ignora observaciones más viejas que esto respecto a la más reciente
 
 const N = s => String(s || '').normalize('NFD').replace(/[̀-ͯ]/g, '').toUpperCase().replace(/\s+/g, ' ').trim();
@@ -223,7 +223,7 @@ async function main() {
   const cache = {}; // busqueda|ciudad → filas
   const muestras = {};
   const terms = [...new Set([...Object.values(R).flatMap(r => r.q), ...MEDS])];
-  for (const city of CIUDADES) {
+  await Promise.all(CIUDADES.map(async city => {
     for (const t of terms) {
       const url = `${API}/precios?clave_ciudad=${encodeURIComponent(city)}&busqueda=${encodeURIComponent(t)}`;
       const j = await getJSON(url);
@@ -233,7 +233,7 @@ async function main() {
       console.log(`${city} · ${t}: ${rows.length} filas`);
       await sleep(PAUSA);
     }
-  }
+  }));
   writeFileSync('debug/muestras.json', JSON.stringify(muestras, null, 1));
 
   const items = {};
