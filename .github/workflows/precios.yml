@@ -34,7 +34,7 @@ jobs:
         run: |
           git config user.name "Plato Justo bot"
           git config user.email "actions@users.noreply.github.com"
-          git add -A precios.json debug
+          git add -A precios.json farmacia.json debug
           if git diff --cached --quiet; then echo "Sin cambios"; exit 0; fi
           git commit -m "Precios del $(date -u +%Y-%m-%d)"
           git pull --rebase origin main

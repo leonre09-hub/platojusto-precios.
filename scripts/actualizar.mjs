@@ -63,6 +63,33 @@ const R = {
   granola:   { q: ['granola', 'cereal'], u: 'kg', m: /GRANOLA/, x: /BARRA|YOG|BEBIDA|GALLET/ },
 };
 
+// ---- Despensa de casa: precio por presentación estándar (u: 'pk') ----
+// k = cómo se mide (g | ml | pz | rollo | hoja); std = tamaño de la presentación que usa la app
+const CASA = {
+  jabonropa: { q: ['jabon'], k: 'g', std: 400, m: /JABON DE PASTA|LAVANDERIA|\bZOTE\b|\bROMA\b/, x: /TOCADOR|LIQUIDO|TRASTES|LAVATRASTES/ },
+  detergente:{ q: ['detergente'], k: 'g', std: 1000, m: /POLVO/, x: /LIQUIDO|TRASTES|LAVATRASTES/ },
+  suavizante:{ q: ['suavizante'], k: 'ml', std: 850, m: /SUAVIZANTE/, x: /CAPSULA|PERLAS|HOJAS/ },
+  cloro:     { q: ['blanqueador', 'cloro'], k: 'ml', std: 1000, m: /BLANQUEADOR|CLORO|CLORALEX/, x: /COLOR|SIN CLORO|OXI|GEL|PASTILLA|TABLETA/ },
+  tocador:   { q: ['jabon de tocador', 'jabon'], k: 'g', std: 150, m: /TOCADOR/, x: /LIQUIDO|INTIMO|BEBE|ROPA|PASTA/ },
+  jabonbano: { q: ['jabon liquido', 'jabon'], k: 'ml', std: 400, m: /LIQUIDO|CORPORAL|GEL DE BANO|GEL DE DUCHA/, x: /TRASTES|LAVATRASTES|MANOS|INTIMO|ROPA|BEBE|REPUESTO ANTIBACTERIAL DE MANOS/ },
+  trastes:   { q: ['lavatrastes', 'jabon lavatrastes', 'detergente', 'jabon'], k: 'ml', std: 750, m: /TRASTES|LAVATRASTES/, x: /ESPONJA|FIBRA|GUANTE|PASTA|POLVO/ },
+  papel:     { q: ['papel higienico'], k: 'rollo', std: 4, m: /HIGIENICO/, x: /HUMEDO/ },
+  servilleta:{ q: ['servilleta', 'servilletas'], k: 'hoja', std: 250, m: /SERVILLETA/, x: /HUMEDA|COCINA/ },
+  shampoo:   { q: ['shampoo'], k: 'ml', std: 750, m: /SHAMPOO/, x: /INTIMO|BEBE|PERRO|MASCOTA|SECO|ACONDICIONADOR Y/ },
+  dental:    { q: ['crema dental', 'pasta dental', 'pasta de dientes', 'dentifrico'], k: 'ml', std: 100, m: /DENTAL|DIENTES|DENTIFRICO/, x: /CEPILLO|HILO|ENJUAGUE|BLANQUEADOR DENTAL|INFANTIL|NINOS/ },
+  desodorante:{ q: ['desodorante'], k: 'pz', std: 1, m: /DESODORANTE/, x: /PIES|INTIMO|AMBIENTAL|PARA AUTO/ },
+  cepillo:   { q: ['cepillo dental', 'cepillo de dientes', 'cepillo'], k: 'pz', std: 1, m: /DENTAL|DIENTES/, x: /ELECTRICO|INFANTIL|NINOS|BEBE|INTERDENTAL/ },
+  toallas:   { q: ['toallas femeninas', 'toalla femenina', 'toallas sanitarias', 'toalla'], k: 'pz', std: 10, m: /FEMENINA|SANITARIA|NOCTURNA|SALVASLIP|PROTECTOR/, x: /HUMEDA|COCINA|BEBE|FACIAL/ },
+  limpiador: { q: ['limpiador', 'limpiador liquido', 'limpiador multiusos'], k: 'ml', std: 1000, m: /PISO|MULTIUSO|PINOL|FABULOSO|LIQUIDO|AROMATIZANTE/, x: /VIDRIO|HORNO|ESTUFA|MUEBLE|BANO|INODORO|TOALLITAS|AEROSOL|SPRAY|LENTES|PIEL|ACERO/ },
+  esponja:   { q: ['esponja', 'fibra'], k: 'pz', std: 1, m: /ESPONJA|FIBRA/, x: /MAQUILLAJE|BANO|CORPORAL|ACERO/ },
+  bolsas:    { q: ['bolsa para basura', 'bolsas para basura', 'bolsa de basura', 'bolsa'], k: 'pz', std: 10, m: /BASURA/, x: /BOTE/ },
+  azucar:    { q: ['azucar'], k: 'g', std: 2000, m: /AZUCAR/, x: /MASCABADO|SOBRES|GLASS|GLAS|SPLENDA|SUSTITUTO|SUCRALOSA|STEVIA|ALGODON/ },
+  sal:       { q: ['sal de mesa', 'sal yodatada', 'sal'], k: 'g', std: 1000, m: /^SAL\b|SAL DE MESA|SAL REFINADA|YODATADA|LA FINA/, x: /SALCHICHA|SALSA|SALAMI|SALMON|SALVADO|SALADA|SALUD|AJO|CEBOLLA|LIMON|GUSANO|SALES|UVAS|PIMIENTA|COMPRIMIDO/ },
+  cafe:      { q: ['cafe soluble', 'cafe'], k: 'g', std: 200, m: /SOLUBLE|INSTANTANEO/, x: /CAPSULA|SOBRE|CAPUCHINO|CAPPUCCINO|LATTE|MOKA|SABOR|CREMA|CON LECHE|MEZCLA/ },
+  aluminio:  { q: ['papel aluminio', 'papel'], k: 'pz', std: 1, m: /ALUMINIO/, x: /CHAROLA|MOLDE|BANDEJA/ },
+};
+for (const [id, c] of Object.entries(CASA)) R[id] = { ...c, u: 'pk' };
+
 // Cadenas de PROFECO → tiendas de la app (el orden importa)
 function tienda(cadena) {
   const c = N(cadena);
@@ -81,6 +108,8 @@ function tamano(t) {
   const s = N(t).replace(/(\d),(\d)/g, '$1.$2');
   const out = {};
   const num = x => parseFloat(x);
+  const ro = s.match(/(\d+)\s*ROLLOS?\b/); if (ro) out.rollos = num(ro[1]);
+  const ho = s.match(/(\d+)\s*(?:HOJAS|SERVILLETAS)\b/); if (ho) out.hojas = num(ho[1]);
   let m;
   const multi = s.match(/(\d+)\s*(?:PZAS?|PIEZAS?|LATAS?|PZ)\s*(?:DE|X|C\/)\s*(\d+(?:\.\d+)?)\s*(KG|G|GR|GRS|GRAMOS|ML|L|LT|LTS)\b/);
   const pzm = s.match(/(\d+)\s*(?:PZAS?|PIEZAS?|PZ|UNIDADES|TORTILLAS|HUEVOS|REBANADAS)\b/) || s.match(/(?:\bCON|C\/)\s*(\d+)\b(?!\s*(?:KG|G|GR|ML|L|LT|%))/);
@@ -109,6 +138,16 @@ function tamano(t) {
 function unitario(rule, r, sz) {
   const precio = Number(r.precio);
   if (!(precio > 0)) return null;
+  if (rule.u === 'pk') {
+    let base = null;
+    if (rule.k === 'g') base = sz.g || sz.ml;
+    else if (rule.k === 'ml') base = sz.ml || sz.g;
+    else if (rule.k === 'rollo') base = sz.rollos;
+    else if (rule.k === 'hoja') base = sz.hojas;
+    else base = sz.pz || 1;
+    if (!base) return null;
+    return precio / base * rule.std;
+  }
   if (rule.minG && (sz.g || sz.ml || 0) < rule.minG) return null;
   if (rule.u === 'kg') {
     if (sz.g) return precio / (sz.g / 1000);
@@ -161,6 +200,21 @@ function filas(json) {
   return [];
 }
 
+// ---- Farmacia ----
+const MEDS = ['paracetamol','ibuprofeno','naproxeno','diclofenaco','ketorolaco','metamizol','acido acetilsalicilico','aspirina','omeprazol','pantoprazol','esomeprazol','ranitidina','butilhioscina','loperamida','metoclopramida','sueros orales','suero','loratadina','cetirizina','clorfenamina','ambroxol','dextrometorfano','salbutamol','losartan','enalapril','captopril','amlodipino','nifedipino','metoprolol','telmisartan','hidroclorotiazida','metformina','glibenclamida','sitagliptina','atorvastatina','pravastatina','bezafibrato','levotiroxina','prednisona','dexametasona','betametasona','amoxicilina','ampicilina','ciprofloxacino','azitromicina','cefalexina','claritromicina','metronidazol','trimetoprima','nitrofurantoina','doxiciclina','clotrimazol','ketoconazol','fluconazol','albendazol','nitazoxanida','acido folico','complejo b','vitamina c','sulfato ferroso','sildenafil','tamsulosina','alopurinol','colchicina','clonazepam','alprazolam','tramadol','sertralina','fluoxetina','gabapentina','pregabalina','condon','preservativo','prueba de embarazo','alcohol','gasas','venda','curitas','termometro','agua oxigenada','vitacilina','vick','pañal'];
+function farmacia(cadena) {
+  const c = N(cadena);
+  if (/SIMILARES/.test(c)) return 'similares';
+  if (/BENAVIDES/.test(c)) return 'benavides';
+  if (/AHORRO/.test(c)) return 'ahorro';
+  if (/GUADALAJARA/.test(c)) return 'guadalajara';
+  if (/SAN PABLO/.test(c)) return 'sanpablo';
+  if (/SANBORN/.test(c)) return 'sanborns';
+  if (/\bYZA\b/.test(c)) return 'yza';
+  if (/ISSSTE/.test(c)) return 'superissste';
+  return tienda(cadena);
+}
+
 async function main() {
   mkdirSync('debug', { recursive: true });
   const ciud = await getJSON(API + '/ciudades');
@@ -168,7 +222,7 @@ async function main() {
 
   const cache = {}; // busqueda|ciudad → filas
   const muestras = {};
-  const terms = [...new Set(Object.values(R).flatMap(r => r.q))];
+  const terms = [...new Set([...Object.values(R).flatMap(r => r.q), ...MEDS])];
   for (const city of CIUDADES) {
     for (const t of terms) {
       const url = `${API}/precios?clave_ciudad=${encodeURIComponent(city)}&busqueda=${encodeURIComponent(t)}`;
@@ -239,6 +293,27 @@ async function main() {
     items,
   };
   writeFileSync('precios.json', JSON.stringify(out));
+
+  // catálogo de farmacia: producto → cadena → precio típico
+  const F = {};
+  for (const city of CIUDADES) for (const t of MEDS) for (const r of cache[t + '|' + city] || []) {
+    const st = farmacia(r.cadena_comercial); const pr = Number(r.precio);
+    if (!st || !(pr > 0) || !r.producto) continue;
+    const k = r.producto.trim();
+    ((F[k] ||= {})[st] ||= []).push([pr, r.fecha_observacion || '']);
+  }
+  const prods = Object.entries(F).map(([n, sts]) => {
+    const s2 = {};
+    for (const [st, arr] of Object.entries(sts)) {
+      const mx = arr.map(a => a[1]).sort().pop();
+      const lim = mx ? new Date(new Date(mx).getTime() - DIAS_VALIDOS * 864e5).toISOString().slice(0, 10) : '';
+      const ps = arr.filter(a => !a[1] || a[1] >= lim).map(a => a[0]);
+      s2[st] = [r2(pct(ps, 0.5)), r2(Math.min(...ps)), mx, ps.length];
+    }
+    return [n, s2];
+  });
+  writeFileSync('farmacia.json', JSON.stringify({ v: 1, actualizado: out.actualizado, datos_hasta: out.datos_hasta, n: prods.length, p: prods }));
+  console.log('Farmacia:', prods.length, 'productos');
   console.log('Listo:', total, 'productos con precio');
 }
 
