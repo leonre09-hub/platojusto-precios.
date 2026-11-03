@@ -1,6 +1,6 @@
 {
  "pechuga|1502": {
-  "n": 88,
+  "n": 72,
   "ejemplo": [
    {
     "producto": "PECHUGA, S/M, 1 KG. GRANEL. PECHUGA SIN HUESO (SIN PIEL)",
@@ -45,12 +45,11 @@
    "FRESKO LA COMER",
    "CITY MARKET",
    "MERCADO PUBLICO",
-   "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA"
+   "WAL-MART EXPRESS"
   ]
  },
  "pechuga|0901": {
-  "n": 183,
+  "n": 158,
   "ejemplo": [
    {
     "producto": "PECHUGA, S/M, 1 KG. GRANEL. PECHUGA. CORTE AMERICANO",
@@ -97,8 +96,7 @@
    "MERCADO SORIANA",
    "BODEGA AURRERA EXPRESS",
    "CENTRAL DE ABASTOS",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "pollo|1502": {
@@ -140,7 +138,7 @@
   ]
  },
  "pollo|0901": {
-  "n": 33,
+  "n": 30,
   "ejemplo": [
    {
     "producto": "POLLO ROSTIZADO. TRADICIONAL, S/M, PIEZA (CHAROLA O BOLSA, NO INCLUYE COMPLEMENTOS)",
@@ -178,12 +176,11 @@
    "WAL-MART",
    "CHEDRAUI",
    "HIPERMERCADO SORIANA",
-   "BODEGA AURRERA",
-   "WAL-MART EXPRESS"
+   "BODEGA AURRERA"
   ]
  },
  "pierna|1502": {
-  "n": 82,
+  "n": 68,
   "ejemplo": [
    {
     "producto": "PIERNA, S/M, 1 KG. GRANEL. PIERNA O PIERNA BATE",
@@ -233,7 +230,7 @@
   ]
  },
  "pierna|0901": {
-  "n": 144,
+  "n": 128,
   "ejemplo": [
    {
     "producto": "PIERNA, S/M, 1 KG. GRANEL. PIERNA O PIERNA BATE",
@@ -283,12 +280,11 @@
    "CENTRAL DE ABASTOS",
    "MEGA SORIANA",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "carne molida|1502": {
-  "n": 80,
+  "n": 68,
   "ejemplo": [
    {
     "producto": "CARNE MOLIDA, S/M, 1 KG. GRANEL. O PULPA MOLIDA",
@@ -331,12 +327,11 @@
    "BODEGA AURRERA",
    "MERCADO SORIANA",
    "CITY MARKET",
-   "MERCADO PUBLICO",
-   "HIPERMERCADO SORIANA"
+   "MERCADO PUBLICO"
   ]
  },
  "carne molida|0901": {
-  "n": 136,
+  "n": 118,
   "ejemplo": [
    {
     "producto": "CARNE MOLIDA, S/M, 1 KG. GRANEL. O PULPA MOLIDA",
@@ -381,8 +376,7 @@
    "MERCADO SORIANA",
    "U.N.A.M.",
    "CENTRAL DE ABASTOS",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "res|1502": {
@@ -391,8 +385,14 @@
   "nombres": [],
   "cadenas": []
  },
+ "res|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "bistec|1502": {
-  "n": 66,
+  "n": 56,
   "ejemplo": [
    {
     "producto": "BISTEC DEL 0, S/M, 1 KG. GRANEL. BISTEC/CHULETA DEL 0",
@@ -443,14 +443,8 @@
    "HIPERMERCADO SORIANA"
   ]
  },
- "res|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "chuleta|1502": {
-  "n": 83,
+  "n": 72,
   "ejemplo": [
    {
     "producto": "CHULETA, S/M, 1 KG. GRANEL. CHULETA ARRIERA O CHULETA MIXTA",
@@ -495,13 +489,11 @@
    "FRESKO LA COMER",
    "CITY MARKET",
    "MERCADO PUBLICO",
-   "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "WAL-MART EXPRESS"
   ]
  },
  "bistec|0901": {
-  "n": 113,
+  "n": 102,
   "ejemplo": [
    {
     "producto": "BISTEC DE ESPALDILLA, S/M, 1 KG. GRANEL",
@@ -554,12 +546,11 @@
    "CENTRAL DE ABASTOS",
    "SUPERISSSTE",
    "BODEGA AURRERA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "pulpa|1502": {
-  "n": 12,
+  "n": 10,
   "ejemplo": [
    {
     "producto": "PULPA, S/M, 1 KG. GRANEL. PULPA EN TROZO",
@@ -598,7 +589,7 @@
   ]
  },
  "chuleta|0901": {
-  "n": 125,
+  "n": 108,
   "ejemplo": [
    {
     "producto": "CHULETA, S/M, 1 KG. GRANEL. CHULETA  O CHULETA NATURAL O FRESCA/CHULETA DE PUERCO ENTRECORTADA O LOMO DESHUESADO DE PUERCO  O CHULETA NATURAL LOMO DE PUERCO",
@@ -632,8 +623,7 @@
    "CHULETA, S/M, 1 KG. GRANEL. CHULETA AHUMADA O ENTRECOT AHUMADO",
    "CHULETA, S/M, 1 KG. GRANEL. CHULETA ARRIERA O CHULETA MIXTA",
    "CHULETA O CHULETA COSTILLA O CHULETÓN, S/M, 1 KG. GRANEL. CHULETA, O CHULETA COSTILLA, O CHULETON",
-   "CHULETA, S/M, 1 KG. GRANEL. CHULETA RANCHERA",
-   "CHULETA, BACHOCO, 1 KG. GRANEL. CHULETA NATURAL"
+   "CHULETA, S/M, 1 KG. GRANEL. CHULETA RANCHERA"
   ],
   "cadenas": [
    "WAL-MART",
@@ -646,12 +636,11 @@
    "CENTRAL DE ABASTOS",
    "MERCADO SORIANA",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "lomo|1502": {
-  "n": 26,
+  "n": 22,
   "ejemplo": [
    {
     "producto": "LOMO, S/M, 1 KG. GRANEL. LOMO, O CAÑA DE LOMO, O EN TROZO/LOMO DE CERDO SIN HUESO",
@@ -689,12 +678,11 @@
    "CENTRAL DE ABASTOS",
    "BODEGA AURRERA",
    "FRESKO LA COMER",
-   "MERCADO PUBLICO",
-   "HIPERMERCADO SORIANA"
+   "MERCADO PUBLICO"
   ]
  },
  "pulpa|0901": {
-  "n": 25,
+  "n": 22,
   "ejemplo": [
    {
     "producto": "PULPA, S/M, 1 KG. GRANEL. PULPA EN TROZO",
@@ -730,8 +718,7 @@
   "cadenas": [
    "MERCADO SORIANA",
    "HIPERMERCADO SORIANA",
-   "MEGA SORIANA",
-   "SORIANA SUPER"
+   "MEGA SORIANA"
   ]
  },
  "carne de cerdo|1502": {
@@ -785,7 +772,7 @@
   ]
  },
  "lomo|0901": {
-  "n": 36,
+  "n": 34,
   "ejemplo": [
    {
     "producto": "LOMO, S/M, 1 KG. GRANEL. LOMO, O CAÑA DE LOMO, O EN TROZO/LOMO DE CERDO SIN HUESO",
@@ -982,7 +969,7 @@
   ]
  },
  "chorizo|0901": {
-  "n": 156,
+  "n": 132,
   "ejemplo": [
    {
     "producto": "CHORIZO, PARMA. CAMPESTRE, 1 KG. GRANEL. RANCHERO",
@@ -1025,12 +1012,11 @@
    "MERCADO SORIANA",
    "BODEGA AURRERA",
    "CHEDRAUI",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "atun|1502": {
-  "n": 394,
+  "n": 328,
   "ejemplo": [
    {
     "producto": "ATÚN, FISHA TUNA, LATA 140 GR. EN AGUA",
@@ -1085,9 +1071,7 @@
    "ATÚN, ANCLA, LATA 120 GR. CON 20% DE PROTEÍNA DE SOYA EN AGUA CON ACEITE",
    "ATÚN, S/M, 1 KG. LOMO. PACÍFICO",
    "ATÚN, S/M, 1 KG. STEAK DE ATÚN ALETA AMARILLA",
-   "ATÚN, DOLORES, BOLSA 78 GR. ALETA AMARILLA EN TROZOS EN ACEITE CON AGUA",
-   "ATÚN, S/M, 1 KG. AHUMADO. TIPO MARLÍN O TIPO MARLÍN AL NATURAL",
-   "ATÚN, S/M, 1 KG. CENTRO DE LOMO"
+   "ATÚN, DOLORES, BOLSA 78 GR. ALETA AMARILLA EN TROZOS EN ACEITE CON AGUA"
   ],
   "cadenas": [
    "WAL-MART",
@@ -1102,7 +1086,7 @@
   ]
  },
  "jamon|0901": {
-  "n": 1013,
+  "n": 892,
   "ejemplo": [
    {
     "producto": "JAMÓN, KIR, 1 KG. GRANEL. DE PAVO. VIRGINIA",
@@ -1181,12 +1165,11 @@
    "BODEGA AURRERA EXPRESS",
    "CENTRAL DE ABASTOS",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "tilapia|1502": {
-  "n": 14,
+  "n": 12,
   "ejemplo": [
    {
     "producto": "TILAPIA, S/M, 1 KG. GRANEL. FILETE. CONGELADO",
@@ -1233,7 +1216,7 @@
   "cadenas": []
  },
  "salchicha|0901": {
-  "n": 545,
+  "n": 466,
   "ejemplo": [
    {
     "producto": "SALCHICHA, KIR, 1 KG. GRANEL. FRANKFURT DE PAVO",
@@ -1301,12 +1284,11 @@
    "BODEGA AURRERA",
    "SUPERISSSTE",
    "CENTRAL DE ABASTOS",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "huevo|1502": {
-  "n": 225,
+  "n": 198,
   "ejemplo": [
    {
     "producto": "HUEVO, EL CALVARIO, PAQUETE CON 12 BLANCO",
@@ -1363,12 +1345,11 @@
    "MERCADO SORIANA",
    "FRESKO LA COMER",
    "CITY MARKET",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "atun|0901": {
-  "n": 734,
+  "n": 628,
   "ejemplo": [
    {
     "producto": "ATÚN, TUNY, LATA 140 GR. (CLASICO). EN HOJUELAS EN AGUA CON ACEITE",
@@ -1427,10 +1408,7 @@
    "ATÚN, S/M, 1 KG. STEAK DE ATÚN ALETA AMARILLA",
    "ATÚN, DOLORES, LATA 133 GR. ALETA AMARILLA EN HOJUELAS EN AGUA",
    "ATÚN, CALMEX, LATA 135 GR. ALETA AMARILLA CON 4% DE SOYA EN ACEITE CON AGUA",
-   "ATÚN, TUNY, LATA 130 GR. (CLÁSICO). EN HOJUELAS EN AGUA CON ACEITE",
-   "ATÚN, S/M, 1 KG. GRANEL. AHUMADO. LOMO",
-   "ATÚN, S/M, 1 KG. GRANEL. AHUMADO. LOMO. ALETA AMARILLA",
-   "ATÚN, S/M, 1 KG. LOMO. PACÍFICO"
+   "ATÚN, TUNY, LATA 130 GR. (CLÁSICO). EN HOJUELAS EN AGUA CON ACEITE"
   ],
   "cadenas": [
    "WAL-MART",
@@ -1444,12 +1422,11 @@
    "SUPERISSSTE",
    "CENTRAL DE ABASTOS",
    "MEGA SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "leche|1502": {
-  "n": 569,
+  "n": 530,
   "ejemplo": [
    {
     "producto": "LECHE EN POLVO, NIDO. KINDER, NIÑOS. LATA 360 GR. (ALIMENTO PARA NIÑOS...)",
@@ -1522,12 +1499,11 @@
    "CITY MARKET",
    "MERCADO PUBLICO",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "tilapia|0901": {
-  "n": 40,
+  "n": 32,
   "ejemplo": [
    {
     "producto": "TILAPIA, S/M, 1 KG. GRANEL. FILETE. CONGELADO",
@@ -1778,7 +1754,7 @@
   ]
  },
  "huevo|0901": {
-  "n": 414,
+  "n": 350,
   "ejemplo": [
    {
     "producto": "HUEVO, SAN JUAN, PAQUETE CON 30 BLANCO",
@@ -1827,8 +1803,7 @@
    "HUEVO, TEHUACÁN, PAQUETE C/30. BLANCO",
    "HUEVO, S/M, 1 KG. GRANEL. BLANCO",
    "HUEVO, S/M, 1 KG. GRANEL. ROJO",
-   "HUEVO, D´ORO, PAQUETE C/18 BLANCO",
-   "HUEVO, GUADALUPE, PAQUETE CON 18. BLANCO"
+   "HUEVO, D´ORO, PAQUETE C/18 BLANCO"
   ],
   "cadenas": [
    "WAL-MART",
@@ -1842,8 +1817,7 @@
    "CENTRAL DE ABASTOS",
    "SUPERISSSTE",
    "MEGA SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "crema|1502": {
@@ -1925,7 +1899,7 @@
   ]
  },
  "leche|0901": {
-  "n": 1169,
+  "n": 978,
   "ejemplo": [
    {
     "producto": "LECHE EN POLVO, NIDO. ENTERA. FORTICRECE, BOLSA 480 GR.",
@@ -1989,8 +1963,7 @@
    "LECHE ULTRAPASTEURIZADA, SELECTO BRAND, CAJA 1 LT. ENTERA",
    "LECHE ULTRAPASTEURIZADA, ALPURA.VAQUITAS, SEMIDESCREMADA. CAJA 200 ML. CHOCOPOWER. SABOR CHOCOLATE",
    "LECHE ULTRAPASTEURIZADA, VACA PINTA, CAJA 1 LT. ENTERA",
-   "LECHE ULTRAPASTEURIZADA, LICONSA. PLUS, CAJA 1 LT. ENTERA",
-   "LECHE EN POLVO, NIDO. ENTERA. FORTICRECE, LATA. 1.08 KG."
+   "LECHE ULTRAPASTEURIZADA, LICONSA. PLUS, CAJA 1 LT. ENTERA"
   ],
   "cadenas": [
    "BODEGA AURRERA",
@@ -2004,8 +1977,7 @@
    "SUPERISSSTE",
    "CENTRAL DE ABASTOS",
    "MEGA SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "yoghurt|1502": {
@@ -2085,7 +2057,7 @@
   ]
  },
  "queso oaxaca|0901": {
-  "n": 348,
+  "n": 300,
   "ejemplo": [
    {
     "producto": "QUESO OAXACA, LALA, PAQUETE 400 GR.",
@@ -2142,12 +2114,11 @@
    "CHEDRAUI",
    "CENTRAL DE ABASTOS",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "tortilla|1502": {
-  "n": 127,
+  "n": 112,
   "ejemplo": [
    {
     "producto": "TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL. AMARILLA",
@@ -2193,12 +2164,11 @@
    "FRESKO LA COMER",
    "CITY MARKET",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "tortilla de harina|1502": {
-  "n": 48,
+  "n": 44,
   "ejemplo": [
    {
     "producto": "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR.",
@@ -2242,7 +2212,7 @@
   ]
  },
  "queso|0901": {
-  "n": 1690,
+  "n": 1422,
   "ejemplo": [
    {
     "producto": "QUESO AMERICANO, ZWAN, PAQUETE 144 GR. QUESO PROCESADO",
@@ -2325,8 +2295,7 @@
    "MERCADO PUBLICO",
    "SUPERISSSTE",
    "CENTRAL DE ABASTOS",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "bolillo|1502": {
@@ -2336,7 +2305,7 @@
   "cadenas": []
  },
  "queso panela|0901": {
-  "n": 362,
+  "n": 292,
   "ejemplo": [
    {
     "producto": "QUESO PANELA, ESMERALDA, 1 KG. GRANEL",
@@ -2394,12 +2363,11 @@
    "MERCADO PUBLICO",
    "SUPERISSSTE",
    "CENTRAL DE ABASTOS",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "pan blanco|1502": {
-  "n": 20,
+  "n": 18,
   "ejemplo": [
    {
     "producto": "PAN BLANCO BOLILLO, S/M, PIEZA",
@@ -2441,7 +2409,7 @@
   ]
  },
  "crema|0901": {
-  "n": 1052,
+  "n": 884,
   "ejemplo": [
    {
     "producto": "CREMA, ALPURA, BOTE 426 ML.",
@@ -2519,12 +2487,11 @@
    "MERCADO PUBLICO",
    "CENTRAL DE ABASTOS",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "tostada|1502": {
-  "n": 28,
+  "n": 26,
   "ejemplo": [
    {
     "producto": "TOSTADAS DE MAÍZ, SANISSIMO. 100%, CAJA 240 GR. HORNEADAS SIN GRASA. MAÍZ BLANCO",
@@ -2568,7 +2535,7 @@
   ]
  },
  "yoghurt|0901": {
-  "n": 1278,
+  "n": 1082,
   "ejemplo": [
    {
     "producto": "YOGHURT, YOPLAIT, BOTE 1 KG. SABOR NATURAL",
@@ -2642,12 +2609,11 @@
    "MERCADO SORIANA",
    "U.N.A.M.",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "arroz|1502": {
-  "n": 165,
+  "n": 148,
   "ejemplo": [
    {
     "producto": "ARROZ, GREAT VALUE, BOLSA 900 GR. SUPER EXTRA",
@@ -2705,12 +2671,11 @@
    "CITY MARKET",
    "MERCADO PUBLICO",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "frijol|1502": {
-  "n": 309,
+  "n": 266,
   "ejemplo": [
    {
     "producto": "FRIJOL, VERDE VALLE, BOLSA 900 GR. NEGRO. JAMAPA",
@@ -2785,12 +2750,11 @@
    "CITY MARKET",
    "MERCADO PUBLICO",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "tortilla|0901": {
-  "n": 273,
+  "n": 242,
   "ejemplo": [
    {
     "producto": "TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL",
@@ -2840,9 +2804,7 @@
    "BODEGA AURRERA",
    "CENTRAL DE ABASTOS",
    "MEGA SORIANA",
-   "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "SUPERISSSTE"
   ]
  },
  "lenteja|1502": {
@@ -2896,7 +2858,7 @@
   ]
  },
  "tortilla de harina|0901": {
-  "n": 112,
+  "n": 98,
   "ejemplo": [
    {
     "producto": "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TIA ROSA, BOLSA 22 PIEZAS",
@@ -2938,13 +2900,11 @@
    "CHEDRAUI",
    "BODEGA AURRERA",
    "BODEGA AURRERA EXPRESS",
-   "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "SUPERISSSTE"
   ]
  },
  "pasta|1502": {
-  "n": 269,
+  "n": 228,
   "ejemplo": [
    {
     "producto": "PASTA PARA SOPA, ITALPASTA, PAQUETE 200 GR. FIDEO CORTADO NO. 1",
@@ -3008,8 +2968,7 @@
    "CITY MARKET",
    "MERCADO PUBLICO",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "bolillo|0901": {
@@ -3067,7 +3026,7 @@
   ]
  },
  "pan blanco|0901": {
-  "n": 57,
+  "n": 46,
   "ejemplo": [
    {
     "producto": "PAN BLANCO BOLILLO, S/M, PIEZA",
@@ -3108,8 +3067,7 @@
    "CHEDRAUI",
    "BODEGA AURRERA",
    "PANADERIAS TRADICIONALES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "maiz pozolero|1502": {
@@ -3162,7 +3120,7 @@
   "cadenas": []
  },
  "tostada|0901": {
-  "n": 73,
+  "n": 64,
   "ejemplo": [
    {
     "producto": "TOSTADAS DE MAÍZ, SANISSIMO. 100%, CAJA 240 GR. HORNEADAS SIN GRASA. MAÍZ BLANCO",
@@ -3205,8 +3163,7 @@
    "MERCADO SORIANA",
    "U.N.A.M.",
    "BODEGA AURRERA",
-   "SUPERISSSTE",
-   "WAL-MART EXPRESS"
+   "SUPERISSSTE"
   ]
  },
  "pan molido|1502": {
@@ -3216,7 +3173,7 @@
   "cadenas": []
  },
  "arroz|0901": {
-  "n": 251,
+  "n": 216,
   "ejemplo": [
    {
     "producto": "ARROZ, VERDE VALLE, BOLSA 1 KG. SUPER EXTRA",
@@ -3280,12 +3237,11 @@
    "CENTRAL DE ABASTOS",
    "MEGA SORIANA",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "pan|1502": {
-  "n": 697,
+  "n": 596,
   "ejemplo": [
    {
     "producto": "PAN BLANCO BOLILLO, S/M, PIEZA",
@@ -3371,14 +3327,11 @@
    "CITY MARKET",
    "MERCADO PUBLICO",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER",
-   "PALACIO DE HIERRO",
-   "SANBORN S HNOS."
+   "HIPERMERCADO SORIANA"
   ]
  },
  "frijol|0901": {
-  "n": 789,
+  "n": 678,
   "ejemplo": [
    {
     "producto": "FRIJOL, VERDE VALLE, BOLSA 900 GR. NEGRO",
@@ -3462,12 +3415,11 @@
    "MEGA SORIANA",
    "CENTRAL DE ABASTOS",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "aceite|1502": {
-  "n": 267,
+  "n": 244,
   "ejemplo": [
    {
     "producto": "ACEITE, GRAN TRADICIÓN, BOTELLA 800 ML. VEGETAL",
@@ -3528,12 +3480,11 @@
    "CITY MARKET",
    "MERCADO PUBLICO",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "lenteja|0901": {
-  "n": 119,
+  "n": 98,
   "ejemplo": [
    {
     "producto": "LENTEJA, SCHETTINO, BOLSA 500 GR.",
@@ -3567,8 +3518,7 @@
    "LENTEJA, VERDE VALLE, BOLSA 500 GR.",
    "LENTEJA, LA MERCED, BOLSA 500 GR.",
    "LENTEJA, S/M, 1 KG. GRANEL",
-   "LENTEJA, LA MERCED, BOLSA 454 GR.",
-   "LENTEJA, SAN LAZARO, BOLSA 500 GR."
+   "LENTEJA, LA MERCED, BOLSA 454 GR."
   ],
   "cadenas": [
    "BODEGA AURRERA",
@@ -3580,8 +3530,7 @@
    "CENTRAL DE ABASTOS",
    "SUPERISSSTE",
    "MERCADO SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "chiles|1502": {
@@ -3695,7 +3644,7 @@
   ]
  },
  "pasta|0901": {
-  "n": 483,
+  "n": 428,
   "ejemplo": [
    {
     "producto": "PASTA PARA SOPA, LA MODERNA, PAQUETE 200 GR. FIDEO 2",
@@ -3765,13 +3714,11 @@
    "SUPERISSSTE",
    "CENTRAL DE ABASTOS",
    "MEGA SORIANA",
-   "WAL-MART EXPRESS",
-   "BODEGA AURRERA EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "papa|1502": {
-  "n": 297,
+  "n": 290,
   "ejemplo": [
    {
     "producto": "PAPAS FRITAS Y SIMILARES, BARCEL, BOLSA 160 GR. CHIP´S. PAPAS FRITAS. SABOR SAL",
@@ -3830,12 +3777,11 @@
    "CITY MARKET",
    "MERCADO PUBLICO",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "avena|0901": {
-  "n": 194,
+  "n": 162,
   "ejemplo": [
    {
     "producto": "AVENA, 3 MINUTOS, BOTE 400 GR. Y SÉMOLA DE TRIGO. FORTIFICADO",
@@ -3882,12 +3828,11 @@
    "U.N.A.M.",
    "SUPERISSSTE",
    "MERCADO SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "jitomate|1502": {
-  "n": 25,
+  "n": 22,
   "ejemplo": [
    {
     "producto": "JITOMATE, S/M, 1 KG. SALADETTE/ HUAJE O TOMATE SALADETTE/ HUAJE",
@@ -3927,12 +3872,11 @@
    "MERCADO PUBLICO",
    "WAL-MART EXPRESS",
    "WAL-MART",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "maiz pozolero|0901": {
-  "n": 44,
+  "n": 36,
   "ejemplo": [
    {
     "producto": "MAÍZ POZOLERO, OVARB-LOLITA, BOLSA 1 KG. (ROJA)",
@@ -3972,13 +3916,11 @@
    "MERCADO SORIANA",
    "LA COMER",
    "WAL-MART",
-   "CENTRAL DE ABASTOS",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "CENTRAL DE ABASTOS"
   ]
  },
  "cebolla|1502": {
-  "n": 103,
+  "n": 92,
   "ejemplo": [
    {
     "producto": "CEBOLLA, S/M, 1 KG. EN MALLA. BLANCA SIN RABO",
@@ -4024,18 +3966,11 @@
    "CITY MARKET",
    "MERCADO PUBLICO",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
- "pozole|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "ajo|1502": {
-  "n": 38,
+  "n": 36,
   "ejemplo": [
    {
     "producto": "AJO, MC CORMICK, FRASCO 77 GR. EN POLVO",
@@ -4078,12 +4013,17 @@
    "CENTRAL DE ABASTOS",
    "FRESKO LA COMER",
    "CITY MARKET",
-   "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA"
+   "WAL-MART EXPRESS"
   ]
  },
+ "pozole|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "chile|1502": {
-  "n": 443,
+  "n": 428,
   "ejemplo": [
    {
     "producto": "CHILE FRESCO, S/M, 1 KG. HABANERO",
@@ -4157,8 +4097,7 @@
    "CITY MARKET",
    "MERCADO PUBLICO",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "pan molido|0901": {
@@ -4168,7 +4107,7 @@
   "cadenas": []
  },
  "cilantro|1502": {
-  "n": 40,
+  "n": 36,
   "ejemplo": [
    {
     "producto": "CILANTRO, S/M, MANOJO",
@@ -4209,12 +4148,11 @@
    "FRESKO LA COMER",
    "CITY MARKET",
    "MERCADO PUBLICO",
-   "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA"
+   "WAL-MART EXPRESS"
   ]
  },
  "pan|0901": {
-  "n": 1096,
+  "n": 936,
   "ejemplo": [
    {
     "producto": "PAN BLANCO BOLILLO, S/M, PIEZA",
@@ -4305,12 +4243,11 @@
    "SALINAS Y ROCHA",
    "PANADERIAS TRADICIONALES",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "lechuga|1502": {
-  "n": 38,
+  "n": 34,
   "ejemplo": [
    {
     "producto": "LECHUGA, S/M, PZA. ROMANA",
@@ -4353,7 +4290,7 @@
   ]
  },
  "aceite|0901": {
-  "n": 442,
+  "n": 370,
   "ejemplo": [
    {
     "producto": "ACEITE, 1-2-3, BOTELLA 1 LT. VEGETAL",
@@ -4408,8 +4345,7 @@
    "ACEITE, 1-2-3, BOTELLA 500 ML. MIXTO",
    "ACEITE, SARITA, BOTELLA 850 ML. SOYA",
    "ACEITE, GRAN TRADICIÓN, BOTELLA 850 ML. VEGETAL",
-   "ACEITE DE OLIVA, BORGES, BOTELLA 500 ML. (ETIQ. AMARILLA).",
-   "ACEITE, GREAT VALUE, BOTELLA 946 ML. MIXTO"
+   "ACEITE DE OLIVA, BORGES, BOTELLA 500 ML. (ETIQ. AMARILLA)."
   ],
   "cadenas": [
    "HIPERMERCADO SORIANA",
@@ -4423,12 +4359,11 @@
    "CENTRAL DE ABASTOS",
    "MEGA SORIANA",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "aguacate|1502": {
-  "n": 40,
+  "n": 36,
   "ejemplo": [
    {
     "producto": "AGUACATE, S/M, 1 KG. HASS",
@@ -4468,12 +4403,11 @@
    "FRESKO LA COMER",
    "CITY MARKET",
    "MERCADO PUBLICO",
-   "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA"
+   "WAL-MART EXPRESS"
   ]
  },
  "limon|1502": {
-  "n": 53,
+  "n": 48,
   "ejemplo": [
    {
     "producto": "LIMÓN, S/M, 1 KG. AGRIO SIN SEMILLA O LIMON PERSA",
@@ -4517,12 +4451,11 @@
    "CITY MARKET",
    "MERCADO PUBLICO",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "chiles|0901": {
-  "n": 524,
+  "n": 438,
   "ejemplo": [
    {
     "producto": "CHILES, LA COSTEÑA, LATA 380 GR. JALAPEÑOS RAJAS",
@@ -4582,12 +4515,11 @@
    "SUPERISSSTE",
    "CENTRAL DE ABASTOS",
    "MERCADO SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "calabaza|1502": {
-  "n": 34,
+  "n": 30,
   "ejemplo": [
    {
     "producto": "CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)",
@@ -4627,12 +4559,11 @@
    "BODEGA AURRERA",
    "FRESKO LA COMER",
    "CITY MARKET",
-   "MERCADO PUBLICO",
-   "HIPERMERCADO SORIANA"
+   "MERCADO PUBLICO"
   ]
  },
  "chile seco|0901": {
-  "n": 69,
+  "n": 62,
   "ejemplo": [
    {
     "producto": "CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
@@ -4667,21 +4598,18 @@
    "CHILE SECO, VERDE VALLE, BOLSA 75 GR. PASILLA",
    "CHILE SECO, S/M, 1 KG. GRANEL. GUAJILLO",
    "CHILE SECO, S/M, 1 KG. GRANEL. CASCABEL",
-   "CHILE SECO, S/M, 1 KG. GRANEL. ANCHO",
-   "CHILE SECO, SAN LAZARO, BOLSA 100 GR. ANCHO",
-   "CHILE SECO, SAN LAZARO, BOLSA 100 GR. PASILLA"
+   "CHILE SECO, S/M, 1 KG. GRANEL. ANCHO"
   ],
   "cadenas": [
    "HIPERMERCADO SORIANA",
    "MERCADO PUBLICO",
    "LA COMER",
    "CHEDRAUI",
-   "CENTRAL DE ABASTOS",
-   "SORIANA SUPER"
+   "CENTRAL DE ABASTOS"
   ]
  },
  "zanahoria|1502": {
-  "n": 43,
+  "n": 38,
   "ejemplo": [
    {
     "producto": "ZANAHORIA, S/M, 1 KG. GRANDE",
@@ -4723,12 +4651,11 @@
    "CITY MARKET",
    "MERCADO PUBLICO",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "papa|0901": {
-  "n": 565,
+  "n": 470,
   "ejemplo": [
    {
     "producto": "PAPAS FRITAS Y SIMILARES, BARCEL, BOLSA 150 GR. CHIP´S. JALAPEÑO",
@@ -4789,12 +4716,11 @@
    "MERCADO PUBLICO",
    "SUPERISSSTE",
    "MEGA SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "nopal|1502": {
-  "n": 18,
+  "n": 16,
   "ejemplo": [
    {
     "producto": "NOPAL, S/M, 1 KG. SIN ESPINAS",
@@ -4830,12 +4756,11 @@
    "MEGA SORIANA",
    "WAL-MART",
    "MERCADO SORIANA",
-   "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA"
+   "WAL-MART EXPRESS"
   ]
  },
  "jitomate|0901": {
-  "n": 36,
+  "n": 32,
   "ejemplo": [
    {
     "producto": "JITOMATE, S/M, 1 KG. GRANEL. SALADETTE/HUAJE O TOMATE SALADETTE/HUAJE. PRIMERA",
@@ -4880,12 +4805,11 @@
    "BODEGA AURRERA EXPRESS",
    "MEGA SORIANA",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA"
+   "WAL-MART EXPRESS"
   ]
  },
  "platano|1502": {
-  "n": 41,
+  "n": 38,
   "ejemplo": [
    {
     "producto": "PLÁTANO, S/M, 1 KG. MACHO",
@@ -4928,12 +4852,11 @@
    "MERCADO PUBLICO",
    "WAL-MART EXPRESS",
    "WAL-MART",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "manzana|1502": {
-  "n": 127,
+  "n": 112,
   "ejemplo": [
    {
     "producto": "MANZANA, S/M, 1 KG. GRANNY SMITH",
@@ -4981,12 +4904,11 @@
    "CITY MARKET",
    "MERCADO PUBLICO",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "cebolla|0901": {
-  "n": 155,
+  "n": 138,
   "ejemplo": [
    {
     "producto": "CEBOLLA, S/M, 1 KG. MORADA",
@@ -5035,12 +4957,11 @@
    "CENTRAL DE ABASTOS",
    "MEGA SORIANA",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "piña|1502": {
-  "n": 86,
+  "n": 82,
   "ejemplo": [
    {
     "producto": "PIÑA, S/M, 1 KG. MIEL",
@@ -5083,12 +5004,11 @@
    "CENTRAL DE ABASTOS",
    "FRESKO LA COMER",
    "CITY MARKET",
-   "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA"
+   "WAL-MART EXPRESS"
   ]
  },
  "ajo|0901": {
-  "n": 95,
+  "n": 80,
   "ejemplo": [
    {
     "producto": "AJO, MC CORMICK, FRASCO 77 GR. EN POLVO",
@@ -5134,8 +5054,7 @@
    "MERCADO PUBLICO",
    "CENTRAL DE ABASTOS",
    "BODEGA AURRERA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "pina|1502": {
@@ -5145,7 +5064,7 @@
   "cadenas": []
  },
  "chile|0901": {
-  "n": 835,
+  "n": 708,
   "ejemplo": [
    {
     "producto": "CHILE FRESCO, S/M, 1 KG. GUERO-LARGO",
@@ -5206,9 +5125,7 @@
    "CHILES, LA COSTEÑA, LATA 340 GR. JALAPEÑO RAJAS",
    "CHILES, LA COSTEÑA, LATA 105 GR. SERRANO",
    "CHILES, LA MORENA, LATA 210 GR. JALAPEÑOS EN ESCABECHE",
-   "CHILE FRESCO, S/M, 250 GR. BOLSA. JALAPEÑO O CUARESMEÑO",
-   "CHILE SECO, SAN LAZARO, BOLSA 100 GR. ANCHO",
-   "CHILE SECO, SAN LAZARO, BOLSA 100 GR. PASILLA"
+   "CHILE FRESCO, S/M, 250 GR. BOLSA. JALAPEÑO O CUARESMEÑO"
   ],
   "cadenas": [
    "WAL-MART",
@@ -5223,8 +5140,7 @@
    "CENTRAL DE ABASTOS",
    "MEGA SORIANA",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "champiñón|1502": {
@@ -5233,8 +5149,49 @@
   "nombres": [],
   "cadenas": []
  },
+ "champiñones|1502": {
+  "n": 16,
+  "ejemplo": [
+   {
+    "producto": "CHAMPIÑONES, S/M, 1 KG.",
+    "tipo_producto": "CHAMPIÑONES",
+    "precio": 119,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CHAMPIÑONES, S/M, 1 KG.",
+    "tipo_producto": "CHAMPIÑONES",
+    "precio": 119,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CHAMPIÑONES, S/M, 1 KG."
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "CENTRAL DE ABASTOS",
+   "BODEGA AURRERA",
+   "MERCADO PUBLICO"
+  ]
+ },
  "cilantro|0901": {
-  "n": 57,
+  "n": 48,
   "ejemplo": [
    {
     "producto": "CILANTRO, S/M, MANOJO",
@@ -5274,51 +5231,7 @@
    "CHEDRAUI",
    "LA COMER",
    "MERCADO PUBLICO",
-   "WAL-MART EXPRESS",
-   "BODEGA AURRERA EXPRESS",
-   "SORIANA SUPER"
-  ]
- },
- "champiñones|1502": {
-  "n": 20,
-  "ejemplo": [
-   {
-    "producto": "CHAMPIÑONES, S/M, 1 KG.",
-    "tipo_producto": "CHAMPIÑONES",
-    "precio": 119,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
-    "direccion": "GUSTAVO BAZ 4001",
-    "colonia": "INDUSTRIAL SAN NICOLAS",
-    "cp": "5400",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "CHAMPIÑONES, S/M, 1 KG.",
-    "tipo_producto": "CHAMPIÑONES",
-    "precio": 119,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
-    "direccion": "GUSTAVO BAZ 4001",
-    "colonia": "INDUSTRIAL SAN NICOLAS",
-    "cp": "5400",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "CHAMPIÑONES, S/M, 1 KG."
-  ],
-  "cadenas": [
-   "MEGA SORIANA",
-   "WAL-MART",
-   "CENTRAL DE ABASTOS",
-   "BODEGA AURRERA",
-   "MERCADO PUBLICO",
-   "HIPERMERCADO SORIANA"
+   "WAL-MART EXPRESS"
   ]
  },
  "hongo|1502": {
@@ -5328,7 +5241,7 @@
   "cadenas": []
  },
  "lechuga|0901": {
-  "n": 93,
+  "n": 84,
   "ejemplo": [
    {
     "producto": "LECHUGA, S/M, PZA. ROMANA",
@@ -5371,8 +5284,7 @@
    "HIPERMERCADO SORIANA",
    "MERCADO SORIANA",
    "CENTRAL DE ABASTOS",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "hongos|1502": {
@@ -5382,7 +5294,7 @@
   "cadenas": []
  },
  "aguacate|0901": {
-  "n": 62,
+  "n": 54,
   "ejemplo": [
    {
     "producto": "AGUACATE, S/M, 1 KG. HASS",
@@ -5425,12 +5337,11 @@
    "HIPERMERCADO SORIANA",
    "BODEGA AURRERA",
    "CENTRAL DE ABASTOS",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "pimiento|1502": {
-  "n": 34,
+  "n": 30,
   "ejemplo": [
    {
     "producto": "PIMIENTO, S/M, 1 KG. MORRON VERDE",
@@ -5470,12 +5381,11 @@
    "CENTRAL DE ABASTOS",
    "FRESKO LA COMER",
    "MERCADO PUBLICO",
-   "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA"
+   "WAL-MART EXPRESS"
   ]
  },
  "limon|0901": {
-  "n": 83,
+  "n": 72,
   "ejemplo": [
    {
     "producto": "LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O LIMON COLIMA",
@@ -5522,12 +5432,11 @@
    "MEGA SORIANA",
    "SUPERISSSTE",
    "HIPERMERCADO SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "tomate|1502": {
-  "n": 40,
+  "n": 36,
   "ejemplo": [
    {
     "producto": "TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
@@ -5569,12 +5478,17 @@
    "FRESKO LA COMER",
    "CITY MARKET",
    "MERCADO PUBLICO",
-   "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA"
+   "WAL-MART EXPRESS"
   ]
  },
+ "granola|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "calabaza|0901": {
-  "n": 59,
+  "n": 54,
   "ejemplo": [
    {
     "producto": "CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)",
@@ -5618,12 +5532,6 @@
    "CENTRAL DE ABASTOS",
    "WAL-MART EXPRESS"
   ]
- },
- "granola|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "cereal|1502": {
   "n": 208,
@@ -5686,7 +5594,7 @@
   ]
  },
  "zanahoria|0901": {
-  "n": 78,
+  "n": 68,
   "ejemplo": [
    {
     "producto": "ZANAHORIA, S/M, 1 KG. MEDIANA",
@@ -5732,12 +5640,11 @@
    "MEGA SORIANA",
    "SUPERISSSTE",
    "MERCADO SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "jabon|1502": {
-  "n": 395,
+  "n": 366,
   "ejemplo": [
    {
     "producto": "JABÓN DE PASTA, TEPEYAC, BARRA 400 GR. CON ENVOLTURA. (AMARILLO)",
@@ -5804,12 +5711,11 @@
    "FRESKO LA COMER",
    "CITY MARKET",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "nopal|0901": {
-  "n": 41,
+  "n": 36,
   "ejemplo": [
    {
     "producto": "NOPAL, S/M, 1 KG. SIN ESPINAS",
@@ -5848,8 +5754,7 @@
    "U.N.A.M.",
    "BODEGA AURRERA",
    "CHEDRAUI",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "detergente|1502": {
@@ -5931,7 +5836,7 @@
   ]
  },
  "platano|0901": {
-  "n": 72,
+  "n": 64,
   "ejemplo": [
    {
     "producto": "PLÁTANO, S/M, 1 KG. MACHO",
@@ -5977,8 +5882,7 @@
    "CENTRAL DE ABASTOS",
    "MEGA SORIANA",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "suavizante|1502": {
@@ -6079,7 +5983,7 @@
   ]
  },
  "manzana|0901": {
-  "n": 208,
+  "n": 184,
   "ejemplo": [
    {
     "producto": "MANZANA, S/M, 1 KG. GRANEL. GOLDEN DELICIOUS",
@@ -6133,8 +6037,7 @@
    "CENTRAL DE ABASTOS",
    "MEGA SORIANA",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "cloro|1502": {
@@ -6144,7 +6047,7 @@
   "cadenas": []
  },
  "piña|0901": {
-  "n": 154,
+  "n": 130,
   "ejemplo": [
    {
     "producto": "PIÑA, S/M, 1 KG. MIEL",
@@ -6188,13 +6091,11 @@
    "CHEDRAUI",
    "WAL-MART",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER",
-   "BODEGA AURRERA EXPRESS"
+   "WAL-MART EXPRESS"
   ]
  },
  "jabon de tocador|1502": {
-  "n": 297,
+  "n": 268,
   "ejemplo": [
    {
     "producto": "JABÓN DE TOCADOR, ESCUDO, BARRA 150 GR. ANTIBACTERIAL. (ROSA)",
@@ -6252,8 +6153,7 @@
    "FRESKO LA COMER",
    "CITY MARKET",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "pina|0901": {
@@ -6287,7 +6187,7 @@
   "cadenas": []
  },
  "champiñones|0901": {
-  "n": 52,
+  "n": 44,
   "ejemplo": [
    {
     "producto": "CHAMPIÑONES, S/M, 1 KG.",
@@ -6326,12 +6226,11 @@
    "CHEDRAUI",
    "CENTRAL DE ABASTOS",
    "BODEGA AURRERA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "papel higienico|1502": {
-  "n": 175,
+  "n": 146,
   "ejemplo": [
    {
     "producto": "PAPEL HIGIÉNICO, PRECÍSSIMO. ECO, PAQUETE 4 ROLLOS. 185 HOJAS DOBLES",
@@ -6387,8 +6286,7 @@
    "FRESKO LA COMER",
    "CITY MARKET",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "hongo|0901": {
@@ -6508,7 +6406,7 @@
   ]
  },
  "pimiento|0901": {
-  "n": 47,
+  "n": 40,
   "ejemplo": [
    {
     "producto": "PIMIENTO, S/M, 1 KG. MORRON VERDE",
@@ -6547,8 +6445,7 @@
    "CHEDRAUI",
    "MERCADO SORIANA",
    "BODEGA AURRERA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "shampoo|1502": {
@@ -6668,7 +6565,7 @@
   ]
  },
  "tomate|0901": {
-  "n": 61,
+  "n": 52,
   "ejemplo": [
    {
     "producto": "TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
@@ -6709,8 +6606,7 @@
    "MERCADO SORIANA",
    "LA COMER",
    "CENTRAL DE ABASTOS",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "pasta dental|1502": {
@@ -6732,7 +6628,7 @@
   "cadenas": []
  },
  "cereal|0901": {
-  "n": 545,
+  "n": 454,
   "ejemplo": [
    {
     "producto": "CEREALES, SPECIAL K. KELLOGG´S, CAJA 530 GR. ORIGINAL",
@@ -6791,8 +6687,7 @@
    "CHEDRAUI",
    "SUPERISSSTE",
    "MERCADO SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "dentifrico|1502": {
@@ -6802,7 +6697,7 @@
   "cadenas": []
  },
  "jabon|0901": {
-  "n": 879,
+  "n": 756,
   "ejemplo": [
    {
     "producto": "JABÓN DE PASTA, TEPEYAC, BARRA 400 GR. CON ENVOLTURA. (AMARILLO)",
@@ -6879,8 +6774,7 @@
    "CENTRAL DE ABASTOS",
    "SUPERISSSTE",
    "MEGA SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "desodorante|1502": {
@@ -6983,7 +6877,7 @@
   ]
  },
  "detergente|0901": {
-  "n": 724,
+  "n": 630,
   "ejemplo": [
    {
     "producto": "DETERGENTE P/ROPA, MAS OSCURA, BOTELLA 3 LT. LÍQUIDO",
@@ -7062,8 +6956,7 @@
    "SUPERISSSTE",
    "CENTRAL DE ABASTOS",
    "MERCADO SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "cepillo de dientes|1502": {
@@ -7073,7 +6966,7 @@
   "cadenas": []
  },
  "suavizante|0901": {
-  "n": 105,
+  "n": 88,
   "ejemplo": [
    {
     "producto": "SUAVIZANTE P/ROPA, DOWNY, BOTELLA 700 ML. ACONDICIONADOR DE TELAS. LIBRE ENJUAGUE. AROMA FLORAL",
@@ -7121,8 +7014,7 @@
    "SUPERISSSTE",
    "CENTRAL DE ABASTOS",
    "MERCADO SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "cepillo|1502": {
@@ -7165,7 +7057,7 @@
   ]
  },
  "blanqueador|0901": {
-  "n": 105,
+  "n": 94,
   "ejemplo": [
    {
     "producto": "BLANQUEADOR, CLORALEX, BOTELLA 950 ML. EL RENDIDOR",
@@ -7210,17 +7102,10 @@
    "BODEGA AURRERA EXPRESS",
    "U.N.A.M.",
    "CENTRAL DE ABASTOS",
-   "MERCADO SORIANA",
-   "SORIANA SUPER"
+   "MERCADO SORIANA"
   ]
  },
  "toallas femeninas|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "cloro|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -7291,6 +7176,12 @@
    "WAL-MART EXPRESS"
   ]
  },
+ "cloro|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "toallas sanitarias|1502": {
   "n": 0,
   "ejemplo": [],
@@ -7298,7 +7189,7 @@
   "cadenas": []
  },
  "jabon de tocador|0901": {
-  "n": 596,
+  "n": 506,
   "ejemplo": [
    {
     "producto": "JABÓN DE TOCADOR, PALMOLIVE. NATURALS, BARRA 120 GR. SENSACIÓN HUMECTANTE.  OLIVA Y ALOE",
@@ -7366,8 +7257,7 @@
    "MEGA SORIANA",
    "CENTRAL DE ABASTOS",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "toalla|1502": {
@@ -7551,13 +7441,13 @@
    "CITY MARKET"
   ]
  },
- "limpiador multiusos|1502": {
+ "jabon lavatrastes|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "jabon lavatrastes|0901": {
+ "limpiador multiusos|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -7570,7 +7460,7 @@
   "cadenas": []
  },
  "papel higienico|0901": {
-  "n": 284,
+  "n": 250,
   "ejemplo": [
    {
     "producto": "PAPEL HIGIÉNICO, SUAVEL, PAQUETE 32 ROLLOS. 200 HOJAS DOBLES",
@@ -7617,8 +7507,7 @@
    "PAPEL HIGIÉNICO, HORTENSIA. SUPREME, PAQUETE 4 ROLLOS. 400 H. DOBLES",
    "PAPEL HIGIÉNICO, SUAVEL. CON AROMA, PAQUETE 4 ROLLOS. 200 HOJAS DOBLES",
    "PAPEL HIGIÉNICO, RINDE HOGAR, PAQUETE 4 ROLLOS. 200 HOJAS",
-   "PAPEL HIGIÉNICO, BELA, PAQUETE 4 ROLLOS. 400 HOJAS DOBLES",
-   "PAPEL HIGIÉNICO, ELITE. PREMIUM SOFT XL, PAQUETE 18 ROLLOS. HOJA DOBLE"
+   "PAPEL HIGIÉNICO, BELA, PAQUETE 4 ROLLOS. 400 HOJAS DOBLES"
   ],
   "cadenas": [
    "HIPERMERCADO SORIANA",
@@ -7630,10 +7519,7 @@
    "CHEDRAUI",
    "MEGA SORIANA",
    "CENTRAL DE ABASTOS",
-   "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "BODEGA AURRERA EXPRESS",
-   "SORIANA SUPER"
+   "SUPERISSSTE"
   ]
  },
  "fibra|1502": {
@@ -7679,7 +7565,7 @@
   ]
  },
  "servilleta|0901": {
-  "n": 210,
+  "n": 178,
   "ejemplo": [
    {
     "producto": "SERVILLETAS DE PAPEL BLANCO, GREAT VALUE. PREMIUM, PAQUETE 250 HOJAS",
@@ -7731,8 +7617,7 @@
    "SUPERISSSTE",
    "CENTRAL DE ABASTOS",
    "MERCADO SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "bolsa para basura|1502": {
@@ -7742,7 +7627,7 @@
   "cadenas": []
  },
  "servilletas|0901": {
-  "n": 210,
+  "n": 178,
   "ejemplo": [
    {
     "producto": "SERVILLETAS DE PAPEL BLANCO, GREAT VALUE. PREMIUM, PAQUETE 250 HOJAS",
@@ -7794,8 +7679,7 @@
    "SUPERISSSTE",
    "CENTRAL DE ABASTOS",
    "MERCADO SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "bolsas para basura|1502": {
@@ -7811,7 +7695,7 @@
   "cadenas": []
  },
  "shampoo|0901": {
-  "n": 908,
+  "n": 778,
   "ejemplo": [
    {
     "producto": "SHAMPOO ÍNTIMO, BENZAL, BOTELLA 240 ML. CUIDADO PH WASH",
@@ -7880,8 +7764,7 @@
    "MERCADO SORIANA",
    "SUPERISSSTE",
    "CENTRAL DE ABASTOS",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "bolsa|1502": {
@@ -7891,7 +7774,7 @@
   "cadenas": []
  },
  "crema dental|0901": {
-  "n": 142,
+  "n": 120,
   "ejemplo": [
    {
     "producto": "CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 90 ML. SABOR ORIGINAL",
@@ -7938,13 +7821,11 @@
    "BODEGA AURRERA",
    "U.N.A.M.",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER",
-   "BODEGA AURRERA EXPRESS"
+   "WAL-MART EXPRESS"
   ]
  },
  "azucar|1502": {
-  "n": 125,
+  "n": 110,
   "ejemplo": [
    {
     "producto": "AZÚCAR, ZULKA, BOLSA PLÁSTICO 2 KG. ESTÁNDAR O MORENA",
@@ -7988,8 +7869,7 @@
    "AZÚCAR, KE! PRECIO, BOLSA PLÁSTICO 1800 GR. ESTÁNDAR O MORENA",
    "AZÚCAR, AURRERA, BOLSA PLÁSTICO 900 GR. ESTÁNDAR",
    "AZÚCAR, ZULKA, BOLSA PLÁSTICO 900 GR. ESTÁNDAR",
-   "AZÚCAR, PRECISSIMO, BOLSA PLÁSTICO 900 GR. ESTÁNDAR",
-   "AZÚCAR, GOLDEN HILLS, BOLSA PLÁSTICO 1 KG. ESTÁNDAR"
+   "AZÚCAR, PRECISSIMO, BOLSA PLÁSTICO 900 GR. ESTÁNDAR"
   ],
   "cadenas": [
    "MEGA SORIANA",
@@ -8001,8 +7881,7 @@
    "CITY MARKET",
    "MERCADO PUBLICO",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "pasta dental|0901": {
@@ -8017,20 +7896,20 @@
   "nombres": [],
   "cadenas": []
  },
- "sal yodatada|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "pasta de dientes|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
+ "sal yodatada|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "sal|1502": {
-  "n": 554,
+  "n": 548,
   "ejemplo": [
    {
     "producto": "SALCHICHA, SAN RAFAEL, PAQUETE 500 GR. BOTANERA. DE PAVO",
@@ -8111,9 +7990,7 @@
    "FRESKO LA COMER",
    "CITY MARKET",
    "MERCADO PUBLICO",
-   "WAL-MART EXPRESS",
-   "SANBORN S HNOS.",
-   "HIPERMERCADO SORIANA"
+   "WAL-MART EXPRESS"
   ]
  },
  "dentifrico|0901": {
@@ -8176,7 +8053,7 @@
   ]
  },
  "desodorante|0901": {
-  "n": 759,
+  "n": 612,
   "ejemplo": [
    {
     "producto": "DESODORANTE, NIVEA, ROLL ON 50 ML. MEN. BLACK AND WHITE. INVISIBLE. ORIGINAL. PARA CABALLERO",
@@ -8226,8 +8103,7 @@
    "DESODORANTE, REXONA, CAJA CON BARRA 58 GR. CLINICAL MEN. CLEAN. PARA CABALLERO",
    "DESODORANTE, AXE, BARRA 45 GR. BLACK. PARA CABALLERO",
    "DESODORANTE, REXONA, BARRA 45 GR. ACTIVE DRY. ANTITRANSPIRANTE. PARA CABALLERO",
-   "DESODORANTE, BRUT. CLASSIC, ROLL ON 50 GR. VERDE. PARA CABALLERO",
-   "DESODORANTE, DOVE, CAJA CON BOTE 150 ML. (AEROSOL). CLINICAL EXPERT. ORIGINAL CLEAN. PARA DAMA"
+   "DESODORANTE, BRUT. CLASSIC, ROLL ON 50 GR. VERDE. PARA CABALLERO"
   ],
   "cadenas": [
    "LA COMER",
@@ -8239,12 +8115,11 @@
    "BODEGA AURRERA",
    "BODEGA AURRERA EXPRESS",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "cafe|1502": {
-  "n": 340,
+  "n": 320,
   "ejemplo": [
    {
     "producto": "CAFÉ SOLUBLE, LOS PORTALES DE CORDOBA, FRASCO 85 GR. TRADICIONAL",
@@ -8300,8 +8175,7 @@
    "CAFETERAS, OSTER, BVSTRF100. CAPACIDAD 12 TAZAS",
    "CAFETERAS, T-FAL. GRAND CAFÉ, CM771D55. CAPACIDAD 14 TAZAS",
    "CAFETERAS, OSTER, BVSTDC12 O BVSTDC12-013. CAPACIDAD 12 TAZAS",
-   "CAFÉ TOSTADO Y MOLIDO, LEGAL, SOBRE 30 GR. MEZCLADO CON AZUCAR",
-   "CAFETERAS, T-FAL. COOL TOUCH, CM133852. CAPACIDAD 10 TAZAS. (CON JARRA TÉRMICA)"
+   "CAFÉ TOSTADO Y MOLIDO, LEGAL, SOBRE 30 GR. MEZCLADO CON AZUCAR"
   ],
   "cadenas": [
    "WAL-MART",
@@ -8314,12 +8188,11 @@
    "FRESKO LA COMER",
    "CITY MARKET",
    "MERCADO PUBLICO",
-   "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA"
+   "WAL-MART EXPRESS"
   ]
  },
  "cepillo dental|0901": {
-  "n": 49,
+  "n": 44,
   "ejemplo": [
    {
     "producto": "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
@@ -8359,9 +8232,7 @@
    "BODEGA AURRERA",
    "CHEDRAUI",
    "HIPERMERCADO SORIANA",
-   "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "BODEGA AURRERA EXPRESS"
+   "SUPERISSSTE"
   ]
  },
  "papel aluminio|1502": {
@@ -8370,8 +8241,14 @@
   "nombres": [],
   "cadenas": []
  },
+ "cepillo de dientes|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "papel|1502": {
-  "n": 175,
+  "n": 146,
   "ejemplo": [
    {
     "producto": "PAPEL HIGIÉNICO, PRECÍSSIMO. ECO, PAQUETE 4 ROLLOS. 185 HOJAS DOBLES",
@@ -8427,18 +8304,11 @@
    "FRESKO LA COMER",
    "CITY MARKET",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "LA COMER"
+   "HIPERMERCADO SORIANA"
   ]
  },
- "cepillo de dientes|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "paracetamol|1502": {
-  "n": 58,
+  "n": 52,
   "ejemplo": [
    {
     "producto": "PARACETAMOL, S/M, CAJA CON 20 TABLETAS DE 500 MG.",
@@ -8483,7 +8353,7 @@
   ]
  },
  "cepillo|0901": {
-  "n": 49,
+  "n": 44,
   "ejemplo": [
    {
     "producto": "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
@@ -8523,13 +8393,11 @@
    "BODEGA AURRERA",
    "CHEDRAUI",
    "HIPERMERCADO SORIANA",
-   "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "BODEGA AURRERA EXPRESS"
+   "SUPERISSSTE"
   ]
  },
  "ibuprofeno|1502": {
-  "n": 66,
+  "n": 58,
   "ejemplo": [
    {
     "producto": "IBUPROFENO, S/M, CAJA CON 10 GRAGEAS O TABLETAS DE 400 MG.",
@@ -8572,8 +8440,7 @@
    "FRESKO LA COMER",
    "CITY MARKET",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "SANBORN S HNOS."
+   "HIPERMERCADO SORIANA"
   ]
  },
  "toallas femeninas|0901": {
@@ -8583,7 +8450,7 @@
   "cadenas": []
  },
  "naproxeno|1502": {
-  "n": 74,
+  "n": 66,
   "ejemplo": [
    {
     "producto": "NAPROXENO, S/M, CAJA CON 20 TABLETAS DE 500 MG.",
@@ -8625,12 +8492,11 @@
    "BODEGA AURRERA",
    "FRESKO LA COMER",
    "CITY MARKET",
-   "HIPERMERCADO SORIANA",
-   "SANBORN S HNOS."
+   "HIPERMERCADO SORIANA"
   ]
  },
  "toalla femenina|0901": {
-  "n": 608,
+  "n": 534,
   "ejemplo": [
    {
     "producto": "TOALLA FEMENINA, NATURELLA, BOLSA 8 PIEZAS. NOCTURNA CON ALAS. EXTRA LARGA. FLUJO SÚPER ABUNDANTE",
@@ -8698,8 +8564,7 @@
    "CHEDRAUI",
    "MERCADO SORIANA",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "diclofenaco|1502": {
@@ -8708,8 +8573,14 @@
   "nombres": [],
   "cadenas": []
  },
+ "toallas sanitarias|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "ketorolaco|1502": {
-  "n": 34,
+  "n": 28,
   "ejemplo": [
    {
     "producto": "KETOROLACO, S/M, 10 TABLETAS DE 10 MG.",
@@ -8750,18 +8621,11 @@
    "MERCADO SORIANA",
    "CITY MARKET",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "SANBORN S HNOS."
+   "HIPERMERCADO SORIANA"
   ]
  },
- "toallas sanitarias|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "metamizol|1502": {
-  "n": 28,
+  "n": 26,
   "ejemplo": [
    {
     "producto": "METAMIZOL SODICO, S/M, CAJA CON 10 TABLETAS O COMPRIMIDOS 500 MG.",
@@ -8805,7 +8669,7 @@
   ]
  },
  "toalla|0901": {
-  "n": 714,
+  "n": 624,
   "ejemplo": [
    {
     "producto": "TOALLA FEMENINA, NATURELLA, BOLSA 8 PIEZAS. NOCTURNA CON ALAS. EXTRA LARGA. FLUJO SÚPER ABUNDANTE",
@@ -8877,8 +8741,7 @@
    "CHEDRAUI",
    "MERCADO SORIANA",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "acido acetilsalicilico|1502": {
@@ -8888,7 +8751,7 @@
   "cadenas": []
  },
  "limpiador|0901": {
-  "n": 141,
+  "n": 128,
   "ejemplo": [
    {
     "producto": "LIMPIADOR LÍQUIDO P/PISO, FABULOSO, BOTELLA 1 LT. MULTIUSOS .FRESCA LAVANDA",
@@ -8937,9 +8800,7 @@
    "CENTRAL DE ABASTOS",
    "WAL-MART",
    "BODEGA AURRERA",
-   "MERCADO SORIANA",
-   "SORIANA SUPER",
-   "WAL-MART EXPRESS"
+   "MERCADO SORIANA"
   ]
  },
  "aspirina|1502": {
@@ -8949,7 +8810,7 @@
   "cadenas": []
  },
  "limpiador liquido|0901": {
-  "n": 141,
+  "n": 128,
   "ejemplo": [
    {
     "producto": "LIMPIADOR LÍQUIDO P/PISO, FABULOSO, BOTELLA 1 LT. MULTIUSOS .FRESCA LAVANDA",
@@ -8998,13 +8859,11 @@
    "CENTRAL DE ABASTOS",
    "WAL-MART",
    "BODEGA AURRERA",
-   "MERCADO SORIANA",
-   "SORIANA SUPER",
-   "WAL-MART EXPRESS"
+   "MERCADO SORIANA"
   ]
  },
  "omeprazol|1502": {
-  "n": 42,
+  "n": 38,
   "ejemplo": [
    {
     "producto": "OMEPRAZOL, S/M, CAJA CON 30 CAPSULAS DE 20 MG.",
@@ -9047,8 +8906,14 @@
    "HIPERMERCADO SORIANA"
   ]
  },
+ "limpiador multiusos|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "pantoprazol|1502": {
-  "n": 24,
+  "n": 20,
   "ejemplo": [
    {
     "producto": "PANTOPRAZOL, S/M, CAJA CON 14 TABLETAS O GRAGEAS DE 40 MG.",
@@ -9086,15 +8951,8 @@
    "FARMACIAS DEL AHORRO",
    "CITY MARKET",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "SANBORN S HNOS."
+   "HIPERMERCADO SORIANA"
   ]
- },
- "limpiador multiusos|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "esomeprazol|1502": {
   "n": 0,
@@ -9115,7 +8973,7 @@
   "cadenas": []
  },
  "fibra|0901": {
-  "n": 47,
+  "n": 40,
   "ejemplo": [
    {
     "producto": "FIBRA PARA COCINA, SCOTCH BRITE. 3M, PIEZA GRANDE. (80 MM. X 120 MM.) (VERDE)",
@@ -9154,8 +9012,7 @@
    "BODEGA AURRERA",
    "CHEDRAUI",
    "MERCADO SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "butilhioscina|1502": {
@@ -9176,13 +9033,13 @@
   "nombres": [],
   "cadenas": []
  },
- "metoclopramida|1502": {
+ "bolsas para basura|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "bolsas para basura|0901": {
+ "metoclopramida|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -9235,7 +9092,7 @@
   "cadenas": []
  },
  "suero|1502": {
-  "n": 52,
+  "n": 48,
   "ejemplo": [
    {
     "producto": "SUEROX. 0 AZÚCAR, S/M, BOTELLA DE 630 ML. SABOR MORA AZUL CON YERBABUENA",
@@ -9278,8 +9135,7 @@
    "MERCADO SORIANA",
    "FRESKO LA COMER",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "SANBORN S HNOS."
+   "HIPERMERCADO SORIANA"
   ]
  },
  "bolsa|0901": {
@@ -9289,7 +9145,7 @@
   "cadenas": []
  },
  "loratadina|1502": {
-  "n": 38,
+  "n": 36,
   "ejemplo": [
    {
     "producto": "LORATADINA, S/M, 10 TABLETAS DE 10 MG.",
@@ -9334,7 +9190,7 @@
   ]
  },
  "azucar|0901": {
-  "n": 213,
+  "n": 180,
   "ejemplo": [
    {
     "producto": "AZÚCAR, PRECISSIMO, BOLSA PLÁSTICO 2 KG. ESTÁNDAR O MORENA",
@@ -9384,8 +9240,7 @@
    "AZÚCAR, ZULKA, BOLSA PLÁSTICO 1 KG. ESTÁNDAR O MORENA",
    "AZÚCAR, MOLINERA, BOLSA PLÁSTICO 1 KG. ESTÁNDAR",
    "AZÚCAR, CARNAVAL, BOLSA PLÁSTICO 1 KG. ESTÁNDAR",
-   "AZÚCAR, AURRERA, BOLSA PLÁSTICO 900 GR. ESTÁNDAR",
-   "AZÚCAR, S/M, BOLSA PLASTICO 1 KG. AZUCAR. ESTANDAR MORENA"
+   "AZÚCAR, AURRERA, BOLSA PLÁSTICO 900 GR. ESTÁNDAR"
   ],
   "cadenas": [
    "HIPERMERCADO SORIANA",
@@ -9398,8 +9253,7 @@
    "CENTRAL DE ABASTOS",
    "SUPERISSSTE",
    "MEGA SORIANA",
-   "WAL-MART EXPRESS",
-   "BODEGA AURRERA EXPRESS"
+   "WAL-MART EXPRESS"
   ]
  },
  "cetirizina|1502": {
@@ -9439,7 +9293,7 @@
   "cadenas": []
  },
  "sal|0901": {
-  "n": 1442,
+  "n": 1204,
   "ejemplo": [
    {
     "producto": "SALCHICHA, KIR, 1 KG. GRANEL. FRANKFURT DE PAVO",
@@ -9527,12 +9381,11 @@
    "CENTRAL DE ABASTOS",
    "MEGA SORIANA",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "salbutamol|1502": {
-  "n": 20,
+  "n": 16,
   "ejemplo": [
    {
     "producto": "SALBUTAMOL, S/M, CAJA CON 200 DOSIS DE 100 MCG SUSPENSION EN AEROSOL 20 MG.",
@@ -9569,59 +9422,11 @@
    "MEGA SORIANA",
    "FARMACIAS DEL AHORRO",
    "MERCADO SORIANA",
-   "CITY MARKET",
-   "SANBORN S HNOS.",
-   "HIPERMERCADO SORIANA"
-  ]
- },
- "losartan|1502": {
-  "n": 52,
-  "ejemplo": [
-   {
-    "producto": "LOSARTÁN, S/M, CAJA CON 15 COMPRIMIDOS O GRAGEAS DE 50 MG.",
-    "tipo_producto": "LOSARTÁN",
-    "precio": 47.5,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
-    "direccion": "GUSTAVO BAZ 4001",
-    "colonia": "INDUSTRIAL SAN NICOLAS",
-    "cp": "5400",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "LOSARTÁN, S/M, CAJA CON 15 COMPRIMIDOS O GRAGEAS DE 50 MG.",
-    "tipo_producto": "LOSARTÁN",
-    "precio": 47.5,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
-    "direccion": "GUSTAVO BAZ 4001",
-    "colonia": "INDUSTRIAL SAN NICOLAS",
-    "cp": "5400",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "LOSARTÁN, S/M, CAJA CON 15 COMPRIMIDOS O GRAGEAS DE 50 MG.",
-   "LOSARTÁN, S/M, CAJA CON 30 COMPRIMIDOS O TABLETAS DE 50 MG.",
-   "LOSARTAN HIDROCLOROTIAZIDA, S/M, CAJA CON 15 COMPRIMIDOS DE 100 MG./12.5 MG."
-  ],
-  "cadenas": [
-   "MEGA SORIANA",
-   "MERCADO SORIANA",
-   "BODEGA AURRERA",
-   "FARMACIAS DEL AHORRO",
-   "FRESKO LA COMER",
-   "CITY MARKET",
-   "HIPERMERCADO SORIANA",
-   "SANBORN S HNOS."
+   "CITY MARKET"
   ]
  },
  "cafe soluble|0901": {
-  "n": 285,
+  "n": 234,
   "ejemplo": [
    {
     "producto": "CAFÉ SOLUBLE, GREAT VALUE, FRASCO 200 GR. 100% PURO COLOMBIANO",
@@ -9673,8 +9478,52 @@
    "SUPERISSSTE",
    "CENTRAL DE ABASTOS",
    "MERCADO SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
+  ]
+ },
+ "losartan|1502": {
+  "n": 46,
+  "ejemplo": [
+   {
+    "producto": "LOSARTÁN, S/M, CAJA CON 15 COMPRIMIDOS O GRAGEAS DE 50 MG.",
+    "tipo_producto": "LOSARTÁN",
+    "precio": 47.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "LOSARTÁN, S/M, CAJA CON 15 COMPRIMIDOS O GRAGEAS DE 50 MG.",
+    "tipo_producto": "LOSARTÁN",
+    "precio": 47.5,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "LOSARTÁN, S/M, CAJA CON 15 COMPRIMIDOS O GRAGEAS DE 50 MG.",
+   "LOSARTÁN, S/M, CAJA CON 30 COMPRIMIDOS O TABLETAS DE 50 MG.",
+   "LOSARTAN HIDROCLOROTIAZIDA, S/M, CAJA CON 15 COMPRIMIDOS DE 100 MG./12.5 MG."
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "FARMACIAS DEL AHORRO",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "HIPERMERCADO SORIANA"
   ]
  },
  "enalapril|1502": {
@@ -9684,7 +9533,7 @@
   "cadenas": []
  },
  "cafe|0901": {
-  "n": 669,
+  "n": 574,
   "ejemplo": [
    {
     "producto": "CAFÉ SOLUBLE, GREAT VALUE, FRASCO 200 GR. 100% PURO COLOMBIANO",
@@ -9756,8 +9605,7 @@
    "SUPERISSSTE",
    "CENTRAL DE ABASTOS",
    "MEGA SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "captopril|1502": {
@@ -9779,7 +9627,7 @@
   "cadenas": []
  },
  "papel|0901": {
-  "n": 284,
+  "n": 250,
   "ejemplo": [
    {
     "producto": "PAPEL HIGIÉNICO, SUAVEL, PAQUETE 32 ROLLOS. 200 HOJAS DOBLES",
@@ -9826,8 +9674,7 @@
    "PAPEL HIGIÉNICO, HORTENSIA. SUPREME, PAQUETE 4 ROLLOS. 400 H. DOBLES",
    "PAPEL HIGIÉNICO, SUAVEL. CON AROMA, PAQUETE 4 ROLLOS. 200 HOJAS DOBLES",
    "PAPEL HIGIÉNICO, RINDE HOGAR, PAQUETE 4 ROLLOS. 200 HOJAS",
-   "PAPEL HIGIÉNICO, BELA, PAQUETE 4 ROLLOS. 400 HOJAS DOBLES",
-   "PAPEL HIGIÉNICO, ELITE. PREMIUM SOFT XL, PAQUETE 18 ROLLOS. HOJA DOBLE"
+   "PAPEL HIGIÉNICO, BELA, PAQUETE 4 ROLLOS. 400 HOJAS DOBLES"
   ],
   "cadenas": [
    "HIPERMERCADO SORIANA",
@@ -9839,10 +9686,7 @@
    "CHEDRAUI",
    "MEGA SORIANA",
    "CENTRAL DE ABASTOS",
-   "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "BODEGA AURRERA EXPRESS",
-   "SORIANA SUPER"
+   "SUPERISSSTE"
   ]
  },
  "nifedipino|1502": {
@@ -9851,54 +9695,8 @@
   "nombres": [],
   "cadenas": []
  },
- "metoprolol|1502": {
-  "n": 34,
-  "ejemplo": [
-   {
-    "producto": "METOPROLOL, S/M, 20 TABLETAS DE 100 MG.",
-    "tipo_producto": "METOPROLOL",
-    "precio": 23,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
-    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
-    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
-    "cp": "54030",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "METOPROLOL, S/M, 20 TABLETAS DE 100 MG.",
-    "tipo_producto": "METOPROLOL",
-    "precio": 23,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
-    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
-    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
-    "cp": "54030",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "METOPROLOL, S/M, 20 TABLETAS DE 100 MG."
-  ],
-  "cadenas": [
-   "WAL-MART",
-   "MEGA SORIANA",
-   "MERCADO SORIANA",
-   "BODEGA AURRERA",
-   "FARMACIAS DEL AHORRO",
-   "FRESKO LA COMER",
-   "CITY MARKET",
-   "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "SANBORN S HNOS."
-  ]
- },
  "paracetamol|0901": {
-  "n": 86,
+  "n": 72,
   "ejemplo": [
    {
     "producto": "PARACETAMOL, S/M, CAJA CON 20 TABLETAS DE 500 MG.",
@@ -9941,13 +9739,56 @@
    "FARMACIAS DE SIMILARES",
    "MEGA SORIANA",
    "MERCADO SORIANA",
-   "BENAVIDES",
-   "SORIANA SUPER",
-   "WAL-MART EXPRESS"
+   "BENAVIDES"
+  ]
+ },
+ "metoprolol|1502": {
+  "n": 30,
+  "ejemplo": [
+   {
+    "producto": "METOPROLOL, S/M, 20 TABLETAS DE 100 MG.",
+    "tipo_producto": "METOPROLOL",
+    "precio": 23,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "METOPROLOL, S/M, 20 TABLETAS DE 100 MG.",
+    "tipo_producto": "METOPROLOL",
+    "precio": 23,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "METOPROLOL, S/M, 20 TABLETAS DE 100 MG."
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "FARMACIAS DEL AHORRO",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA"
   ]
  },
  "telmisartan|1502": {
-  "n": 46,
+  "n": 38,
   "ejemplo": [
    {
     "producto": "TELMISARTAN, S/M, CAJA CON 28 TABLETAS DE 40 MG.",
@@ -9988,12 +9829,11 @@
    "FRESKO LA COMER",
    "CITY MARKET",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "SANBORN S HNOS."
+   "HIPERMERCADO SORIANA"
   ]
  },
  "ibuprofeno|0901": {
-  "n": 98,
+  "n": 82,
   "ejemplo": [
    {
     "producto": "IBUPROFENO, S/M, CAJA CON 10 GRAGEAS O TABLETAS DE 400 MG.",
@@ -10038,8 +9878,7 @@
    "MEGA SORIANA",
    "MERCADO SORIANA",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "hidroclorotiazida|1502": {
@@ -10049,7 +9888,7 @@
   "cadenas": []
  },
  "naproxeno|0901": {
-  "n": 117,
+  "n": 96,
   "ejemplo": [
    {
     "producto": "NAPROXENO, S/M, CAJA CON 12 TABLETAS DE 550 MG.",
@@ -10094,12 +9933,11 @@
    "MEGA SORIANA",
    "MERCADO SORIANA",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "metformina|1502": {
-  "n": 38,
+  "n": 36,
   "ejemplo": [
    {
     "producto": "METFORMINA-GLIBENCLAMIDA, S/M, 60 TABLETAS 500 MG./ 5 MG.",
@@ -10144,6 +9982,43 @@
    "HIPERMERCADO SORIANA"
   ]
  },
+ "diclofenaco|0901": {
+  "n": 2,
+  "ejemplo": [
+   {
+    "producto": "DICLOFENACO. VITAMINAS B1, B6 Y B12, S/M, 30 GRAGEAS",
+    "tipo_producto": "DICLOFENACO. VITAMINAS B1, B6 Y B12",
+    "precio": 52.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "DICLOFENACO. VITAMINAS B1, B6 Y B12, S/M, 30 GRAGEAS",
+    "tipo_producto": "DICLOFENACO. VITAMINAS B1, B6 Y B12",
+    "precio": 52.9,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "DICLOFENACO. VITAMINAS B1, B6 Y B12, S/M, 30 GRAGEAS"
+  ],
+  "cadenas": [
+   "MERCADO SORIANA"
+  ]
+ },
  "glibenclamida|1502": {
   "n": 10,
   "ejemplo": [
@@ -10184,51 +10059,8 @@
    "HIPERMERCADO SORIANA"
   ]
  },
- "diclofenaco|0901": {
-  "n": 2,
-  "ejemplo": [
-   {
-    "producto": "DICLOFENACO. VITAMINAS B1, B6 Y B12, S/M, 30 GRAGEAS",
-    "tipo_producto": "DICLOFENACO. VITAMINAS B1, B6 Y B12",
-    "precio": 52.9,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "MERCADO SORIANA",
-    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
-    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
-    "colonia": "AZCAPOTZALCO",
-    "cp": "02000",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "DICLOFENACO. VITAMINAS B1, B6 Y B12, S/M, 30 GRAGEAS",
-    "tipo_producto": "DICLOFENACO. VITAMINAS B1, B6 Y B12",
-    "precio": 52.9,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "MERCADO SORIANA",
-    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
-    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
-    "colonia": "AZCAPOTZALCO",
-    "cp": "02000",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "DICLOFENACO. VITAMINAS B1, B6 Y B12, S/M, 30 GRAGEAS"
-  ],
-  "cadenas": [
-   "MERCADO SORIANA"
-  ]
- },
- "sitagliptina|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "ketorolaco|0901": {
-  "n": 86,
+  "n": 70,
   "ejemplo": [
    {
     "producto": "KETOROLACO, S/M, 10 TABLETAS DE 10 MG.",
@@ -10272,9 +10104,14 @@
    "MEGA SORIANA",
    "MERCADO SORIANA",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
+ },
+ "sitagliptina|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "atorvastatina|1502": {
   "n": 0,
@@ -10283,7 +10120,7 @@
   "cadenas": []
  },
  "metamizol|0901": {
-  "n": 39,
+  "n": 32,
   "ejemplo": [
    {
     "producto": "METAMIZOL SODICO, S/M, CAJA CON 10 TABLETAS O COMPRIMIDOS 500 MG.",
@@ -10323,12 +10160,11 @@
    "CHEDRAUI",
    "MEGA SORIANA",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "pravastatina|1502": {
-  "n": 20,
+  "n": 18,
   "ejemplo": [
    {
     "producto": "PRAVASTATINA, S/M, CAJA CON 30 TABLETAS DE 10 MG.",
@@ -10381,12 +10217,6 @@
   "nombres": [],
   "cadenas": []
  },
- "levotiroxina|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "aspirina|0901": {
   "n": 8,
   "ejemplo": [
@@ -10427,6 +10257,12 @@
    "WAL-MART"
   ]
  },
+ "levotiroxina|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "prednisona|1502": {
   "n": 0,
   "ejemplo": [],
@@ -10434,7 +10270,7 @@
   "cadenas": []
  },
  "omeprazol|0901": {
-  "n": 84,
+  "n": 72,
   "ejemplo": [
    {
     "producto": "OMEPRAZOL, S/M, 14 CAPSULAS DE 20 MG.",
@@ -10478,8 +10314,7 @@
    "MEGA SORIANA",
    "MERCADO SORIANA",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "dexametasona|1502": {
@@ -10489,7 +10324,7 @@
   "cadenas": []
  },
  "pantoprazol|0901": {
-  "n": 36,
+  "n": 32,
   "ejemplo": [
    {
     "producto": "PANTOPRAZOL, S/M, CAJA CON 14 TABLETAS O GRAGEAS DE 40 MG.",
@@ -10531,8 +10366,7 @@
    "MEGA SORIANA",
    "MERCADO SORIANA",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "betametasona|1502": {
@@ -10553,13 +10387,13 @@
   "nombres": [],
   "cadenas": []
  },
- "ampicilina|1502": {
+ "ranitidina|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "ranitidina|0901": {
+ "ampicilina|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -10638,14 +10472,8 @@
   "nombres": [],
   "cadenas": []
  },
- "metronidazol|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "sueros orales|0901": {
-  "n": 78,
+  "n": 68,
   "ejemplo": [
    {
     "producto": "SUEROS ORALES, ELECTROLIT, BOTELLA 625 ML. (SABOR UVA)",
@@ -10687,9 +10515,14 @@
    "CHEDRAUI",
    "MERCADO SORIANA",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
+ },
+ "metronidazol|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "trimetoprima|1502": {
   "n": 8,
@@ -10731,7 +10564,7 @@
   ]
  },
  "suero|0901": {
-  "n": 186,
+  "n": 160,
   "ejemplo": [
    {
     "producto": "SUEROX. 0 AZÚCAR, S/M, BOTELLA DE 630 ML. SABOR MORA AZUL CON YERBABUENA",
@@ -10780,8 +10613,7 @@
    "MEGA SORIANA",
    "SUPERISSSTE",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "nitrofurantoina|1502": {
@@ -10825,7 +10657,7 @@
   ]
  },
  "loratadina|0901": {
-  "n": 74,
+  "n": 62,
   "ejemplo": [
    {
     "producto": "LORATADINA BETAMETASONA, S/M, CAJA CON 10 TABLETAS 5.0 MG./ 0.25 MG.",
@@ -10868,17 +10700,10 @@
    "MEGA SORIANA",
    "MERCADO SORIANA",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "doxiciclina|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "clotrimazol|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -10921,8 +10746,20 @@
    "WAL-MART"
   ]
  },
+ "clotrimazol|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "clorfenamina|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "ketoconazol|1502": {
-  "n": 36,
+  "n": 34,
   "ejemplo": [
    {
     "producto": "KETOCONAZOL, S/M, CAJA CON TUBO CON 40 GR CREMA 2%",
@@ -10965,12 +10802,6 @@
    "WAL-MART EXPRESS",
    "HIPERMERCADO SORIANA"
   ]
- },
- "clorfenamina|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "fluconazol|1502": {
   "n": 0,
@@ -11068,14 +10899,8 @@
    "FRESKO LA COMER"
   ]
  },
- "acido folico|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "salbutamol|0901": {
-  "n": 35,
+  "n": 30,
   "ejemplo": [
    {
     "producto": "SALBUTAMOL, S/M, CAJA CON 200 DOSIS DE 100 MCG SUSPENSION EN AEROSOL 20 MG.",
@@ -11118,18 +10943,17 @@
    "MEGA SORIANA",
    "MERCADO SORIANA",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
- "complejo b|1502": {
+ "acido folico|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
  "losartan|0901": {
-  "n": 68,
+  "n": 56,
   "ejemplo": [
    {
     "producto": "LOSARTAN HIDROCLOROTIAZIDA, S/M, CAJA CON 15 COMPRIMIDOS DE 100 MG./12.5 MG.",
@@ -11173,10 +10997,14 @@
    "BODEGA AURRERA",
    "MEGA SORIANA",
    "MERCADO SORIANA",
-   "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "BENAVIDES"
   ]
+ },
+ "complejo b|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "vitamina c|1502": {
   "n": 0,
@@ -11235,7 +11063,7 @@
   ]
  },
  "sildenafil|1502": {
-  "n": 32,
+  "n": 28,
   "ejemplo": [
    {
     "producto": "SILDENAFIL, S/M, CAJA CON UNA TABLETA DE 100 MG.",
@@ -11276,53 +11104,7 @@
    "FRESKO LA COMER",
    "CITY MARKET",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "SANBORN S HNOS."
-  ]
- },
- "tamsulosina|1502": {
-  "n": 30,
-  "ejemplo": [
-   {
-    "producto": "TAMSULOSINA, S/M, CAJA CON 20 CAPSULAS DE 0.4 MG.",
-    "tipo_producto": "TAMSULOSINA",
-    "precio": 150,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
-    "direccion": "GUSTAVO BAZ 4001",
-    "colonia": "INDUSTRIAL SAN NICOLAS",
-    "cp": "5400",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "TAMSULOSINA, S/M, CAJA CON 20 CAPSULAS DE 0.4 MG.",
-    "tipo_producto": "TAMSULOSINA",
-    "precio": 150,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
-    "direccion": "GUSTAVO BAZ 4001",
-    "colonia": "INDUSTRIAL SAN NICOLAS",
-    "cp": "5400",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "TAMSULOSINA, S/M, CAJA CON 20 CAPSULAS DE 0.4 MG."
-  ],
-  "cadenas": [
-   "MEGA SORIANA",
-   "WAL-MART",
-   "MERCADO SORIANA",
-   "FARMACIAS DEL AHORRO",
-   "FRESKO LA COMER",
-   "CITY MARKET",
-   "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "SANBORN S HNOS."
+   "HIPERMERCADO SORIANA"
   ]
  },
  "amlodipino|0901": {
@@ -11364,13 +11146,57 @@
    "WAL-MART"
   ]
  },
- "alopurinol|1502": {
+ "tamsulosina|1502": {
+  "n": 28,
+  "ejemplo": [
+   {
+    "producto": "TAMSULOSINA, S/M, CAJA CON 20 CAPSULAS DE 0.4 MG.",
+    "tipo_producto": "TAMSULOSINA",
+    "precio": 150,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "TAMSULOSINA, S/M, CAJA CON 20 CAPSULAS DE 0.4 MG.",
+    "tipo_producto": "TAMSULOSINA",
+    "precio": 150,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "TAMSULOSINA, S/M, CAJA CON 20 CAPSULAS DE 0.4 MG."
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "MERCADO SORIANA",
+   "FARMACIAS DEL AHORRO",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "nifedipino|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "nifedipino|0901": {
+ "alopurinol|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -11383,7 +11209,7 @@
   "cadenas": []
  },
  "metoprolol|0901": {
-  "n": 37,
+  "n": 30,
   "ejemplo": [
    {
     "producto": "METOPROLOL, S/M, 20 TABLETAS DE 100 MG.",
@@ -11422,8 +11248,7 @@
    "FARMACIAS DE SIMILARES",
    "BODEGA AURRERA",
    "MERCADO SORIANA",
-   "BENAVIDES",
-   "WAL-MART EXPRESS"
+   "BENAVIDES"
   ]
  },
  "clonazepam|1502": {
@@ -11433,7 +11258,7 @@
   "cadenas": []
  },
  "telmisartan|0901": {
-  "n": 72,
+  "n": 58,
   "ejemplo": [
    {
     "producto": "TELMISARTAN, S/M, CAJA CON 28 TABLETAS DE 40 MG.",
@@ -11475,12 +11300,16 @@
    "MEGA SORIANA",
    "BODEGA AURRERA",
    "MERCADO SORIANA",
-   "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "BENAVIDES"
   ]
  },
  "alprazolam|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "hidroclorotiazida|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -11529,59 +11358,8 @@
    "CITY MARKET"
   ]
  },
- "hidroclorotiazida|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "sertralina|1502": {
-  "n": 32,
-  "ejemplo": [
-   {
-    "producto": "SERTRALINA, S/M, 14 TABLETAS DE 50 MG.",
-    "tipo_producto": "SERTRALINA",
-    "precio": 86,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
-    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
-    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
-    "cp": "54030",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "SERTRALINA, S/M, 14 TABLETAS DE 50 MG.",
-    "tipo_producto": "SERTRALINA",
-    "precio": 86,
-    "fecha_observacion": "2026-10-29",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
-    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
-    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
-    "cp": "54030",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "SERTRALINA, S/M, 14 TABLETAS DE 50 MG."
-  ],
-  "cadenas": [
-   "WAL-MART",
-   "MEGA SORIANA",
-   "MERCADO SORIANA",
-   "BODEGA AURRERA",
-   "FARMACIAS DEL AHORRO",
-   "FRESKO LA COMER",
-   "CITY MARKET",
-   "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA"
-  ]
- },
  "metformina|0901": {
-  "n": 86,
+  "n": 74,
   "ejemplo": [
    {
     "producto": "METFORMINA-GLIBENCLAMIDA, S/M, 60 TABLETAS 500 MG./ 5 MG.",
@@ -11628,6 +11406,51 @@
    "WAL-MART EXPRESS"
   ]
  },
+ "sertralina|1502": {
+  "n": 30,
+  "ejemplo": [
+   {
+    "producto": "SERTRALINA, S/M, 14 TABLETAS DE 50 MG.",
+    "tipo_producto": "SERTRALINA",
+    "precio": 86,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "SERTRALINA, S/M, 14 TABLETAS DE 50 MG.",
+    "tipo_producto": "SERTRALINA",
+    "precio": 86,
+    "fecha_observacion": "2026-10-29",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "SERTRALINA, S/M, 14 TABLETAS DE 50 MG."
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "FARMACIAS DEL AHORRO",
+   "FRESKO LA COMER",
+   "CITY MARKET",
+   "WAL-MART EXPRESS",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
  "fluoxetina|1502": {
   "n": 0,
   "ejemplo": [],
@@ -11635,7 +11458,7 @@
   "cadenas": []
  },
  "glibenclamida|0901": {
-  "n": 26,
+  "n": 22,
   "ejemplo": [
    {
     "producto": "GLIBENCLAMIDA, S/M, 50 TABLETAS DE 5 MG.",
@@ -11674,13 +11497,11 @@
    "CHEDRAUI",
    "MEGA SORIANA",
    "MERCADO SORIANA",
-   "BENAVIDES",
-   "SORIANA SUPER",
-   "WAL-MART EXPRESS"
+   "BENAVIDES"
   ]
  },
  "gabapentina|1502": {
-  "n": 50,
+  "n": 48,
   "ejemplo": [
    {
     "producto": "GABAPENTINA, S/M, CAJA CON 30 CÁPSULAS DE 300 MG.",
@@ -11725,19 +11546,13 @@
    "HIPERMERCADO SORIANA"
   ]
  },
- "pregabalina|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "sitagliptina|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "condon|1502": {
+ "pregabalina|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -11780,14 +11595,14 @@
    "WAL-MART"
   ]
  },
- "preservativo|1502": {
+ "condon|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
  "pravastatina|0901": {
-  "n": 35,
+  "n": 30,
   "ejemplo": [
    {
     "producto": "PRAVASTATINA, S/M, CAJA CON 30 TABLETAS DE 10 MG.",
@@ -11827,11 +11642,14 @@
    "MEGA SORIANA",
    "CHEDRAUI",
    "MERCADO SORIANA",
-   "BENAVIDES",
-   "BODEGA AURRERA",
-   "SORIANA SUPER",
-   "WAL-MART EXPRESS"
+   "BENAVIDES"
   ]
+ },
+ "preservativo|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "prueba de embarazo|1502": {
   "n": 0,
@@ -11878,7 +11696,7 @@
   ]
  },
  "alcohol|1502": {
-  "n": 100,
+  "n": 92,
   "ejemplo": [
    {
     "producto": "ALCOHOL, ZUUM, BOTELLA 480 ML. ETÍLICO DESNATURALIZADO. 70°",
@@ -11925,8 +11743,7 @@
    "MERCADO SORIANA",
    "CITY MARKET",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "SANBORN S HNOS."
+   "HIPERMERCADO SORIANA"
   ]
  },
  "levotiroxina|0901": {
@@ -11941,8 +11758,14 @@
   "nombres": [],
   "cadenas": []
  },
+ "prednisona|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "venda|1502": {
-  "n": 64,
+  "n": 52,
   "ejemplo": [
    {
     "producto": "VENDA ELÁSTICA, LE ROY, PAQUETE 1 PIEZA. (15 CENTÍMETROS X 5 METROS). PREMIUM.",
@@ -11984,15 +11807,8 @@
    "FARMACIAS DEL AHORRO",
    "BODEGA AURRERA",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "SANBORN S HNOS."
+   "HIPERMERCADO SORIANA"
   ]
- },
- "prednisona|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "curitas|1502": {
   "n": 0,
@@ -12007,7 +11823,7 @@
   "cadenas": []
  },
  "termometro|1502": {
-  "n": 74,
+  "n": 62,
   "ejemplo": [
    {
     "producto": "TERMÓMETRO, OMRON, DIGITAL. DE FRENTE. MOD. MC-720. CAJA 1 PIEZA",
@@ -12043,8 +11859,7 @@
    "TERMÓMETRO, MICROLIFE, DE FRENTE. NC 100. CAJA 1 PIEZA",
    "TERMÓMETRO, S/M, DIGITAL. TIPO PLUMA. CAJA O BLISTER 1 PIEZA",
    "TERMÓMETRO, OMRON, DIGITAL. MOD: MC-343F. BLISTER 1 PIEZA",
-   "TERMÓMETRO, MICROLIFE, DIGITAL. MT 1681. CAJA 1 PIEZA",
-   "TERMÓMETRO, MICROLIFE, DE FRENTE. FR 100. CAJA 1 PIEZA"
+   "TERMÓMETRO, MICROLIFE, DIGITAL. MT 1681. CAJA 1 PIEZA"
   ],
   "cadenas": [
    "WAL-MART",
@@ -12053,9 +11868,7 @@
    "MERCADO SORIANA",
    "FARMACIAS DEL AHORRO",
    "CITY MARKET",
-   "WAL-MART EXPRESS",
-   "SANBORN S HNOS.",
-   "HIPERMERCADO SORIANA"
+   "WAL-MART EXPRESS"
   ]
  },
  "betametasona|0901": {
@@ -12097,7 +11910,7 @@
   ]
  },
  "agua oxigenada|1502": {
-  "n": 56,
+  "n": 52,
   "ejemplo": [
    {
     "producto": "AGUA OXIGENADA, VITASCOM, BOTELLA 480 ML.",
@@ -12187,7 +12000,7 @@
   ]
  },
  "vitacilina|1502": {
-  "n": 26,
+  "n": 22,
   "ejemplo": [
    {
     "producto": "VITACILINA, S/M, CAJA CON TUBO DE 28 GR. UNGÜENTO",
@@ -12227,12 +12040,48 @@
    "BODEGA AURRERA",
    "CITY MARKET",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "SANBORN S HNOS."
+   "HIPERMERCADO SORIANA"
+  ]
+ },
+ "ampicilina|0901": {
+  "n": 2,
+  "ejemplo": [
+   {
+    "producto": "AMPICILINA, S/M, CAJA CON 20 CAPSULAS O TABLETAS DE 500 MG.",
+    "tipo_producto": "AMPICILINA",
+    "precio": 60,
+    "fecha_observacion": "2026-10-28",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WAL MART SUCURSAL MIRAMONTES",
+    "direccion": "ESCUELA NAVAL MILITAR 753, ESQ. CANAL DE MIRAMONTES",
+    "colonia": "LOS CIPRESES",
+    "cp": "04830",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "AMPICILINA, S/M, CAJA CON 20 CAPSULAS O TABLETAS DE 500 MG.",
+    "tipo_producto": "AMPICILINA",
+    "precio": 60,
+    "fecha_observacion": "2026-10-28",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WAL MART SUCURSAL MIRAMONTES",
+    "direccion": "ESCUELA NAVAL MILITAR 753, ESQ. CANAL DE MIRAMONTES",
+    "colonia": "LOS CIPRESES",
+    "cp": "04830",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "AMPICILINA, S/M, CAJA CON 20 CAPSULAS O TABLETAS DE 500 MG."
+  ],
+  "cadenas": [
+   "WAL-MART"
   ]
  },
  "vick|1502": {
-  "n": 50,
+  "n": 42,
   "ejemplo": [
    {
     "producto": "VICK VAPORUB, S/M, FRASCO CON 50 GR. UNGÜENTO",
@@ -12273,45 +12122,7 @@
    "BODEGA AURRERA",
    "CITY MARKET",
    "WAL-MART EXPRESS",
-   "HIPERMERCADO SORIANA",
-   "SANBORN S HNOS."
-  ]
- },
- "ampicilina|0901": {
-  "n": 2,
-  "ejemplo": [
-   {
-    "producto": "AMPICILINA, S/M, CAJA CON 20 CAPSULAS O TABLETAS DE 500 MG.",
-    "tipo_producto": "AMPICILINA",
-    "precio": 60,
-    "fecha_observacion": "2026-10-28",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WAL MART SUCURSAL MIRAMONTES",
-    "direccion": "ESCUELA NAVAL MILITAR 753, ESQ. CANAL DE MIRAMONTES",
-    "colonia": "LOS CIPRESES",
-    "cp": "04830",
-    "municipio": "Coyoacán",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "AMPICILINA, S/M, CAJA CON 20 CAPSULAS O TABLETAS DE 500 MG.",
-    "tipo_producto": "AMPICILINA",
-    "precio": 60,
-    "fecha_observacion": "2026-10-28",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WAL MART SUCURSAL MIRAMONTES",
-    "direccion": "ESCUELA NAVAL MILITAR 753, ESQ. CANAL DE MIRAMONTES",
-    "colonia": "LOS CIPRESES",
-    "cp": "04830",
-    "municipio": "Coyoacán",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "AMPICILINA, S/M, CAJA CON 20 CAPSULAS O TABLETAS DE 500 MG."
-  ],
-  "cadenas": [
-   "WAL-MART"
+   "HIPERMERCADO SORIANA"
   ]
  },
  "pañal|1502": {
@@ -12429,7 +12240,7 @@
   "cadenas": []
  },
  "trimetoprima|0901": {
-  "n": 3,
+  "n": 2,
   "ejemplo": [
    {
     "producto": "TRIMETOPRIMA SULFAMETOXAZOL, S/M, FRASCO CON 120 ML. Y VASO DOSIFICADOR. SUSPENSION 800 MG./4000 MG./100 ML.",
@@ -12462,12 +12273,11 @@
    "TRIMETOPRIMA SULFAMETOXAZOL, S/M, FRASCO CON 120 ML. Y VASO DOSIFICADOR. SUSPENSION 800 MG./4000 MG./100 ML."
   ],
   "cadenas": [
-   "FARMACIAS DE SIMILARES",
-   "SORIANA SUPER"
+   "FARMACIAS DE SIMILARES"
   ]
  },
  "nitrofurantoina|0901": {
-  "n": 32,
+  "n": 28,
   "ejemplo": [
    {
     "producto": "NITROFURANTOINA, S/M, CAJA CON 40 CAPSULAS DE 100 MG.",
@@ -12507,9 +12317,7 @@
    "FARMACIAS DE SIMILARES",
    "BODEGA AURRERA",
    "MERCADO SORIANA",
-   "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "BENAVIDES"
   ]
  },
  "doxiciclina|0901": {
@@ -12525,7 +12333,7 @@
   "cadenas": []
  },
  "ketoconazol|0901": {
-  "n": 61,
+  "n": 52,
   "ejemplo": [
    {
     "producto": "KETOCONAZOL, S/M, 10 TABLETAS DE 200 MG.",
@@ -12568,8 +12376,7 @@
    "CHEDRAUI",
    "MERCADO SORIANA",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "fluconazol|0901": {
@@ -12709,7 +12516,7 @@
   "cadenas": []
  },
  "sildenafil|0901": {
-  "n": 45,
+  "n": 36,
   "ejemplo": [
    {
     "producto": "SILDENAFIL, S/M, CAJA CON UNA TABLETA DE 100 MG.",
@@ -12752,12 +12559,11 @@
    "MEGA SORIANA",
    "MERCADO SORIANA",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "tamsulosina|0901": {
-  "n": 46,
+  "n": 38,
   "ejemplo": [
    {
     "producto": "TAMSULOSINA, S/M, CAJA CON 20 CAPSULAS DE 0.4 MG.",
@@ -12800,8 +12606,7 @@
    "BODEGA AURRERA",
    "MERCADO SORIANA",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "alopurinol|0901": {
@@ -12860,7 +12665,7 @@
   "cadenas": []
  },
  "tramadol|0901": {
-  "n": 10,
+  "n": 6,
   "ejemplo": [
    {
     "producto": "TRAMADOL, S/M, CAJA CON 10 CAPSULAS DE 50 MG.",
@@ -12895,13 +12700,11 @@
   ],
   "cadenas": [
    "WAL-MART",
-   "LA COMER",
-   "HIPERMERCADO SORIANA",
-   "WAL-MART EXPRESS"
+   "LA COMER"
   ]
  },
  "sertralina|0901": {
-  "n": 37,
+  "n": 30,
   "ejemplo": [
    {
     "producto": "SERTRALINA, S/M, 14 TABLETAS DE 50 MG.",
@@ -12952,7 +12755,7 @@
   "cadenas": []
  },
  "gabapentina|0901": {
-  "n": 73,
+  "n": 60,
   "ejemplo": [
    {
     "producto": "GABAPENTINA, S/M, CAJA CON 15 CAPSULAS DE 300 MG.",
@@ -12993,8 +12796,7 @@
    "HIPERMERCADO SORIANA",
    "CHEDRAUI",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "pregabalina|0901": {
@@ -13022,7 +12824,7 @@
   "cadenas": []
  },
  "alcohol|0901": {
-  "n": 179,
+  "n": 162,
   "ejemplo": [
    {
     "producto": "ALCOHOL, PROTEC, BOTELLA 500 MILILITROS. ETÍLICO DESNATURALIZADO. 70%.",
@@ -13073,8 +12875,7 @@
    "HIPERMERCADO SORIANA",
    "LA COMER",
    "MEGA SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "gasas|0901": {
@@ -13084,7 +12885,7 @@
   "cadenas": []
  },
  "venda|0901": {
-  "n": 164,
+  "n": 144,
   "ejemplo": [
    {
     "producto": "VENDA ELÁSTICA, LE ROY, PAQUETE 1 PIEZA. (30 CENTÍMETROS X 5 METROS). PREMIUM.",
@@ -13131,8 +12932,7 @@
    "BODEGA AURRERA",
    "MERCADO SORIANA",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "curitas|0901": {
@@ -13142,7 +12942,7 @@
   "cadenas": []
  },
  "termometro|0901": {
-  "n": 100,
+  "n": 86,
   "ejemplo": [
    {
     "producto": "TERMÓMETRO, S/M, DIGITAL. TIPO PLUMA. CAJA O BLISTER 1 PIEZA",
@@ -13191,12 +12991,11 @@
    "FARMACIA SAN ISIDRO",
    "CHEDRAUI",
    "MEGA SORIANA",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "agua oxigenada|0901": {
-  "n": 93,
+  "n": 80,
   "ejemplo": [
    {
     "producto": "AGUA OXIGENADA, VITASCOM, BOTELLA 480 ML.",
@@ -13243,12 +13042,11 @@
    "MEGA SORIANA",
    "BODEGA AURRERA",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "vitacilina|0901": {
-  "n": 55,
+  "n": 46,
   "ejemplo": [
    {
     "producto": "VITACILINA, S/M, CAJA CON TUBO DE 28 GR. UNGÜENTO",
@@ -13291,12 +13089,11 @@
    "MEGA SORIANA",
    "MERCADO SORIANA",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "vick|0901": {
-  "n": 102,
+  "n": 84,
   "ejemplo": [
    {
     "producto": "VICK VAPORUB, S/M, FRASCO CON 50 GR. UNGÜENTO",
@@ -13340,12 +13137,11 @@
    "MEGA SORIANA",
    "MERCADO SORIANA",
    "BENAVIDES",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
+   "WAL-MART EXPRESS"
   ]
  },
  "pañal|0901": {
-  "n": 329,
+  "n": 286,
   "ejemplo": [
    {
     "producto": "PAÑALES DESECHABLES, KLEEN BEBÉ. SUAVELASTIC, PAQUETE 60 PIEZAS. GRANDE",
@@ -13399,9 +13195,7 @@
    "LA COMER",
    "U.N.A.M.",
    "SUPERISSSTE",
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER",
-   "BODEGA AURRERA EXPRESS"
+   "WAL-MART EXPRESS"
   ]
  }
 }
