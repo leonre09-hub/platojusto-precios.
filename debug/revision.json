@@ -221,13 +221,14 @@
   }
  },
  "frijol": {
-  "n": 175,
+  "n": 517,
   "tiendas": {
-   "soriana": "32.78 · FRIJOL, SCHETTINO, BOLSA 900 GR. PINTO",
+   "soriana": "33.22 · FRIJOL, SCHETTINO, BOLSA 900 GR. PINTO",
    "walmart": "29.77 · FRIJOL, LA MERCED, BOLSA 907 GR. NEGRO. QUERÉTARO",
+   "lacomer": "42.89 · FRIJOL, BUENO, BOLSA 900 GR. BAYO",
    "aurrera": "29.77 · FRIJOL, LA MERCED, BOLSA 907 GR. PINTO",
-   "chedraui": "28.89 · FRIJOL, LA MERCED, BOLSA 900 GR. NEGRO. QUERÉTARO",
-   "mercado": "39.5 · FRIJOL, S/M, 1 KG. GRANEL. NEGRO"
+   "mercado": "24 · FRIJOL, S/M, 1 KG. GRANEL. PINTO",
+   "chedraui": "28.89 · FRIJOL, LA MERCED, BOLSA 900 GR. NEGRO. QUERÉTARO"
   }
  },
  "lenteja": {
@@ -430,10 +431,13 @@
   }
  },
  "platano": {
-  "n": 4,
+  "n": 15,
   "tiendas": {
+   "soriana": "23.9 · PLÁTANO, S/M, 1 KG. TABASCO/CHIAPAS/ROATÁN/PORTALIMÓN",
    "walmart": "18 · PLÁTANO, S/M, 1 KG. TABASCO/CHIAPAS/ROATÁN/PORTALIMÓN",
-   "soriana": "23.4 · PLÁTANO, S/M, 1 KG. TABASCO/CHIAPAS/ROATÁN/PORTALIMÓN"
+   "aurrera": "17 · PLÁTANO, S/M, 1 KG. TABASCO/CHIAPAS/ROATÁN/PORTALIMÓN",
+   "chedraui": "18 · PLÁTANO, S/M, 1 KG. TABASCO/CHIAPAS/ROATÁN/PORTALIMÓN",
+   "mercado": "13 · PLÁTANO, S/M, 1 KG. TABASCO/CHIAPAS/ROATÁN/PORTALIMÓN"
   }
  },
  "manzana": {

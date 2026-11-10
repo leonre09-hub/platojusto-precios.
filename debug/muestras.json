@@ -332,12 +332,6 @@
    "MERCADO PUBLICO"
   ]
  },
- "res|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "carne molida|0901": {
   "n": 74,
   "ejemplo": [
@@ -388,6 +382,18 @@
    "MEGA SORIANA",
    "SORIANA SUPER"
   ]
+ },
+ "res|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "res|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "bistec|1502": {
   "n": 39,
@@ -442,12 +448,6 @@
    "MERCADO PUBLICO",
    "SORIANA EXPRESS"
   ]
- },
- "res|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "chuleta|1502": {
   "n": 49,
@@ -692,6 +692,12 @@
    "MERCADO SORIANA"
   ]
  },
+ "carne de cerdo|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "pulpa|0901": {
   "n": 23,
   "ejemplo": [
@@ -733,11 +739,48 @@
    "SORIANA SUPER"
   ]
  },
- "carne de cerdo|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
+ "chorizo|1502": {
+  "n": 42,
+  "ejemplo": [
+   {
+    "producto": "CHORIZO, PARMA. CAMPESTRE, 1 KG. GRANEL. RANCHERO",
+    "tipo_producto": "CHORIZO",
+    "precio": 277.5,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CHORIZO, ZWAN, 1 KG. GRANEL",
+    "tipo_producto": "CHORIZO",
+    "precio": 305,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CHORIZO, PARMA. CAMPESTRE, 1 KG. GRANEL. RANCHERO",
+   "CHORIZO, ZWAN, 1 KG. GRANEL",
+   "CHORIZO, FUD, 1 KG. GRANEL. ESTILO CANTIMPALO",
+   "CHORIZO, SAN RAFAEL, 1 KG. GRANEL. ESTILO ESPAÑOL"
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "BODEGA AURRERA",
+   "HIPERMERCADO SORIANA"
+  ]
  },
  "lomo|0901": {
   "n": 22,
@@ -785,55 +828,6 @@
    "BODEGA AURRERA",
    "SORIANA SUPER"
   ]
- },
- "chorizo|1502": {
-  "n": 42,
-  "ejemplo": [
-   {
-    "producto": "CHORIZO, PARMA. CAMPESTRE, 1 KG. GRANEL. RANCHERO",
-    "tipo_producto": "CHORIZO",
-    "precio": 277.5,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
-    "direccion": "GUSTAVO BAZ 4001",
-    "colonia": "INDUSTRIAL SAN NICOLAS",
-    "cp": "5400",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "CHORIZO, ZWAN, 1 KG. GRANEL",
-    "tipo_producto": "CHORIZO",
-    "precio": 305,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
-    "direccion": "GUSTAVO BAZ 4001",
-    "colonia": "INDUSTRIAL SAN NICOLAS",
-    "cp": "5400",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "CHORIZO, PARMA. CAMPESTRE, 1 KG. GRANEL. RANCHERO",
-   "CHORIZO, ZWAN, 1 KG. GRANEL",
-   "CHORIZO, FUD, 1 KG. GRANEL. ESTILO CANTIMPALO",
-   "CHORIZO, SAN RAFAEL, 1 KG. GRANEL. ESTILO ESPAÑOL"
-  ],
-  "cadenas": [
-   "MEGA SORIANA",
-   "WAL-MART",
-   "BODEGA AURRERA",
-   "HIPERMERCADO SORIANA"
-  ]
- },
- "carne de cerdo|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "jamon|1502": {
   "n": 298,
@@ -910,6 +904,12 @@
    "MERCADO SORIANA",
    "SORIANA EXPRESS"
   ]
+ },
+ "carne de cerdo|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "salchicha|1502": {
   "n": 159,
@@ -1209,6 +1209,12 @@
    "WAL-MART"
   ]
  },
+ "pescado|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "salchicha|0901": {
   "n": 315,
   "ejemplo": [
@@ -1280,12 +1286,6 @@
    "MEGA SORIANA",
    "SUPERISSSTE"
   ]
- },
- "pescado|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "huevo|1502": {
   "n": 134,
@@ -1690,6 +1690,63 @@
    "SORIANA EXPRESS"
   ]
  },
+ "queso panela|1502": {
+  "n": 111,
+  "ejemplo": [
+   {
+    "producto": "QUESO PANELA, ESMERALDA, PAQUETE 400 GR.",
+    "tipo_producto": "QUESO PANELA",
+    "precio": 99.9,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "QUESO PANELA, LOS VOLCANES, BOTE 400 GR.",
+    "tipo_producto": "QUESO PANELA",
+    "precio": 88,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "QUESO PANELA, ESMERALDA, PAQUETE 400 GR.",
+   "QUESO PANELA, LOS VOLCANES, BOTE 400 GR.",
+   "QUESO PANELA, FUD, PAQUETE 400 GR. QUESO PANELA",
+   "QUESO PANELA, LALA, PAQUETE 400 GR.",
+   "QUESO PANELA, CAPERUCITA, PAQUETE 400 GR.",
+   "QUESO PANELA, ZWAN. PREMIUM, PAQUETE 400 GR.",
+   "QUESO PANELA, LA VILLITA, PAQUETE 440 GR. (2 PACK)",
+   "QUESO PANELA, LA VILLITA, 1 KG. GRANEL. IMITACIÓN QUESO PANELA CANASTO",
+   "QUESO PANELA, FUD, 1 KG. GRANEL. QUESO PANELA",
+   "QUESO PANELA, LA VILLITA, PAQUETE 400 GR. (2 PACK)",
+   "QUESO PANELA, CAPERUCITA, 1 KG. (GRANEL)",
+   "QUESO PANELA, NOCHE BUENA, 1 KG. GRANEL. CREMOSO",
+   "QUESO PANELA, ESMERALDA, 1 KG. GRANEL",
+   "QUESO PANELA, EL CIERVO, 1 KG. GRANEL"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "MEGA SORIANA",
+   "WAL-MART",
+   "SUPER KOMPRAS",
+   "BODEGA AURRERA",
+   "SUPER CHEDRAUI",
+   "MERCADO SORIANA",
+   "SORIANA EXPRESS"
+  ]
+ },
  "huevo|0901": {
   "n": 313,
   "ejemplo": [
@@ -1755,13 +1812,13 @@
    "SORIANA SUPER"
   ]
  },
- "queso panela|1502": {
-  "n": 111,
+ "crema|1502": {
+  "n": 332,
   "ejemplo": [
    {
-    "producto": "QUESO PANELA, ESMERALDA, PAQUETE 400 GR.",
-    "tipo_producto": "QUESO PANELA",
-    "precio": 99.9,
+    "producto": "CREMA, LALA, VASO 196 GR.",
+    "tipo_producto": "CREMA",
+    "precio": 24.5,
     "fecha_observacion": "2026-11-05",
     "cadena_comercial": "HIPERMERCADO SORIANA",
     "establecimiento": "SORIANA HIPER SUCURSAL 197",
@@ -1772,9 +1829,9 @@
     "entidad": "Estado de México"
    },
    {
-    "producto": "QUESO PANELA, LOS VOLCANES, BOTE 400 GR.",
-    "tipo_producto": "QUESO PANELA",
-    "precio": 88,
+    "producto": "CREMA, LALA, BOTE 417 GR.",
+    "tipo_producto": "CREMA",
+    "precio": 37.9,
     "fecha_observacion": "2026-11-05",
     "cadena_comercial": "HIPERMERCADO SORIANA",
     "establecimiento": "SORIANA HIPER SUCURSAL 197",
@@ -1786,20 +1843,39 @@
    }
   ],
   "nombres": [
-   "QUESO PANELA, ESMERALDA, PAQUETE 400 GR.",
-   "QUESO PANELA, LOS VOLCANES, BOTE 400 GR.",
-   "QUESO PANELA, FUD, PAQUETE 400 GR. QUESO PANELA",
-   "QUESO PANELA, LALA, PAQUETE 400 GR.",
-   "QUESO PANELA, CAPERUCITA, PAQUETE 400 GR.",
-   "QUESO PANELA, ZWAN. PREMIUM, PAQUETE 400 GR.",
-   "QUESO PANELA, LA VILLITA, PAQUETE 440 GR. (2 PACK)",
-   "QUESO PANELA, LA VILLITA, 1 KG. GRANEL. IMITACIÓN QUESO PANELA CANASTO",
-   "QUESO PANELA, FUD, 1 KG. GRANEL. QUESO PANELA",
-   "QUESO PANELA, LA VILLITA, PAQUETE 400 GR. (2 PACK)",
-   "QUESO PANELA, CAPERUCITA, 1 KG. (GRANEL)",
-   "QUESO PANELA, NOCHE BUENA, 1 KG. GRANEL. CREMOSO",
-   "QUESO PANELA, ESMERALDA, 1 KG. GRANEL",
-   "QUESO PANELA, EL CIERVO, 1 KG. GRANEL"
+   "CREMA, LALA, VASO 196 GR.",
+   "CREMA, LALA, BOTE 417 GR.",
+   "CREMA, LALA, BOTE 417 GR. REDUCIDA EN GRASA",
+   "CREMA, ALPURA, BOTE 426 ML. REDUCIDA EN GRASA",
+   "CREMA BATIDA, CHANTILLY, BOTE 1 LT. VEGETAL",
+   "CREMA DENTAL, COLGATE. MAXIMA PROTECCION ANTICARIES, TUBO 125 ML. MAXIMA PROTECCION ANTICARIES. CON CALCIO",
+   "CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 90 ML. SABOR ORIGINAL",
+   "CREMA LÍQUIDA, NIVEA, BOTELLA 400 ML. EXPRESS HIDRATION. PIEL NORMAL",
+   "CREMA LÍQUIDA, NIVEA, BOTELLA 400 ML. SOFT MILK. PIEL SECA",
+   "CREMA LÍQUIDA, JOHNSON´S BABY, BOTELLA 200 ML. PARA BEBÉ. HIDRATANTE. CON GLICERINA",
+   "CREMA LÍQUIDA, PALMOLIVE. NEUTRO BALANCE, BOTELLA 400 ML. PIEL NORMAL",
+   "CREMA LÍQUIDA, VASENOL, BOTELLA 400 ML. RECUPERACIÓN ESENCIAL",
+   "CREMA LÍQUIDA, LUBRIDERM, BOTELLA 400 ML. HUMECTACIÓN DIARIA. PIEL NORMAL A SECA",
+   "CREMA LÍQUIDA, DOVE, BOTELLA 400 ML. PRO-CERAMIDAS. PIEL SECA",
+   "CREMA SÓLIDA, POND´S. S, FRASCO 200 GR.",
+   "CREMA SÓLIDA, NIVEA, ENVASE 100 ML.",
+   "CREMA SÓLIDA, POND´S. CLARANT B3, FRASCO 400 GR. PIEL BALANCEADA A SECA",
+   "CREMA SÓLIDA, POND´S. REJUVENESS, FRASCO 400 GR. CONTRA ARRUGAS",
+   "CREMA PARA ROZADURAS, CAPENT, TUBO 110 GR.",
+   "CREMA, ALPURA, BOTE 426 ML.",
+   "CREMA DENTAL, COLGATE. TRIPLE ACCIÓN, TUBO 100 ML. MENTA ORIGINAL",
+   "CREMA DENTAL, COLGATE, TUBO 75 ML.. SMILES. LIGA DE LA JUSTICIA",
+   "CREMA DENTAL, COLGATE. SENSITIVE, TUBO 73 ML. ENCÍAS",
+   "CREMA LÍQUIDA, GOICOECHEA. DIABET TX, BOTELLA 400 ML.",
+   "CREMA LÍQUIDA, HINDS, BOTELLA 500 ML. CLÁSICA. PIEL SECA",
+   "CREMA DE CACAHUATE, ALADINO, FRASCO 425 GR. CREMOSA",
+   "CREMA DENTAL, COLGATE, TUBO 75 ML.. SMILES. PARA NIÑOS. MI VILLANO FAVORITO. MINIONS",
+   "CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 135 ML. SABOR ORIGINAL",
+   "CREMA LÍQUIDA, TEATRICAL, BOTELLA 400 ML. CELULAS MADRE. HUMECTANTE",
+   "CREMA SÓLIDA, NIVEA, FRASCO 400 ML.",
+   "CREMA SÓLIDA, ATRIX. INTENSIVE, FRASCO 200 ML.",
+   "CREMA BATIDA, CHANTILLY, BOTE 500 ML. VEGETAL",
+   "CREMA, ALPURA, BOTE 450 ML."
   ],
   "cadenas": [
    "HIPERMERCADO SORIANA",
@@ -1895,143 +1971,6 @@
    "CENTRAL DE ABASTOS",
    "MEGA SORIANA",
    "SORIANA SUPER"
-  ]
- },
- "crema|1502": {
-  "n": 332,
-  "ejemplo": [
-   {
-    "producto": "CREMA, LALA, VASO 196 GR.",
-    "tipo_producto": "CREMA",
-    "precio": 24.5,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "CREMA, LALA, BOTE 417 GR.",
-    "tipo_producto": "CREMA",
-    "precio": 37.9,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "CREMA, LALA, VASO 196 GR.",
-   "CREMA, LALA, BOTE 417 GR.",
-   "CREMA, LALA, BOTE 417 GR. REDUCIDA EN GRASA",
-   "CREMA, ALPURA, BOTE 426 ML. REDUCIDA EN GRASA",
-   "CREMA BATIDA, CHANTILLY, BOTE 1 LT. VEGETAL",
-   "CREMA DENTAL, COLGATE. MAXIMA PROTECCION ANTICARIES, TUBO 125 ML. MAXIMA PROTECCION ANTICARIES. CON CALCIO",
-   "CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 90 ML. SABOR ORIGINAL",
-   "CREMA LÍQUIDA, NIVEA, BOTELLA 400 ML. EXPRESS HIDRATION. PIEL NORMAL",
-   "CREMA LÍQUIDA, NIVEA, BOTELLA 400 ML. SOFT MILK. PIEL SECA",
-   "CREMA LÍQUIDA, JOHNSON´S BABY, BOTELLA 200 ML. PARA BEBÉ. HIDRATANTE. CON GLICERINA",
-   "CREMA LÍQUIDA, PALMOLIVE. NEUTRO BALANCE, BOTELLA 400 ML. PIEL NORMAL",
-   "CREMA LÍQUIDA, VASENOL, BOTELLA 400 ML. RECUPERACIÓN ESENCIAL",
-   "CREMA LÍQUIDA, LUBRIDERM, BOTELLA 400 ML. HUMECTACIÓN DIARIA. PIEL NORMAL A SECA",
-   "CREMA LÍQUIDA, DOVE, BOTELLA 400 ML. PRO-CERAMIDAS. PIEL SECA",
-   "CREMA SÓLIDA, POND´S. S, FRASCO 200 GR.",
-   "CREMA SÓLIDA, NIVEA, ENVASE 100 ML.",
-   "CREMA SÓLIDA, POND´S. CLARANT B3, FRASCO 400 GR. PIEL BALANCEADA A SECA",
-   "CREMA SÓLIDA, POND´S. REJUVENESS, FRASCO 400 GR. CONTRA ARRUGAS",
-   "CREMA PARA ROZADURAS, CAPENT, TUBO 110 GR.",
-   "CREMA, ALPURA, BOTE 426 ML.",
-   "CREMA DENTAL, COLGATE. TRIPLE ACCIÓN, TUBO 100 ML. MENTA ORIGINAL",
-   "CREMA DENTAL, COLGATE, TUBO 75 ML.. SMILES. LIGA DE LA JUSTICIA",
-   "CREMA DENTAL, COLGATE. SENSITIVE, TUBO 73 ML. ENCÍAS",
-   "CREMA LÍQUIDA, GOICOECHEA. DIABET TX, BOTELLA 400 ML.",
-   "CREMA LÍQUIDA, HINDS, BOTELLA 500 ML. CLÁSICA. PIEL SECA",
-   "CREMA DE CACAHUATE, ALADINO, FRASCO 425 GR. CREMOSA",
-   "CREMA DENTAL, COLGATE, TUBO 75 ML.. SMILES. PARA NIÑOS. MI VILLANO FAVORITO. MINIONS",
-   "CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 135 ML. SABOR ORIGINAL",
-   "CREMA LÍQUIDA, TEATRICAL, BOTELLA 400 ML. CELULAS MADRE. HUMECTANTE",
-   "CREMA SÓLIDA, NIVEA, FRASCO 400 ML.",
-   "CREMA SÓLIDA, ATRIX. INTENSIVE, FRASCO 200 ML.",
-   "CREMA BATIDA, CHANTILLY, BOTE 500 ML. VEGETAL",
-   "CREMA, ALPURA, BOTE 450 ML."
-  ],
-  "cadenas": [
-   "HIPERMERCADO SORIANA",
-   "MEGA SORIANA",
-   "WAL-MART",
-   "SUPER KOMPRAS",
-   "BODEGA AURRERA",
-   "SUPER CHEDRAUI",
-   "MERCADO SORIANA",
-   "SORIANA EXPRESS"
-  ]
- },
- "queso oaxaca|0901": {
-  "n": 195,
-  "ejemplo": [
-   {
-    "producto": "QUESO OAXACA, LALA, PAQUETE 400 GR.",
-    "tipo_producto": "QUESO OAXACA",
-    "precio": 80,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MERCADO SORIANA",
-    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
-    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
-    "colonia": "AZCAPOTZALCO",
-    "cp": "02000",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "QUESO OAXACA, LOS VOLCANES, BOTE 400 GR.",
-    "tipo_producto": "QUESO OAXACA",
-    "precio": 112,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MERCADO SORIANA",
-    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
-    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
-    "colonia": "AZCAPOTZALCO",
-    "cp": "02000",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "QUESO OAXACA, LALA, PAQUETE 400 GR.",
-   "QUESO OAXACA, LOS VOLCANES, BOTE 400 GR.",
-   "QUESO OAXACA, LA VILLITA, 1 KG. GRANEL. IMITACIÓN QUESO OAXACA",
-   "QUESO OAXACA, NOCHE BUENA, 1 KG. GRANEL",
-   "QUESO OAXACA, CAPERUCITA, 1 KG. GRANEL",
-   "QUESO OAXACA, ESMERALDA, 1 KG. GRANEL",
-   "QUESO OAXACA, EL CIERVO, 1 KG. GRANEL",
-   "QUESO OAXACA, FUD, PAQUETE 400 GR. QUESO OAXACA",
-   "QUESO OAXACA, ZWAN, PAQUETE 400 GR.",
-   "QUESO OAXACA, LA VILLITA, PAQUETE 400 GR.",
-   "QUESO OAXACA, ESMERALDA, PAQUETE 400 GR.",
-   "QUESO OAXACA, FRANJA, 1 KG. GRANEL. IMITACIÓN QUESO OAXACA",
-   "QUESO OAXACA, PARMA. SABORI, 1 KG. GRANEL",
-   "QUESO OAXACA, S/M, 1 KG. GRANEL"
-  ],
-  "cadenas": [
-   "MERCADO SORIANA",
-   "WAL-MART",
-   "LA COMER",
-   "BODEGA AURRERA",
-   "HIPERMERCADO SORIANA",
-   "WAL-MART EXPRESS",
-   "BODEGA AURRERA EXPRESS",
-   "MERCADO PUBLICO",
-   "CHEDRAUI",
-   "CENTRAL DE ABASTOS",
-   "MEGA SORIANA",
-   "SUPERISSSTE"
   ]
  },
  "yoghurt|1502": {
@@ -2159,6 +2098,111 @@
    "BODEGA AURRERA"
   ]
  },
+ "queso oaxaca|0901": {
+  "n": 195,
+  "ejemplo": [
+   {
+    "producto": "QUESO OAXACA, LALA, PAQUETE 400 GR.",
+    "tipo_producto": "QUESO OAXACA",
+    "precio": 80,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "QUESO OAXACA, LOS VOLCANES, BOTE 400 GR.",
+    "tipo_producto": "QUESO OAXACA",
+    "precio": 112,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "QUESO OAXACA, LALA, PAQUETE 400 GR.",
+   "QUESO OAXACA, LOS VOLCANES, BOTE 400 GR.",
+   "QUESO OAXACA, LA VILLITA, 1 KG. GRANEL. IMITACIÓN QUESO OAXACA",
+   "QUESO OAXACA, NOCHE BUENA, 1 KG. GRANEL",
+   "QUESO OAXACA, CAPERUCITA, 1 KG. GRANEL",
+   "QUESO OAXACA, ESMERALDA, 1 KG. GRANEL",
+   "QUESO OAXACA, EL CIERVO, 1 KG. GRANEL",
+   "QUESO OAXACA, FUD, PAQUETE 400 GR. QUESO OAXACA",
+   "QUESO OAXACA, ZWAN, PAQUETE 400 GR.",
+   "QUESO OAXACA, LA VILLITA, PAQUETE 400 GR.",
+   "QUESO OAXACA, ESMERALDA, PAQUETE 400 GR.",
+   "QUESO OAXACA, FRANJA, 1 KG. GRANEL. IMITACIÓN QUESO OAXACA",
+   "QUESO OAXACA, PARMA. SABORI, 1 KG. GRANEL",
+   "QUESO OAXACA, S/M, 1 KG. GRANEL"
+  ],
+  "cadenas": [
+   "MERCADO SORIANA",
+   "WAL-MART",
+   "LA COMER",
+   "BODEGA AURRERA",
+   "HIPERMERCADO SORIANA",
+   "WAL-MART EXPRESS",
+   "BODEGA AURRERA EXPRESS",
+   "MERCADO PUBLICO",
+   "CHEDRAUI",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "SUPERISSSTE"
+  ]
+ },
+ "tortilla de harina|1502": {
+  "n": 30,
+  "ejemplo": [
+   {
+    "producto": "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TIA ROSA, BOLSA 22 PIEZAS",
+    "tipo_producto": "TORTILLA DE HARINA DE TRIGO",
+    "precio": 33.9,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR.",
+    "tipo_producto": "TORTILLA DE HARINA DE TRIGO",
+    "precio": 29.9,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TIA ROSA, BOLSA 22 PIEZAS",
+   "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR."
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "MEGA SORIANA",
+   "WAL-MART",
+   "SUPER CHEDRAUI",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "SORIANA EXPRESS"
+  ]
+ },
  "queso|0901": {
   "n": 949,
   "ejemplo": [
@@ -2247,49 +2291,11 @@
    "SUPERISSSTE"
   ]
  },
- "tortilla de harina|1502": {
-  "n": 30,
-  "ejemplo": [
-   {
-    "producto": "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TIA ROSA, BOLSA 22 PIEZAS",
-    "tipo_producto": "TORTILLA DE HARINA DE TRIGO",
-    "precio": 33.9,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR.",
-    "tipo_producto": "TORTILLA DE HARINA DE TRIGO",
-    "precio": 29.9,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TIA ROSA, BOLSA 22 PIEZAS",
-   "TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR."
-  ],
-  "cadenas": [
-   "HIPERMERCADO SORIANA",
-   "MEGA SORIANA",
-   "WAL-MART",
-   "SUPER CHEDRAUI",
-   "MERCADO SORIANA",
-   "BODEGA AURRERA",
-   "SORIANA EXPRESS"
-  ]
+ "bolillo|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "queso panela|0901": {
   "n": 229,
@@ -2352,11 +2358,50 @@
    "MEGA SORIANA"
   ]
  },
- "bolillo|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
+ "pan blanco|1502": {
+  "n": 23,
+  "ejemplo": [
+   {
+    "producto": "PAN BLANCO BOLILLO, S/M, PIEZA",
+    "tipo_producto": "PAN BLANCO BOLILLO",
+    "precio": 2,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "PAN BLANCO BOLILLO, S/M, PIEZA",
+    "tipo_producto": "PAN BLANCO BOLILLO",
+    "precio": 1.9,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "PAN BLANCO BOLILLO, S/M, PIEZA"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "WAL-MART",
+   "SUPER KOMPRAS",
+   "BODEGA AURRERA",
+   "PANADERIAS TRADICIONALES",
+   "SUPER CHEDRAUI",
+   "MERCADO SORIANA",
+   "MEGA SORIANA",
+   "SORIANA EXPRESS"
+  ]
  },
  "crema|0901": {
   "n": 602,
@@ -2441,51 +2486,6 @@
    "NETO (SUPER PRECIO)",
    "CENTRAL DE ABASTOS",
    "MEGA SORIANA"
-  ]
- },
- "pan blanco|1502": {
-  "n": 23,
-  "ejemplo": [
-   {
-    "producto": "PAN BLANCO BOLILLO, S/M, PIEZA",
-    "tipo_producto": "PAN BLANCO BOLILLO",
-    "precio": 2,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "PAN BLANCO BOLILLO, S/M, PIEZA",
-    "tipo_producto": "PAN BLANCO BOLILLO",
-    "precio": 1.9,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
-    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
-    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
-    "cp": "54030",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "PAN BLANCO BOLILLO, S/M, PIEZA"
-  ],
-  "cadenas": [
-   "HIPERMERCADO SORIANA",
-   "WAL-MART",
-   "SUPER KOMPRAS",
-   "BODEGA AURRERA",
-   "PANADERIAS TRADICIONALES",
-   "SUPER CHEDRAUI",
-   "MERCADO SORIANA",
-   "MEGA SORIANA",
-   "SORIANA EXPRESS"
   ]
  },
  "yoghurt|0901": {
@@ -3249,10 +3249,92 @@
   "cadenas": []
  },
  "frijol|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
+  "n": 456,
+  "ejemplo": [
+   {
+    "producto": "FRIJOL, LA MERCED, BOLSA 900 GR. NEGRO. QUERÉTARO",
+    "tipo_producto": "FRIJOL",
+    "precio": 37.9,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "FRIJOL, SCHETTINO, BOLSA 900 GR. NEGRO. QUERÉTARO",
+    "tipo_producto": "FRIJOL",
+    "precio": 26.5,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "FRIJOL, LA MERCED, BOLSA 900 GR. NEGRO. QUERÉTARO",
+   "FRIJOL, SCHETTINO, BOLSA 900 GR. NEGRO. QUERÉTARO",
+   "FRIJOLES, LA SIERRA, LATA 560 GR. ENTERO. BAYO",
+   "FRIJOLES, LA COSTEÑA, LATA 580 GR. REFRITOS. NEGRO",
+   "FRIJOLES, ISADORA, BOLSA 400 GR. REFRITOS. NEGROS",
+   "FRIJOLES, LA SIERRA, BOLSA 400 GR. REFRITOS. BAYOS",
+   "FRIJOL, AURRERA, BOLSA 900 GR. NEGRO. QUERÉTARO",
+   "FRIJOL, LA MERCED, BOLSA 907 GR. NEGRO. QUERÉTARO",
+   "FRIJOL, SCHETTINO, BOLSA 907 GR. NEGRO. QUERÉTARO",
+   "FRIJOL, VERDE VALLE, BOLSA 900 GR. NEGRO",
+   "FRIJOL, VERDE VALLE, BOLSA 900 GR. PERUANO",
+   "FRIJOL, VERDE VALLE, BOLSA 900 GR. PINTO",
+   "FRIJOL, GREAT VALUE, BOLSA 900 GR. NEGRO. QUERÉTARO",
+   "FRIJOL, VERDE VALLE, BOLSA 900 GR. FLOR DE MAYO",
+   "FRIJOL, GREAT VALUE, BOLSA 900 GR. FLOR DE MAYO",
+   "FRIJOL, LA MERCED, BOLSA 907 GR. PINTO",
+   "FRIJOL, SCHETTINO, BOLSA 907 GR. PINTO",
+   "FRIJOL, VERDE VALLE, BOLSA 900 GR. NEGRO. JAMAPA",
+   "FRIJOL, LA MERCED, BOLSA 750 GR. FLOR DE MAYO",
+   "FRIJOLES, ISADORA, BOLSA 430 GR. REFRITOS. NEGROS",
+   "FRIJOLES, LA SIERRA, BOLSA 430 GR. REFRITOS. BAYOS",
+   "FRIJOL, PRECISSIMO, BOLSA 908 GR. NEGRO",
+   "FRIJOL, LA MERCED, BOLSA 900 GR. PINTO (NACIONAL)",
+   "FRIJOL, BUENO, BOLSA 900 GR. BAYO",
+   "FRIJOL, LA MERCED, BOLSA 900 GR. BAYO",
+   "FRIJOL, SCHETTINO, BOLSA 900 GR. PINTO",
+   "FRIJOL, LA MERCED, BOLSA 900 GR. FLOR DE MAYO",
+   "FRIJOL, PRECÍSSIMO, BOLSA 908 GR. PINTO",
+   "FRIJOL, GREAT VALUE, BOLSA 900 GR. PINTO",
+   "FRIJOL, VERDE VALLE, BOLSA 1 KG. PINTO",
+   "FRIJOL, S/M, 1 KG. GRANEL. BAYO",
+   "FRIJOL, S/M, 1 KG. GRANEL. FLOR DE MAYO",
+   "FRIJOL, S/M, 1 KG. GRANEL. NEGRO",
+   "FRIJOL, S/M, 1 KG. GRANEL. PERUANO",
+   "FRIJOL, S/M, 1 KG. GRANEL. PINTO",
+   "FRIJOL, CHEDRAUI, BOLSA 900 GR. PINTO",
+   "FRIJOL, VERDE VALLE, BOLSA 1 KG.  NEGRO. JAMAPA",
+   "FRIJOL, EL FRESNO, BOLSA 900 GR. NEGRO",
+   "FRIJOL, VERDE VALLE, BOLSA 1 KG. NEGRO",
+   "FRIJOL, EL LABRADOR, BOLSA 1 KG. NEGRO"
+  ],
+  "cadenas": [
+   "MERCADO SORIANA",
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "LA COMER",
+   "BODEGA AURRERA",
+   "WAL-MART EXPRESS",
+   "BODEGA AURRERA EXPRESS",
+   "MERCADO PUBLICO",
+   "CHEDRAUI",
+   "SUPERISSSTE",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "SORIANA SUPER"
+  ]
  },
  "pan|1502": {
   "n": 424,
@@ -3458,6 +3540,67 @@
    "SORIANA EXPRESS"
   ]
  },
+ "chiles|1502": {
+  "n": 190,
+  "ejemplo": [
+   {
+    "producto": "CHILES, LA COSTEÑA, LATA 105 GR. SERRANO",
+    "tipo_producto": "CHILES",
+    "precio": 14,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CHILES, LA COSTEÑA, LATA 220 GR. SERRANO",
+    "tipo_producto": "CHILES",
+    "precio": 21.5,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CHILES, LA COSTEÑA, LATA 105 GR. SERRANO",
+   "CHILES, LA COSTEÑA, LATA 220 GR. SERRANO",
+   "CHILES, LA COSTEÑA, LATA 105 GR. JALAPEÑO RAJAS",
+   "CHILES, LA COSTEÑA, LATA 220 GR. CHIPOTLES EN ADOBO",
+   "CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS",
+   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑOS RAJAS",
+   "CHILES, CLEMENTE JACQUES, LATA 380 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO RAJAS",
+   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 340 GR. JALAPEÑO RAJAS",
+   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS EN ESCABECHE",
+   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 380 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA MORENA, LATA 380 GR. JALAPEÑO EN ESCABECHE"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "MEGA SORIANA",
+   "WAL-MART",
+   "SUPER KOMPRAS",
+   "BODEGA AURRERA",
+   "SUPER CHEDRAUI",
+   "MERCADO SORIANA",
+   "MERCADO PUBLICO",
+   "SORIANA EXPRESS"
+  ]
+ },
  "pasta|0901": {
   "n": 302,
   "ejemplo": [
@@ -3532,13 +3675,13 @@
    "SORIANA SUPER"
   ]
  },
- "chiles|1502": {
-  "n": 190,
+ "chile seco|1502": {
+  "n": 10,
   "ejemplo": [
    {
-    "producto": "CHILES, LA COSTEÑA, LATA 105 GR. SERRANO",
-    "tipo_producto": "CHILES",
-    "precio": 14,
+    "producto": "CHILE SECO, VERDE VALLE, BOLSA 75 GR. PASILLA",
+    "tipo_producto": "CHILE SECO",
+    "precio": 38.5,
     "fecha_observacion": "2026-11-05",
     "cadena_comercial": "HIPERMERCADO SORIANA",
     "establecimiento": "SORIANA HIPER SUCURSAL 197",
@@ -3549,9 +3692,9 @@
     "entidad": "Estado de México"
    },
    {
-    "producto": "CHILES, LA COSTEÑA, LATA 220 GR. SERRANO",
-    "tipo_producto": "CHILES",
-    "precio": 21.5,
+    "producto": "CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
+    "tipo_producto": "CHILE SECO",
+    "precio": 38.5,
     "fecha_observacion": "2026-11-05",
     "cadena_comercial": "HIPERMERCADO SORIANA",
     "establecimiento": "SORIANA HIPER SUCURSAL 197",
@@ -3563,34 +3706,17 @@
    }
   ],
   "nombres": [
-   "CHILES, LA COSTEÑA, LATA 105 GR. SERRANO",
-   "CHILES, LA COSTEÑA, LATA 220 GR. SERRANO",
-   "CHILES, LA COSTEÑA, LATA 105 GR. JALAPEÑO RAJAS",
-   "CHILES, LA COSTEÑA, LATA 220 GR. CHIPOTLES EN ADOBO",
-   "CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS",
-   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑOS RAJAS",
-   "CHILES, CLEMENTE JACQUES, LATA 380 GR. JALAPEÑOS RAJAS",
-   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO EN ESCABECHE",
-   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO RAJAS",
-   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑO EN ESCABECHE",
-   "CHILES, LA COSTEÑA, LATA 340 GR. JALAPEÑO RAJAS",
-   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS RAJAS",
-   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS RAJAS",
-   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS EN ESCABECHE",
-   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS EN ESCABECHE",
-   "CHILES, LA COSTEÑA, LATA 380 GR. JALAPEÑOS RAJAS",
-   "CHILES, LA MORENA, LATA 380 GR. JALAPEÑO EN ESCABECHE"
+   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. PASILLA",
+   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
+   "CHILE SECO, S/M, 1 KG. GRANEL. PASILLA",
+   "CHILE SECO, S/M, 1 KG. GRANEL. GUAJILLO",
+   "CHILE SECO, S/M, 1 KG. GRANEL. CASCABEL",
+   "CHILE SECO, S/M, 1 KG. GRANEL. ANCHO"
   ],
   "cadenas": [
    "HIPERMERCADO SORIANA",
    "MEGA SORIANA",
-   "WAL-MART",
-   "SUPER KOMPRAS",
-   "BODEGA AURRERA",
-   "SUPER CHEDRAUI",
-   "MERCADO SORIANA",
-   "MERCADO PUBLICO",
-   "SORIANA EXPRESS"
+   "MERCADO PUBLICO"
   ]
  },
  "avena|0901": {
@@ -3641,97 +3767,6 @@
    "CHEDRAUI",
    "SUPERISSSTE",
    "MEGA SORIANA"
-  ]
- },
- "chile seco|1502": {
-  "n": 10,
-  "ejemplo": [
-   {
-    "producto": "CHILE SECO, VERDE VALLE, BOLSA 75 GR. PASILLA",
-    "tipo_producto": "CHILE SECO",
-    "precio": 38.5,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
-    "tipo_producto": "CHILE SECO",
-    "precio": 38.5,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. PASILLA",
-   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
-   "CHILE SECO, S/M, 1 KG. GRANEL. PASILLA",
-   "CHILE SECO, S/M, 1 KG. GRANEL. GUAJILLO",
-   "CHILE SECO, S/M, 1 KG. GRANEL. CASCABEL",
-   "CHILE SECO, S/M, 1 KG. GRANEL. ANCHO"
-  ],
-  "cadenas": [
-   "HIPERMERCADO SORIANA",
-   "MEGA SORIANA",
-   "MERCADO PUBLICO"
-  ]
- },
- "maiz pozolero|0901": {
-  "n": 19,
-  "ejemplo": [
-   {
-    "producto": "MAÍZ POZOLERO, OVARB-LOLITA, BOLSA 1 KG. (ROJA)",
-    "tipo_producto": "MAÍZ POZOLERO",
-    "precio": 54,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MERCADO SORIANA",
-    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
-    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
-    "colonia": "AZCAPOTZALCO",
-    "cp": "02000",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "MAÍZ POZOLERO, OVARB, BOLSA 1 KG.",
-    "tipo_producto": "MAÍZ POZOLERO",
-    "precio": 48,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL CUITLAHUAC",
-    "direccion": "CUITLAHUAC 3651, ENTRE TORONJIL Y FERROCARRIL C.",
-    "colonia": "HOGAR Y SEGURIDAD",
-    "cp": "02820",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "MAÍZ POZOLERO, OVARB-LOLITA, BOLSA 1 KG. (ROJA)",
-   "MAÍZ POZOLERO, OVARB, BOLSA 1 KG.",
-   "MAÍZ POZOLERO, S/M, 1 KG. GRANEL. SIN CABEZA"
-  ],
-  "cadenas": [
-   "MERCADO SORIANA",
-   "WAL-MART",
-   "LA COMER",
-   "HIPERMERCADO SORIANA",
-   "MERCADO PUBLICO",
-   "CHEDRAUI",
-   "CENTRAL DE ABASTOS",
-   "MEGA SORIANA",
-   "WAL-MART EXPRESS"
   ]
  },
  "papa|1502": {
@@ -3793,6 +3828,53 @@
    "SUPER CHEDRAUI",
    "MERCADO SORIANA",
    "SORIANA EXPRESS"
+  ]
+ },
+ "maiz pozolero|0901": {
+  "n": 19,
+  "ejemplo": [
+   {
+    "producto": "MAÍZ POZOLERO, OVARB-LOLITA, BOLSA 1 KG. (ROJA)",
+    "tipo_producto": "MAÍZ POZOLERO",
+    "precio": 54,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "MAÍZ POZOLERO, OVARB, BOLSA 1 KG.",
+    "tipo_producto": "MAÍZ POZOLERO",
+    "precio": 48,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL CUITLAHUAC",
+    "direccion": "CUITLAHUAC 3651, ENTRE TORONJIL Y FERROCARRIL C.",
+    "colonia": "HOGAR Y SEGURIDAD",
+    "cp": "02820",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "MAÍZ POZOLERO, OVARB-LOLITA, BOLSA 1 KG. (ROJA)",
+   "MAÍZ POZOLERO, OVARB, BOLSA 1 KG.",
+   "MAÍZ POZOLERO, S/M, 1 KG. GRANEL. SIN CABEZA"
+  ],
+  "cadenas": [
+   "MERCADO SORIANA",
+   "WAL-MART",
+   "LA COMER",
+   "HIPERMERCADO SORIANA",
+   "MERCADO PUBLICO",
+   "CHEDRAUI",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "WAL-MART EXPRESS"
   ]
  },
  "jitomate|1502": {
@@ -3890,12 +3972,6 @@
    "SORIANA EXPRESS"
   ]
  },
- "pan molido|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "ajo|1502": {
   "n": 23,
   "ejemplo": [
@@ -3941,6 +4017,86 @@
    "BODEGA AURRERA",
    "SORIANA EXPRESS",
    "MERCADO PUBLICO"
+  ]
+ },
+ "pan molido|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "chile|1502": {
+  "n": 261,
+  "ejemplo": [
+   {
+    "producto": "CHILE FRESCO, S/M, 1 KG. POBLANO O PARA RELLENAR",
+    "tipo_producto": "CHILE FRESCO",
+    "precio": 58.9,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CHILE FRESCO, S/M, 1 KG. SERRANO",
+    "tipo_producto": "CHILE FRESCO",
+    "precio": 68,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CHILE FRESCO, S/M, 1 KG. POBLANO O PARA RELLENAR",
+   "CHILE FRESCO, S/M, 1 KG. SERRANO",
+   "CHILE FRESCO, S/M, 1 KG. HABANERO",
+   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. PASILLA",
+   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
+   "CHILES, LA COSTEÑA, LATA 105 GR. SERRANO",
+   "CHILES, LA COSTEÑA, LATA 220 GR. SERRANO",
+   "CHILES, LA COSTEÑA, LATA 105 GR. JALAPEÑO RAJAS",
+   "CHILES, LA COSTEÑA, LATA 220 GR. CHIPOTLES EN ADOBO",
+   "CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS",
+   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑOS RAJAS",
+   "CHILES, CLEMENTE JACQUES, LATA 380 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO RAJAS",
+   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑO EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 340 GR. JALAPEÑO RAJAS",
+   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS RAJAS",
+   "CHILE FRESCO, S/M, 1 KG. GUERO-LARGO",
+   "CHILE FRESCO, S/M, 1 KG. DE ARBOL (VERDE)",
+   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS EN ESCABECHE",
+   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS EN ESCABECHE",
+   "CHILES, LA COSTEÑA, LATA 380 GR. JALAPEÑOS RAJAS",
+   "CHILES, LA MORENA, LATA 380 GR. JALAPEÑO EN ESCABECHE",
+   "CHILE FRESCO, S/M, 1 KG. JALAPEÑO O CUARESMEÑO",
+   "CHILE FRESCO, S/M, 1 KG. CARIBE",
+   "CHILE SECO, S/M, 1 KG. GRANEL. PASILLA",
+   "CHILE SECO, S/M, 1 KG. GRANEL. GUAJILLO",
+   "CHILE SECO, S/M, 1 KG. GRANEL. CASCABEL",
+   "CHILE SECO, S/M, 1 KG. GRANEL. ANCHO"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "MEGA SORIANA",
+   "WAL-MART",
+   "SUPER KOMPRAS",
+   "BODEGA AURRERA",
+   "SUPER CHEDRAUI",
+   "MERCADO SORIANA",
+   "MERCADO PUBLICO",
+   "SORIANA EXPRESS"
   ]
  },
  "pan|0901": {
@@ -4039,13 +4195,13 @@
    "SALINAS Y ROCHA"
   ]
  },
- "chile|1502": {
-  "n": 261,
+ "cilantro|1502": {
+  "n": 15,
   "ejemplo": [
    {
-    "producto": "CHILE FRESCO, S/M, 1 KG. POBLANO O PARA RELLENAR",
-    "tipo_producto": "CHILE FRESCO",
-    "precio": 58.9,
+    "producto": "CILANTRO, S/M, MANOJO",
+    "tipo_producto": "CILANTRO",
+    "precio": 11.9,
     "fecha_observacion": "2026-11-05",
     "cadena_comercial": "HIPERMERCADO SORIANA",
     "establecimiento": "SORIANA HIPER SUCURSAL 197",
@@ -4056,61 +4212,28 @@
     "entidad": "Estado de México"
    },
    {
-    "producto": "CHILE FRESCO, S/M, 1 KG. SERRANO",
-    "tipo_producto": "CHILE FRESCO",
-    "precio": 68,
+    "producto": "CILANTRO, S/M, MANOJO",
+    "tipo_producto": "CILANTRO",
+    "precio": 11.9,
     "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
     "entidad": "Estado de México"
    }
   ],
   "nombres": [
-   "CHILE FRESCO, S/M, 1 KG. POBLANO O PARA RELLENAR",
-   "CHILE FRESCO, S/M, 1 KG. SERRANO",
-   "CHILE FRESCO, S/M, 1 KG. HABANERO",
-   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. PASILLA",
-   "CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
-   "CHILES, LA COSTEÑA, LATA 105 GR. SERRANO",
-   "CHILES, LA COSTEÑA, LATA 220 GR. SERRANO",
-   "CHILES, LA COSTEÑA, LATA 105 GR. JALAPEÑO RAJAS",
-   "CHILES, LA COSTEÑA, LATA 220 GR. CHIPOTLES EN ADOBO",
-   "CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS",
-   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑOS RAJAS",
-   "CHILES, CLEMENTE JACQUES, LATA 380 GR. JALAPEÑOS RAJAS",
-   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO EN ESCABECHE",
-   "CHILES, LA COSTEÑA, LATA 240 GR. JALAPEÑO RAJAS",
-   "CHILES, CLEMENTE JACQUES, LATA 220 GR. JALAPEÑO EN ESCABECHE",
-   "CHILES, LA COSTEÑA, LATA 340 GR. JALAPEÑO RAJAS",
-   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS RAJAS",
-   "CHILE FRESCO, S/M, 1 KG. GUERO-LARGO",
-   "CHILE FRESCO, S/M, 1 KG. DE ARBOL (VERDE)",
-   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS RAJAS",
-   "CHILES, LA COSTEÑA, LATA 220 GR. JALAPEÑOS EN ESCABECHE",
-   "CHILES, SAN MARCOS, LATA 215 GR. JALAPEÑOS EN ESCABECHE",
-   "CHILES, LA COSTEÑA, LATA 380 GR. JALAPEÑOS RAJAS",
-   "CHILES, LA MORENA, LATA 380 GR. JALAPEÑO EN ESCABECHE",
-   "CHILE FRESCO, S/M, 1 KG. JALAPEÑO O CUARESMEÑO",
-   "CHILE FRESCO, S/M, 1 KG. CARIBE",
-   "CHILE SECO, S/M, 1 KG. GRANEL. PASILLA",
-   "CHILE SECO, S/M, 1 KG. GRANEL. GUAJILLO",
-   "CHILE SECO, S/M, 1 KG. GRANEL. CASCABEL",
-   "CHILE SECO, S/M, 1 KG. GRANEL. ANCHO"
+   "CILANTRO, S/M, MANOJO"
   ],
   "cadenas": [
    "HIPERMERCADO SORIANA",
    "MEGA SORIANA",
    "WAL-MART",
-   "SUPER KOMPRAS",
    "BODEGA AURRERA",
-   "SUPER CHEDRAUI",
-   "MERCADO SORIANA",
-   "MERCADO PUBLICO",
-   "SORIANA EXPRESS"
+   "MERCADO SORIANA"
   ]
  },
  "aceite|0901": {
@@ -4186,13 +4309,13 @@
    "SORIANA SUPER"
   ]
  },
- "cilantro|1502": {
-  "n": 15,
+ "lechuga|1502": {
+  "n": 32,
   "ejemplo": [
    {
-    "producto": "CILANTRO, S/M, MANOJO",
-    "tipo_producto": "CILANTRO",
-    "precio": 11.9,
+    "producto": "LECHUGA, S/M, PZA. OREJONA O LARGA",
+    "tipo_producto": "LECHUGA",
+    "precio": 28.9,
     "fecha_observacion": "2026-11-05",
     "cadena_comercial": "HIPERMERCADO SORIANA",
     "establecimiento": "SORIANA HIPER SUCURSAL 197",
@@ -4203,28 +4326,31 @@
     "entidad": "Estado de México"
    },
    {
-    "producto": "CILANTRO, S/M, MANOJO",
-    "tipo_producto": "CILANTRO",
-    "precio": 11.9,
+    "producto": "LECHUGA, S/M, PZA. ROMANA",
+    "tipo_producto": "LECHUGA",
+    "precio": 19.8,
     "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
-    "direccion": "GUSTAVO BAZ 4001",
-    "colonia": "INDUSTRIAL SAN NICOLAS",
-    "cp": "5400",
-    "municipio": "Tlalnepantla",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
     "entidad": "Estado de México"
    }
   ],
   "nombres": [
-   "CILANTRO, S/M, MANOJO"
+   "LECHUGA, S/M, PZA. OREJONA O LARGA",
+   "LECHUGA, S/M, PZA. ROMANA"
   ],
   "cadenas": [
    "HIPERMERCADO SORIANA",
    "MEGA SORIANA",
    "WAL-MART",
    "BODEGA AURRERA",
-   "MERCADO SORIANA"
+   "SUPER CHEDRAUI",
+   "MERCADO SORIANA",
+   "SORIANA EXPRESS"
   ]
  },
  "chiles|0901": {
@@ -4292,50 +4418,6 @@
    "MEGA SORIANA"
   ]
  },
- "lechuga|1502": {
-  "n": 32,
-  "ejemplo": [
-   {
-    "producto": "LECHUGA, S/M, PZA. OREJONA O LARGA",
-    "tipo_producto": "LECHUGA",
-    "precio": 28.9,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "LECHUGA, S/M, PZA. ROMANA",
-    "tipo_producto": "LECHUGA",
-    "precio": 19.8,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "LECHUGA, S/M, PZA. OREJONA O LARGA",
-   "LECHUGA, S/M, PZA. ROMANA"
-  ],
-  "cadenas": [
-   "HIPERMERCADO SORIANA",
-   "MEGA SORIANA",
-   "WAL-MART",
-   "BODEGA AURRERA",
-   "SUPER CHEDRAUI",
-   "MERCADO SORIANA",
-   "SORIANA EXPRESS"
-  ]
- },
  "aguacate|1502": {
   "n": 21,
   "ejemplo": [
@@ -4377,6 +4459,53 @@
    "SUPER CHEDRAUI",
    "MERCADO SORIANA",
    "SORIANA EXPRESS"
+  ]
+ },
+ "limon|1502": {
+  "n": 25,
+  "ejemplo": [
+   {
+    "producto": "LIMÓN, S/M, 1 KG. GRANEL. MEXICANO CON SEMILLA",
+    "tipo_producto": "LIMÓN",
+    "precio": 27.9,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O LIMON COLIMA",
+    "tipo_producto": "LIMÓN",
+    "precio": 42,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "LIMÓN, S/M, 1 KG. GRANEL. MEXICANO CON SEMILLA",
+   "LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O LIMON COLIMA",
+   "LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O COLIMA. UPC 4306. EN MALLA",
+   "LIMÓN, S/M, 1 KG. AGRIO SIN SEMILLA O LIMON PERSA",
+   "LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA",
+   "LIMÓN, S/M, 1 KG. EN MALLA. AGRIO SIN SEMILLA"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "WAL-MART",
+   "SUPER KOMPRAS",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA"
   ]
  },
  "chile seco|0901": {
@@ -4427,13 +4556,13 @@
    "CENTRAL DE ABASTOS"
   ]
  },
- "limon|1502": {
-  "n": 25,
+ "calabaza|1502": {
+  "n": 17,
   "ejemplo": [
    {
-    "producto": "LIMÓN, S/M, 1 KG. GRANEL. MEXICANO CON SEMILLA",
-    "tipo_producto": "LIMÓN",
-    "precio": 27.9,
+    "producto": "CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)",
+    "tipo_producto": "CALABAZA",
+    "precio": 32.8,
     "fecha_observacion": "2026-11-05",
     "cadena_comercial": "HIPERMERCADO SORIANA",
     "establecimiento": "SORIANA HIPER SUCURSAL 197",
@@ -4444,34 +4573,30 @@
     "entidad": "Estado de México"
    },
    {
-    "producto": "LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O LIMON COLIMA",
-    "tipo_producto": "LIMÓN",
-    "precio": 42,
-    "fecha_observacion": "2026-11-05",
+    "producto": "CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)",
+    "tipo_producto": "CALABAZA",
+    "precio": 39.9,
+    "fecha_observacion": "2026-11-04",
     "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
-    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
-    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
-    "cp": "54030",
-    "municipio": "Tlalnepantla",
+    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
+    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
+    "colonia": "SAN FRANCISCO COACALCO",
+    "cp": "55712",
+    "municipio": "Coacalco",
     "entidad": "Estado de México"
    }
   ],
   "nombres": [
-   "LIMÓN, S/M, 1 KG. GRANEL. MEXICANO CON SEMILLA",
-   "LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O LIMON COLIMA",
-   "LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O COLIMA. UPC 4306. EN MALLA",
-   "LIMÓN, S/M, 1 KG. AGRIO SIN SEMILLA O LIMON PERSA",
-   "LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA",
-   "LIMÓN, S/M, 1 KG. EN MALLA. AGRIO SIN SEMILLA"
+   "CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)"
   ],
   "cadenas": [
    "HIPERMERCADO SORIANA",
    "WAL-MART",
-   "SUPER KOMPRAS",
-   "MEGA SORIANA",
    "BODEGA AURRERA",
-   "MERCADO SORIANA"
+   "SUPER CHEDRAUI",
+   "MERCADO SORIANA",
+   "MEGA SORIANA",
+   "SORIANA EXPRESS"
   ]
  },
  "papa|0901": {
@@ -4541,13 +4666,13 @@
    "SORIANA SUPER"
   ]
  },
- "calabaza|1502": {
-  "n": 17,
+ "zanahoria|1502": {
+  "n": 23,
   "ejemplo": [
    {
-    "producto": "CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)",
-    "tipo_producto": "CALABAZA",
-    "precio": 32.8,
+    "producto": "ZANAHORIA, S/M, 1 KG.",
+    "tipo_producto": "ZANAHORIA",
+    "precio": 14.9,
     "fecha_observacion": "2026-11-05",
     "cadena_comercial": "HIPERMERCADO SORIANA",
     "establecimiento": "SORIANA HIPER SUCURSAL 197",
@@ -4558,29 +4683,32 @@
     "entidad": "Estado de México"
    },
    {
-    "producto": "CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)",
-    "tipo_producto": "CALABAZA",
-    "precio": 39.9,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
-    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
-    "colonia": "SAN FRANCISCO COACALCO",
-    "cp": "55712",
-    "municipio": "Coacalco",
+    "producto": "ZANAHORIA, S/M, 1 KG.",
+    "tipo_producto": "ZANAHORIA",
+    "precio": 31.5,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "SUPER KOMPRAS",
+    "establecimiento": "SUPER KOMPRAS SUSCURSAL CENTRO",
+    "direccion": "MARIANO MATAMOROS 104, ENTRE AV. HIDALGO Y AV. MORELOS",
+    "colonia": "CENTRO",
+    "cp": "50000",
+    "municipio": "Toluca",
     "entidad": "Estado de México"
    }
   ],
   "nombres": [
-   "CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)"
+   "ZANAHORIA, S/M, 1 KG.",
+   "ZANAHORIA, S/M, 1 KG. MEDIANA",
+   "ZANAHORIA, S/M, 1 KG. GRANDE"
   ],
   "cadenas": [
    "HIPERMERCADO SORIANA",
-   "WAL-MART",
+   "SUPER KOMPRAS",
+   "MEGA SORIANA",
    "BODEGA AURRERA",
+   "WAL-MART",
    "SUPER CHEDRAUI",
    "MERCADO SORIANA",
-   "MEGA SORIANA",
    "SORIANA EXPRESS"
   ]
  },
@@ -4631,50 +4759,44 @@
    "BODEGA AURRERA"
   ]
  },
- "zanahoria|1502": {
-  "n": 23,
+ "nopal|1502": {
+  "n": 7,
   "ejemplo": [
    {
-    "producto": "ZANAHORIA, S/M, 1 KG.",
-    "tipo_producto": "ZANAHORIA",
-    "precio": 14.9,
+    "producto": "NOPAL, S/M, 1 KG. SIN ESPINAS",
+    "tipo_producto": "NOPAL",
+    "precio": 45,
     "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
     "entidad": "Estado de México"
    },
    {
-    "producto": "ZANAHORIA, S/M, 1 KG.",
-    "tipo_producto": "ZANAHORIA",
-    "precio": 31.5,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "SUPER KOMPRAS",
-    "establecimiento": "SUPER KOMPRAS SUSCURSAL CENTRO",
-    "direccion": "MARIANO MATAMOROS 104, ENTRE AV. HIDALGO Y AV. MORELOS",
-    "colonia": "CENTRO",
-    "cp": "50000",
-    "municipio": "Toluca",
+    "producto": "NOPAL, S/M, 1 KG. SIN ESPINAS",
+    "tipo_producto": "NOPAL",
+    "precio": 45,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL PLAZA ARAGON",
+    "direccion": "CARLOS HANK GONZALEZ 120, ESQ. BLVD. GUERREROS",
+    "colonia": "CIUDAD AZTECA",
+    "cp": "55120",
+    "municipio": "Ecatepec",
     "entidad": "Estado de México"
    }
   ],
   "nombres": [
-   "ZANAHORIA, S/M, 1 KG.",
-   "ZANAHORIA, S/M, 1 KG. MEDIANA",
-   "ZANAHORIA, S/M, 1 KG. GRANDE"
+   "NOPAL, S/M, 1 KG. SIN ESPINAS"
   ],
   "cadenas": [
-   "HIPERMERCADO SORIANA",
-   "SUPER KOMPRAS",
-   "MEGA SORIANA",
-   "BODEGA AURRERA",
    "WAL-MART",
-   "SUPER CHEDRAUI",
    "MERCADO SORIANA",
-   "SORIANA EXPRESS"
+   "MEGA SORIANA",
+   "BODEGA AURRERA"
   ]
  },
  "cebolla|0901": {
@@ -4729,46 +4851,6 @@
    "SORIANA SUPER"
   ]
  },
- "nopal|1502": {
-  "n": 7,
-  "ejemplo": [
-   {
-    "producto": "NOPAL, S/M, 1 KG. SIN ESPINAS",
-    "tipo_producto": "NOPAL",
-    "precio": 45,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
-    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
-    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
-    "cp": "54030",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "NOPAL, S/M, 1 KG. SIN ESPINAS",
-    "tipo_producto": "NOPAL",
-    "precio": 45,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL PLAZA ARAGON",
-    "direccion": "CARLOS HANK GONZALEZ 120, ESQ. BLVD. GUERREROS",
-    "colonia": "CIUDAD AZTECA",
-    "cp": "55120",
-    "municipio": "Ecatepec",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "NOPAL, S/M, 1 KG. SIN ESPINAS"
-  ],
-  "cadenas": [
-   "WAL-MART",
-   "MERCADO SORIANA",
-   "MEGA SORIANA",
-   "BODEGA AURRERA"
-  ]
- },
  "platano|1502": {
   "n": 18,
   "ejemplo": [
@@ -4811,6 +4893,58 @@
    "SUPER CHEDRAUI",
    "MERCADO SORIANA",
    "HIPERMERCADO SORIANA"
+  ]
+ },
+ "manzana|1502": {
+  "n": 64,
+  "ejemplo": [
+   {
+    "producto": "MANZANA, S/M, 1 KG. GOLDEN",
+    "tipo_producto": "MANZANA",
+    "precio": 57.9,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "MANZANA, S/M, 1 KG. GRANNY SMITH",
+    "tipo_producto": "MANZANA",
+    "precio": 54.8,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "MANZANA, S/M, 1 KG. GOLDEN",
+   "MANZANA, S/M, 1 KG. GRANNY SMITH",
+   "MANZANA, S/M, 1 KG. ROYAL GALA",
+   "MANZANA, S/M, 1 KG. GRANEL. GOLDEN DELICIOUS",
+   "MANZANA, S/M, 1 KG. GOLDEN. ESCOLAR",
+   "MANZANA, MARKETSIDE, 1 KG. RED DELICIOUS",
+   "MANZANA, S/M, 1 KG. RED DELICIOUS/MANZANA ROJA/ MANZANA ROJA MEDIANA/ MANZANA ROJA AMERICANA/",
+   "MANZANA, VALLEY FOODS. FRESH, 1 KG. RED DELICIOUS",
+   "MANZANA, S/M, 1 KG. ROJA"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "MEGA SORIANA",
+   "WAL-MART",
+   "SUPER KOMPRAS",
+   "BODEGA AURRERA",
+   "SUPER CHEDRAUI",
+   "MERCADO SORIANA",
+   "SORIANA EXPRESS"
   ]
  },
  "ajo|0901": {
@@ -4863,13 +4997,13 @@
    "SORIANA SUPER"
   ]
  },
- "manzana|1502": {
-  "n": 64,
+ "piña|1502": {
+  "n": 49,
   "ejemplo": [
    {
-    "producto": "MANZANA, S/M, 1 KG. GOLDEN",
-    "tipo_producto": "MANZANA",
-    "precio": 57.9,
+    "producto": "PIÑA, S/M, 1 KG. MIEL",
+    "tipo_producto": "PIÑA",
+    "precio": 29.9,
     "fecha_observacion": "2026-11-05",
     "cadena_comercial": "HIPERMERCADO SORIANA",
     "establecimiento": "SORIANA HIPER SUCURSAL 197",
@@ -4880,29 +5014,24 @@
     "entidad": "Estado de México"
    },
    {
-    "producto": "MANZANA, S/M, 1 KG. GRANNY SMITH",
-    "tipo_producto": "MANZANA",
-    "precio": 54.8,
+    "producto": "PIÑA, S/M, 1 KG. MIEL",
+    "tipo_producto": "PIÑA",
+    "precio": 29.9,
     "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
     "entidad": "Estado de México"
    }
   ],
   "nombres": [
-   "MANZANA, S/M, 1 KG. GOLDEN",
-   "MANZANA, S/M, 1 KG. GRANNY SMITH",
-   "MANZANA, S/M, 1 KG. ROYAL GALA",
-   "MANZANA, S/M, 1 KG. GRANEL. GOLDEN DELICIOUS",
-   "MANZANA, S/M, 1 KG. GOLDEN. ESCOLAR",
-   "MANZANA, MARKETSIDE, 1 KG. RED DELICIOUS",
-   "MANZANA, S/M, 1 KG. RED DELICIOUS/MANZANA ROJA/ MANZANA ROJA MEDIANA/ MANZANA ROJA AMERICANA/",
-   "MANZANA, VALLEY FOODS. FRESH, 1 KG. RED DELICIOUS",
-   "MANZANA, S/M, 1 KG. ROJA"
+   "PIÑA, S/M, 1 KG. MIEL",
+   "PIÑA EN ALMÍBAR, CLEMENTE JACQUES, LATA 800 GR. TROCITOS",
+   "PIÑA EN ALMÍBAR, LA COSTEÑA, LATA 800 GR. REBANADA",
+   "PIÑA EN ALMÍBAR, LA COSTEÑA, LATA 800 GR. TROCITOS"
   ],
   "cadenas": [
    "HIPERMERCADO SORIANA",
@@ -4997,52 +5126,11 @@
    "SORIANA SUPER"
   ]
  },
- "piña|1502": {
-  "n": 49,
-  "ejemplo": [
-   {
-    "producto": "PIÑA, S/M, 1 KG. MIEL",
-    "tipo_producto": "PIÑA",
-    "precio": 29.9,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "PIÑA, S/M, 1 KG. MIEL",
-    "tipo_producto": "PIÑA",
-    "precio": 29.9,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
-    "direccion": "GUSTAVO BAZ 4001",
-    "colonia": "INDUSTRIAL SAN NICOLAS",
-    "cp": "5400",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "PIÑA, S/M, 1 KG. MIEL",
-   "PIÑA EN ALMÍBAR, CLEMENTE JACQUES, LATA 800 GR. TROCITOS",
-   "PIÑA EN ALMÍBAR, LA COSTEÑA, LATA 800 GR. REBANADA",
-   "PIÑA EN ALMÍBAR, LA COSTEÑA, LATA 800 GR. TROCITOS"
-  ],
-  "cadenas": [
-   "HIPERMERCADO SORIANA",
-   "MEGA SORIANA",
-   "WAL-MART",
-   "SUPER KOMPRAS",
-   "BODEGA AURRERA",
-   "SUPER CHEDRAUI",
-   "MERCADO SORIANA",
-   "SORIANA EXPRESS"
-  ]
+ "pina|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "cilantro|0901": {
   "n": 36,
@@ -5087,12 +5175,6 @@
    "CHEDRAUI",
    "MEGA SORIANA"
   ]
- },
- "pina|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "champiñón|1502": {
   "n": 0,
@@ -5243,6 +5325,12 @@
   "nombres": [],
   "cadenas": []
  },
+ "hongos|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "limon|0901": {
   "n": 53,
   "ejemplo": [
@@ -5293,11 +5381,47 @@
    "MEGA SORIANA"
   ]
  },
- "hongos|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
+ "pimiento|1502": {
+  "n": 16,
+  "ejemplo": [
+   {
+    "producto": "PIMIENTO, S/M, 1 KG. MORRON VERDE",
+    "tipo_producto": "PIMIENTO",
+    "precio": 92,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "PIMIENTO, S/M, 1 KG. MORRON VERDE",
+    "tipo_producto": "PIMIENTO",
+    "precio": 88,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "PIMIENTO, S/M, 1 KG. MORRON VERDE"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "MEGA SORIANA",
+   "WAL-MART",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "SORIANA EXPRESS"
+  ]
  },
  "calabaza|0901": {
   "n": 36,
@@ -5342,48 +5466,6 @@
    "CHEDRAUI",
    "MEGA SORIANA",
    "SORIANA SUPER"
-  ]
- },
- "pimiento|1502": {
-  "n": 16,
-  "ejemplo": [
-   {
-    "producto": "PIMIENTO, S/M, 1 KG. MORRON VERDE",
-    "tipo_producto": "PIMIENTO",
-    "precio": 92,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "PIMIENTO, S/M, 1 KG. MORRON VERDE",
-    "tipo_producto": "PIMIENTO",
-    "precio": 88,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
-    "direccion": "GUSTAVO BAZ 4001",
-    "colonia": "INDUSTRIAL SAN NICOLAS",
-    "cp": "5400",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "PIMIENTO, S/M, 1 KG. MORRON VERDE"
-  ],
-  "cadenas": [
-   "HIPERMERCADO SORIANA",
-   "MEGA SORIANA",
-   "WAL-MART",
-   "BODEGA AURRERA",
-   "MERCADO SORIANA",
-   "SORIANA EXPRESS"
   ]
  },
  "tomate|1502": {
@@ -5482,6 +5564,66 @@
   "nombres": [],
   "cadenas": []
  },
+ "cereal|1502": {
+  "n": 186,
+  "ejemplo": [
+   {
+    "producto": "CEREALES, SPECIAL K. KELLOGG´S, CAJA 530 GR. ORIGINAL",
+    "tipo_producto": "CEREALES",
+    "precio": 75.9,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CEREALES, NESTLÉ, CAJA 500 GR.",
+    "tipo_producto": "CEREALES",
+    "precio": 46.9,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CEREALES, SPECIAL K. KELLOGG´S, CAJA 530 GR. ORIGINAL",
+   "CEREALES, NESTLÉ, CAJA 500 GR.",
+   "CEREALES, CORN FLAKES. KELLOGG´S, CAJA 370 GR. EL ORIGINAL",
+   "CEREALES, CHOCO KRISPIS. KELLOGG´S, CAJA 540 GR.",
+   "CEREALES, ZUCARITAS. KELLOGG´S, CAJA 600 GR.",
+   "CEREALES, ZUCARITAS. KELLOGG´S, CAJA 380 GR.",
+   "CEREALES, ALL-BRAN KELLOGG´S, CAJA 775 GR. ORIGINAL",
+   "CEREALES, ALL-BRAN KELLOGG´S, CAJA 570 GR. FLAKES. NUTRI FIBRA. NATURAL",
+   "CEREALES, FITNESS NESTLÉ, CAJA 570 GR.",
+   "CEREALES, CORN POPS. KELLOGG´S, CAJA 450 GR.",
+   "CEREALES, NESQUIK NESTLÉ, CAJA 620 GR.",
+   "CEREALES, NESTLÉ, CAJA 530 GR.",
+   "CEREALES, CORN FLAKES. KELLOGG´S, CAJA 385 GR. EL ORIGINAL",
+   "CEREALES, CHOCO KRISPIS. KELLOGG´S, CAJA 38 GR.",
+   "CEREALES, CHOCO KRISPIS. KELLOGG´S, CAJA 560 GR.",
+   "CEREALES, ZUCARITAS. KELLOGG´S, CAJA 30 GR.",
+   "CEREALES, NESQUIK NESTLÉ. MÁS CHOCOLATOSO, CAJA 650 GR.",
+   "CEREALES, ZUCARITAS. KELLOGG´S, CAJA 620 GR."
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "MEGA SORIANA",
+   "WAL-MART",
+   "BODEGA AURRERA",
+   "SUPER CHEDRAUI",
+   "MERCADO SORIANA",
+   "SORIANA EXPRESS"
+  ]
+ },
  "nopal|0901": {
   "n": 25,
   "ejemplo": [
@@ -5525,18 +5667,6 @@
    "CHEDRAUI",
    "MEGA SORIANA"
   ]
- },
- "cereal|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "platano|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "jabon|1502": {
   "n": 296,
@@ -5609,13 +5739,13 @@
    "SORIANA EXPRESS"
   ]
  },
- "manzana|0901": {
-  "n": 137,
+ "platano|0901": {
+  "n": 46,
   "ejemplo": [
    {
-    "producto": "MANZANA, S/M, 1 KG. GOLDEN",
-    "tipo_producto": "MANZANA",
-    "precio": 41.5,
+    "producto": "PLÁTANO, S/M, 1 KG. MACHO",
+    "tipo_producto": "PLÁTANO",
+    "precio": 40.9,
     "fecha_observacion": "2026-11-05",
     "cadena_comercial": "MERCADO SORIANA",
     "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
@@ -5626,30 +5756,22 @@
     "entidad": "Ciudad de México"
    },
    {
-    "producto": "MANZANA, S/M, 1 KG. ROYAL GALA",
-    "tipo_producto": "MANZANA",
-    "precio": 52.9,
+    "producto": "PLÁTANO, S/M, 1 KG. MACHO",
+    "tipo_producto": "PLÁTANO",
+    "precio": 42.9,
     "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MERCADO SORIANA",
-    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
-    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
-    "colonia": "AZCAPOTZALCO",
-    "cp": "02000",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL CUITLAHUAC",
+    "direccion": "CUITLAHUAC 3651, ENTRE TORONJIL Y FERROCARRIL C.",
+    "colonia": "HOGAR Y SEGURIDAD",
+    "cp": "02820",
     "municipio": "Azcapotzalco",
     "entidad": "Ciudad de México"
    }
   ],
   "nombres": [
-   "MANZANA, S/M, 1 KG. GOLDEN",
-   "MANZANA, S/M, 1 KG. ROYAL GALA",
-   "MANZANA, S/M, 1 KG. GRANEL. GOLDEN DELICIOUS",
-   "MANZANA, VALLEY FOODS. FRESH, 1 KG. RED DELICIOUS",
-   "MANZANA, VALLEY FOODS. FRESH, 1.36 KG. RED DELICIOUS. EN BOLSA",
-   "MANZANA, S/M, 1 KG. GRANNY SMITH",
-   "MANZANA, S/M, 1 KG. RED DELICIOUS/MANZANA ROJA/ MANZANA ROJA MEDIANA/ MANZANA ROJA AMERICANA/",
-   "MANZANA, MARKETSIDE, 1 KG. RED DELICIOUS",
-   "MANZANA, S/M, 1 KG. GRANEL. EN MALLA",
-   "MANZANA, S/M, 1 KG. GRANEL. GOLDEN. MEDIANA"
+   "PLÁTANO, S/M, 1 KG. MACHO",
+   "PLÁTANO, S/M, 1 KG. TABASCO/CHIAPAS/ROATÁN/PORTALIMÓN"
   ],
   "cadenas": [
    "MERCADO SORIANA",
@@ -5660,7 +5782,6 @@
    "WAL-MART EXPRESS",
    "BODEGA AURRERA EXPRESS",
    "CHEDRAUI",
-   "SUPERISSSTE",
    "CENTRAL DE ABASTOS",
    "MEGA SORIANA",
    "SORIANA SUPER",
@@ -5738,13 +5859,13 @@
    "SORIANA EXPRESS"
   ]
  },
- "piña|0901": {
-  "n": 96,
+ "manzana|0901": {
+  "n": 137,
   "ejemplo": [
    {
-    "producto": "PIÑA, S/M, 1 KG. MIEL",
-    "tipo_producto": "PIÑA",
-    "precio": 37.5,
+    "producto": "MANZANA, S/M, 1 KG. GOLDEN",
+    "tipo_producto": "MANZANA",
+    "precio": 41.5,
     "fecha_observacion": "2026-11-05",
     "cadena_comercial": "MERCADO SORIANA",
     "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
@@ -5755,9 +5876,9 @@
     "entidad": "Ciudad de México"
    },
    {
-    "producto": "PIÑA EN ALMÍBAR, CLEMENTE JACQUES, LATA 800 GR. TROCITOS",
-    "tipo_producto": "PIÑA EN ALMÍBAR",
-    "precio": 72.9,
+    "producto": "MANZANA, S/M, 1 KG. ROYAL GALA",
+    "tipo_producto": "MANZANA",
+    "precio": 52.9,
     "fecha_observacion": "2026-11-05",
     "cadena_comercial": "MERCADO SORIANA",
     "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
@@ -5769,10 +5890,16 @@
    }
   ],
   "nombres": [
-   "PIÑA, S/M, 1 KG. MIEL",
-   "PIÑA EN ALMÍBAR, CLEMENTE JACQUES, LATA 800 GR. TROCITOS",
-   "PIÑA EN ALMÍBAR, LA COSTEÑA, LATA 800 GR. REBANADA",
-   "PIÑA EN ALMÍBAR, LA COSTEÑA, LATA 800 GR. TROCITOS"
+   "MANZANA, S/M, 1 KG. GOLDEN",
+   "MANZANA, S/M, 1 KG. ROYAL GALA",
+   "MANZANA, S/M, 1 KG. GRANEL. GOLDEN DELICIOUS",
+   "MANZANA, VALLEY FOODS. FRESH, 1 KG. RED DELICIOUS",
+   "MANZANA, VALLEY FOODS. FRESH, 1.36 KG. RED DELICIOUS. EN BOLSA",
+   "MANZANA, S/M, 1 KG. GRANNY SMITH",
+   "MANZANA, S/M, 1 KG. RED DELICIOUS/MANZANA ROJA/ MANZANA ROJA MEDIANA/ MANZANA ROJA AMERICANA/",
+   "MANZANA, MARKETSIDE, 1 KG. RED DELICIOUS",
+   "MANZANA, S/M, 1 KG. GRANEL. EN MALLA",
+   "MANZANA, S/M, 1 KG. GRANEL. GOLDEN. MEDIANA"
   ],
   "cadenas": [
    "MERCADO SORIANA",
@@ -5781,10 +5908,13 @@
    "LA COMER",
    "BODEGA AURRERA",
    "WAL-MART EXPRESS",
+   "BODEGA AURRERA EXPRESS",
    "CHEDRAUI",
    "SUPERISSSTE",
+   "CENTRAL DE ABASTOS",
    "MEGA SORIANA",
-   "SORIANA SUPER"
+   "SORIANA SUPER",
+   "MERCADO PUBLICO"
   ]
  },
  "suavizante|1502": {
@@ -5878,11 +6008,54 @@
    "SORIANA EXPRESS"
   ]
  },
- "pina|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
+ "piña|0901": {
+  "n": 96,
+  "ejemplo": [
+   {
+    "producto": "PIÑA, S/M, 1 KG. MIEL",
+    "tipo_producto": "PIÑA",
+    "precio": 37.5,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "PIÑA EN ALMÍBAR, CLEMENTE JACQUES, LATA 800 GR. TROCITOS",
+    "tipo_producto": "PIÑA EN ALMÍBAR",
+    "precio": 72.9,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "PIÑA, S/M, 1 KG. MIEL",
+   "PIÑA EN ALMÍBAR, CLEMENTE JACQUES, LATA 800 GR. TROCITOS",
+   "PIÑA EN ALMÍBAR, LA COSTEÑA, LATA 800 GR. REBANADA",
+   "PIÑA EN ALMÍBAR, LA COSTEÑA, LATA 800 GR. TROCITOS"
+  ],
+  "cadenas": [
+   "MERCADO SORIANA",
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "LA COMER",
+   "BODEGA AURRERA",
+   "WAL-MART EXPRESS",
+   "CHEDRAUI",
+   "SUPERISSSTE",
+   "MEGA SORIANA",
+   "SORIANA SUPER"
+  ]
  },
  "cloro|1502": {
   "n": 0,
@@ -5890,7 +6063,7 @@
   "nombres": [],
   "cadenas": []
  },
- "champiñón|0901": {
+ "pina|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -5959,6 +6132,24 @@
    "SORIANA EXPRESS"
   ]
  },
+ "champiñón|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "jabon liquido|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "lavatrastes|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "champiñones|0901": {
   "n": 27,
   "ejemplo": [
@@ -6003,31 +6194,13 @@
    "BODEGA AURRERA"
   ]
  },
- "jabon liquido|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "lavatrastes|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "hongo|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "jabon lavatrastes|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "hongos|0901": {
+ "hongo|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -6093,50 +6266,11 @@
    "SORIANA EXPRESS"
   ]
  },
- "pimiento|0901": {
-  "n": 36,
-  "ejemplo": [
-   {
-    "producto": "PIMIENTO, S/M, 1 KG. MORRON VERDE",
-    "tipo_producto": "PIMIENTO",
-    "precio": 88,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MERCADO SORIANA",
-    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
-    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
-    "colonia": "AZCAPOTZALCO",
-    "cp": "02000",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "PIMIENTO, S/M, 1 KG. MORRON VERDE",
-    "tipo_producto": "PIMIENTO",
-    "precio": 75,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL CUITLAHUAC",
-    "direccion": "CUITLAHUAC 3651, ENTRE TORONJIL Y FERROCARRIL C.",
-    "colonia": "HOGAR Y SEGURIDAD",
-    "cp": "02820",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "PIMIENTO, S/M, 1 KG. MORRON VERDE"
-  ],
-  "cadenas": [
-   "MERCADO SORIANA",
-   "WAL-MART",
-   "HIPERMERCADO SORIANA",
-   "LA COMER",
-   "WAL-MART EXPRESS",
-   "BODEGA AURRERA",
-   "MERCADO PUBLICO",
-   "CHEDRAUI",
-   "MEGA SORIANA"
-  ]
+ "hongos|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "servilleta|1502": {
   "n": 57,
@@ -6240,13 +6374,13 @@
    "SORIANA EXPRESS"
   ]
  },
- "tomate|0901": {
-  "n": 30,
+ "pimiento|0901": {
+  "n": 36,
   "ejemplo": [
    {
-    "producto": "TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
-    "tipo_producto": "TOMATE",
-    "precio": 42.5,
+    "producto": "PIMIENTO, S/M, 1 KG. MORRON VERDE",
+    "tipo_producto": "PIMIENTO",
+    "precio": 88,
     "fecha_observacion": "2026-11-05",
     "cadena_comercial": "MERCADO SORIANA",
     "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
@@ -6257,9 +6391,9 @@
     "entidad": "Ciudad de México"
    },
    {
-    "producto": "TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
-    "tipo_producto": "TOMATE",
-    "precio": 39,
+    "producto": "PIMIENTO, S/M, 1 KG. MORRON VERDE",
+    "tipo_producto": "PIMIENTO",
+    "precio": 75,
     "fecha_observacion": "2026-11-05",
     "cadena_comercial": "WAL-MART",
     "establecimiento": "WALMART SUCURSAL CUITLAHUAC",
@@ -6271,20 +6405,18 @@
    }
   ],
   "nombres": [
-   "TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
-   "TOMATE, S/M, 1 KG. O TOMATE VERDE"
+   "PIMIENTO, S/M, 1 KG. MORRON VERDE"
   ],
   "cadenas": [
    "MERCADO SORIANA",
    "WAL-MART",
-   "LA COMER",
    "HIPERMERCADO SORIANA",
-   "BODEGA AURRERA EXPRESS",
+   "LA COMER",
    "WAL-MART EXPRESS",
+   "BODEGA AURRERA",
+   "MERCADO PUBLICO",
    "CHEDRAUI",
-   "CENTRAL DE ABASTOS",
-   "MEGA SORIANA",
-   "BODEGA AURRERA"
+   "MEGA SORIANA"
   ]
  },
  "shampoo|1502": {
@@ -6358,11 +6490,52 @@
    "SORIANA EXPRESS"
   ]
  },
- "granola|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
+ "tomate|0901": {
+  "n": 30,
+  "ejemplo": [
+   {
+    "producto": "TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
+    "tipo_producto": "TOMATE",
+    "precio": 42.5,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
+    "tipo_producto": "TOMATE",
+    "precio": 39,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL CUITLAHUAC",
+    "direccion": "CUITLAHUAC 3651, ENTRE TORONJIL Y FERROCARRIL C.",
+    "colonia": "HOGAR Y SEGURIDAD",
+    "cp": "02820",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
+   "TOMATE, S/M, 1 KG. O TOMATE VERDE"
+  ],
+  "cadenas": [
+   "MERCADO SORIANA",
+   "WAL-MART",
+   "LA COMER",
+   "HIPERMERCADO SORIANA",
+   "BODEGA AURRERA EXPRESS",
+   "WAL-MART EXPRESS",
+   "CHEDRAUI",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA",
+   "BODEGA AURRERA"
+  ]
  },
  "crema dental|1502": {
   "n": 48,
@@ -6411,6 +6584,18 @@
    "SUPER CHEDRAUI",
    "MERCADO SORIANA"
   ]
+ },
+ "granola|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "pasta dental|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "cereal|0901": {
   "n": 308,
@@ -6476,7 +6661,13 @@
    "MEGA SORIANA"
   ]
  },
- "pasta dental|1502": {
+ "pasta de dientes|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "dentifrico|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -6564,17 +6755,67 @@
    "SORIANA SUPER"
   ]
  },
- "pasta de dientes|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "dentifrico|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
+ "desodorante|1502": {
+  "n": 243,
+  "ejemplo": [
+   {
+    "producto": "DESODORANTE, OBAO, ROLL ON 65 GR. FRESCURA SUAVE. PARA DAMA",
+    "tipo_producto": "DESODORANTE",
+    "precio": 46.5,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "DESODORANTE, BRUT. CLASSIC, ROLL ON 50 GR. VERDE. PARA CABALLERO",
+    "tipo_producto": "DESODORANTE",
+    "precio": 42,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "DESODORANTE, OBAO, ROLL ON 65 GR. FRESCURA SUAVE. PARA DAMA",
+   "DESODORANTE, BRUT. CLASSIC, ROLL ON 50 GR. VERDE. PARA CABALLERO",
+   "DESODORANTE, SPEED STICK, BARRA 60 GR. FRESH. PARA CABALLERO",
+   "DESODORANTE, STEFANO, BARRA 60 GR. SPAZIO. PARA CABALLERO",
+   "DESODORANTE, GILLETTE, BARRA 82 GR. CLEAR GEL. COOL WAVE. ANTITRANSPIRANTE. PARA CABALLERO",
+   "DESODORANTE, OLD SPICE, BARRA 50 GR. FRESH. PARA CABALLERO",
+   "DESODORANTE, PALMOLIVE, ROLL ON 65 ML. NEUTRO BALANCE (BOTELLA TRANSPARENTE). PARA DAMA",
+   "DESODORANTE, NIVEA, ROLL ON 50 ML. ACLARADO NATURAL. PARA DAMA",
+   "DESODORANTE, DOVE, BARRA 45 GR. TAPA AZUL. ORIGINAL. ANTITRANSPIRANTE. PARA DAMA",
+   "DESODORANTE, REXONA, BARRA 45 GR. POWDER. DRY. ANTITRANSPIRANTE. PARA DAMA",
+   "DESODORANTE, NIVEA, ROLL ON 50 ML. BLACK AND WHITE. INVISIBLE. CLEAR",
+   "DESODORANTE, REXONA, ROLL ON 50 GR. POWDER DRY. PARA DAMA",
+   "DESODORANTE, NIVEA, ROLL ON 50 ML. MEN. BLACK AND WHITE. INVISIBLE. ORIGINAL. PARA CABALLERO",
+   "DESODORANTE, DOVE, CAJA CON BOTE 150 ML. (AEROSOL) MEN+CARE. CLINICAL EXPERT. CUIDADO TOTAL. PARA CABALLERO",
+   "DESODORANTE, REXONA, BARRA 45 GR. ACTIVE DRY. ANTITRANSPIRANTE. PARA CABALLERO",
+   "DESODORANTE, REXONA, CAJA CON BARRA 58 GR. CLINICAL. CLASIC. PARA DAMA",
+   "DESODORANTE, REXONA, CAJA CON BARRA 58 GR. CLINICAL MEN. CLEAN. PARA CABALLERO",
+   "DESODORANTE, OBAO. ACTIVE, ROLL ON 65 ML. FRAGANCIA INTENSA. PARA CABALLERO",
+   "DESODORANTE, NIVEA, ROLL ON 50 ML.. MEN. INVISIBLE. ANTITRANSPIRANTE. PARA CABALLERO",
+   "DESODORANTE, AXE, BARRA 45 GR. BLACK. PARA CABALLERO"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "MEGA SORIANA",
+   "WAL-MART",
+   "BODEGA AURRERA",
+   "SUPER CHEDRAUI",
+   "MERCADO SORIANA",
+   "SORIANA EXPRESS"
+  ]
  },
  "detergente|0901": {
   "n": 362,
@@ -6662,13 +6903,13 @@
    "MEGA SORIANA"
   ]
  },
- "desodorante|1502": {
-  "n": 243,
+ "cepillo dental|1502": {
+  "n": 20,
   "ejemplo": [
    {
-    "producto": "DESODORANTE, OBAO, ROLL ON 65 GR. FRESCURA SUAVE. PARA DAMA",
-    "tipo_producto": "DESODORANTE",
-    "precio": 46.5,
+    "producto": "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
+    "tipo_producto": "CEPILLO DENTAL",
+    "precio": 44.9,
     "fecha_observacion": "2026-11-05",
     "cadena_comercial": "HIPERMERCADO SORIANA",
     "establecimiento": "SORIANA HIPER SUCURSAL 197",
@@ -6679,48 +6920,30 @@
     "entidad": "Estado de México"
    },
    {
-    "producto": "DESODORANTE, BRUT. CLASSIC, ROLL ON 50 GR. VERDE. PARA CABALLERO",
-    "tipo_producto": "DESODORANTE",
-    "precio": 42,
+    "producto": "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
+    "tipo_producto": "CEPILLO DENTAL",
+    "precio": 49.9,
     "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
     "entidad": "Estado de México"
    }
   ],
   "nombres": [
-   "DESODORANTE, OBAO, ROLL ON 65 GR. FRESCURA SUAVE. PARA DAMA",
-   "DESODORANTE, BRUT. CLASSIC, ROLL ON 50 GR. VERDE. PARA CABALLERO",
-   "DESODORANTE, SPEED STICK, BARRA 60 GR. FRESH. PARA CABALLERO",
-   "DESODORANTE, STEFANO, BARRA 60 GR. SPAZIO. PARA CABALLERO",
-   "DESODORANTE, GILLETTE, BARRA 82 GR. CLEAR GEL. COOL WAVE. ANTITRANSPIRANTE. PARA CABALLERO",
-   "DESODORANTE, OLD SPICE, BARRA 50 GR. FRESH. PARA CABALLERO",
-   "DESODORANTE, PALMOLIVE, ROLL ON 65 ML. NEUTRO BALANCE (BOTELLA TRANSPARENTE). PARA DAMA",
-   "DESODORANTE, NIVEA, ROLL ON 50 ML. ACLARADO NATURAL. PARA DAMA",
-   "DESODORANTE, DOVE, BARRA 45 GR. TAPA AZUL. ORIGINAL. ANTITRANSPIRANTE. PARA DAMA",
-   "DESODORANTE, REXONA, BARRA 45 GR. POWDER. DRY. ANTITRANSPIRANTE. PARA DAMA",
-   "DESODORANTE, NIVEA, ROLL ON 50 ML. BLACK AND WHITE. INVISIBLE. CLEAR",
-   "DESODORANTE, REXONA, ROLL ON 50 GR. POWDER DRY. PARA DAMA",
-   "DESODORANTE, NIVEA, ROLL ON 50 ML. MEN. BLACK AND WHITE. INVISIBLE. ORIGINAL. PARA CABALLERO",
-   "DESODORANTE, DOVE, CAJA CON BOTE 150 ML. (AEROSOL) MEN+CARE. CLINICAL EXPERT. CUIDADO TOTAL. PARA CABALLERO",
-   "DESODORANTE, REXONA, BARRA 45 GR. ACTIVE DRY. ANTITRANSPIRANTE. PARA CABALLERO",
-   "DESODORANTE, REXONA, CAJA CON BARRA 58 GR. CLINICAL. CLASIC. PARA DAMA",
-   "DESODORANTE, REXONA, CAJA CON BARRA 58 GR. CLINICAL MEN. CLEAN. PARA CABALLERO",
-   "DESODORANTE, OBAO. ACTIVE, ROLL ON 65 ML. FRAGANCIA INTENSA. PARA CABALLERO",
-   "DESODORANTE, NIVEA, ROLL ON 50 ML.. MEN. INVISIBLE. ANTITRANSPIRANTE. PARA CABALLERO",
-   "DESODORANTE, AXE, BARRA 45 GR. BLACK. PARA CABALLERO"
+   "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
+   "CEPILLO DENTAL, ORAL-B. INDICATOR. MEDIO 40, BLISTER 2 PIEZAS",
+   "CEPILLO DENTAL, ORAL-B. COMPLETE, BLISTER 2 PIEZAS. MEDIANO 40"
   ],
   "cadenas": [
    "HIPERMERCADO SORIANA",
    "MEGA SORIANA",
    "WAL-MART",
-   "BODEGA AURRERA",
-   "SUPER CHEDRAUI",
    "MERCADO SORIANA",
+   "BODEGA AURRERA",
    "SORIANA EXPRESS"
   ]
  },
@@ -6777,49 +7000,11 @@
    "MEGA SORIANA"
   ]
  },
- "cepillo dental|1502": {
-  "n": 20,
-  "ejemplo": [
-   {
-    "producto": "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
-    "tipo_producto": "CEPILLO DENTAL",
-    "precio": 44.9,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
-    "tipo_producto": "CEPILLO DENTAL",
-    "precio": 49.9,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
-    "direccion": "GUSTAVO BAZ 4001",
-    "colonia": "INDUSTRIAL SAN NICOLAS",
-    "cp": "5400",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
-   "CEPILLO DENTAL, ORAL-B. INDICATOR. MEDIO 40, BLISTER 2 PIEZAS",
-   "CEPILLO DENTAL, ORAL-B. COMPLETE, BLISTER 2 PIEZAS. MEDIANO 40"
-  ],
-  "cadenas": [
-   "HIPERMERCADO SORIANA",
-   "MEGA SORIANA",
-   "WAL-MART",
-   "MERCADO SORIANA",
-   "BODEGA AURRERA",
-   "SORIANA EXPRESS"
-  ]
+ "cepillo de dientes|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "blanqueador|0901": {
   "n": 53,
@@ -6872,18 +7057,6 @@
    "SUPERISSSTE"
   ]
  },
- "cepillo de dientes|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "cloro|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "cepillo|1502": {
   "n": 20,
   "ejemplo": [
@@ -6933,6 +7106,79 @@
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
+ },
+ "cloro|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "toalla femenina|1502": {
+  "n": 201,
+  "ejemplo": [
+   {
+    "producto": "TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. NOCTURNA. CON ALAS",
+    "tipo_producto": "TOALLA FEMENINA",
+    "precio": 33.5,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. ULTRA INVISIBLE. ULTRADELGADA. CON ALAS",
+    "tipo_producto": "TOALLA FEMENINA",
+    "precio": 50.9,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. NOCTURNA. CON ALAS",
+   "TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. ULTRA INVISIBLE. ULTRADELGADA. CON ALAS",
+   "TOALLA FEMENINA, KOTEX, BOLSA 16 PIEZAS. ANATÓMICA. CON ALAS",
+   "TOALLA FEMENINA, KOTEX, BOLSA 14 PIEZAS. ULTRA DELGADA. CON ALAS",
+   "TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. INVISIBLE. DELGADA. CON ALAS.",
+   "TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. NOCTURNA. CON ALAS. FLUJO MAXI ABUNDANTE",
+   "TOALLA FEMENINA, SABA, BOLSA 12 PIEZAS. V-SPORT. ULTRA DELGADA LARGA. CON ALAS FLUJO ABUNDANTE",
+   "TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. NOCTURNA. ULTRADELGADA. CON ALAS. FLUJO SÚPER ABUNDANTE",
+   "TOALLA FEMENINA, NATURELLA, BOLSA 8 PIEZAS. NOCTURNA CON ALAS. EXTRA LARGA. FLUJO SÚPER ABUNDANTE",
+   "TOALLA FEMENINA, NATURELLA, BOLSA 10 PIEZAS. REGULAR. CON ALAS. FLUJO ABUNDANTE",
+   "TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. INTIMA CLIP. REGULAR. CON ALAS",
+   "TOALLA FEMENINA, ALWAYS, BOLSA 22 PIEZAS. SECA. NOCHES TRANQUILAS. NOCTURNA EXTRA LARGA. CON ALAS. FLUJO SÚPER ABUNDANTE",
+   "TOALLA FEMENINA, ALWAYS, BOLSA 22 PIEZAS. SUAVE. NOCHES TRANQUILAS. NOCTURNA EXTRA LARGA. CON ALAS. FLUJO SÚPER ABUNDANTE",
+   "TOALLA FEMENINA, NATURELLA, BOLSA 32 PIEZAS. REGULAR. CON ALAS. FLUJO ABUNDANTE",
+   "TOALLA FEMENINA, NATURELLA, BOLSA 32 PIEZAS. REGULAR. SIN ALAS. FLUJO ABUNDANTE",
+   "TOALLA FEMENINA, SABA, BOLSA 12 PIEZAS. ULTRA INVISIBLE. ULTRADELGADA. BUENOS DÍAS. FLUJO ABUNDANTE LARGA CON ALAS",
+   "TOALLA FEMENINA, ALWAYS, BOLSA 8 PIEZAS. NOCTURNA. EXTRA LARGA FLUJO SÚPER ABUNDANTE. CON ALAS",
+   "TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. UNIKA. NOCTURNA. CON ALAS. FLUJO SÚPER ABUNDANTE",
+   "TOALLA FEMENINA, SABA, BOLSA 10 PIEZAS. BUENAS NOCHES. NOCTURNA. ULTRADELGADA CON ALAS",
+   "TOALLA FEMENINA, KOTEX, BOLSA 40 PIEZAS. REGULAR CON ALAS. FLUJO ABUNDANTE",
+   "TOALLA FEMENINA, NATURELLA, BOLSA 32 PIEZAS. CUIDADO NOCTURNA. FLUJO SUPER ABUNDANTE. EXTRA LARGAS",
+   "TOALLA FEMENINA, KOTEX, BOLSA 8 PIEZAS. NOCTURNA EXTRALARGA. CON ALAS",
+   "TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. ULTRADELGADA CON ALAS",
+   "TOALLA FEMENINA, SABA, BOLSA 28 PIEZAS. NOCTURNA. EXTRA LARGA. FLUJO SÚPER ABUNDANTE. CON ALAS",
+   "TOALLA FEMENINA, NATURELLA, BOLSA 10 PIEZAS. ULTRA INVISIBLE. EXTRA LARGA. FLUJO SÚPER ABUNDANTE"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "MEGA SORIANA",
+   "WAL-MART",
+   "SUPER KOMPRAS",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA",
+   "SORIANA EXPRESS"
+  ]
  },
  "jabon de tocador|0901": {
   "n": 363,
@@ -7005,86 +7251,13 @@
    "SORIANA SUPER"
   ]
  },
- "toalla femenina|1502": {
-  "n": 201,
-  "ejemplo": [
-   {
-    "producto": "TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. NOCTURNA. CON ALAS",
-    "tipo_producto": "TOALLA FEMENINA",
-    "precio": 33.5,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. ULTRA INVISIBLE. ULTRADELGADA. CON ALAS",
-    "tipo_producto": "TOALLA FEMENINA",
-    "precio": 50.9,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. NOCTURNA. CON ALAS",
-   "TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. ULTRA INVISIBLE. ULTRADELGADA. CON ALAS",
-   "TOALLA FEMENINA, KOTEX, BOLSA 16 PIEZAS. ANATÓMICA. CON ALAS",
-   "TOALLA FEMENINA, KOTEX, BOLSA 14 PIEZAS. ULTRA DELGADA. CON ALAS",
-   "TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. INVISIBLE. DELGADA. CON ALAS.",
-   "TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. NOCTURNA. CON ALAS. FLUJO MAXI ABUNDANTE",
-   "TOALLA FEMENINA, SABA, BOLSA 12 PIEZAS. V-SPORT. ULTRA DELGADA LARGA. CON ALAS FLUJO ABUNDANTE",
-   "TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. NOCTURNA. ULTRADELGADA. CON ALAS. FLUJO SÚPER ABUNDANTE",
-   "TOALLA FEMENINA, NATURELLA, BOLSA 8 PIEZAS. NOCTURNA CON ALAS. EXTRA LARGA. FLUJO SÚPER ABUNDANTE",
-   "TOALLA FEMENINA, NATURELLA, BOLSA 10 PIEZAS. REGULAR. CON ALAS. FLUJO ABUNDANTE",
-   "TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. INTIMA CLIP. REGULAR. CON ALAS",
-   "TOALLA FEMENINA, ALWAYS, BOLSA 22 PIEZAS. SECA. NOCHES TRANQUILAS. NOCTURNA EXTRA LARGA. CON ALAS. FLUJO SÚPER ABUNDANTE",
-   "TOALLA FEMENINA, ALWAYS, BOLSA 22 PIEZAS. SUAVE. NOCHES TRANQUILAS. NOCTURNA EXTRA LARGA. CON ALAS. FLUJO SÚPER ABUNDANTE",
-   "TOALLA FEMENINA, NATURELLA, BOLSA 32 PIEZAS. REGULAR. CON ALAS. FLUJO ABUNDANTE",
-   "TOALLA FEMENINA, NATURELLA, BOLSA 32 PIEZAS. REGULAR. SIN ALAS. FLUJO ABUNDANTE",
-   "TOALLA FEMENINA, SABA, BOLSA 12 PIEZAS. ULTRA INVISIBLE. ULTRADELGADA. BUENOS DÍAS. FLUJO ABUNDANTE LARGA CON ALAS",
-   "TOALLA FEMENINA, ALWAYS, BOLSA 8 PIEZAS. NOCTURNA. EXTRA LARGA FLUJO SÚPER ABUNDANTE. CON ALAS",
-   "TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. UNIKA. NOCTURNA. CON ALAS. FLUJO SÚPER ABUNDANTE",
-   "TOALLA FEMENINA, SABA, BOLSA 10 PIEZAS. BUENAS NOCHES. NOCTURNA. ULTRADELGADA CON ALAS",
-   "TOALLA FEMENINA, KOTEX, BOLSA 40 PIEZAS. REGULAR CON ALAS. FLUJO ABUNDANTE",
-   "TOALLA FEMENINA, NATURELLA, BOLSA 32 PIEZAS. CUIDADO NOCTURNA. FLUJO SUPER ABUNDANTE. EXTRA LARGAS",
-   "TOALLA FEMENINA, KOTEX, BOLSA 8 PIEZAS. NOCTURNA EXTRALARGA. CON ALAS",
-   "TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. ULTRADELGADA CON ALAS",
-   "TOALLA FEMENINA, SABA, BOLSA 28 PIEZAS. NOCTURNA. EXTRA LARGA. FLUJO SÚPER ABUNDANTE. CON ALAS",
-   "TOALLA FEMENINA, NATURELLA, BOLSA 10 PIEZAS. ULTRA INVISIBLE. EXTRA LARGA. FLUJO SÚPER ABUNDANTE"
-  ],
-  "cadenas": [
-   "HIPERMERCADO SORIANA",
-   "MEGA SORIANA",
-   "WAL-MART",
-   "SUPER KOMPRAS",
-   "BODEGA AURRERA",
-   "MERCADO SORIANA",
-   "SORIANA EXPRESS"
-  ]
- },
- "jabon liquido|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "toallas sanitarias|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "lavatrastes|0901": {
+ "jabon liquido|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -7162,12 +7335,6 @@
    "SORIANA EXPRESS"
   ]
  },
- "jabon lavatrastes|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "limpiador|1502": {
   "n": 50,
   "ejemplo": [
@@ -7218,6 +7385,12 @@
    "SORIANA EXPRESS"
   ]
  },
+ "lavatrastes|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "limpiador liquido|1502": {
   "n": 50,
   "ejemplo": [
@@ -7267,6 +7440,18 @@
    "MERCADO SORIANA",
    "SORIANA EXPRESS"
   ]
+ },
+ "jabon lavatrastes|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "limpiador multiusos|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "papel higienico|0901": {
   "n": 187,
@@ -7333,74 +7518,13 @@
    "SORIANA SUPER"
   ]
  },
- "limpiador multiusos|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "servilleta|0901": {
-  "n": 108,
-  "ejemplo": [
-   {
-    "producto": "SERVILLETAS DE PAPEL BLANCO, FANCY, PAQUETE 360 HOJAS",
-    "tipo_producto": "SERVILLETAS DE PAPEL BLANCO",
-    "precio": 42.5,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MERCADO SORIANA",
-    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
-    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
-    "colonia": "AZCAPOTZALCO",
-    "cp": "02000",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "SERVILLETAS DE PAPEL BLANCO, PÉTALO, PAQUETE 420 HOJAS",
-    "tipo_producto": "SERVILLETAS DE PAPEL BLANCO",
-    "precio": 55,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MERCADO SORIANA",
-    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
-    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
-    "colonia": "AZCAPOTZALCO",
-    "cp": "02000",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "SERVILLETAS DE PAPEL BLANCO, FANCY, PAQUETE 360 HOJAS",
-   "SERVILLETAS DE PAPEL BLANCO, PÉTALO, PAQUETE 420 HOJAS",
-   "SERVILLETAS DE PAPEL BLANCO, SUAVEL, PAQUETE 380 HOJAS",
-   "SERVILLETAS DE PAPEL BLANCO, GREAT VALUE. PREMIUM, PAQUETE 250 HOJAS",
-   "SERVILLETAS DE PAPEL BLANCO, KLEENEX. CLASS, PAQUETE 200 HOJAS",
-   "SERVILLETAS DE PAPEL BLANCO, REGIO. HOGAR, PAQUETE 250 HOJAS",
-   "SERVILLETAS DE PAPEL BLANCO, PÉTALO. PRÁCTICA, PAQUETE 200 HOJAS",
-   "SERVILLETAS DE PAPEL BLANCO, ELITE. MÁXIMA SUAVIDAD, PAQUETE 180 HOJAS",
-   "SERVILLETAS DE PAPEL BLANCO, PÉTALO, PAQUETE 100 HOJAS"
-  ],
-  "cadenas": [
-   "MERCADO SORIANA",
-   "WAL-MART",
-   "LA COMER",
-   "BODEGA AURRERA",
-   "HIPERMERCADO SORIANA",
-   "WAL-MART EXPRESS",
-   "BODEGA AURRERA EXPRESS",
-   "CHEDRAUI",
-   "SUPERISSSTE",
-   "CENTRAL DE ABASTOS",
-   "MEGA SORIANA"
-  ]
- },
  "esponja|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "servilletas|0901": {
+ "servilleta|0901": {
   "n": 108,
   "ejemplo": [
    {
@@ -7497,6 +7621,73 @@
    "MERCADO SORIANA"
   ]
  },
+ "bolsa para basura|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "servilletas|0901": {
+  "n": 108,
+  "ejemplo": [
+   {
+    "producto": "SERVILLETAS DE PAPEL BLANCO, FANCY, PAQUETE 360 HOJAS",
+    "tipo_producto": "SERVILLETAS DE PAPEL BLANCO",
+    "precio": 42.5,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "SERVILLETAS DE PAPEL BLANCO, PÉTALO, PAQUETE 420 HOJAS",
+    "tipo_producto": "SERVILLETAS DE PAPEL BLANCO",
+    "precio": 55,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "SERVILLETAS DE PAPEL BLANCO, FANCY, PAQUETE 360 HOJAS",
+   "SERVILLETAS DE PAPEL BLANCO, PÉTALO, PAQUETE 420 HOJAS",
+   "SERVILLETAS DE PAPEL BLANCO, SUAVEL, PAQUETE 380 HOJAS",
+   "SERVILLETAS DE PAPEL BLANCO, GREAT VALUE. PREMIUM, PAQUETE 250 HOJAS",
+   "SERVILLETAS DE PAPEL BLANCO, KLEENEX. CLASS, PAQUETE 200 HOJAS",
+   "SERVILLETAS DE PAPEL BLANCO, REGIO. HOGAR, PAQUETE 250 HOJAS",
+   "SERVILLETAS DE PAPEL BLANCO, PÉTALO. PRÁCTICA, PAQUETE 200 HOJAS",
+   "SERVILLETAS DE PAPEL BLANCO, ELITE. MÁXIMA SUAVIDAD, PAQUETE 180 HOJAS",
+   "SERVILLETAS DE PAPEL BLANCO, PÉTALO, PAQUETE 100 HOJAS"
+  ],
+  "cadenas": [
+   "MERCADO SORIANA",
+   "WAL-MART",
+   "LA COMER",
+   "BODEGA AURRERA",
+   "HIPERMERCADO SORIANA",
+   "WAL-MART EXPRESS",
+   "BODEGA AURRERA EXPRESS",
+   "CHEDRAUI",
+   "SUPERISSSTE",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA"
+  ]
+ },
+ "bolsas para basura|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "shampoo|0901": {
   "n": 479,
   "ejemplo": [
@@ -7573,13 +7764,7 @@
    "MEGA SORIANA"
   ]
  },
- "bolsa para basura|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "bolsas para basura|1502": {
+ "bolsa de basura|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -7638,25 +7823,13 @@
    "SUPERISSSTE"
   ]
  },
- "bolsa de basura|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "pasta dental|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "bolsa|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "pasta de dientes|0901": {
+ "pasta dental|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -7719,13 +7892,13 @@
    "SORIANA EXPRESS"
   ]
  },
- "dentifrico|0901": {
+ "sal de mesa|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "sal de mesa|1502": {
+ "pasta de dientes|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -7737,72 +7910,11 @@
   "nombres": [],
   "cadenas": []
  },
- "desodorante|0901": {
-  "n": 443,
-  "ejemplo": [
-   {
-    "producto": "DESODORANTE, BRUT. CLASSIC, ROLL ON 50 GR. VERDE. PARA CABALLERO",
-    "tipo_producto": "DESODORANTE",
-    "precio": 42,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MERCADO SORIANA",
-    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
-    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
-    "colonia": "AZCAPOTZALCO",
-    "cp": "02000",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "DESODORANTE, SPEED STICK, BARRA 60 GR. FRESH. PARA CABALLERO",
-    "tipo_producto": "DESODORANTE",
-    "precio": 72.9,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MERCADO SORIANA",
-    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
-    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
-    "colonia": "AZCAPOTZALCO",
-    "cp": "02000",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "DESODORANTE, BRUT. CLASSIC, ROLL ON 50 GR. VERDE. PARA CABALLERO",
-   "DESODORANTE, SPEED STICK, BARRA 60 GR. FRESH. PARA CABALLERO",
-   "DESODORANTE, STEFANO, BARRA 60 GR. SPAZIO. PARA CABALLERO",
-   "DESODORANTE, GILLETTE, BARRA 82 GR. CLEAR GEL. COOL WAVE. ANTITRANSPIRANTE. PARA CABALLERO",
-   "DESODORANTE, PALMOLIVE, ROLL ON 65 ML. NEUTRO BALANCE (BOTELLA TRANSPARENTE). PARA DAMA",
-   "DESODORANTE, NIVEA, ROLL ON 50 ML. ACLARADO NATURAL. PARA DAMA",
-   "DESODORANTE, REXONA, BARRA 45 GR. POWDER. DRY. ANTITRANSPIRANTE. PARA DAMA",
-   "DESODORANTE, OLD SPICE, BARRA 50 GR. FRESH. PARA CABALLERO",
-   "DESODORANTE, NIVEA, ROLL ON 50 ML. BLACK AND WHITE. INVISIBLE. CLEAR",
-   "DESODORANTE, NIVEA, ROLL ON 50 ML. MEN. BLACK AND WHITE. INVISIBLE. ORIGINAL. PARA CABALLERO",
-   "DESODORANTE, DOVE, CAJA CON BOTE 150 ML. (AEROSOL) MEN+CARE. CLINICAL EXPERT. CUIDADO TOTAL. PARA CABALLERO",
-   "DESODORANTE, REXONA, BARRA 45 GR. ACTIVE DRY. ANTITRANSPIRANTE. PARA CABALLERO",
-   "DESODORANTE, OBAO, ROLL ON 65 GR. FRESCURA SUAVE. PARA DAMA",
-   "DESODORANTE, DOVE, BARRA 45 GR. TAPA AZUL. ORIGINAL. ANTITRANSPIRANTE. PARA DAMA",
-   "DESODORANTE, REXONA, ROLL ON 50 GR. POWDER DRY. PARA DAMA",
-   "DESODORANTE, NIVEA, ROLL ON 50 ML.. MEN. INVISIBLE. ANTITRANSPIRANTE. PARA CABALLERO",
-   "DESODORANTE, REXONA, CAJA CON BARRA 58 GR. CLINICAL. CLASIC. PARA DAMA",
-   "DESODORANTE, REXONA, CAJA CON BARRA 58 GR. CLINICAL MEN. CLEAN. PARA CABALLERO",
-   "DESODORANTE, OBAO. ACTIVE, ROLL ON 65 ML. FRAGANCIA INTENSA. PARA CABALLERO",
-   "DESODORANTE, LADY SPEED STICK, BARRA 45 GR. INVISIBLE. FLORAL. PARA DAMA",
-   "DESODORANTE, AXE, BARRA 45 GR. BLACK. PARA CABALLERO",
-   "DESODORANTE, DOVE, CAJA CON BOTE 150 ML. (AEROSOL). CLINICAL EXPERT. ORIGINAL CLEAN. PARA DAMA"
-  ],
-  "cadenas": [
-   "MERCADO SORIANA",
-   "WAL-MART",
-   "LA COMER",
-   "BODEGA AURRERA",
-   "HIPERMERCADO SORIANA",
-   "WAL-MART EXPRESS",
-   "BODEGA AURRERA EXPRESS",
-   "CHEDRAUI",
-   "SUPERISSSTE",
-   "MEGA SORIANA"
-  ]
+ "dentifrico|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "sal|1502": {
   "n": 382,
@@ -7888,49 +8000,71 @@
    "SORIANA EXPRESS"
   ]
  },
- "cepillo dental|0901": {
-  "n": 39,
+ "desodorante|0901": {
+  "n": 443,
   "ejemplo": [
    {
-    "producto": "CEPILLO DENTAL, ORAL-B. INDICATOR. MEDIO 40, BLISTER 2 PIEZAS",
-    "tipo_producto": "CEPILLO DENTAL",
-    "precio": 39,
+    "producto": "DESODORANTE, BRUT. CLASSIC, ROLL ON 50 GR. VERDE. PARA CABALLERO",
+    "tipo_producto": "DESODORANTE",
+    "precio": 42,
     "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL NEXTENGO",
-    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
-    "colonia": "SANTA CRUZ ACAYUCAN",
-    "cp": "02770",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
     "municipio": "Azcapotzalco",
     "entidad": "Ciudad de México"
    },
    {
-    "producto": "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
-    "tipo_producto": "CEPILLO DENTAL",
-    "precio": 45,
+    "producto": "DESODORANTE, SPEED STICK, BARRA 60 GR. FRESH. PARA CABALLERO",
+    "tipo_producto": "DESODORANTE",
+    "precio": 72.9,
     "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "LA COMER",
-    "establecimiento": "LACOMER SUCURSAL MIGUEL ANGEL DE QUEVEDO",
-    "direccion": "MIGUEL ANGEL DE QUEVEDO 443, ENTRE MELCHOR OCAMPO Y PSI",
-    "colonia": "ROMERO DE TERREROS",
-    "cp": "04310",
-    "municipio": "Coyoacán",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
     "entidad": "Ciudad de México"
    }
   ],
   "nombres": [
-   "CEPILLO DENTAL, ORAL-B. INDICATOR. MEDIO 40, BLISTER 2 PIEZAS",
-   "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
-   "CEPILLO DENTAL, ORAL-B. COMPLETE, BLISTER 2 PIEZAS. MEDIANO 40"
+   "DESODORANTE, BRUT. CLASSIC, ROLL ON 50 GR. VERDE. PARA CABALLERO",
+   "DESODORANTE, SPEED STICK, BARRA 60 GR. FRESH. PARA CABALLERO",
+   "DESODORANTE, STEFANO, BARRA 60 GR. SPAZIO. PARA CABALLERO",
+   "DESODORANTE, GILLETTE, BARRA 82 GR. CLEAR GEL. COOL WAVE. ANTITRANSPIRANTE. PARA CABALLERO",
+   "DESODORANTE, PALMOLIVE, ROLL ON 65 ML. NEUTRO BALANCE (BOTELLA TRANSPARENTE). PARA DAMA",
+   "DESODORANTE, NIVEA, ROLL ON 50 ML. ACLARADO NATURAL. PARA DAMA",
+   "DESODORANTE, REXONA, BARRA 45 GR. POWDER. DRY. ANTITRANSPIRANTE. PARA DAMA",
+   "DESODORANTE, OLD SPICE, BARRA 50 GR. FRESH. PARA CABALLERO",
+   "DESODORANTE, NIVEA, ROLL ON 50 ML. BLACK AND WHITE. INVISIBLE. CLEAR",
+   "DESODORANTE, NIVEA, ROLL ON 50 ML. MEN. BLACK AND WHITE. INVISIBLE. ORIGINAL. PARA CABALLERO",
+   "DESODORANTE, DOVE, CAJA CON BOTE 150 ML. (AEROSOL) MEN+CARE. CLINICAL EXPERT. CUIDADO TOTAL. PARA CABALLERO",
+   "DESODORANTE, REXONA, BARRA 45 GR. ACTIVE DRY. ANTITRANSPIRANTE. PARA CABALLERO",
+   "DESODORANTE, OBAO, ROLL ON 65 GR. FRESCURA SUAVE. PARA DAMA",
+   "DESODORANTE, DOVE, BARRA 45 GR. TAPA AZUL. ORIGINAL. ANTITRANSPIRANTE. PARA DAMA",
+   "DESODORANTE, REXONA, ROLL ON 50 GR. POWDER DRY. PARA DAMA",
+   "DESODORANTE, NIVEA, ROLL ON 50 ML.. MEN. INVISIBLE. ANTITRANSPIRANTE. PARA CABALLERO",
+   "DESODORANTE, REXONA, CAJA CON BARRA 58 GR. CLINICAL. CLASIC. PARA DAMA",
+   "DESODORANTE, REXONA, CAJA CON BARRA 58 GR. CLINICAL MEN. CLEAN. PARA CABALLERO",
+   "DESODORANTE, OBAO. ACTIVE, ROLL ON 65 ML. FRAGANCIA INTENSA. PARA CABALLERO",
+   "DESODORANTE, LADY SPEED STICK, BARRA 45 GR. INVISIBLE. FLORAL. PARA DAMA",
+   "DESODORANTE, AXE, BARRA 45 GR. BLACK. PARA CABALLERO",
+   "DESODORANTE, DOVE, CAJA CON BOTE 150 ML. (AEROSOL). CLINICAL EXPERT. ORIGINAL CLEAN. PARA DAMA"
   ],
   "cadenas": [
+   "MERCADO SORIANA",
    "WAL-MART",
    "LA COMER",
    "BODEGA AURRERA",
    "HIPERMERCADO SORIANA",
    "WAL-MART EXPRESS",
+   "BODEGA AURRERA EXPRESS",
    "CHEDRAUI",
-   "SUPERISSSTE"
+   "SUPERISSSTE",
+   "MEGA SORIANA"
   ]
  },
  "cafe soluble|1502": {
@@ -7986,11 +8120,50 @@
    "SORIANA EXPRESS"
   ]
  },
- "cepillo de dientes|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
+ "cepillo dental|0901": {
+  "n": 39,
+  "ejemplo": [
+   {
+    "producto": "CEPILLO DENTAL, ORAL-B. INDICATOR. MEDIO 40, BLISTER 2 PIEZAS",
+    "tipo_producto": "CEPILLO DENTAL",
+    "precio": 39,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL NEXTENGO",
+    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
+    "colonia": "SANTA CRUZ ACAYUCAN",
+    "cp": "02770",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
+    "tipo_producto": "CEPILLO DENTAL",
+    "precio": 45,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "LA COMER",
+    "establecimiento": "LACOMER SUCURSAL MIGUEL ANGEL DE QUEVEDO",
+    "direccion": "MIGUEL ANGEL DE QUEVEDO 443, ENTRE MELCHOR OCAMPO Y PSI",
+    "colonia": "ROMERO DE TERREROS",
+    "cp": "04310",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "CEPILLO DENTAL, ORAL-B. INDICATOR. MEDIO 40, BLISTER 2 PIEZAS",
+   "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
+   "CEPILLO DENTAL, ORAL-B. COMPLETE, BLISTER 2 PIEZAS. MEDIANO 40"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "LA COMER",
+   "BODEGA AURRERA",
+   "HIPERMERCADO SORIANA",
+   "WAL-MART EXPRESS",
+   "CHEDRAUI",
+   "SUPERISSSTE"
+  ]
  },
  "cafe|1502": {
   "n": 237,
@@ -8064,56 +8237,17 @@
    "SEARS ROEBUCK DE MEXICO"
   ]
  },
- "papel aluminio|1502": {
+ "cepillo de dientes|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "cepillo|0901": {
-  "n": 39,
-  "ejemplo": [
-   {
-    "producto": "CEPILLO DENTAL, ORAL-B. INDICATOR. MEDIO 40, BLISTER 2 PIEZAS",
-    "tipo_producto": "CEPILLO DENTAL",
-    "precio": 39,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL NEXTENGO",
-    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
-    "colonia": "SANTA CRUZ ACAYUCAN",
-    "cp": "02770",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
-    "tipo_producto": "CEPILLO DENTAL",
-    "precio": 45,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "LA COMER",
-    "establecimiento": "LACOMER SUCURSAL MIGUEL ANGEL DE QUEVEDO",
-    "direccion": "MIGUEL ANGEL DE QUEVEDO 443, ENTRE MELCHOR OCAMPO Y PSI",
-    "colonia": "ROMERO DE TERREROS",
-    "cp": "04310",
-    "municipio": "Coyoacán",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "CEPILLO DENTAL, ORAL-B. INDICATOR. MEDIO 40, BLISTER 2 PIEZAS",
-   "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
-   "CEPILLO DENTAL, ORAL-B. COMPLETE, BLISTER 2 PIEZAS. MEDIANO 40"
-  ],
-  "cadenas": [
-   "WAL-MART",
-   "LA COMER",
-   "BODEGA AURRERA",
-   "HIPERMERCADO SORIANA",
-   "WAL-MART EXPRESS",
-   "CHEDRAUI",
-   "SUPERISSSTE"
-  ]
+ "papel aluminio|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "papel|1502": {
   "n": 103,
@@ -8175,11 +8309,50 @@
    "SORIANA EXPRESS"
   ]
  },
- "toallas femeninas|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
+ "cepillo|0901": {
+  "n": 39,
+  "ejemplo": [
+   {
+    "producto": "CEPILLO DENTAL, ORAL-B. INDICATOR. MEDIO 40, BLISTER 2 PIEZAS",
+    "tipo_producto": "CEPILLO DENTAL",
+    "precio": 39,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL NEXTENGO",
+    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
+    "colonia": "SANTA CRUZ ACAYUCAN",
+    "cp": "02770",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
+    "tipo_producto": "CEPILLO DENTAL",
+    "precio": 45,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "LA COMER",
+    "establecimiento": "LACOMER SUCURSAL MIGUEL ANGEL DE QUEVEDO",
+    "direccion": "MIGUEL ANGEL DE QUEVEDO 443, ENTRE MELCHOR OCAMPO Y PSI",
+    "colonia": "ROMERO DE TERREROS",
+    "cp": "04310",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "CEPILLO DENTAL, ORAL-B. INDICATOR. MEDIO 40, BLISTER 2 PIEZAS",
+   "CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
+   "CEPILLO DENTAL, ORAL-B. COMPLETE, BLISTER 2 PIEZAS. MEDIANO 40"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "LA COMER",
+   "BODEGA AURRERA",
+   "HIPERMERCADO SORIANA",
+   "WAL-MART EXPRESS",
+   "CHEDRAUI",
+   "SUPERISSSTE"
+  ]
  },
  "paracetamol|1502": {
   "n": 8,
@@ -8219,6 +8392,54 @@
   "cadenas": [
    "WAL-MART",
    "MEGA SORIANA",
+   "MERCADO SORIANA"
+  ]
+ },
+ "toallas femeninas|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "ibuprofeno|1502": {
+  "n": 10,
+  "ejemplo": [
+   {
+    "producto": "IBUPROFENO, S/M, CAJA CON 10 GRAGEAS O TABLETAS DE 400 MG.",
+    "tipo_producto": "IBUPROFENO",
+    "precio": 58,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
+    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
+    "colonia": "SAN FRANCISCO COACALCO",
+    "cp": "55712",
+    "municipio": "Coacalco",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "IBUPROFENO, S/M, CAJA CON 20 GRAGEAS O TABLETAS DE 400 MG.",
+    "tipo_producto": "IBUPROFENO",
+    "precio": 75,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
+    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
+    "colonia": "SAN FRANCISCO COACALCO",
+    "cp": "55712",
+    "municipio": "Coacalco",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "IBUPROFENO, S/M, CAJA CON 10 GRAGEAS O TABLETAS DE 400 MG.",
+   "IBUPROFENO, S/M, CAJA CON 20 GRAGEAS O TABLETAS DE 400 MG.",
+   "IBUPROFENO, S/M, FRASCO CON 120 ML. Y VASO DOSIFICADOR DE 20 ML. SUSPENSION 2 G./100 ML."
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
    "MERCADO SORIANA"
   ]
  },
@@ -8295,48 +8516,6 @@
    "MEGA SORIANA"
   ]
  },
- "ibuprofeno|1502": {
-  "n": 10,
-  "ejemplo": [
-   {
-    "producto": "IBUPROFENO, S/M, CAJA CON 10 GRAGEAS O TABLETAS DE 400 MG.",
-    "tipo_producto": "IBUPROFENO",
-    "precio": 58,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
-    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
-    "colonia": "SAN FRANCISCO COACALCO",
-    "cp": "55712",
-    "municipio": "Coacalco",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "IBUPROFENO, S/M, CAJA CON 20 GRAGEAS O TABLETAS DE 400 MG.",
-    "tipo_producto": "IBUPROFENO",
-    "precio": 75,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
-    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
-    "colonia": "SAN FRANCISCO COACALCO",
-    "cp": "55712",
-    "municipio": "Coacalco",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "IBUPROFENO, S/M, CAJA CON 10 GRAGEAS O TABLETAS DE 400 MG.",
-   "IBUPROFENO, S/M, CAJA CON 20 GRAGEAS O TABLETAS DE 400 MG.",
-   "IBUPROFENO, S/M, FRASCO CON 120 ML. Y VASO DOSIFICADOR DE 20 ML. SUSPENSION 2 G./100 ML."
-  ],
-  "cadenas": [
-   "WAL-MART",
-   "MEGA SORIANA",
-   "BODEGA AURRERA",
-   "MERCADO SORIANA"
-  ]
- },
  "naproxeno|1502": {
   "n": 12,
   "ejemplo": [
@@ -8378,12 +8557,6 @@
    "BODEGA AURRERA",
    "MERCADO SORIANA"
   ]
- },
- "toallas sanitarias|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "diclofenaco|1502": {
   "n": 27,
@@ -8428,6 +8601,52 @@
    "MERCADO SORIANA",
    "FARMACIAS DEL AHORRO",
    "FARMACIAS SIMILARES",
+   "BODEGA AURRERA"
+  ]
+ },
+ "toallas sanitarias|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "ketorolaco|1502": {
+  "n": 4,
+  "ejemplo": [
+   {
+    "producto": "KETOROLACO, S/M, 10 TABLETAS DE 10 MG.",
+    "tipo_producto": "KETOROLACO",
+    "precio": 24,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
+    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
+    "colonia": "SAN FRANCISCO COACALCO",
+    "cp": "55712",
+    "municipio": "Coacalco",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "KETOROLACO, S/M, CAJA CON 4 TABLETAS SUBLIGUALES DE 30 MG.",
+    "tipo_producto": "KETOROLACO",
+    "precio": 60,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
+    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
+    "colonia": "SAN FRANCISCO COACALCO",
+    "cp": "55712",
+    "municipio": "Coacalco",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "KETOROLACO, S/M, 10 TABLETAS DE 10 MG.",
+   "KETOROLACO, S/M, CAJA CON 4 TABLETAS SUBLIGUALES DE 30 MG."
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
    "BODEGA AURRERA"
   ]
  },
@@ -8508,102 +8727,6 @@
    "MEGA SORIANA"
   ]
  },
- "ketorolaco|1502": {
-  "n": 4,
-  "ejemplo": [
-   {
-    "producto": "KETOROLACO, S/M, 10 TABLETAS DE 10 MG.",
-    "tipo_producto": "KETOROLACO",
-    "precio": 24,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
-    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
-    "colonia": "SAN FRANCISCO COACALCO",
-    "cp": "55712",
-    "municipio": "Coacalco",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "KETOROLACO, S/M, CAJA CON 4 TABLETAS SUBLIGUALES DE 30 MG.",
-    "tipo_producto": "KETOROLACO",
-    "precio": 60,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
-    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
-    "colonia": "SAN FRANCISCO COACALCO",
-    "cp": "55712",
-    "municipio": "Coacalco",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "KETOROLACO, S/M, 10 TABLETAS DE 10 MG.",
-   "KETOROLACO, S/M, CAJA CON 4 TABLETAS SUBLIGUALES DE 30 MG."
-  ],
-  "cadenas": [
-   "WAL-MART",
-   "MEGA SORIANA",
-   "BODEGA AURRERA"
-  ]
- },
- "limpiador|0901": {
-  "n": 80,
-  "ejemplo": [
-   {
-    "producto": "LIMPIADOR LÍQUIDO P/PISO, AJAX AMONIA, BOTELLA 1 LT. MULTIUSOS",
-    "tipo_producto": "LIMPIADOR LÍQUIDO P/PISO",
-    "precio": 50.9,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MERCADO SORIANA",
-    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
-    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
-    "colonia": "AZCAPOTZALCO",
-    "cp": "02000",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "LIMPIADOR LÍQUIDO P/PISO, FABULOSO, BOTELLA 1 LT. MULTIUSOS .FRESCA LAVANDA",
-    "tipo_producto": "LIMPIADOR LÍQUIDO P/PISO",
-    "precio": 36.5,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MERCADO SORIANA",
-    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
-    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
-    "colonia": "AZCAPOTZALCO",
-    "cp": "02000",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "LIMPIADOR LÍQUIDO P/PISO, AJAX AMONIA, BOTELLA 1 LT. MULTIUSOS",
-   "LIMPIADOR LÍQUIDO P/PISO, FABULOSO, BOTELLA 1 LT. MULTIUSOS .FRESCA LAVANDA",
-   "LIMPIADOR LÍQUIDO P/PISO, PINOL. EL ORIGINAL, BOTELLA 1 LT. MULTIUSOS PINO",
-   "LIMPIADOR LÍQUIDO P/PISO, POETT, BOTELLA 900 ML. MULTIUSOS. FLORES DE PRIMAVERA",
-   "LIMPIADOR LÍQUIDO P/PISO, BRASSO, BOTELLA 870 ML. MULTIUSOS. GOLD. LAVANDA INTENSA",
-   "LIMPIADOR LÍQUIDO P/PISO, FLASH, BOTELLA 1 LT. MULTIUSOS. LAVANDA",
-   "LIMPIADOR LÍQUIDO P/PISO, PRECISSIMO, BOTELLA 1 LT. MULTIUSOS. PINO",
-   "LIMPIADOR LÍQUIDO P/PISO, CHEDRAUI, BOTELLA 1 LT. MULTIUSOS. PINO",
-   "LIMPIADOR LÍQUIDO P/PISO, PINOL. EL ORIGINAL, BOTELLA 500 ML. MULTIUSOS. PINO",
-   "LIMPIADOR LÍQUIDO P/PISO, FABULOSO, BOTELLA 500 ML. MULTIUSOS. FRESCA LAVANDA"
-  ],
-  "cadenas": [
-   "MERCADO SORIANA",
-   "LA COMER",
-   "BODEGA AURRERA",
-   "HIPERMERCADO SORIANA",
-   "WAL-MART",
-   "7 ELEVEN",
-   "CHEDRAUI",
-   "SUPERISSSTE",
-   "NETO (SUPER PRECIO)",
-   "CENTRAL DE ABASTOS",
-   "MEGA SORIANA"
-  ]
- },
  "metamizol|1502": {
   "n": 4,
   "ejemplo": [
@@ -8644,7 +8767,7 @@
    "MERCADO SORIANA"
   ]
  },
- "limpiador liquido|0901": {
+ "limpiador|0901": {
   "n": 80,
   "ejemplo": [
    {
@@ -8705,6 +8828,62 @@
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
+ },
+ "limpiador liquido|0901": {
+  "n": 80,
+  "ejemplo": [
+   {
+    "producto": "LIMPIADOR LÍQUIDO P/PISO, AJAX AMONIA, BOTELLA 1 LT. MULTIUSOS",
+    "tipo_producto": "LIMPIADOR LÍQUIDO P/PISO",
+    "precio": 50.9,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "LIMPIADOR LÍQUIDO P/PISO, FABULOSO, BOTELLA 1 LT. MULTIUSOS .FRESCA LAVANDA",
+    "tipo_producto": "LIMPIADOR LÍQUIDO P/PISO",
+    "precio": 36.5,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "LIMPIADOR LÍQUIDO P/PISO, AJAX AMONIA, BOTELLA 1 LT. MULTIUSOS",
+   "LIMPIADOR LÍQUIDO P/PISO, FABULOSO, BOTELLA 1 LT. MULTIUSOS .FRESCA LAVANDA",
+   "LIMPIADOR LÍQUIDO P/PISO, PINOL. EL ORIGINAL, BOTELLA 1 LT. MULTIUSOS PINO",
+   "LIMPIADOR LÍQUIDO P/PISO, POETT, BOTELLA 900 ML. MULTIUSOS. FLORES DE PRIMAVERA",
+   "LIMPIADOR LÍQUIDO P/PISO, BRASSO, BOTELLA 870 ML. MULTIUSOS. GOLD. LAVANDA INTENSA",
+   "LIMPIADOR LÍQUIDO P/PISO, FLASH, BOTELLA 1 LT. MULTIUSOS. LAVANDA",
+   "LIMPIADOR LÍQUIDO P/PISO, PRECISSIMO, BOTELLA 1 LT. MULTIUSOS. PINO",
+   "LIMPIADOR LÍQUIDO P/PISO, CHEDRAUI, BOTELLA 1 LT. MULTIUSOS. PINO",
+   "LIMPIADOR LÍQUIDO P/PISO, PINOL. EL ORIGINAL, BOTELLA 500 ML. MULTIUSOS. PINO",
+   "LIMPIADOR LÍQUIDO P/PISO, FABULOSO, BOTELLA 500 ML. MULTIUSOS. FRESCA LAVANDA"
+  ],
+  "cadenas": [
+   "MERCADO SORIANA",
+   "LA COMER",
+   "BODEGA AURRERA",
+   "HIPERMERCADO SORIANA",
+   "WAL-MART",
+   "7 ELEVEN",
+   "CHEDRAUI",
+   "SUPERISSSTE",
+   "NETO (SUPER PRECIO)",
+   "CENTRAL DE ABASTOS",
+   "MEGA SORIANA"
+  ]
  },
  "aspirina|1502": {
   "n": 41,
@@ -8799,12 +8978,6 @@
    "MERCADO SORIANA"
   ]
  },
- "esponja|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "pantoprazol|1502": {
   "n": 3,
   "ejemplo": [
@@ -8843,6 +9016,18 @@
    "MEGA SORIANA",
    "MERCADO SORIANA"
   ]
+ },
+ "esponja|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "esomeprazol|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "fibra|0901": {
   "n": 25,
@@ -8887,19 +9072,13 @@
    "MEGA SORIANA"
   ]
  },
- "esomeprazol|1502": {
+ "ranitidina|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
  "bolsa para basura|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "ranitidina|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -8949,19 +9128,13 @@
    "FARMACIAS SIMILARES"
   ]
  },
- "bolsas para basura|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "loperamida|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "bolsa de basura|0901": {
+ "bolsas para basura|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -8973,29 +9146,11 @@
   "nombres": [],
   "cadenas": []
  },
- "bolsa|0901": {
-  "n": 1,
-  "ejemplo": [
-   {
-    "producto": "BOLSA REUTILIZABLE CALIENTE/FRÍO, 3M NEXCARE. COLDHOT, CAJA 1 PIEZA. (COMFORT)",
-    "tipo_producto": "BOLSA REUTILIZABLE CALIENTE/FRÍO",
-    "precio": 187,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "CHEDRAUI",
-    "establecimiento": "CHEDRAUI SUCURSAL PLAZA AMERICA",
-    "direccion": "BENITO JUAREZ 117, ENTRE DIVISION DEL NORTE Y EUCALIPTO",
-    "colonia": "EXHACIENDA DE COAPA",
-    "cp": "04850",
-    "municipio": "Coyoacán",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "BOLSA REUTILIZABLE CALIENTE/FRÍO, 3M NEXCARE. COLDHOT, CAJA 1 PIEZA. (COMFORT)"
-  ],
-  "cadenas": [
-   "CHEDRAUI"
-  ]
+ "bolsa de basura|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "sueros orales|1502": {
   "n": 19,
@@ -9030,6 +9185,75 @@
   "nombres": [
    "SUEROS ORALES, ELECTROLIT, BOTELLA 625 ML. (SABOR UVA)",
    "SUEROS ORALES, PEDIALYTE, BOTELLA 500 ML. (SABOR COCO)"
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "MEGA SORIANA",
+   "WAL-MART",
+   "MERCADO SORIANA",
+   "BODEGA AURRERA",
+   "SORIANA EXPRESS"
+  ]
+ },
+ "bolsa|0901": {
+  "n": 1,
+  "ejemplo": [
+   {
+    "producto": "BOLSA REUTILIZABLE CALIENTE/FRÍO, 3M NEXCARE. COLDHOT, CAJA 1 PIEZA. (COMFORT)",
+    "tipo_producto": "BOLSA REUTILIZABLE CALIENTE/FRÍO",
+    "precio": 187,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "CHEDRAUI",
+    "establecimiento": "CHEDRAUI SUCURSAL PLAZA AMERICA",
+    "direccion": "BENITO JUAREZ 117, ENTRE DIVISION DEL NORTE Y EUCALIPTO",
+    "colonia": "EXHACIENDA DE COAPA",
+    "cp": "04850",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "BOLSA REUTILIZABLE CALIENTE/FRÍO, 3M NEXCARE. COLDHOT, CAJA 1 PIEZA. (COMFORT)"
+  ],
+  "cadenas": [
+   "CHEDRAUI"
+  ]
+ },
+ "suero|1502": {
+  "n": 25,
+  "ejemplo": [
+   {
+    "producto": "SUEROS ORALES, ELECTROLIT, BOTELLA 625 ML. (SABOR UVA)",
+    "tipo_producto": "SUEROS ORALES",
+    "precio": 26.5,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "SUEROS ORALES, PEDIALYTE, BOTELLA 500 ML. (SABOR COCO)",
+    "tipo_producto": "SUEROS ORALES",
+    "precio": 32.5,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "SUEROS ORALES, ELECTROLIT, BOTELLA 625 ML. (SABOR UVA)",
+   "SUEROS ORALES, PEDIALYTE, BOTELLA 500 ML. (SABOR COCO)",
+   "SUEROX. 0 AZÚCAR, S/M, BOTELLA DE 630 ML. SABOR MORA AZUL CON YERBABUENA",
+   "SUEROX. 0 AZÚCAR, S/M, BOTELLA DE 630 ML. SABOR MANZANA"
   ],
   "cadenas": [
    "HIPERMERCADO SORIANA",
@@ -9110,51 +9334,6 @@
    "SORIANA SUPER"
   ]
  },
- "suero|1502": {
-  "n": 25,
-  "ejemplo": [
-   {
-    "producto": "SUEROS ORALES, ELECTROLIT, BOTELLA 625 ML. (SABOR UVA)",
-    "tipo_producto": "SUEROS ORALES",
-    "precio": 26.5,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "SUEROS ORALES, PEDIALYTE, BOTELLA 500 ML. (SABOR COCO)",
-    "tipo_producto": "SUEROS ORALES",
-    "precio": 32.5,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "SUEROS ORALES, ELECTROLIT, BOTELLA 625 ML. (SABOR UVA)",
-   "SUEROS ORALES, PEDIALYTE, BOTELLA 500 ML. (SABOR COCO)",
-   "SUEROX. 0 AZÚCAR, S/M, BOTELLA DE 630 ML. SABOR MORA AZUL CON YERBABUENA",
-   "SUEROX. 0 AZÚCAR, S/M, BOTELLA DE 630 ML. SABOR MANZANA"
-  ],
-  "cadenas": [
-   "HIPERMERCADO SORIANA",
-   "MEGA SORIANA",
-   "WAL-MART",
-   "MERCADO SORIANA",
-   "BODEGA AURRERA",
-   "SORIANA EXPRESS"
-  ]
- },
  "loratadina|1502": {
   "n": 5,
   "ejemplo": [
@@ -9195,12 +9374,6 @@
    "BODEGA AURRERA",
    "MERCADO SORIANA"
   ]
- },
- "sal de mesa|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "cetirizina|1502": {
   "n": 9,
@@ -9244,7 +9417,7 @@
    "BODEGA AURRERA"
   ]
  },
- "sal yodatada|0901": {
+ "sal de mesa|0901": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -9289,6 +9462,59 @@
    "WAL-MART",
    "FARMACIAS SIMILARES",
    "HIPERMERCADO SORIANA"
+  ]
+ },
+ "sal yodatada|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "ambroxol|1502": {
+  "n": 24,
+  "ejemplo": [
+   {
+    "producto": "AMBROXOL, S/M, CAJA CON FRASCO CON 120 ML. DE 15 MG./5 ML.",
+    "tipo_producto": "AMBROXOL",
+    "precio": 45,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "AMBROXOL DEXTROMETORFANO, S/M, FRASCO CON 150 ML. JARABE INFANTIL",
+    "tipo_producto": "AMBROXOL DEXTROMETORFANO",
+    "precio": 63.5,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "AMBROXOL, S/M, CAJA CON FRASCO CON 120 ML. DE 15 MG./5 ML.",
+   "AMBROXOL DEXTROMETORFANO, S/M, FRASCO CON 150 ML. JARABE INFANTIL",
+   "AMBROXOL DEXTROMETORFANO, S/M, FRASCO CON 150 ML. JARABE ADULTO",
+   "AMBROXOL DEXTROMETORFANO, S/M, JARABE ADULTO. FRASCO CON 120 ML.",
+   "AMBROXOL DEXTROMETORFANO, S/M, JARABE INFANTIL. FRASCO CON 120 ML.",
+   "AMBROXOL SALBUTAMOL, S/M, FRASCO CON 120 ML. SOLUCION 0.040 G./0.150 G./100 ML."
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "MEGA SORIANA",
+   "WAL-MART",
+   "MERCADO SORIANA",
+   "FARMACIAS DEL AHORRO",
+   "FARMACIAS SIMILARES"
   ]
  },
  "sal|0901": {
@@ -9378,53 +9604,6 @@
    "CENTRAL DE ABASTOS",
    "MEGA SORIANA",
    "SORIANA SUPER"
-  ]
- },
- "ambroxol|1502": {
-  "n": 24,
-  "ejemplo": [
-   {
-    "producto": "AMBROXOL, S/M, CAJA CON FRASCO CON 120 ML. DE 15 MG./5 ML.",
-    "tipo_producto": "AMBROXOL",
-    "precio": 45,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "AMBROXOL DEXTROMETORFANO, S/M, FRASCO CON 150 ML. JARABE INFANTIL",
-    "tipo_producto": "AMBROXOL DEXTROMETORFANO",
-    "precio": 63.5,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "AMBROXOL, S/M, CAJA CON FRASCO CON 120 ML. DE 15 MG./5 ML.",
-   "AMBROXOL DEXTROMETORFANO, S/M, FRASCO CON 150 ML. JARABE INFANTIL",
-   "AMBROXOL DEXTROMETORFANO, S/M, FRASCO CON 150 ML. JARABE ADULTO",
-   "AMBROXOL DEXTROMETORFANO, S/M, JARABE ADULTO. FRASCO CON 120 ML.",
-   "AMBROXOL DEXTROMETORFANO, S/M, JARABE INFANTIL. FRASCO CON 120 ML.",
-   "AMBROXOL SALBUTAMOL, S/M, FRASCO CON 120 ML. SOLUCION 0.040 G./0.150 G./100 ML."
-  ],
-  "cadenas": [
-   "HIPERMERCADO SORIANA",
-   "MEGA SORIANA",
-   "WAL-MART",
-   "MERCADO SORIANA",
-   "FARMACIAS DEL AHORRO",
-   "FARMACIAS SIMILARES"
   ]
  },
  "dextrometorfano|1502": {
@@ -9564,6 +9743,47 @@
    "MERCADO SORIANA"
   ]
  },
+ "losartan|1502": {
+  "n": 5,
+  "ejemplo": [
+   {
+    "producto": "LOSARTÁN, S/M, CAJA CON 30 COMPRIMIDOS O TABLETAS DE 50 MG.",
+    "tipo_producto": "LOSARTÁN",
+    "precio": 30,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
+    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
+    "colonia": "SAN FRANCISCO COACALCO",
+    "cp": "55712",
+    "municipio": "Coacalco",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "LOSARTÁN, S/M, CAJA CON 15 COMPRIMIDOS O GRAGEAS DE 50 MG.",
+    "tipo_producto": "LOSARTÁN",
+    "precio": 30,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL COACALCO",
+    "direccion": "LOPEZ PORTILLO 37, ESQ. ENTRADA TULTEPEC",
+    "colonia": "PERIODISTAS",
+    "cp": "55700",
+    "municipio": "Coacalco",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "LOSARTÁN, S/M, CAJA CON 30 COMPRIMIDOS O TABLETAS DE 50 MG.",
+   "LOSARTÁN, S/M, CAJA CON 15 COMPRIMIDOS O GRAGEAS DE 50 MG."
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA"
+  ]
+ },
  "cafe|0901": {
   "n": 432,
   "ejemplo": [
@@ -9645,53 +9865,6 @@
    "LIVERPOOL"
   ]
  },
- "losartan|1502": {
-  "n": 5,
-  "ejemplo": [
-   {
-    "producto": "LOSARTÁN, S/M, CAJA CON 30 COMPRIMIDOS O TABLETAS DE 50 MG.",
-    "tipo_producto": "LOSARTÁN",
-    "precio": 30,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
-    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
-    "colonia": "SAN FRANCISCO COACALCO",
-    "cp": "55712",
-    "municipio": "Coacalco",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "LOSARTÁN, S/M, CAJA CON 15 COMPRIMIDOS O GRAGEAS DE 50 MG.",
-    "tipo_producto": "LOSARTÁN",
-    "precio": 30,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL COACALCO",
-    "direccion": "LOPEZ PORTILLO 37, ESQ. ENTRADA TULTEPEC",
-    "colonia": "PERIODISTAS",
-    "cp": "55700",
-    "municipio": "Coacalco",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "LOSARTÁN, S/M, CAJA CON 30 COMPRIMIDOS O TABLETAS DE 50 MG.",
-   "LOSARTÁN, S/M, CAJA CON 15 COMPRIMIDOS O GRAGEAS DE 50 MG."
-  ],
-  "cadenas": [
-   "WAL-MART",
-   "MEGA SORIANA",
-   "BODEGA AURRERA",
-   "MERCADO SORIANA"
-  ]
- },
- "papel aluminio|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "enalapril|1502": {
   "n": 10,
   "ejemplo": [
@@ -9733,6 +9906,55 @@
    "FARMACIAS SIMILARES",
    "HIPERMERCADO SORIANA",
    "BODEGA AURRERA"
+  ]
+ },
+ "papel aluminio|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "captopril|1502": {
+  "n": 13,
+  "ejemplo": [
+   {
+    "producto": "CAPTOPRIL, S/M, 30 TABLETAS DE 25 MG.",
+    "tipo_producto": "CAPTOPRIL",
+    "precio": 49.9,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CAPTOPRIL, S/M, 30 TABLETAS DE 25 MG.",
+    "tipo_producto": "CAPTOPRIL",
+    "precio": 50,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
+    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
+    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
+    "cp": "54030",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CAPTOPRIL, S/M, 30 TABLETAS DE 25 MG."
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "WAL-MART",
+   "FARMACIAS DE SIMILARES",
+   "MERCADO SORIANA",
+   "FARMACIAS DEL AHORRO",
+   "FARMACIAS SIMILARES",
+   "HIPERMERCADO SORIANA"
   ]
  },
  "papel|0901": {
@@ -9800,49 +10022,6 @@
    "SORIANA SUPER"
   ]
  },
- "captopril|1502": {
-  "n": 13,
-  "ejemplo": [
-   {
-    "producto": "CAPTOPRIL, S/M, 30 TABLETAS DE 25 MG.",
-    "tipo_producto": "CAPTOPRIL",
-    "precio": 49.9,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
-    "direccion": "GUSTAVO BAZ 4001",
-    "colonia": "INDUSTRIAL SAN NICOLAS",
-    "cp": "5400",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "CAPTOPRIL, S/M, 30 TABLETAS DE 25 MG.",
-    "tipo_producto": "CAPTOPRIL",
-    "precio": 50,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL MULTIPLAZA ARBOLEDAS",
-    "direccion": "AUTOPISTA MEXICO QUERETARO 3985",
-    "colonia": "CENTRO INDUSTRIAL TLALNEPANTLA",
-    "cp": "54030",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "CAPTOPRIL, S/M, 30 TABLETAS DE 25 MG."
-  ],
-  "cadenas": [
-   "MEGA SORIANA",
-   "WAL-MART",
-   "FARMACIAS DE SIMILARES",
-   "MERCADO SORIANA",
-   "FARMACIAS DEL AHORRO",
-   "FARMACIAS SIMILARES",
-   "HIPERMERCADO SORIANA"
-  ]
- },
  "amlodipino|1502": {
   "n": 19,
   "ejemplo": [
@@ -9887,6 +10066,12 @@
    "HIPERMERCADO SORIANA"
   ]
  },
+ "nifedipino|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "paracetamol|0901": {
   "n": 4,
   "ejemplo": [
@@ -9926,11 +10111,43 @@
    "SORIANA SUPER"
   ]
  },
- "nifedipino|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
+ "metoprolol|1502": {
+  "n": 2,
+  "ejemplo": [
+   {
+    "producto": "METOPROLOL, S/M, 20 TABLETAS DE 100 MG.",
+    "tipo_producto": "METOPROLOL",
+    "precio": 30,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
+    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
+    "colonia": "SAN FRANCISCO COACALCO",
+    "cp": "55712",
+    "municipio": "Coacalco",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "METOPROLOL, S/M, 20 TABLETAS DE 100 MG.",
+    "tipo_producto": "METOPROLOL",
+    "precio": 25.5,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL COACALCO",
+    "direccion": "LOPEZ PORTILLO 37, ESQ. ENTRADA TULTEPEC",
+    "colonia": "PERIODISTAS",
+    "cp": "55700",
+    "municipio": "Coacalco",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "METOPROLOL, S/M, 20 TABLETAS DE 100 MG."
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA"
+  ]
  },
  "ibuprofeno|0901": {
   "n": 5,
@@ -9973,13 +10190,13 @@
    "SORIANA SUPER"
   ]
  },
- "metoprolol|1502": {
-  "n": 2,
+ "telmisartan|1502": {
+  "n": 6,
   "ejemplo": [
    {
-    "producto": "METOPROLOL, S/M, 20 TABLETAS DE 100 MG.",
-    "tipo_producto": "METOPROLOL",
-    "precio": 30,
+    "producto": "TELMISARTAN, S/M, CAJA CON 28 TABLETAS DE 40 MG.",
+    "tipo_producto": "TELMISARTAN",
+    "precio": 280,
     "fecha_observacion": "2026-11-04",
     "cadena_comercial": "WAL-MART",
     "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
@@ -9990,25 +10207,28 @@
     "entidad": "Estado de México"
    },
    {
-    "producto": "METOPROLOL, S/M, 20 TABLETAS DE 100 MG.",
-    "tipo_producto": "METOPROLOL",
-    "precio": 25.5,
+    "producto": "TELMISARTAN, S/M, CAJA CON 28 TABLETAS DE 80 MG.",
+    "tipo_producto": "TELMISARTAN",
+    "precio": 210,
     "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL COACALCO",
-    "direccion": "LOPEZ PORTILLO 37, ESQ. ENTRADA TULTEPEC",
-    "colonia": "PERIODISTAS",
-    "cp": "55700",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
+    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
+    "colonia": "SAN FRANCISCO COACALCO",
+    "cp": "55712",
     "municipio": "Coacalco",
     "entidad": "Estado de México"
    }
   ],
   "nombres": [
-   "METOPROLOL, S/M, 20 TABLETAS DE 100 MG."
+   "TELMISARTAN, S/M, CAJA CON 28 TABLETAS DE 40 MG.",
+   "TELMISARTAN, S/M, CAJA CON 28 TABLETAS DE 80 MG."
   ],
   "cadenas": [
    "WAL-MART",
-   "MEGA SORIANA"
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA"
   ]
  },
  "naproxeno|0901": {
@@ -10049,47 +10269,6 @@
   "cadenas": [
    "WAL-MART EXPRESS",
    "SORIANA SUPER"
-  ]
- },
- "telmisartan|1502": {
-  "n": 6,
-  "ejemplo": [
-   {
-    "producto": "TELMISARTAN, S/M, CAJA CON 28 TABLETAS DE 40 MG.",
-    "tipo_producto": "TELMISARTAN",
-    "precio": 280,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
-    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
-    "colonia": "SAN FRANCISCO COACALCO",
-    "cp": "55712",
-    "municipio": "Coacalco",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "TELMISARTAN, S/M, CAJA CON 28 TABLETAS DE 80 MG.",
-    "tipo_producto": "TELMISARTAN",
-    "precio": 210,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
-    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
-    "colonia": "SAN FRANCISCO COACALCO",
-    "cp": "55712",
-    "municipio": "Coacalco",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "TELMISARTAN, S/M, CAJA CON 28 TABLETAS DE 40 MG.",
-   "TELMISARTAN, S/M, CAJA CON 28 TABLETAS DE 80 MG."
-  ],
-  "cadenas": [
-   "WAL-MART",
-   "MEGA SORIANA",
-   "BODEGA AURRERA",
-   "MERCADO SORIANA"
   ]
  },
  "hidroclorotiazida|1502": {
@@ -10186,6 +10365,30 @@
    "BODEGA AURRERA"
   ]
  },
+ "glibenclamida|1502": {
+  "n": 1,
+  "ejemplo": [
+   {
+    "producto": "GLIBENCLAMIDA, S/M, 50 TABLETAS DE 5 MG.",
+    "tipo_producto": "GLIBENCLAMIDA",
+    "precio": 35,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL COACALCO",
+    "direccion": "LOPEZ PORTILLO 37, ESQ. ENTRADA TULTEPEC",
+    "colonia": "PERIODISTAS",
+    "cp": "55700",
+    "municipio": "Coacalco",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "GLIBENCLAMIDA, S/M, 50 TABLETAS DE 5 MG."
+  ],
+  "cadenas": [
+   "MEGA SORIANA"
+  ]
+ },
  "ketorolaco|0901": {
   "n": 5,
   "ejemplo": [
@@ -10226,29 +10429,11 @@
    "WAL-MART"
   ]
  },
- "glibenclamida|1502": {
-  "n": 1,
-  "ejemplo": [
-   {
-    "producto": "GLIBENCLAMIDA, S/M, 50 TABLETAS DE 5 MG.",
-    "tipo_producto": "GLIBENCLAMIDA",
-    "precio": 35,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL COACALCO",
-    "direccion": "LOPEZ PORTILLO 37, ESQ. ENTRADA TULTEPEC",
-    "colonia": "PERIODISTAS",
-    "cp": "55700",
-    "municipio": "Coacalco",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "GLIBENCLAMIDA, S/M, 50 TABLETAS DE 5 MG."
-  ],
-  "cadenas": [
-   "MEGA SORIANA"
-  ]
+ "sitagliptina|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "metamizol|0901": {
   "n": 2,
@@ -10287,18 +10472,6 @@
    "WAL-MART EXPRESS",
    "SORIANA SUPER"
   ]
- },
- "sitagliptina|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "acido acetilsalicilico|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "atorvastatina|1502": {
   "n": 18,
@@ -10344,6 +10517,12 @@
    "FARMACIAS SIMILARES"
   ]
  },
+ "acido acetilsalicilico|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "pravastatina|1502": {
   "n": 2,
   "ejemplo": [
@@ -10380,6 +10559,50 @@
   "cadenas": [
    "MEGA SORIANA",
    "MERCADO SORIANA"
+  ]
+ },
+ "bezafibrato|1502": {
+  "n": 16,
+  "ejemplo": [
+   {
+    "producto": "BEZAFIBRATO, S/M, 30 TABLETAS DE 200 MG.",
+    "tipo_producto": "BEZAFIBRATO",
+    "precio": 63.9,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL 197",
+    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
+    "colonia": "PARQUE INDUSTRIAL",
+    "cp": "52000",
+    "municipio": "Lerma",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "BEZAFIBRATO, S/M, 30 TABLETAS DE 200 MG.",
+    "tipo_producto": "BEZAFIBRATO",
+    "precio": 63.9,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "BEZAFIBRATO, S/M, 30 TABLETAS DE 200 MG."
+  ],
+  "cadenas": [
+   "HIPERMERCADO SORIANA",
+   "MEGA SORIANA",
+   "FARMACIAS DE SIMILARES",
+   "WAL-MART",
+   "MERCADO SORIANA",
+   "FARMACIAS DEL AHORRO",
+   "FARMACIAS SIMILARES",
+   "BODEGA AURRERA"
   ]
  },
  "aspirina|0901": {
@@ -10432,49 +10655,11 @@
    "BENAVIDES"
   ]
  },
- "bezafibrato|1502": {
-  "n": 16,
-  "ejemplo": [
-   {
-    "producto": "BEZAFIBRATO, S/M, 30 TABLETAS DE 200 MG.",
-    "tipo_producto": "BEZAFIBRATO",
-    "precio": 63.9,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL 197",
-    "direccion": "MIGUEL ALEMAN 55, ESQ. BLVD. AEROPUERTO",
-    "colonia": "PARQUE INDUSTRIAL",
-    "cp": "52000",
-    "municipio": "Lerma",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "BEZAFIBRATO, S/M, 30 TABLETAS DE 200 MG.",
-    "tipo_producto": "BEZAFIBRATO",
-    "precio": 63.9,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
-    "direccion": "GUSTAVO BAZ 4001",
-    "colonia": "INDUSTRIAL SAN NICOLAS",
-    "cp": "5400",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "BEZAFIBRATO, S/M, 30 TABLETAS DE 200 MG."
-  ],
-  "cadenas": [
-   "HIPERMERCADO SORIANA",
-   "MEGA SORIANA",
-   "FARMACIAS DE SIMILARES",
-   "WAL-MART",
-   "MERCADO SORIANA",
-   "FARMACIAS DEL AHORRO",
-   "FARMACIAS SIMILARES",
-   "BODEGA AURRERA"
-  ]
+ "levotiroxina|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "omeprazol|0901": {
   "n": 3,
@@ -10515,7 +10700,7 @@
    "SORIANA SUPER"
   ]
  },
- "levotiroxina|1502": {
+ "prednisona|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -10558,12 +10743,6 @@
    "WAL-MART EXPRESS",
    "SORIANA SUPER"
   ]
- },
- "prednisona|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "dexametasona|1502": {
   "n": 11,
@@ -10659,12 +10838,6 @@
    "HIPERMERCADO SORIANA"
   ]
  },
- "ranitidina|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "amoxicilina|1502": {
   "n": 34,
   "ejemplo": [
@@ -10710,6 +10883,55 @@
    "FARMACIAS DEL AHORRO",
    "FARMACIAS SIMILARES",
    "WAL-MART"
+  ]
+ },
+ "ranitidina|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "ampicilina|1502": {
+  "n": 8,
+  "ejemplo": [
+   {
+    "producto": "AMPICILINA, S/M, CAJA CON 20 CAPSULAS O TABLETAS DE 500 MG.",
+    "tipo_producto": "AMPICILINA",
+    "precio": 55,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "AMPICILINA, S/M, CAJA CON 20 CAPSULAS O TABLETAS DE 500 MG.",
+    "tipo_producto": "AMPICILINA",
+    "precio": 48,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "FARMACIAS DE SIMILARES",
+    "establecimiento": "FARMACIAS SIMILARES SUCURSAL MORELOS",
+    "direccion": "MORELOS OTE. 111, ENTRE JUAREZ Y RAYON",
+    "colonia": "CENTRO",
+    "cp": "50000",
+    "municipio": "Toluca",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "AMPICILINA, S/M, CAJA CON 20 CAPSULAS O TABLETAS DE 500 MG.",
+   "AMPICILINA, S/M, CAJA CON 12 CAPSULAS DE 500 MG."
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "FARMACIAS DE SIMILARES",
+   "WAL-MART",
+   "FARMACIAS DEL AHORRO",
+   "FARMACIAS SIMILARES",
+   "HIPERMERCADO SORIANA"
   ]
  },
  "butilhioscina|0901": {
@@ -10758,55 +10980,6 @@
    "MERCADO SORIANA"
   ]
  },
- "ampicilina|1502": {
-  "n": 8,
-  "ejemplo": [
-   {
-    "producto": "AMPICILINA, S/M, CAJA CON 20 CAPSULAS O TABLETAS DE 500 MG.",
-    "tipo_producto": "AMPICILINA",
-    "precio": 55,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
-    "direccion": "GUSTAVO BAZ 4001",
-    "colonia": "INDUSTRIAL SAN NICOLAS",
-    "cp": "5400",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "AMPICILINA, S/M, CAJA CON 20 CAPSULAS O TABLETAS DE 500 MG.",
-    "tipo_producto": "AMPICILINA",
-    "precio": 48,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "FARMACIAS DE SIMILARES",
-    "establecimiento": "FARMACIAS SIMILARES SUCURSAL MORELOS",
-    "direccion": "MORELOS OTE. 111, ENTRE JUAREZ Y RAYON",
-    "colonia": "CENTRO",
-    "cp": "50000",
-    "municipio": "Toluca",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "AMPICILINA, S/M, CAJA CON 20 CAPSULAS O TABLETAS DE 500 MG.",
-   "AMPICILINA, S/M, CAJA CON 12 CAPSULAS DE 500 MG."
-  ],
-  "cadenas": [
-   "MEGA SORIANA",
-   "FARMACIAS DE SIMILARES",
-   "WAL-MART",
-   "FARMACIAS DEL AHORRO",
-   "FARMACIAS SIMILARES",
-   "HIPERMERCADO SORIANA"
-  ]
- },
- "loperamida|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "ciprofloxacino|1502": {
   "n": 10,
   "ejemplo": [
@@ -10850,6 +11023,12 @@
    "FARMACIAS DEL AHORRO",
    "FARMACIAS SIMILARES"
   ]
+ },
+ "loperamida|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "azitromicina|1502": {
   "n": 12,
@@ -10943,6 +11122,47 @@
    "FARMACIAS SIMILARES"
   ]
  },
+ "claritromicina|1502": {
+  "n": 6,
+  "ejemplo": [
+   {
+    "producto": "CLARITROMICINA, S/M, CAJA CON 10 TABLETAS DE 500 MG.",
+    "tipo_producto": "CLARITROMICINA",
+    "precio": 143,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
+    "direccion": "GUSTAVO BAZ 4001",
+    "colonia": "INDUSTRIAL SAN NICOLAS",
+    "cp": "5400",
+    "municipio": "Tlalnepantla",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "CLARITROMICINA, S/M, CAJA CON 10 TABLETAS DE 500 MG.",
+    "tipo_producto": "CLARITROMICINA",
+    "precio": 133,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "FARMACIAS DE SIMILARES",
+    "establecimiento": "FARMACIAS SIMILARES SUCURSAL MORELOS",
+    "direccion": "MORELOS OTE. 111, ENTRE JUAREZ Y RAYON",
+    "colonia": "CENTRO",
+    "cp": "50000",
+    "municipio": "Toluca",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "CLARITROMICINA, S/M, CAJA CON 10 TABLETAS DE 500 MG."
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "FARMACIAS DE SIMILARES",
+   "MERCADO SORIANA",
+   "FARMACIAS SIMILARES",
+   "HIPERMERCADO SORIANA"
+  ]
+ },
  "sueros orales|0901": {
   "n": 40,
   "ejemplo": [
@@ -10990,46 +11210,11 @@
    "BODEGA AURRERA"
   ]
  },
- "claritromicina|1502": {
-  "n": 6,
-  "ejemplo": [
-   {
-    "producto": "CLARITROMICINA, S/M, CAJA CON 10 TABLETAS DE 500 MG.",
-    "tipo_producto": "CLARITROMICINA",
-    "precio": 143,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL ARBOLEDAS",
-    "direccion": "GUSTAVO BAZ 4001",
-    "colonia": "INDUSTRIAL SAN NICOLAS",
-    "cp": "5400",
-    "municipio": "Tlalnepantla",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "CLARITROMICINA, S/M, CAJA CON 10 TABLETAS DE 500 MG.",
-    "tipo_producto": "CLARITROMICINA",
-    "precio": 133,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "FARMACIAS DE SIMILARES",
-    "establecimiento": "FARMACIAS SIMILARES SUCURSAL MORELOS",
-    "direccion": "MORELOS OTE. 111, ENTRE JUAREZ Y RAYON",
-    "colonia": "CENTRO",
-    "cp": "50000",
-    "municipio": "Toluca",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "CLARITROMICINA, S/M, CAJA CON 10 TABLETAS DE 500 MG."
-  ],
-  "cadenas": [
-   "MEGA SORIANA",
-   "FARMACIAS DE SIMILARES",
-   "MERCADO SORIANA",
-   "FARMACIAS SIMILARES",
-   "HIPERMERCADO SORIANA"
-  ]
+ "metronidazol|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "suero|0901": {
   "n": 44,
@@ -11080,12 +11265,6 @@
    "SORIANA SUPER",
    "BODEGA AURRERA"
   ]
- },
- "metronidazol|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "trimetoprima|1502": {
   "n": 1,
@@ -11189,6 +11368,12 @@
    "MEGA SORIANA"
   ]
  },
+ "doxiciclina|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "cetirizina|0901": {
   "n": 20,
   "ejemplo": [
@@ -11231,7 +11416,7 @@
    "MEGA SORIANA"
   ]
  },
- "doxiciclina|1502": {
+ "clotrimazol|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -11278,11 +11463,46 @@
    "MEGA SORIANA"
   ]
  },
- "clotrimazol|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
+ "ketoconazol|1502": {
+  "n": 6,
+  "ejemplo": [
+   {
+    "producto": "KETOCONAZOL, S/M, 10 TABLETAS DE 200 MG.",
+    "tipo_producto": "KETOCONAZOL",
+    "precio": 48,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
+    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
+    "colonia": "SAN FRANCISCO COACALCO",
+    "cp": "55712",
+    "municipio": "Coacalco",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "KETOCONAZOL, S/M, CAJA CON TUBO CON 40 GR CREMA 2%",
+    "tipo_producto": "KETOCONAZOL",
+    "precio": 37,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
+    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
+    "colonia": "SAN FRANCISCO COACALCO",
+    "cp": "55712",
+    "municipio": "Coacalco",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "KETOCONAZOL, S/M, 10 TABLETAS DE 200 MG.",
+   "KETOCONAZOL, S/M, CAJA CON TUBO CON 40 GR CREMA 2%"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA"
+  ]
  },
  "ambroxol|0901": {
   "n": 51,
@@ -11330,47 +11550,6 @@
    "FARMACIAS DE SIMILARES",
    "MEGA SORIANA",
    "FARMATODO"
-  ]
- },
- "ketoconazol|1502": {
-  "n": 6,
-  "ejemplo": [
-   {
-    "producto": "KETOCONAZOL, S/M, 10 TABLETAS DE 200 MG.",
-    "tipo_producto": "KETOCONAZOL",
-    "precio": 48,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
-    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
-    "colonia": "SAN FRANCISCO COACALCO",
-    "cp": "55712",
-    "municipio": "Coacalco",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "KETOCONAZOL, S/M, CAJA CON TUBO CON 40 GR CREMA 2%",
-    "tipo_producto": "KETOCONAZOL",
-    "precio": 37,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
-    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
-    "colonia": "SAN FRANCISCO COACALCO",
-    "cp": "55712",
-    "municipio": "Coacalco",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "KETOCONAZOL, S/M, 10 TABLETAS DE 200 MG.",
-   "KETOCONAZOL, S/M, CAJA CON TUBO CON 40 GR CREMA 2%"
-  ],
-  "cadenas": [
-   "WAL-MART",
-   "MEGA SORIANA",
-   "BODEGA AURRERA",
-   "MERCADO SORIANA"
   ]
  },
  "fluconazol|1502": {
@@ -11462,6 +11641,12 @@
   "nombres": [],
   "cadenas": []
  },
+ "nitazoxanida|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "salbutamol|0901": {
   "n": 2,
   "ejemplo": [
@@ -11494,51 +11679,6 @@
   ],
   "nombres": [
    "SALBUTAMOL, S/M, CAJA CON 200 DOSIS DE 100 MCG SUSPENSION EN AEROSOL 20 MG."
-  ],
-  "cadenas": [
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
-  ]
- },
- "nitazoxanida|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "losartan|0901": {
-  "n": 3,
-  "ejemplo": [
-   {
-    "producto": "LOSARTÁN, S/M, CAJA CON 30 COMPRIMIDOS O TABLETAS DE 50 MG.",
-    "tipo_producto": "LOSARTÁN",
-    "precio": 30,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "WAL-MART EXPRESS",
-    "establecimiento": "WALMART EXPRESS SUCURSAL GIRASOLES",
-    "direccion": "RANCHO SAN LORENZO 6, ESQ. CALZADA DE LAS BOMBAS (INT.",
-    "colonia": "GIRASOLES III",
-    "cp": "04920",
-    "municipio": "Coyoacán",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "LOSARTAN HIDROCLOROTIAZIDA, S/M, CAJA CON 15 COMPRIMIDOS DE 100 MG./12.5 MG.",
-    "tipo_producto": "LOSARTAN HIDROCLOROTIAZIDA",
-    "precio": 139,
-    "fecha_observacion": "2026-11-03",
-    "cadena_comercial": "SORIANA SUPER",
-    "establecimiento": "SORIANA SUPER SUCURSAL TORIELLO (284)",
-    "direccion": "CALZADA DE TLALPAN 4515",
-    "colonia": "TORIELLO GUERRA",
-    "cp": "14050",
-    "municipio": "Tlalpan",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "LOSARTÁN, S/M, CAJA CON 30 COMPRIMIDOS O TABLETAS DE 50 MG.",
-   "LOSARTAN HIDROCLOROTIAZIDA, S/M, CAJA CON 15 COMPRIMIDOS DE 100 MG./12.5 MG."
   ],
   "cadenas": [
    "WAL-MART EXPRESS",
@@ -11586,6 +11726,51 @@
    "FARMACIAS SIMILARES"
   ]
  },
+ "losartan|0901": {
+  "n": 3,
+  "ejemplo": [
+   {
+    "producto": "LOSARTÁN, S/M, CAJA CON 30 COMPRIMIDOS O TABLETAS DE 50 MG.",
+    "tipo_producto": "LOSARTÁN",
+    "precio": 30,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "WAL-MART EXPRESS",
+    "establecimiento": "WALMART EXPRESS SUCURSAL GIRASOLES",
+    "direccion": "RANCHO SAN LORENZO 6, ESQ. CALZADA DE LAS BOMBAS (INT.",
+    "colonia": "GIRASOLES III",
+    "cp": "04920",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "LOSARTAN HIDROCLOROTIAZIDA, S/M, CAJA CON 15 COMPRIMIDOS DE 100 MG./12.5 MG.",
+    "tipo_producto": "LOSARTAN HIDROCLOROTIAZIDA",
+    "precio": 139,
+    "fecha_observacion": "2026-11-03",
+    "cadena_comercial": "SORIANA SUPER",
+    "establecimiento": "SORIANA SUPER SUCURSAL TORIELLO (284)",
+    "direccion": "CALZADA DE TLALPAN 4515",
+    "colonia": "TORIELLO GUERRA",
+    "cp": "14050",
+    "municipio": "Tlalpan",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "LOSARTÁN, S/M, CAJA CON 30 COMPRIMIDOS O TABLETAS DE 50 MG.",
+   "LOSARTAN HIDROCLOROTIAZIDA, S/M, CAJA CON 15 COMPRIMIDOS DE 100 MG./12.5 MG."
+  ],
+  "cadenas": [
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
+ "complejo b|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "enalapril|0901": {
   "n": 25,
   "ejemplo": [
@@ -11631,13 +11816,13 @@
    "MERCADO SORIANA"
   ]
  },
- "complejo b|1502": {
+ "vitamina c|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "vitamina c|1502": {
+ "sulfato ferroso|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -11688,11 +11873,44 @@
    "FARMATODO"
   ]
  },
- "sulfato ferroso|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
+ "sildenafil|1502": {
+  "n": 3,
+  "ejemplo": [
+   {
+    "producto": "SILDENAFIL, S/M, CAJA CON UNA TABLETA DE 100 MG.",
+    "tipo_producto": "SILDENAFIL",
+    "precio": 35.5,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL COACALCO",
+    "direccion": "LOPEZ PORTILLO 37, ESQ. ENTRADA TULTEPEC",
+    "colonia": "PERIODISTAS",
+    "cp": "55700",
+    "municipio": "Coacalco",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "SILDENAFIL, S/M, CAJA CON UNA TABLETA DE 100 MG.",
+    "tipo_producto": "SILDENAFIL",
+    "precio": 30,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "BODEGA AURRERA",
+    "establecimiento": "BODEGA AURRERA SUCURSAL FUENTES DEL VALLE",
+    "direccion": "JOSE LOPEZ PORTILLO 149, ESQ. FUENTES DEL VALLE",
+    "colonia": "FUENTES DEL VALLE",
+    "cp": "54910",
+    "municipio": "Tultitlán",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "SILDENAFIL, S/M, CAJA CON UNA TABLETA DE 100 MG."
+  ],
+  "cadenas": [
+   "MEGA SORIANA",
+   "BODEGA AURRERA",
+   "MERCADO SORIANA"
+  ]
  },
  "amlodipino|0901": {
   "n": 50,
@@ -11741,51 +11959,6 @@
    "FARMATODO"
   ]
  },
- "sildenafil|1502": {
-  "n": 3,
-  "ejemplo": [
-   {
-    "producto": "SILDENAFIL, S/M, CAJA CON UNA TABLETA DE 100 MG.",
-    "tipo_producto": "SILDENAFIL",
-    "precio": 35.5,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL COACALCO",
-    "direccion": "LOPEZ PORTILLO 37, ESQ. ENTRADA TULTEPEC",
-    "colonia": "PERIODISTAS",
-    "cp": "55700",
-    "municipio": "Coacalco",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "SILDENAFIL, S/M, CAJA CON UNA TABLETA DE 100 MG.",
-    "tipo_producto": "SILDENAFIL",
-    "precio": 30,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "BODEGA AURRERA",
-    "establecimiento": "BODEGA AURRERA SUCURSAL FUENTES DEL VALLE",
-    "direccion": "JOSE LOPEZ PORTILLO 149, ESQ. FUENTES DEL VALLE",
-    "colonia": "FUENTES DEL VALLE",
-    "cp": "54910",
-    "municipio": "Tultitlán",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "SILDENAFIL, S/M, CAJA CON UNA TABLETA DE 100 MG."
-  ],
-  "cadenas": [
-   "MEGA SORIANA",
-   "BODEGA AURRERA",
-   "MERCADO SORIANA"
-  ]
- },
- "nifedipino|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "tamsulosina|1502": {
   "n": 4,
   "ejemplo": [
@@ -11826,43 +11999,11 @@
    "MERCADO SORIANA"
   ]
  },
- "metoprolol|0901": {
-  "n": 2,
-  "ejemplo": [
-   {
-    "producto": "METOPROLOL, S/M, 20 TABLETAS DE 100 MG.",
-    "tipo_producto": "METOPROLOL",
-    "precio": 23,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "WAL-MART EXPRESS",
-    "establecimiento": "WALMART EXPRESS SUCURSAL GIRASOLES",
-    "direccion": "RANCHO SAN LORENZO 6, ESQ. CALZADA DE LAS BOMBAS (INT.",
-    "colonia": "GIRASOLES III",
-    "cp": "04920",
-    "municipio": "Coyoacán",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "METOPROLOL, S/M, 20 TABLETAS DE 100 MG.",
-    "tipo_producto": "METOPROLOL",
-    "precio": 26,
-    "fecha_observacion": "2026-11-03",
-    "cadena_comercial": "SORIANA SUPER",
-    "establecimiento": "SORIANA SUPER SUCURSAL TORIELLO (284)",
-    "direccion": "CALZADA DE TLALPAN 4515",
-    "colonia": "TORIELLO GUERRA",
-    "cp": "14050",
-    "municipio": "Tlalpan",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "METOPROLOL, S/M, 20 TABLETAS DE 100 MG."
-  ],
-  "cadenas": [
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
-  ]
+ "nifedipino|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "alopurinol|1502": {
   "n": 10,
@@ -11907,7 +12048,51 @@
    "BODEGA AURRERA"
   ]
  },
+ "metoprolol|0901": {
+  "n": 2,
+  "ejemplo": [
+   {
+    "producto": "METOPROLOL, S/M, 20 TABLETAS DE 100 MG.",
+    "tipo_producto": "METOPROLOL",
+    "precio": 23,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "WAL-MART EXPRESS",
+    "establecimiento": "WALMART EXPRESS SUCURSAL GIRASOLES",
+    "direccion": "RANCHO SAN LORENZO 6, ESQ. CALZADA DE LAS BOMBAS (INT.",
+    "colonia": "GIRASOLES III",
+    "cp": "04920",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "METOPROLOL, S/M, 20 TABLETAS DE 100 MG.",
+    "tipo_producto": "METOPROLOL",
+    "precio": 26,
+    "fecha_observacion": "2026-11-03",
+    "cadena_comercial": "SORIANA SUPER",
+    "establecimiento": "SORIANA SUPER SUCURSAL TORIELLO (284)",
+    "direccion": "CALZADA DE TLALPAN 4515",
+    "colonia": "TORIELLO GUERRA",
+    "cp": "14050",
+    "municipio": "Tlalpan",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "METOPROLOL, S/M, 20 TABLETAS DE 100 MG."
+  ],
+  "cadenas": [
+   "WAL-MART EXPRESS",
+   "SORIANA SUPER"
+  ]
+ },
  "colchicina|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
+ "clonazepam|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -11952,7 +12137,7 @@
    "SORIANA SUPER"
   ]
  },
- "clonazepam|1502": {
+ "alprazolam|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -11963,51 +12148,6 @@
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
- },
- "alprazolam|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
- "metformina|0901": {
-  "n": 4,
-  "ejemplo": [
-   {
-    "producto": "METFORMINA-GLIBENCLAMIDA, S/M, 60 TABLETAS 500 MG./ 5 MG.",
-    "tipo_producto": "METFORMINA-GLIBENCLAMIDA",
-    "precio": 72,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "WAL-MART EXPRESS",
-    "establecimiento": "WALMART EXPRESS SUCURSAL GIRASOLES",
-    "direccion": "RANCHO SAN LORENZO 6, ESQ. CALZADA DE LAS BOMBAS (INT.",
-    "colonia": "GIRASOLES III",
-    "cp": "04920",
-    "municipio": "Coyoacán",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "METFORMINA, S/M, 30 TABLETAS DE 850 MG.",
-    "tipo_producto": "METFORMINA",
-    "precio": 50,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "WAL-MART EXPRESS",
-    "establecimiento": "WALMART EXPRESS SUCURSAL GIRASOLES",
-    "direccion": "RANCHO SAN LORENZO 6, ESQ. CALZADA DE LAS BOMBAS (INT.",
-    "colonia": "GIRASOLES III",
-    "cp": "04920",
-    "municipio": "Coyoacán",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "METFORMINA-GLIBENCLAMIDA, S/M, 60 TABLETAS 500 MG./ 5 MG.",
-   "METFORMINA, S/M, 30 TABLETAS DE 850 MG."
-  ],
-  "cadenas": [
-   "WAL-MART EXPRESS",
-   "SORIANA SUPER"
-  ]
  },
  "tramadol|1502": {
   "n": 2,
@@ -12047,27 +12187,42 @@
    "BODEGA AURRERA"
   ]
  },
- "glibenclamida|0901": {
-  "n": 1,
+ "metformina|0901": {
+  "n": 4,
   "ejemplo": [
    {
-    "producto": "GLIBENCLAMIDA, S/M, 50 TABLETAS DE 5 MG.",
-    "tipo_producto": "GLIBENCLAMIDA",
-    "precio": 39,
-    "fecha_observacion": "2026-11-03",
-    "cadena_comercial": "SORIANA SUPER",
-    "establecimiento": "SORIANA SUPER SUCURSAL TORIELLO (284)",
-    "direccion": "CALZADA DE TLALPAN 4515",
-    "colonia": "TORIELLO GUERRA",
-    "cp": "14050",
-    "municipio": "Tlalpan",
+    "producto": "METFORMINA-GLIBENCLAMIDA, S/M, 60 TABLETAS 500 MG./ 5 MG.",
+    "tipo_producto": "METFORMINA-GLIBENCLAMIDA",
+    "precio": 72,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "WAL-MART EXPRESS",
+    "establecimiento": "WALMART EXPRESS SUCURSAL GIRASOLES",
+    "direccion": "RANCHO SAN LORENZO 6, ESQ. CALZADA DE LAS BOMBAS (INT.",
+    "colonia": "GIRASOLES III",
+    "cp": "04920",
+    "municipio": "Coyoacán",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "METFORMINA, S/M, 30 TABLETAS DE 850 MG.",
+    "tipo_producto": "METFORMINA",
+    "precio": 50,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "WAL-MART EXPRESS",
+    "establecimiento": "WALMART EXPRESS SUCURSAL GIRASOLES",
+    "direccion": "RANCHO SAN LORENZO 6, ESQ. CALZADA DE LAS BOMBAS (INT.",
+    "colonia": "GIRASOLES III",
+    "cp": "04920",
+    "municipio": "Coyoacán",
     "entidad": "Ciudad de México"
    }
   ],
   "nombres": [
-   "GLIBENCLAMIDA, S/M, 50 TABLETAS DE 5 MG."
+   "METFORMINA-GLIBENCLAMIDA, S/M, 60 TABLETAS 500 MG./ 5 MG.",
+   "METFORMINA, S/M, 30 TABLETAS DE 850 MG."
   ],
   "cadenas": [
+   "WAL-MART EXPRESS",
    "SORIANA SUPER"
   ]
  },
@@ -12109,6 +12264,30 @@
    "MEGA SORIANA",
    "BODEGA AURRERA",
    "MERCADO SORIANA"
+  ]
+ },
+ "glibenclamida|0901": {
+  "n": 1,
+  "ejemplo": [
+   {
+    "producto": "GLIBENCLAMIDA, S/M, 50 TABLETAS DE 5 MG.",
+    "tipo_producto": "GLIBENCLAMIDA",
+    "precio": 39,
+    "fecha_observacion": "2026-11-03",
+    "cadena_comercial": "SORIANA SUPER",
+    "establecimiento": "SORIANA SUPER SUCURSAL TORIELLO (284)",
+    "direccion": "CALZADA DE TLALPAN 4515",
+    "colonia": "TORIELLO GUERRA",
+    "cp": "14050",
+    "municipio": "Tlalpan",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "GLIBENCLAMIDA, S/M, 50 TABLETAS DE 5 MG."
+  ],
+  "cadenas": [
+   "SORIANA SUPER"
   ]
  },
  "fluoxetina|1502": {
@@ -12198,6 +12377,12 @@
    "MERCADO SORIANA"
   ]
  },
+ "pregabalina|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "atorvastatina|0901": {
   "n": 31,
   "ejemplo": [
@@ -12243,7 +12428,7 @@
    "FARMATODO"
   ]
  },
- "pregabalina|1502": {
+ "condon|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -12273,7 +12458,7 @@
    "SORIANA SUPER"
   ]
  },
- "condon|1502": {
+ "preservativo|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
@@ -12324,12 +12509,6 @@
    "MEGA SORIANA",
    "FARMATODO"
   ]
- },
- "preservativo|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "prueba de embarazo|1502": {
   "n": 0,
@@ -12394,61 +12573,17 @@
    "SORIANA EXPRESS"
   ]
  },
- "prednisona|0901": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
- },
  "gasas|1502": {
   "n": 0,
   "ejemplo": [],
   "nombres": [],
   "cadenas": []
  },
- "dexametasona|0901": {
-  "n": 22,
-  "ejemplo": [
-   {
-    "producto": "DEXAMETASONA, S/M, CAJA CON 1 AMPOLLETA DE 2 ML. SOLUCION INYECTABLE DE 8 MG./2 ML.",
-    "tipo_producto": "DEXAMETASONA",
-    "precio": 29,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "MERCADO SORIANA",
-    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
-    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
-    "colonia": "AZCAPOTZALCO",
-    "cp": "02000",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "DEXAMETASONA, S/M, CAJA CON 1 AMPOLLETA DE 2 ML. SOLUCION INYECTABLE DE 8 MG./2 ML.",
-    "tipo_producto": "DEXAMETASONA",
-    "precio": 29,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL CUITLAHUAC (253)",
-    "direccion": "CUITLAHUAC 372, ENTRE PANTACO Y RABAI",
-    "colonia": "JARDÍN AZPETIA",
-    "cp": "02530",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "DEXAMETASONA, S/M, CAJA CON 1 AMPOLLETA DE 2 ML. SOLUCION INYECTABLE DE 8 MG./2 ML."
-  ],
-  "cadenas": [
-   "MERCADO SORIANA",
-   "HIPERMERCADO SORIANA",
-   "LA COMER",
-   "FARMACIAS DE SIMILARES",
-   "WAL-MART",
-   "CHEDRAUI",
-   "MEGA SORIANA",
-   "BODEGA AURRERA"
-  ]
+ "prednisona|0901": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
  },
  "venda|1502": {
   "n": 69,
@@ -12499,6 +12634,56 @@
    "SORIANA EXPRESS"
   ]
  },
+ "dexametasona|0901": {
+  "n": 22,
+  "ejemplo": [
+   {
+    "producto": "DEXAMETASONA, S/M, CAJA CON 1 AMPOLLETA DE 2 ML. SOLUCION INYECTABLE DE 8 MG./2 ML.",
+    "tipo_producto": "DEXAMETASONA",
+    "precio": 29,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "MERCADO SORIANA",
+    "establecimiento": "MERCADO SORIANA SUCURSAL AZCAPOTZALCO",
+    "direccion": "AZCAPOTZALCO NO. 527, CALLE LIBERTAD Y 16 DE SEPTIEMBRE",
+    "colonia": "AZCAPOTZALCO",
+    "cp": "02000",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "DEXAMETASONA, S/M, CAJA CON 1 AMPOLLETA DE 2 ML. SOLUCION INYECTABLE DE 8 MG./2 ML.",
+    "tipo_producto": "DEXAMETASONA",
+    "precio": 29,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL CUITLAHUAC (253)",
+    "direccion": "CUITLAHUAC 372, ENTRE PANTACO Y RABAI",
+    "colonia": "JARDÍN AZPETIA",
+    "cp": "02530",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "DEXAMETASONA, S/M, CAJA CON 1 AMPOLLETA DE 2 ML. SOLUCION INYECTABLE DE 8 MG./2 ML."
+  ],
+  "cadenas": [
+   "MERCADO SORIANA",
+   "HIPERMERCADO SORIANA",
+   "LA COMER",
+   "FARMACIAS DE SIMILARES",
+   "WAL-MART",
+   "CHEDRAUI",
+   "MEGA SORIANA",
+   "BODEGA AURRERA"
+  ]
+ },
+ "curitas|1502": {
+  "n": 0,
+  "ejemplo": [],
+  "nombres": [],
+  "cadenas": []
+ },
  "betametasona|0901": {
   "n": 26,
   "ejemplo": [
@@ -12543,12 +12728,6 @@
    "MEGA SORIANA",
    "FARMATODO"
   ]
- },
- "curitas|1502": {
-  "n": 0,
-  "ejemplo": [],
-  "nombres": [],
-  "cadenas": []
  },
  "termometro|1502": {
   "n": 37,
@@ -12703,6 +12882,45 @@
    "SORIANA EXPRESS"
   ]
  },
+ "vitacilina|1502": {
+  "n": 3,
+  "ejemplo": [
+   {
+    "producto": "VITACILINA, S/M, CAJA CON TUBO DE 28 GR. UNGÜENTO",
+    "tipo_producto": "VITACILINA",
+    "precio": 52,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
+    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
+    "colonia": "SAN FRANCISCO COACALCO",
+    "cp": "55712",
+    "municipio": "Coacalco",
+    "entidad": "Estado de México"
+   },
+   {
+    "producto": "VITACILINA, S/M, CAJA CON TUBO DE 28 GR. UNGÜENTO",
+    "tipo_producto": "VITACILINA",
+    "precio": 46.5,
+    "fecha_observacion": "2026-11-04",
+    "cadena_comercial": "MEGA SORIANA",
+    "establecimiento": "MEGA SORIANA SUCURSAL COACALCO",
+    "direccion": "LOPEZ PORTILLO 37, ESQ. ENTRADA TULTEPEC",
+    "colonia": "PERIODISTAS",
+    "cp": "55700",
+    "municipio": "Coacalco",
+    "entidad": "Estado de México"
+   }
+  ],
+  "nombres": [
+   "VITACILINA, S/M, CAJA CON TUBO DE 28 GR. UNGÜENTO"
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "MEGA SORIANA",
+   "BODEGA AURRERA"
+  ]
+ },
  "ampicilina|0901": {
   "n": 19,
   "ejemplo": [
@@ -12748,13 +12966,13 @@
    "BODEGA AURRERA"
   ]
  },
- "vitacilina|1502": {
-  "n": 3,
+ "vick|1502": {
+  "n": 7,
   "ejemplo": [
    {
-    "producto": "VITACILINA, S/M, CAJA CON TUBO DE 28 GR. UNGÜENTO",
-    "tipo_producto": "VITACILINA",
-    "precio": 52,
+    "producto": "VICK VAPORUB, S/M, LATA CON 12 GR. UNGÜENTO",
+    "tipo_producto": "VICK VAPORUB",
+    "precio": 41,
     "fecha_observacion": "2026-11-04",
     "cadena_comercial": "WAL-MART",
     "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
@@ -12765,26 +12983,28 @@
     "entidad": "Estado de México"
    },
    {
-    "producto": "VITACILINA, S/M, CAJA CON TUBO DE 28 GR. UNGÜENTO",
-    "tipo_producto": "VITACILINA",
-    "precio": 46.5,
+    "producto": "VICK VAPORUB, S/M, FRASCO CON 50 GR. UNGÜENTO",
+    "tipo_producto": "VICK VAPORUB",
+    "precio": 145,
     "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "MEGA SORIANA",
-    "establecimiento": "MEGA SORIANA SUCURSAL COACALCO",
-    "direccion": "LOPEZ PORTILLO 37, ESQ. ENTRADA TULTEPEC",
-    "colonia": "PERIODISTAS",
-    "cp": "55700",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
+    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
+    "colonia": "SAN FRANCISCO COACALCO",
+    "cp": "55712",
     "municipio": "Coacalco",
     "entidad": "Estado de México"
    }
   ],
   "nombres": [
-   "VITACILINA, S/M, CAJA CON TUBO DE 28 GR. UNGÜENTO"
+   "VICK VAPORUB, S/M, LATA CON 12 GR. UNGÜENTO",
+   "VICK VAPORUB, S/M, FRASCO CON 50 GR. UNGÜENTO"
   ],
   "cadenas": [
    "WAL-MART",
    "MEGA SORIANA",
-   "BODEGA AURRERA"
+   "BODEGA AURRERA",
+   "MERCADO SORIANA"
   ]
  },
  "ciprofloxacino|0901": {
@@ -12831,91 +13051,6 @@
    "CHEDRAUI",
    "MERCADO SORIANA",
    "BODEGA AURRERA"
-  ]
- },
- "vick|1502": {
-  "n": 7,
-  "ejemplo": [
-   {
-    "producto": "VICK VAPORUB, S/M, LATA CON 12 GR. UNGÜENTO",
-    "tipo_producto": "VICK VAPORUB",
-    "precio": 41,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
-    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
-    "colonia": "SAN FRANCISCO COACALCO",
-    "cp": "55712",
-    "municipio": "Coacalco",
-    "entidad": "Estado de México"
-   },
-   {
-    "producto": "VICK VAPORUB, S/M, FRASCO CON 50 GR. UNGÜENTO",
-    "tipo_producto": "VICK VAPORUB",
-    "precio": 145,
-    "fecha_observacion": "2026-11-04",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL SANTA MARIA COACALCO",
-    "direccion": "JOSE LOPEZ PORTILLO 2, DENTRO DE LA PLAZA COMERCIAL",
-    "colonia": "SAN FRANCISCO COACALCO",
-    "cp": "55712",
-    "municipio": "Coacalco",
-    "entidad": "Estado de México"
-   }
-  ],
-  "nombres": [
-   "VICK VAPORUB, S/M, LATA CON 12 GR. UNGÜENTO",
-   "VICK VAPORUB, S/M, FRASCO CON 50 GR. UNGÜENTO"
-  ],
-  "cadenas": [
-   "WAL-MART",
-   "MEGA SORIANA",
-   "BODEGA AURRERA",
-   "MERCADO SORIANA"
-  ]
- },
- "azitromicina|0901": {
-  "n": 25,
-  "ejemplo": [
-   {
-    "producto": "AZITROMICINA, S/M, CAJA CON 3 TABLETAS O CAPSULAS DE 500 MG.",
-    "tipo_producto": "AZITROMICINA",
-    "precio": 118,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "WAL-MART",
-    "establecimiento": "WALMART SUCURSAL NEXTENGO",
-    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
-    "colonia": "SANTA CRUZ ACAYUCAN",
-    "cp": "02770",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   },
-   {
-    "producto": "AZITROMICINA, S/M, CAJA CON 3 TABLETAS O CAPSULAS DE 500 MG.",
-    "tipo_producto": "AZITROMICINA",
-    "precio": 127,
-    "fecha_observacion": "2026-11-05",
-    "cadena_comercial": "HIPERMERCADO SORIANA",
-    "establecimiento": "SORIANA HIPER SUCURSAL CUITLAHUAC (253)",
-    "direccion": "CUITLAHUAC 372, ENTRE PANTACO Y RABAI",
-    "colonia": "JARDÍN AZPETIA",
-    "cp": "02530",
-    "municipio": "Azcapotzalco",
-    "entidad": "Ciudad de México"
-   }
-  ],
-  "nombres": [
-   "AZITROMICINA, S/M, CAJA CON 3 TABLETAS O CAPSULAS DE 500 MG."
-  ],
-  "cadenas": [
-   "WAL-MART",
-   "HIPERMERCADO SORIANA",
-   "LA COMER",
-   "FARMACIAS DE SIMILARES",
-   "WAL-MART EXPRESS",
-   "BODEGA AURRERA",
-   "CHEDRAUI",
-   "MEGA SORIANA"
   ]
  },
  "pañal|1502": {
@@ -12973,6 +13108,50 @@
    "MERCADO SORIANA",
    "BODEGA AURRERA",
    "SORIANA EXPRESS"
+  ]
+ },
+ "azitromicina|0901": {
+  "n": 25,
+  "ejemplo": [
+   {
+    "producto": "AZITROMICINA, S/M, CAJA CON 3 TABLETAS O CAPSULAS DE 500 MG.",
+    "tipo_producto": "AZITROMICINA",
+    "precio": 118,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "WAL-MART",
+    "establecimiento": "WALMART SUCURSAL NEXTENGO",
+    "direccion": "NEXTENGO 78, ENTRE FERROCARRILES NACIONALES Y SANTA CRU",
+    "colonia": "SANTA CRUZ ACAYUCAN",
+    "cp": "02770",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   },
+   {
+    "producto": "AZITROMICINA, S/M, CAJA CON 3 TABLETAS O CAPSULAS DE 500 MG.",
+    "tipo_producto": "AZITROMICINA",
+    "precio": 127,
+    "fecha_observacion": "2026-11-05",
+    "cadena_comercial": "HIPERMERCADO SORIANA",
+    "establecimiento": "SORIANA HIPER SUCURSAL CUITLAHUAC (253)",
+    "direccion": "CUITLAHUAC 372, ENTRE PANTACO Y RABAI",
+    "colonia": "JARDÍN AZPETIA",
+    "cp": "02530",
+    "municipio": "Azcapotzalco",
+    "entidad": "Ciudad de México"
+   }
+  ],
+  "nombres": [
+   "AZITROMICINA, S/M, CAJA CON 3 TABLETAS O CAPSULAS DE 500 MG."
+  ],
+  "cadenas": [
+   "WAL-MART",
+   "HIPERMERCADO SORIANA",
+   "LA COMER",
+   "FARMACIAS DE SIMILARES",
+   "WAL-MART EXPRESS",
+   "BODEGA AURRERA",
+   "CHEDRAUI",
+   "MEGA SORIANA"
   ]
  },
  "cefalexina|0901": {
