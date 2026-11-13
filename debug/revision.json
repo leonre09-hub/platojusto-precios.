@@ -1,550 +1,553 @@
 {
  "pechuga": {
-  "n": 167,
+  "n": 178,
   "tiendas": {
-   "soriana": "98.9 · PECHUGA, S/M, 1 KG. GRANEL. PECHUGA. CORTE AMERICANO",
-   "walmart": "152 · PECHUGA, S/M, 1 KG. GRANEL. PECHUGA CON HUESO O ANATÓMICA O SIN RABADILLA (CON PIEL)",
-   "aurrera": "88 · PECHUGA, S/M, 1 KG. GRANEL. PECHUGA. CORTE AMERICANO",
-   "lacomer": "89 · PECHUGA, S/M, 1 KG. GRANEL. PECHUGA. CORTE AMERICANO",
    "mercado": "110 · PECHUGA, S/M, 1 KG. GRANEL. PECHUGA CON HUESO O ANATÓMICA O SIN RABADILLA (CON PIEL)",
-   "chedraui": "90.45 · PECHUGA, S/M, 1 KG. GRANEL. PECHUGA. CORTE AMERICANO"
+   "walmart": "152 · PECHUGA, S/M, 1 KG. GRANEL. PECHUGA CON HUESO O ANATÓMICA O SIN RABADILLA (CON PIEL)",
+   "soriana": "98.9 · PECHUGA, S/M, 1 KG. GRANEL. PECHUGA. CORTE AMERICANO",
+   "chedraui": "84.5 · PECHUGA, S/M, 1 KG. GRANEL. PECHUGA. CORTE AMERICANO",
+   "aurrera": "88 · PECHUGA, S/M, 1 KG. GRANEL. PECHUGA. CORTE AMERICANO",
+   "lacomer": "89 · PECHUGA, S/M, 1 KG. GRANEL. PECHUGA. CORTE AMERICANO"
   }
  },
  "pierna": {
-  "n": 125,
+  "n": 121,
   "tiendas": {
-   "soriana": "31.9 · PIERNA CON MUSLO, S/M, 1 KG. GRANEL. PIERNA CON MUSLO. PIGMENTADA",
-   "aurrera": "32 · PIERNA CON MUSLO, S/M, 1 KG. GRANEL. PIERNA CON MUSLO DE POLLO. CORTE AMERICANO",
    "walmart": "32 · PIERNA CON MUSLO, S/M, 1 KG. GRANEL. PIERNA CON MUSLO DE POLLO. CORTE AMERICANO",
-   "lacomer": "91.25 · PIERNA, S/M, 1 KG. GRANEL. PIERNA O PIERNA BATE",
+   "soriana": "31.9 · PIERNA CON MUSLO, S/M, 1 KG. GRANEL. PIERNA CON MUSLO. PIGMENTADA",
+   "chedraui": "69.9 · PIERNA, S/M, 1 KG. GRANEL. PIERNA O PIERNA BATE",
+   "aurrera": "32 · PIERNA CON MUSLO, S/M, 1 KG. GRANEL. PIERNA CON MUSLO DE POLLO. CORTE AMERICANO",
    "mercado": "52 · PIERNA, S/M, 1 KG. GRANEL. PIERNA O PIERNA BATE",
-   "chedraui": "30 · PIERNA CON MUSLO, S/M, 1 KG. GRANEL. PIERNA CON MUSLO DE POLLO. CORTE AMERICANO"
+   "lacomer": "91.25 · PIERNA, S/M, 1 KG. GRANEL. PIERNA O PIERNA BATE"
   }
  },
  "molida": {
-  "n": 149,
+  "n": 155,
   "tiendas": {
-   "soriana": "110.18 · CARNE MOLIDA, S/M, 1 KG. GRANEL. MOLIDA ESPECIAL 80/20",
+   "chedraui": "124 · CARNE MOLIDA, S/M, 1 KG. GRANEL. O PULPA MOLIDA",
    "walmart": "109 · CARNE MOLIDA, S/M, 1 KG. GRANEL. O PULPA MOLIDA",
    "aurrera": "108 · CARNE MOLIDA, S/M, 1 KG. GRANEL. O PULPA MOLIDA",
-   "lacomer": "145 · CARNE MOLIDA, S/M, 1 KG. GRANEL. O PULPA MOLIDA",
    "mercado": "120 · CARNE MOLIDA, S/M, 1 KG. GRANEL. O PULPA MOLIDA",
-   "chedraui": "124 · CARNE MOLIDA, S/M, 1 KG. GRANEL. O PULPA MOLIDA"
+   "soriana": "122.45 · CARNE MOLIDA, S/M, 1 KG. GRANEL. MOLIDA DE RES",
+   "lacomer": "145 · CARNE MOLIDA, S/M, 1 KG. GRANEL. O PULPA MOLIDA"
   }
  },
  "bistec": {
-  "n": 138,
+  "n": 140,
   "tiendas": {
+   "mercado": "230 · BISTEC DE ESPALDILLA, S/M, 1 KG. GRANEL",
    "soriana": "144 · BISTEC FLECHA, S/M, 1 KG. GRANEL. BISTEC FLECHA PARA ASAR",
-   "walmart": "256 · BISTEC. CORTE DELGADO, S/M, 1 KG. GRANEL. BISTEC DE RES CORTE DELGADO O BISTEC DE RES",
-   "aurrera": "249 · BISTEC. CORTE DELGADO, S/M, 1 KG. GRANEL. BISTEC DE RES CORTE DELGADO O BISTEC DE RES",
-   "lacomer": "240 · BISTEC RANCHERO, S/M, 1 KG. GRANEL. BISTEC RANCHERO",
+   "walmart": "256 · BISTEC DE DIEZMILLO, S/M, 1 KG. GRANEL. BISTEC DIEZMILLO O DIEZMILLO SIN HUESO",
    "chedraui": "138 · BISTEC DEL 7, S/M, 1 KG. GRANEL. BISTEC DEL 7",
-   "mercado": "230 · BISTEC DE ESPALDILLA, S/M, 1 KG. GRANEL"
+   "aurrera": "249 · BISTEC. CORTE DELGADO, S/M, 1 KG. GRANEL. BISTEC DE RES CORTE DELGADO O BISTEC DE RES",
+   "lacomer": "240 · BISTEC RANCHERO, S/M, 1 KG. GRANEL. BISTEC RANCHERO"
   }
  },
  "cerdo": {
-  "n": 215,
+  "n": 218,
   "tiendas": {
+   "chedraui": "70.5 · CHULETA, S/M, 1 KG. GRANEL. CHULETA RANCHERA",
    "walmart": "97 · CHULETA, S/M, 1 KG. GRANEL. CHULETA  O CHULETA NATURAL O FRESCA/CHULETA DE PUERCO ENTRECORTADA O LOMO DESHUESADO DE PUERCO  O CHULETA NATURAL LOMO DE PUERCO",
    "aurrera": "73 · CHULETA, S/M, 1 KG. GRANEL. CHULETA ARRIERA O CHULETA MIXTA",
-   "soriana": "114 · PIERNA ENTERA/PERNIL, S/M, 1 KG. GRANEL. CARNE CERDO. PIERNA ENTERA SIN HUESO, O PERNIL SIN HUESO",
    "mercado": "120 · CHULETA, S/M, 1 KG. GRANEL. CHULETA  O CHULETA NATURAL O FRESCA/CHULETA DE PUERCO ENTRECORTADA O LOMO DESHUESADO DE PUERCO  O CHULETA NATURAL LOMO DE PUERCO",
-   "chedraui": "96 · CHULETA, S/M, 1 KG. GRANEL. CHULETA  O CHULETA NATURAL O FRESCA/CHULETA DE PUERCO ENTRECORTADA O LOMO DESHUESADO DE PUERCO  O CHULETA NATURAL LOMO DE PUERCO",
+   "soriana": "118 · PIERNA ENTERA/PERNIL, S/M, 1 KG. GRANEL. CARNE CERDO. PIERNA ENTERA SIN HUESO, O PERNIL SIN HUESO",
    "lacomer": "82 · CHULETA, S/M, 1 KG. GRANEL. CHULETA  O CHULETA NATURAL O FRESCA/CHULETA DE PUERCO ENTRECORTADA O LOMO DESHUESADO DE PUERCO  O CHULETA NATURAL LOMO DE PUERCO"
   }
  },
  "chorizo": {
-  "n": 123,
+  "n": 121,
   "tiendas": {
-   "soriana": "247 · CHORIZO, FUD, 1 KG. GRANEL. ESTILO CANTIMPALO",
-   "walmart": "270 · CHORIZO, ZWAN, 1 KG. GRANEL",
+   "chedraui": "228 · CHORIZO, FUD, 1 KG. GRANEL. ESTILO CANTIMPALO",
    "aurrera": "236 · CHORIZO, FUD, 1 KG. GRANEL. ESTILO CANTIMPALO",
-   "lacomer": "255 · CHORIZO, PARMA. CAMPESTRE, 1 KG. GRANEL. RANCHERO",
-   "chedraui": "228 · CHORIZO, PARMA. CAMPESTRE, 1 KG. GRANEL. RANCHERO"
+   "walmart": "270 · CHORIZO, ZWAN, 1 KG. GRANEL",
+   "soriana": "247 · CHORIZO, FUD, 1 KG. GRANEL. ESTILO CANTIMPALO",
+   "lacomer": "255 · CHORIZO, PARMA. CAMPESTRE, 1 KG. GRANEL. RANCHERO"
   }
  },
  "jamon": {
-  "n": 784,
+  "n": 796,
   "tiendas": {
    "soriana": "179.31 · JAMÓN, FUD, PAQUETE 290 GR. VIRGINIA DE PAVO Y CERDO",
-   "walmart": "184 · JAMÓN, ZWAN. PREMIUM, PAQUETE 250 GR. VIRGINIA DE PAVO",
+   "mercado": "97.5 · JAMÓN, S/M, 1 KG. GRANEL. DE PAVO",
+   "walmart": "185.25 · JAMÓN, BAFAR, 1 KG. GRANEL. DE PAVO. TIPO VIRGINIA",
+   "chedraui": "172.41 · JAMÓN, FUD, PAQUETE 290 GR. VIRGINIA DE PAVO Y CERDO",
    "aurrera": "176 · JAMÓN, IBERO. BARCELONA, 1 KG. GRANEL. DE CERDO Y PAVO",
-   "lacomer": "197.5 · JAMÓN, FUD, 1 KG. GRANEL. DE PAVO. VIRGINIA",
-   "mercado": "100 · JAMÓN, S/M, 1 KG. GRANEL. DE PAVO",
-   "chedraui": "174.07 · JAMÓN, FUD, PAQUETE 290 GR. VIRGINIA DE PAVO Y CERDO"
+   "lacomer": "197.5 · JAMÓN, FUD, 1 KG. GRANEL. DE PAVO. VIRGINIA"
   }
  },
  "salchicha": {
-  "n": 630,
+  "n": 636,
   "tiendas": {
-   "soriana": "93.8 · SALCHICHA, FUD, PAQUETE 500 GR. CON PAVO. PARA HOT DOG.",
-   "walmart": "92 · SALCHICHA, FUD, PAQUETE 500 GR. SALCHICHA. DE PAVO",
    "aurrera": "90 · SALCHICHA, FUD, PAQUETE 500 GR. SALCHICHA. DE PAVO",
-   "lacomer": "100 · SALCHICHA, FUD, PAQUETE 500 GR. PARA HOT DOG",
-   "mercado": "40 · SALCHICHA, S/M, 1 KG. GRANEL. DE PAVO",
-   "chedraui": "90 · SALCHICHA, FUD, PAQUETE 500 GR. SALCHICHA. DE PAVO"
+   "soriana": "91.45 · SALCHICHA, FUD, PAQUETE 500 GR. SALCHICHA. DE PAVO",
+   "chedraui": "90.5 · SALCHICHA, FUD, PAQUETE 500 GR. SALCHICHA. DE PAVO",
+   "walmart": "92 · SALCHICHA, FUD, PAQUETE 500 GR. SALCHICHA. DE PAVO",
+   "mercado": "43 · SALCHICHA, S/M, 1 KG. GRANEL. DE PAVO",
+   "lacomer": "100 · SALCHICHA, FUD, PAQUETE 500 GR. PARA HOT DOG"
   }
  },
  "atun": {
-  "n": 372,
+  "n": 365,
   "tiendas": {
-   "soriana": "13 · ATÚN, EL DORADO, LATA 130 GR. CON 30% DE SOYA EN AGUA",
-   "walmart": "17 · ATÚN, GREAT VALUE, LATA 140 GR. EN HOJUELAS EN AGUA",
-   "aurrera": "13.5 · ATÚN, GREAT VALUE, LATA 140 GR. EN HOJUELAS EN AGUA",
-   "lacomer": "18.5 · ATÚN, MAZATÚN, LATA 130 GR. EN HOJUELAS EN AGUA",
    "mercado": "18.41 · ATÚN, HERDEZ, LATA 130 GR. EN HOJUELAS EN AGUA",
-   "chedraui": "11 · ATÚN, ANCLA, LATA 120 GR. CON 20% DE PROTEÍNA DE SOYA EN AGUA"
+   "soriana": "12.9 · ATÚN, EL DORADO, LATA 130 GR. CON 30% DE SOYA EN AGUA",
+   "walmart": "17 · ATÚN, GREAT VALUE, LATA 140 GR. EN HOJUELAS EN AGUA",
+   "chedraui": "11 · ATÚN, ANCLA, LATA 120 GR. CON 20% DE PROTEÍNA DE SOYA EN AGUA",
+   "aurrera": "15.5 · ATÚN, GREAT VALUE, LATA 140 GR. EN HOJUELAS EN AGUA",
+   "lacomer": "18.5 · ATÚN, MAZATÚN, LATA 130 GR. EN HOJUELAS EN AGUA"
   }
  },
  "tilapia": {
-  "n": 42,
+  "n": 36,
   "tiendas": {
+   "chedraui": "108.5 · TILAPIA, S/M, 1 KG. GRANEL. FILETE. CONGELADO",
    "walmart": "103 · TILAPIA, S/M, 1 KG. GRANEL. FILETE. CONGELADO",
-   "lacomer": "129 · TILAPIA, S/M, 1 KG. GRANEL. FILETE. CONGELADO",
-   "chedraui": "98 · TILAPIA, S/M, 1 KG. GRANEL. FILETE. DESCONGELADO"
+   "soriana": "92 · TILAPIA, S/M, 1 KG. GRANEL. FILETE. CONGELADO",
+   "lacomer": "129 · TILAPIA, S/M, 1 KG. GRANEL. FILETE. CONGELADO"
   }
  },
  "huevo": {
-  "n": 573,
+  "n": 567,
   "tiendas": {
-   "soriana": "2.33 · HUEVO, EL CALVARIO, PAQUETE C/30. BLANCO",
+   "chedraui": "2.33 · HUEVO, EL CALVARIO, PAQUETE CON 12 BLANCO",
    "walmart": "2.33 · HUEVO, EL CALVARIO, PAQUETE CON 12 BLANCO",
-   "aurrera": "2.17 · HUEVO, EL CALVARIO, PAQUETE CON 12 BLANCO",
-   "lacomer": "2.45 · HUEVO, SAN JUAN, PAQUETE CON 12 BLANCO",
-   "chedraui": "2.21 · HUEVO, EL CALVARIO, PAQUETE C/30. BLANCO",
-   "mercado": "2.39 · HUEVO, S/M, 1 KG. GRANEL. BLANCO"
+   "soriana": "2.29 · HUEVO, PRECISSIMO, PAQUETE C/18. BLANCO",
+   "mercado": "2.48 · HUEVO, S/M, 1 KG. GRANEL. BLANCO",
+   "aurrera": "2.17 · HUEVO, PRECISSIMO, PAQUETE C/12. BLANCO",
+   "lacomer": "2.45 · HUEVO, SAN JUAN, PAQUETE CON 12 BLANCO"
   }
  },
  "leche": {
-  "n": 366,
+  "n": 361,
   "tiendas": {
+   "walmart": "29 · LECHE PASTEURIZADA, ALPURA. CLASICA, ENTERA. ENVASE O CAJA 1 LT.",
+   "chedraui": "27.38 · LECHE ULTRAPASTEURIZADA, SAN MARCOS, ENTERA. CAJA 1 LT.",
    "soriana": "22.9 · LECHE ULTRAPASTEURIZADA, VALLEY FOODS, ENVASE O CAJA 1 LT. ENTERA",
-   "walmart": "30 · LECHE ULTRAPASTEURIZADA, LALA. ENTERA, CAJA 1 LT.",
-   "aurrera": "29 · LECHE PASTEURIZADA, ALPURA. CLASICA, ENTERA. ENVASE O CAJA 1 LT.",
-   "lacomer": "30.38 · LECHE ULTRAPASTEURIZADA, LALA. ENTERA, CAJA 1 LT.",
-   "mercado": "25.4 · LECHE ULTRAPASTEURIZADA, LALA. ENTERA, CAJA 1 LT.",
-   "chedraui": "27.25 · LECHE ULTRAPASTEURIZADA, SAN MARCOS, ENTERA. CAJA 1 LT."
+   "aurrera": "28 · LECHE PASTEURIZADA, ALPURA. CLASICA, ENTERA. ENVASE O CAJA 1 LT.",
+   "mercado": "26.3 · LECHE ULTRAPASTEURIZADA, LALA. ENTERA, CAJA 1 LT.",
+   "lacomer": "30.38 · LECHE ULTRAPASTEURIZADA, LALA. ENTERA, CAJA 1 LT."
   }
  },
  "oaxaca": {
-  "n": 395,
+  "n": 420,
   "tiendas": {
-   "soriana": "204.63 · QUESO OAXACA, LALA, PAQUETE 400 GR.",
+   "soriana": "203.63 · QUESO OAXACA, LALA, PAQUETE 400 GR.",
+   "chedraui": "196.25 · QUESO OAXACA, FUD, PAQUETE 400 GR. QUESO OAXACA",
+   "mercado": "109 · QUESO OAXACA, S/M, 1 KG. GRANEL",
    "walmart": "200 · QUESO OAXACA, LALA, PAQUETE 400 GR.",
-   "aurrera": "191 · QUESO OAXACA, FRANJA, 1 KG. GRANEL. IMITACIÓN QUESO OAXACA",
-   "lacomer": "233.75 · QUESO OAXACA, ESMERALDA, PAQUETE 400 GR.",
-   "mercado": "110 · QUESO OAXACA, S/M, 1 KG. GRANEL",
-   "chedraui": "186.88 · QUESO OAXACA, LA VILLITA, PAQUETE 400 GR."
+   "aurrera": "192 · QUESO OAXACA, FRANJA, 1 KG. GRANEL. IMITACIÓN QUESO OAXACA",
+   "lacomer": "233.75 · QUESO OAXACA, ESMERALDA, PAQUETE 400 GR."
   }
  },
  "panela": {
-  "n": 487,
+  "n": 498,
   "tiendas": {
-   "soriana": "212.5 · QUESO PANELA, LOS VOLCANES, BOTE 400 GR.",
+   "mercado": "106.5 · QUESO PANELA, S/M, 1 KG. GRANEL",
    "walmart": "202 · QUESO PANELA, EL CIERVO, 1 KG. GRANEL",
+   "soriana": "212.5 · QUESO PANELA, ZWAN. PREMIUM, PAQUETE 400 GR.",
+   "chedraui": "188 · QUESO PANELA, LA VILLITA, 1 KG. GRANEL. IMITACIÓN QUESO PANELA CANASTO",
    "aurrera": "190 · QUESO PANELA, FUD, PAQUETE 400 GR. QUESO PANELA",
-   "lacomer": "212 · QUESO PANELA, LOS VOLCANES, BOTE 400 GR.",
-   "mercado": "97.5 · QUESO PANELA, S/M, 1 KG. GRANEL",
-   "chedraui": "188.13 · QUESO PANELA, FUD, PAQUETE 400 GR. QUESO PANELA"
+   "lacomer": "212 · QUESO PANELA, LOS VOLCANES, BOTE 400 GR."
   }
  },
  "crema": {
-  "n": 480,
+  "n": 550,
   "tiendas": {
-   "soriana": "122.06 · CREMA, LALA, BOTE 417 GR. REDUCIDA EN GRASA",
-   "walmart": "117.51 · CREMA, LALA, BOTE 417 GR. REDUCIDA EN GRASA",
-   "aurrera": "115.11 · CREMA, LALA, BOTE 417 GR. REDUCIDA EN GRASA",
-   "lacomer": "127.5 · CREMA, ALPURA, VASO 200 ML.",
-   "mercado": "108.01 · CREMA, ALPURA, VASO 200 ML.",
-   "chedraui": "117.35 · CREMA, LALA, VASO 196 GR."
+   "chedraui": "94.96 · CREMA, ALPURA, BOTE 426 ML.",
+   "walmart": "115.11 · CREMA, LALA, BOTE 417 GR. REDUCIDA EN GRASA",
+   "soriana": "111.73 · CREMA, LALA, VASO 196 GR.",
+   "aurrera": "86.85 · CREMA, ALPURA, BOTE 426 ML.",
+   "lacomer": "89.08 · CREMA, ALPURA, BOTE 426 ML.",
+   "mercado": "102.04 · CREMA, LALA, VASO 196 GR."
   }
  },
  "yogur": {
-  "n": 435,
+  "n": 460,
   "tiendas": {
-   "soriana": "56.64 · YOGHURT, DANONE, BOTE 900 GR. NATURAL. SIN AZÚCAR AÑADIDA",
-   "walmart": "57 · YOGHURT, YOPLAIT, BOTE 1 KG. SABOR NATURAL",
+   "walmart": "56.67 · YOGHURT, ALPURA, BOTE 900 GR. NATURAL. SIN AZÚCAR",
+   "soriana": "56.56 · YOGHURT, DANONE, BOTE 900 GR. NATURAL. SIN AZÚCAR AÑADIDA",
    "aurrera": "54.44 · YOGHURT, DANONE, BOTE 900 GR. NATURAL. SIN AZÚCAR AÑADIDA",
-   "lacomer": "54.44 · YOGHURT, DANONE, BOTE 900 GR. NATURAL. SIN AZÚCAR AÑADIDA",
-   "chedraui": "59.44 · YOGHURT, LALA, BOTE 900 GR. NATURAL. SIN AZÚCAR"
+   "chedraui": "55 · YOGHURT, DANONE, BOTE 900 GR. NATURAL. SIN AZÚCAR AÑADIDA",
+   "lacomer": "54.44 · YOGHURT, DANONE, BOTE 900 GR. NATURAL. SIN AZÚCAR AÑADIDA"
   }
  },
  "tortilla": {
-  "n": 177,
+  "n": 165,
   "tiendas": {
-   "soriana": "13.9 · TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL. AMARILLA",
-   "walmart": "13.98 · TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL",
    "mercado": "22 · TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL",
-   "aurrera": "13.5 · TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL",
+   "soriana": "13.9 · TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL. AMARILLA",
    "chedraui": "13 · TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL. AMARILLA",
+   "walmart": "14.13 · TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL",
+   "aurrera": "13.5 · TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL",
    "lacomer": "14.5 · TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL"
   }
  },
  "harina": {
-  "n": 63,
+  "n": 64,
   "tiendas": {
-   "soriana": "69.28 · TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR.",
+   "chedraui": "58.82 · TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR.",
    "walmart": "62.75 · TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR.",
    "aurrera": "60.13 · TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR.",
-   "lacomer": "57.52 · TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR.",
-   "chedraui": "58.82 · TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR."
+   "soriana": "69.28 · TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR.",
+   "lacomer": "57.52 · TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR."
   }
  },
  "bolillo": {
-  "n": 71,
+  "n": 72,
   "tiendas": {
    "soriana": "2 · PAN BLANCO BOLILLO, S/M, PIEZA",
    "walmart": "1.9 · PAN BLANCO BOLILLO, S/M, PIEZA",
+   "chedraui": "2 · PAN BLANCO BOLILLO, S/M, PIEZA",
    "aurrera": "1.7 · PAN BLANCO BOLILLO, S/M, PIEZA",
-   "lacomer": "2.5 · PAN BLANCO BOLILLO, S/M, PIEZA",
-   "chedraui": "2 · PAN BLANCO BOLILLO, S/M, PIEZA"
+   "lacomer": "2.5 · PAN BLANCO BOLILLO, S/M, PIEZA"
   }
  },
  "tostada": {
-  "n": 70,
+  "n": 72,
   "tiendas": {
+   "aurrera": "1.42 · TOSTADAS DE MAÍZ, CHARRAS. ORIGINAL, PAQUETE 300 GR.",
+   "chedraui": "2.44 · TOSTADAS DE MAÍZ, SANISSIMO. 100%, CAJA 216 GR. HORNEADAS SIN GRASA. MAÍZ BLANCO",
+   "walmart": "1.33 · TOSTADAS DE MAÍZ, MILPA REAL, PAQUETE 324 GR. ONDULADAS",
    "soriana": "2.08 · TOSTADAS DE MAÍZ, SANISSIMO. 100%, CAJA 216 GR. HORNEADAS SIN GRASA. MAÍZ BLANCO",
-   "aurrera": "1.53 · TOSTADAS DE MAÍZ, CHARRAS. ORIGINAL, PAQUETE 300 GR.",
-   "walmart": "1.32 · TOSTADAS DE MAÍZ, CHARRAS. ORIGINAL, PAQUETE 300 GR.",
    "lacomer": "1.98 · TOSTADAS DE MAÍZ, SANISSIMO. 100%, CAJA 216 GR. HORNEADAS SIN GRASA. MAÍZ BLANCO"
   }
  },
  "arroz": {
-  "n": 191,
+  "n": 184,
   "tiendas": {
+   "chedraui": "22.22 · ARROZ, LA MERCED, BOLSA 900 GR. SUPER EXTRA",
    "soriana": "21.56 · ARROZ, SCHETTINO, BOLSA 900 GR. SUPER EXTRA",
-   "walmart": "18.33 · ARROZ, GREAT VALUE, BOLSA 900 GR. SUPER EXTRA",
-   "aurrera": "15.56 · ARROZ, AURRERA, BOLSA 900 GR. SUPER EXTRA",
-   "lacomer": "18.78 · ARROZ, KE PRECIO, BOLSA 900 GR. SUPER EXTRA",
-   "mercado": "17.27 · ARROZ, VILLA CAMPO, BOLSA 1 KG. SUPER EXTRA",
-   "chedraui": "22.78 · ARROZ, LA MERCED, BOLSA 900 GR. SUPER EXTRA"
+   "mercado": "18 · ARROZ, S/M, 1 KG. GRANEL. GRANDE ENTERO",
+   "aurrera": "15.56 · ARROZ, AURRERA, BOLSA 900 GR. EXTRA",
+   "walmart": "16.67 · ARROZ, AURRERA, BOLSA 900 GR. EXTRA",
+   "lacomer": "18.78 · ARROZ, KE PRECIO, BOLSA 900 GR. SUPER EXTRA"
   }
  },
  "frijol": {
-  "n": 657,
+  "n": 651,
   "tiendas": {
+   "mercado": "25 · FRIJOL, S/M, 1 KG. GRANEL. FLOR DE MAYO",
+   "walmart": "29.77 · FRIJOL, SCHETTINO, BOLSA 907 GR. NEGRO. QUERÉTARO",
    "soriana": "33.22 · FRIJOL, SCHETTINO, BOLSA 900 GR. PINTO",
-   "walmart": "29.77 · FRIJOL, LA MERCED, BOLSA 907 GR. NEGRO. QUERÉTARO",
-   "aurrera": "29.77 · FRIJOL, LA MERCED, BOLSA 907 GR. PINTO",
-   "lacomer": "43.33 · FRIJOL, BUENO, BOLSA 900 GR. BAYO",
-   "mercado": "24 · FRIJOL, S/M, 1 KG. GRANEL. PINTO",
-   "chedraui": "28.89 · FRIJOL, LA MERCED, BOLSA 900 GR. NEGRO. QUERÉTARO"
+   "aurrera": "29.77 · FRIJOL, SCHETTINO, BOLSA 907 GR. NEGRO. QUERÉTARO",
+   "chedraui": "26.67 · FRIJOL, CHEDRAUI, BOLSA 900 GR. PINTO",
+   "lacomer": "43.33 · FRIJOL, BUENO, BOLSA 900 GR. BAYO"
   }
  },
  "lenteja": {
-  "n": 153,
+  "n": 150,
   "tiendas": {
-   "soriana": "41.9 · LENTEJA, VERDE VALLE, BOLSA 500 GR.",
-   "walmart": "34 · LENTEJA, LA MERCED, BOLSA 500 GR.",
-   "aurrera": "30 · LENTEJA, SCHETTINO, BOLSA 500 GR.",
-   "lacomer": "52.64 · LENTEJA, LA MERCED, BOLSA 454 GR.",
    "mercado": "19.5 · LENTEJA, S/M, 1 KG. GRANEL",
-   "chedraui": "32 · LENTEJA, SCHETTINO, BOLSA 500 GR."
+   "walmart": "34 · LENTEJA, LA MERCED, BOLSA 500 GR.",
+   "soriana": "42.85 · LENTEJA, VERDE VALLE, BOLSA 500 GR.",
+   "chedraui": "32 · LENTEJA, SCHETTINO, BOLSA 500 GR.",
+   "aurrera": "30 · LENTEJA, SCHETTINO, BOLSA 500 GR.",
+   "lacomer": "52.64 · LENTEJA, LA MERCED, BOLSA 454 GR."
   }
  },
  "pasta": {
-  "n": 571,
+  "n": 550,
   "tiendas": {
-   "soriana": "22.5 · PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. CODO",
+   "soriana": "22.5 · PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. LENGUA",
+   "mercado": "37 · PASTA PARA SOPA, LA MODERNA, PAQUETE 200 GR. SPAGHETTI",
+   "chedraui": "30.56 · PASTA PARA SOPA, CHEDRAUI, PAQUETE 180 GR. SPAGHETTI",
    "walmart": "40 · PASTA PARA SOPA, ITALPASTA, PAQUETE 200 GR. FIDEO CORTADO NO. 1",
-   "aurrera": "26.88 · PASTA PARA SOPA, AURRERA, PAQUETE 200 GR. FIDEO MEDIANO",
-   "lacomer": "55.45 · PASTA PARA SOPA, BARILLA, PAQUETE 200 GR. SPAGHETTI NO. 5",
-   "mercado": "35.75 · PASTA PARA SOPA, LA MODERNA, PAQUETE 200 GR. SPAGHETTI",
-   "chedraui": "30.56 · PASTA PARA SOPA, CHEDRAUI, PAQUETE 180 GR. SPAGHETTI"
+   "aurrera": "27.5 · PASTA PARA SOPA, AURRERA, PAQUETE 200 GR. FIDEO MEDIANO",
+   "lacomer": "55.45 · PASTA PARA SOPA, BARILLA, PAQUETE 200 GR. SPAGHETTI NO. 5"
   }
  },
  "avena": {
-  "n": 169,
+  "n": 166,
   "tiendas": {
+   "chedraui": "40 · AVENA, AVENA 1, BOLSA 400 GR. HOJUELA",
    "soriana": "40 · AVENA, AVENA 1, BOLSA 400 GR. HOJUELA",
    "walmart": "40 · AVENA, GRANVITA, BOLSA 400 GR.",
    "aurrera": "37.5 · AVENA, GRANVITA, BOLSA 400 GR.",
-   "lacomer": "40 · AVENA, GRANVITA, BOLSA 400 GR.",
-   "chedraui": "93.75 · AVENA, 3 MINUTOS, BOTE 400 GR. Y SÉMOLA DE TRIGO. FORTIFICADO"
+   "lacomer": "40 · AVENA, GRANVITA, BOLSA 400 GR."
   }
  },
  "pozolero": {
-  "n": 54,
+  "n": 57,
   "tiendas": {
-   "soriana": "50.5 · MAÍZ POZOLERO, OVARB, BOLSA 1 KG.",
+   "mercado": "42.5 · MAÍZ POZOLERO, S/M, 1 KG. GRANEL. SIN CABEZA",
    "walmart": "48 · MAÍZ POZOLERO, OVARB, BOLSA 1 KG.",
-   "lacomer": "50.5 · MAÍZ POZOLERO, OVARB, BOLSA 1 KG.",
-   "mercado": "45 · MAÍZ POZOLERO, S/M, 1 KG. GRANEL. SIN CABEZA",
-   "chedraui": "48.25 · MAÍZ POZOLERO, OVARB-LOLITA, BOLSA 1 KG. (ROJA)"
+   "chedraui": "48.5 · MAÍZ POZOLERO, OVARB-LOLITA, BOLSA 1 KG. (ROJA)",
+   "soriana": "50.5 · MAÍZ POZOLERO, OVARB, BOLSA 1 KG.",
+   "lacomer": "50.5 · MAÍZ POZOLERO, OVARB, BOLSA 1 KG."
   }
  },
  "panmolido": {
   "n": 0
  },
  "aceite": {
-  "n": 427,
+  "n": 417,
   "tiendas": {
-   "soriana": "40.63 · ACEITE, GRAN TRADICIÓN, BOTELLA 800 ML. VEGETAL",
+   "chedraui": "36.25 · ACEITE, CHEDRAUI, BOTELLA 800 ML. MIXTO",
+   "aurrera": "42.38 · ACEITE, 1-2-3, BOTELLA 1 LT. VEGETAL",
+   "mercado": "41.54 · ACEITE, 1-2-3, BOTELLA 1 LT. VEGETAL",
    "walmart": "43 · ACEITE, 1-2-3, BOTELLA 1 LT. VEGETAL",
-   "aurrera": "43.15 · ACEITE, SABROSANO, BOTELLA 850 ML. VEGETAL. SABOR MANTEQUILLA",
-   "lacomer": "43.34 · ACEITE, 1-2-3, BOTELLA 1 LT. VEGETAL",
-   "mercado": "40.04 · ACEITE, MARAVILLA, BOTELLA 1 LT. CANOLA",
-   "chedraui": "37 · ACEITE, 1-2-3, BOTELLA 1 LT. VEGETAL"
+   "soriana": "40.44 · ACEITE, GRAN TRADICIÓN, BOTELLA 800 ML. VEGETAL",
+   "lacomer": "43.34 · ACEITE, 1-2-3, BOTELLA 1 LT. VEGETAL"
   }
  },
  "chipotle": {
-  "n": 117,
+  "n": 114,
   "tiendas": {
-   "soriana": "29.9 · CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS",
-   "walmart": "30 · CHILES, LA COSTEÑA, LATA 220 GR. CHIPOTLES EN ADOBO",
-   "aurrera": "30 · CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS",
-   "lacomer": "31 · CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS",
+   "mercado": "27.5 · CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS",
    "chedraui": "31 · CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS",
-   "mercado": "27.5 · CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS"
+   "soriana": "30.45 · CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS",
+   "walmart": "30 · CHILES, LA COSTEÑA, LATA 220 GR. CHIPOTLES EN ADOBO",
+   "aurrera": "33 · CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS",
+   "lacomer": "31 · CHILES, SAN MARCOS, LATA 215 GR. CHIPOTLES ADOBADOS"
   }
  },
  "guajillo": {
-  "n": 22,
+  "n": 21,
   "tiendas": {
-   "soriana": "513.33 · CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
-   "lacomer": "505.33 · CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
    "chedraui": "513.33 · CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
-   "mercado": "205 · CHILE SECO, S/M, 1 KG. GRANEL. GUAJILLO"
+   "soriana": "513.33 · CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO",
+   "mercado": "205 · CHILE SECO, S/M, 1 KG. GRANEL. GUAJILLO",
+   "lacomer": "505.33 · CHILE SECO, VERDE VALLE, BOLSA 75 GR. GUAJILLO"
   }
  },
  "papa": {
-  "n": 51,
+  "n": 52,
   "tiendas": {
    "soriana": "44.9 · PAPA, S/M, 1 KG. EN MALLA. ALFA/BLANCA",
    "walmart": "48 · PAPA, S/M, 1 KG. EN MALLA. ALFA/BLANCA",
    "aurrera": "41 · PAPA, S/M, 1 KG. EN MALLA. ALFA/BLANCA",
-   "mercado": "24 · PAPA, S/M, 1 KG. ALFA/BLANCA"
+   "mercado": "25 · PAPA, S/M, 1 KG. ALFA/BLANCA"
   }
  },
  "jitomate": {
-  "n": 31,
+  "n": 30,
   "tiendas": {
+   "mercado": "30 · JITOMATE, S/M, 1 KG. SALADETTE/ HUAJE O TOMATE SALADETTE/ HUAJE",
+   "chedraui": "87.4 · JITOMATE, S/M, 1 KG. BOLA/SINALOA O TOMATE BOLA",
    "walmart": "39 · JITOMATE, S/M, 1 KG. SALADETTE/ HUAJE O TOMATE SALADETTE/ HUAJE",
    "soriana": "19.9 · JITOMATE, S/M, 1 KG. BOLA/SINALOA O TOMATE BOLA",
    "lacomer": "98.5 · JITOMATE, S/M, 1 KG. BOLA/SINALOA O TOMATE BOLA",
-   "aurrera": "25 · JITOMATE, S/M, 1 KG. SALADETTE/ HUAJE O TOMATE SALADETTE/ HUAJE",
-   "mercado": "27 · JITOMATE, S/M, 1 KG. SALADETTE/ HUAJE O TOMATE SALADETTE/ HUAJE",
-   "chedraui": "89.9 · JITOMATE, S/M, 1 KG. BOLA/SINALOA O TOMATE BOLA"
+   "aurrera": "25 · JITOMATE, S/M, 1 KG. SALADETTE/ HUAJE O TOMATE SALADETTE/ HUAJE"
   }
  },
  "cebolla": {
-  "n": 79,
+  "n": 76,
   "tiendas": {
-   "soriana": "44.63 · CEBOLLA, S/M, 1 KG. BLANCA SIN RABO",
+   "soriana": "42.88 · CEBOLLA, S/M, 1 KG. EN MALLA. BLANCA SIN RABO",
    "walmart": "45 · CEBOLLA, S/M, 1 KG. EN MALLA. BLANCA SIN RABO",
+   "mercado": "20 · CEBOLLA, S/M, 1 KG. AMARILLA",
+   "chedraui": "58.9 · CEBOLLA, S/M, 1 KG. AMARILLA",
    "aurrera": "44 · CEBOLLA, S/M, 1 KG. EN MALLA. BLANCA SIN RABO",
-   "lacomer": "49.9 · CEBOLLA, S/M, 1 KG. AMARILLA",
-   "mercado": "22 · CEBOLLA, S/M, 1 KG. BLANCA SIN RABO",
-   "chedraui": "59.7 · CEBOLLA, S/M, 1 KG. AMARILLA"
+   "lacomer": "49.9 · CEBOLLA, S/M, 1 KG. AMARILLA"
   }
  },
  "ajo": {
-  "n": 25,
+  "n": 26,
   "tiendas": {
+   "mercado": "120 · AJO, S/M, 1 KG. O AJO MORADO",
    "soriana": "199 · AJO, S/M, 1 KG. O AJO MORADO",
-   "chedraui": "141.5 · AJO, S/M, 1 KG. O AJO MORADO",
-   "mercado": "90 · AJO, S/M, 1 KG. O AJO MORADO"
+   "chedraui": "141.5 · AJO, S/M, 1 KG. O AJO MORADO"
   }
  },
  "serrano": {
-  "n": 74,
+  "n": 72,
   "tiendas": {
-   "soriana": "42.8 · CHILE FRESCO, S/M, 1 KG. SERRANO",
+   "soriana": "52.08 · CHILE FRESCO, S/M, 1 KG. SERRANO",
+   "mercado": "35 · CHILE FRESCO, S/M, 1 KG. SERRANO",
    "walmart": "69 · CHILE FRESCO, S/M, 1 KG. SERRANO",
+   "chedraui": "49 · CHILE FRESCO, S/M, 1 KG. SERRANO",
    "aurrera": "64 · CHILE FRESCO, S/M, 1 KG. SERRANO",
-   "lacomer": "49.9 · CHILE FRESCO, S/M, 1 KG. SERRANO",
-   "mercado": "32 · CHILE FRESCO, S/M, 1 KG. SERRANO",
-   "chedraui": "42.9 · CHILE FRESCO, S/M, 1 KG. SERRANO"
+   "lacomer": "49.9 · CHILE FRESCO, S/M, 1 KG. SERRANO"
   }
  },
  "cilantro": {
-  "n": 69,
+  "n": 71,
   "tiendas": {
+   "walmart": "10.48 · CILANTRO, S/M, MANOJO",
    "soriana": "9.8 · CILANTRO, S/M, MANOJO",
-   "aurrera": "9.8 · CILANTRO, S/M, MANOJO",
-   "walmart": "11.43 · CILANTRO, S/M, MANOJO",
-   "lacomer": "11.9 · CILANTRO, S/M, MANOJO",
-   "chedraui": "8.7 · CILANTRO, S/M, MANOJO"
+   "mercado": "7.5 · CILANTRO, S/M, MANOJO",
+   "aurrera": "9.9 · CILANTRO, S/M, MANOJO",
+   "chedraui": "6.9 · CILANTRO, S/M, MANOJO",
+   "lacomer": "11.9 · CILANTRO, S/M, MANOJO"
   }
  },
  "lechuga": {
-  "n": 97,
+  "n": 100,
   "tiendas": {
-   "soriana": "19.8 · LECHUGA, S/M, PZA. ROMANA",
-   "walmart": "24 · LECHUGA, S/M, PZA. ROMANA",
    "aurrera": "24 · LECHUGA, S/M, PZA. ROMANA",
-   "lacomer": "28.9 · LECHUGA, S/M, PZA. ROMANA",
-   "mercado": "14 · LECHUGA, S/M, PZA. ROMANA",
-   "chedraui": "23.9 · LECHUGA, S/M, PZA. ROMANA"
+   "chedraui": "23.9 · LECHUGA, S/M, PZA. ROMANA",
+   "soriana": "23.9 · LECHUGA, S/M, PZA. ROMANA",
+   "mercado": "22.5 · LECHUGA, S/M, PZA. OREJONA O LARGA",
+   "walmart": "24 · LECHUGA, S/M, PZA. ROMANA",
+   "lacomer": "28.9 · LECHUGA, S/M, PZA. ROMANA"
   }
  },
  "aguacate": {
-  "n": 75,
+  "n": 71,
   "tiendas": {
-   "soriana": "37.8 · AGUACATE, S/M, 1 KG. HASS",
+   "mercado": "35 · AGUACATE, S/M, 1 KG. HASS",
    "walmart": "42 · AGUACATE, S/M, 1 KG. HASS",
+   "soriana": "41.9 · AGUACATE, S/M, 1 KG. HASS",
    "aurrera": "40 · AGUACATE, S/M, 1 KG. HASS",
-   "lacomer": "69.9 · AGUACATE, S/M, 1 KG. HASS",
-   "mercado": "42.5 · AGUACATE, S/M, 1 KG. HASS",
-   "chedraui": "28.5 · AGUACATE, S/M, 1 KG. HASS"
+   "chedraui": "29.5 · AGUACATE, S/M, 1 KG. HASS",
+   "lacomer": "69.9 · AGUACATE, S/M, 1 KG. HASS"
   }
  },
  "limon": {
-  "n": 99,
+  "n": 101,
   "tiendas": {
-   "soriana": "27.9 · LIMÓN, S/M, 1 KG. EN MALLA. AGRIO SIN SEMILLA",
    "walmart": "36 · LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O LIMON COLIMA",
    "aurrera": "32 · LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O COLIMA. UPC 4306. EN MALLA",
+   "mercado": "15.08 · LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O LIMON COLIMA",
+   "soriana": "27.9 · LIMÓN, S/M, 1 KG. EN MALLA. AGRIO SIN SEMILLA",
    "lacomer": "39.4 · LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O LIMON COLIMA",
-   "mercado": "14 · LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O LIMON COLIMA"
+   "chedraui": "32.9 · LIMÓN, S/M, 1 KG. AGRIO CON SEMILLA O LIMON COLIMA"
   }
  },
  "calabacita": {
-  "n": 68,
+  "n": 67,
   "tiendas": {
+   "chedraui": "38.9 · CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)",
+   "aurrera": "35.45 · CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)",
    "soriana": "32.8 · CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)",
    "walmart": "39.9 · CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)",
-   "aurrera": "36.73 · CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)",
    "lacomer": "38.9 · CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)",
-   "mercado": "20 · CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)",
-   "chedraui": "39.8 · CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)"
+   "mercado": "22 · CALABAZA, S/M, 1 KG. ITALIANA/JAPONESA (LARGA)"
   }
  },
  "zanahoria": {
-  "n": 87,
+  "n": 86,
   "tiendas": {
-   "soriana": "13.6 · ZANAHORIA, S/M, 1 KG. GRANDE",
-   "walmart": "15 · ZANAHORIA, S/M, 1 KG. GRANDE",
+   "chedraui": "12 · ZANAHORIA, S/M, 1 KG. GRANDE",
+   "mercado": "8 · ZANAHORIA, S/M, 1 KG. MEDIANA",
+   "soriana": "13.75 · ZANAHORIA, S/M, 1 KG. GRANDE",
+   "walmart": "15 · ZANAHORIA, S/M, 1 KG. MEDIANA",
    "aurrera": "11 · ZANAHORIA, S/M, 1 KG. GRANDE",
-   "lacomer": "12 · ZANAHORIA, S/M, 1 KG. MEDIANA",
-   "mercado": "7 · ZANAHORIA, S/M, 1 KG. MEDIANA",
-   "chedraui": "9.5 · ZANAHORIA, S/M, 1 KG. GRANDE"
+   "lacomer": "12 · ZANAHORIA, S/M, 1 KG. MEDIANA"
   }
  },
  "nopal": {
-  "n": 40,
+  "n": 38,
   "tiendas": {
    "soriana": "44.9 · NOPAL, S/M, 1 KG. SIN ESPINAS",
+   "chedraui": "31.5 · NOPAL, S/M, 1 KG. SIN ESPINAS",
    "walmart": "45 · NOPAL, S/M, 1 KG. SIN ESPINAS",
-   "aurrera": "43.73 · NOPAL, S/M, 1 KG. SIN ESPINAS",
-   "lacomer": "36.9 · NOPAL, S/M, 1 KG. SIN ESPINAS",
-   "chedraui": "39.9 · NOPAL, S/M, 1 KG. SIN ESPINAS"
+   "aurrera": "44 · NOPAL, S/M, 1 KG. SIN ESPINAS",
+   "lacomer": "36.9 · NOPAL, S/M, 1 KG. SIN ESPINAS"
   }
  },
  "platano": {
-  "n": 22,
+  "n": 20,
   "tiendas": {
+   "mercado": "15 · PLÁTANO, S/M, 1 KG. TABASCO/CHIAPAS/ROATÁN/PORTALIMÓN",
+   "chedraui": "13.5 · PLÁTANO, S/M, 1 KG. TABASCO/CHIAPAS/ROATÁN/PORTALIMÓN",
    "walmart": "18 · PLÁTANO, S/M, 1 KG. TABASCO/CHIAPAS/ROATÁN/PORTALIMÓN",
    "aurrera": "17 · PLÁTANO, S/M, 1 KG. TABASCO/CHIAPAS/ROATÁN/PORTALIMÓN",
-   "soriana": "20.55 · PLÁTANO, S/M, 1 KG. TABASCO/CHIAPAS/ROATÁN/PORTALIMÓN",
-   "chedraui": "18 · PLÁTANO, S/M, 1 KG. TABASCO/CHIAPAS/ROATÁN/PORTALIMÓN",
-   "mercado": "13 · PLÁTANO, S/M, 1 KG. TABASCO/CHIAPAS/ROATÁN/PORTALIMÓN"
+   "soriana": "18.7 · PLÁTANO, S/M, 1 KG. TABASCO/CHIAPAS/ROATÁN/PORTALIMÓN"
   }
  },
  "manzana": {
-  "n": 251,
+  "n": 241,
   "tiendas": {
+   "walmart": "40 · MANZANA, S/M, 1 KG. ROYAL GALA",
    "soriana": "41.5 · MANZANA, S/M, 1 KG. GOLDEN",
-   "walmart": "40 · MANZANA, S/M, 1 KG. RED DELICIOUS/MANZANA ROJA/ MANZANA ROJA MEDIANA/ MANZANA ROJA AMERICANA/",
-   "aurrera": "40 · MANZANA, S/M, 1 KG. RED DELICIOUS/MANZANA ROJA/ MANZANA ROJA MEDIANA/ MANZANA ROJA AMERICANA/",
-   "lacomer": "64.9 · MANZANA, S/M, 1 KG. ROYAL GALA",
-   "chedraui": "57.18 · MANZANA, S/M, 1 KG. GOLDEN",
-   "mercado": "40 · MANZANA, S/M, 1 KG. RED DELICIOUS/MANZANA ROJA/ MANZANA ROJA MEDIANA/ MANZANA ROJA AMERICANA/"
+   "mercado": "40 · MANZANA, S/M, 1 KG. GRANNY SMITH",
+   "chedraui": "54 · MANZANA, S/M, 1 KG. ROYAL GALA",
+   "aurrera": "41 · MANZANA, S/M, 1 KG. RED DELICIOUS/MANZANA ROJA/ MANZANA ROJA MEDIANA/ MANZANA ROJA AMERICANA/",
+   "lacomer": "64.9 · MANZANA, S/M, 1 KG. ROYAL GALA"
   }
  },
  "pina": {
   "n": 0
  },
  "champi": {
-  "n": 45,
+  "n": 47,
   "tiendas": {
-   "soriana": "119.9 · CHAMPIÑONES, S/M, 1 KG.",
-   "aurrera": "111 · CHAMPIÑONES, S/M, 1 KG.",
    "walmart": "114 · CHAMPIÑONES, S/M, 1 KG.",
-   "lacomer": "135 · CHAMPIÑONES, S/M, 1 KG.",
-   "chedraui": "109.95 · CHAMPIÑONES, S/M, 1 KG.",
-   "mercado": "80 · CHAMPIÑONES, S/M, 1 KG."
+   "chedraui": "109 · CHAMPIÑONES, S/M, 1 KG.",
+   "mercado": "100 · CHAMPIÑONES, S/M, 1 KG.",
+   "soriana": "119.9 · CHAMPIÑONES, S/M, 1 KG.",
+   "aurrera": "110 · CHAMPIÑONES, S/M, 1 KG.",
+   "lacomer": "135 · CHAMPIÑONES, S/M, 1 KG."
   }
  },
  "morron": {
   "n": 61,
   "tiendas": {
    "soriana": "88 · PIMIENTO, S/M, 1 KG. MORRON VERDE",
-   "walmart": "75 · PIMIENTO, S/M, 1 KG. MORRON VERDE",
    "aurrera": "80 · PIMIENTO, S/M, 1 KG. MORRON VERDE",
-   "lacomer": "98.5 · PIMIENTO, S/M, 1 KG. MORRON VERDE",
-   "mercado": "60 · PIMIENTO, S/M, 1 KG. MORRON VERDE",
-   "chedraui": "79.9 · PIMIENTO, S/M, 1 KG. MORRON VERDE"
+   "chedraui": "89.5 · PIMIENTO, S/M, 1 KG. MORRON VERDE",
+   "mercado": "65 · PIMIENTO, S/M, 1 KG. MORRON VERDE",
+   "walmart": "75 · PIMIENTO, S/M, 1 KG. MORRON VERDE",
+   "lacomer": "98.5 · PIMIENTO, S/M, 1 KG. MORRON VERDE"
   }
  },
  "tomverde": {
-  "n": 57,
+  "n": 55,
   "tiendas": {
-   "soriana": "38.9 · TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
-   "aurrera": "38 · TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
    "walmart": "39 · TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
-   "lacomer": "69.9 · TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
-   "chedraui": "63.2 · TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
-   "mercado": "15 · TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA"
+   "chedraui": "41 · TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
+   "soriana": "38.9 · TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
+   "mercado": "38 · TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
+   "aurrera": "38 · TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
+   "lacomer": "69.9 · TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA"
   }
  },
  "granola": {
   "n": 0
  },
  "jabonropa": {
-  "n": 285,
+  "n": 288,
   "tiendas": {
+   "chedraui": "26.5 · JABÓN DE PASTA, CARISMA, BARRA 400 GR. CON ENVOLTURA. FRESCURA AGRADABLE",
+   "walmart": "24 · JABÓN DE PASTA, CARISMA, BARRA 400 GR. CON ENVOLTURA. FRESCURA AGRADABLE",
    "soriana": "26.5 · JABÓN DE PASTA, LIRIO, BARRA 400 GR. CON ENVOLTURA. LAVANDERIA",
+   "mercado": "24.73 · JABÓN DE PASTA, ZOTE, BARRA 400 GR. CON ENVOLTURA",
    "aurrera": "23 · JABÓN DE PASTA, CARISMA, BARRA 400 GR. CON ENVOLTURA. FRESCURA AGRADABLE",
-   "walmart": "25 · JABÓN DE PASTA, LIRIO, BARRA 400 GR. CON ENVOLTURA. LAVANDERIA",
-   "lacomer": "25.13 · JABÓN DE PASTA, LIRIO, BARRA 400 GR. CON ENVOLTURA. LAVANDERIA",
-   "chedraui": "25.75 · JABÓN DE PASTA, ZOTE, BARRA 200 GR. (BLANCO)",
-   "mercado": "23.1 · JABÓN DE PASTA, ZOTE, BARRA 400 GR. CON ENVOLTURA"
+   "lacomer": "25.13 · JABÓN DE PASTA, LIRIO, BARRA 400 GR. CON ENVOLTURA. LAVANDERIA"
   }
  },
  "detergente": {
-  "n": 311,
+  "n": 317,
   "tiendas": {
-   "soriana": "41.06 · DETERGENTE P/ROPA, VIVA, BOLSA 850 GR. POLVO",
-   "aurrera": "30.15 · DETERGENTE P/ROPA, MAESTRO LIMPIO, BOLSA 1 KG. POLVO. MULTIUSOS",
-   "walmart": "46.91 · DETERGENTE P/ROPA, FOCA, BOLSA 1 KG. POLVO",
-   "lacomer": "31.18 · DETERGENTE P/ROPA, VIVA, BOLSA 850 GR. POLVO",
-   "chedraui": "31.25 · DETERGENTE P/ROPA, 1-2-3, BOLSA 800 GR. POLVO",
-   "mercado": "39.47 · DETERGENTE P/ROPA, BOLD 3, BOLSA 500 GR. POLVO. FLORES PARA MIS AMORES"
+   "chedraui": "31.18 · DETERGENTE P/ROPA, VIVA, BOLSA 850 GR. POLVO",
+   "mercado": "43.1 · DETERGENTE P/ROPA, BLANCA NIEVES, BOLSA 1 KG. POLVO",
+   "walmart": "40 · DETERGENTE P/ROPA, BLANCA NIEVES, BOLSA 1 KG. POLVO",
+   "aurrera": "30.59 · DETERGENTE P/ROPA, BOLD 3, BOLSA 850 GR. POLVO. AROMAS DE PRIMAVERA",
+   "soriana": "43.41 · DETERGENTE P/ROPA, VIVA, BOLSA 850 GR. POLVO",
+   "lacomer": "31.18 · DETERGENTE P/ROPA, VIVA, BOLSA 850 GR. POLVO"
   }
  },
  "suavizante": {
-  "n": 114,
+  "n": 104,
   "tiendas": {
-   "soriana": "30.9 · SUAVIZANTE P/ROPA, ENSUEÑO, BOTELLA 850 ML. MAX X2. ENJUAGUE. FRESCURA PRIMAVERAL",
-   "aurrera": "34 · SUAVIZANTE P/ROPA, DOWNY, BOTELLA 700 ML. ACONDICIONADOR DE TELAS. LIBRE ENJUAGUE. AROMA FLORAL",
    "walmart": "34 · SUAVIZANTE P/ROPA, DOWNY, BOTELLA 1.4 LT. AROMA FLORAL",
-   "lacomer": "33.82 · SUAVIZANTE P/ROPA, DOWNY, BOTELLA 1.4 LT. AROMA FLORAL",
-   "chedraui": "31.92 · SUAVIZANTE P/ROPA, DOWNY, BOTELLA 1.4 LT. AROMA FLORAL",
-   "mercado": "27.45 · SUAVIZANTE P/ROPA, SUAVITEL, BOTELLA 450 ML. CUIDADO SUPERIOR. FRESCA PRIMAVERA"
+   "aurrera": "34 · SUAVIZANTE P/ROPA, DOWNY, BOTELLA 700 ML. ACONDICIONADOR DE TELAS. LIBRE ENJUAGUE. AROMA FLORAL",
+   "soriana": "30.9 · SUAVIZANTE P/ROPA, ENSUEÑO, BOTELLA 850 ML. MAX X2. ENJUAGUE. FRESCURA PRIMAVERAL",
+   "chedraui": "31.99 · SUAVIZANTE P/ROPA, DOWNY, BOTELLA 1.4 LT. AROMA FLORAL",
+   "lacomer": "33.82 · SUAVIZANTE P/ROPA, DOWNY, BOTELLA 1.4 LT. AROMA FLORAL"
   }
  },
  "cloro": {
-  "n": 93,
+  "n": 100,
   "tiendas": {
-   "soriana": "20.95 · BLANQUEADOR, CLORALEX, BOTELLA 950 ML. EL RENDIDOR",
-   "walmart": "21.05 · BLANQUEADOR, CLORALEX, BOTELLA 950 ML. EL RENDIDOR",
-   "aurrera": "19.47 · BLANQUEADOR, CLORALEX, BOTELLA 950 ML. EL RENDIDOR",
-   "lacomer": "20.97 · BLANQUEADOR, CLOROX, BOTELLA 930 ML. ORIGINAL",
-   "chedraui": "20.03 · BLANQUEADOR, CLOROX, BOTELLA 930 ML. ORIGINAL",
-   "mercado": "15.16 · BLANQUEADOR, CLOROX, BOTELLA 930 ML. ORIGINAL"
+   "mercado": "17.05 · BLANQUEADOR, CLORALEX, BOTELLA 950 ML. EL RENDIDOR",
+   "walmart": "19.47 · BLANQUEADOR, CLORALEX, BOTELLA 950 ML. EL RENDIDOR",
+   "aurrera": "17.89 · BLANQUEADOR, CLORALEX, BOTELLA 950 ML. EL RENDIDOR",
+   "chedraui": "18.88 · BLANQUEADOR, CLORALEX, BOTELLA 950 ML. EL RENDIDOR",
+   "soriana": "20.71 · BLANQUEADOR, CLORALEX, BOTELLA 950 ML. EL RENDIDOR",
+   "lacomer": "20.97 · BLANQUEADOR, CLOROX, BOTELLA 930 ML. ORIGINAL"
   }
  },
  "tocador": {
-  "n": 471,
+  "n": 462,
   "tiendas": {
-   "soriana": "21.6 · JABÓN DE TOCADOR, ESCUDO, BARRA 150 GR. ANTIBACTERIAL. (ROSA)",
    "walmart": "22.22 · JABÓN DE TOCADOR, ESCUDO, BARRA 135 GR. ANTIBACTERIAL. (ROSA)",
+   "chedraui": "19.5 · JABÓN DE TOCADOR, ESCUDO, BARRA 150 GR. ANTIBACTERIAL. (ROSA)",
    "aurrera": "20 · JABÓN DE TOCADOR, ESCUDO, BARRA 135 GR. ANTIBACTERIAL. (ROSA)",
-   "lacomer": "24 · JABÓN DE TOCADOR, GRISI, CAJA C/BARRA 200 GR. NEUTRO",
-   "chedraui": "18.33 · JABÓN DE TOCADOR, ZEST, BARRA 135 GR. AQUA",
-   "mercado": "12.46 · JABÓN DE TOCADOR, ESCUDO, BARRA 150 GR. ANTIBACTERIAL. PROTECCIÓN NEUTRA"
+   "soriana": "21.5 · JABÓN DE TOCADOR, ESCUDO, BARRA 150 GR. ANTIBACTERIAL. (ROSA)",
+   "mercado": "10.79 · JABÓN DE TOCADOR, VENUS, BARRA 150 GR.",
+   "lacomer": "24 · JABÓN DE TOCADOR, GRISI, CAJA C/BARRA 200 GR. NEUTRO"
   }
  },
  "jabonbano": {
@@ -553,102 +556,102 @@
  "trastes": {
   "n": 81,
   "tiendas": {
-   "soriana": "42.92 · DETERGENTE P/TRASTES, SALVO, BOTELLA 900 ML. LIQUIDO (VERDE)",
+   "chedraui": "45.83 · DETERGENTE P/TRASTES, AXION, BOTELLA 750 ML. LIQUIDO. LIMON",
    "aurrera": "35 · DETERGENTE P/TRASTES, AXION, BOTELLA 750 ML. LIQUIDO. LIMON",
-   "lacomer": "39.03 · DETERGENTE P/TRASTES, AXION, BOTELLA 750 ML. LIQUIDO. LIMON",
-   "chedraui": "48.33 · DETERGENTE P/TRASTES, SALVO, BOTELLA 900 ML. LIQUIDO (VERDE)"
+   "soriana": "42.91 · DETERGENTE P/TRASTES, SALVO, BOTELLA 900 ML. LIQUIDO (VERDE)",
+   "lacomer": "39.03 · DETERGENTE P/TRASTES, AXION, BOTELLA 750 ML. LIQUIDO. LIMON"
   }
  },
  "papel": {
-  "n": 320,
+  "n": 313,
   "tiendas": {
    "soriana": "15.5 · PAPEL HIGIÉNICO, PRECÍSSIMO, PAQUETE 4 ROLLOS. 185 HOJAS DOBLES",
    "walmart": "8 · PAPEL HIGIÉNICO, LYS, PAQUETE 4 ROLLOS. 195  HOJAS DOBLES",
+   "chedraui": "14.31 · PAPEL HIGIÉNICO, IRIS. BIENESTAR, PAQUETE 4 ROLLOS. 185 HOJAS DOBLES",
+   "mercado": "14.95 · PAPEL HIGIÉNICO, LYS, PAQUETE 4 ROLLOS. 195  HOJAS DOBLES",
    "aurrera": "8 · PAPEL HIGIÉNICO, LYS, PAQUETE 4 ROLLOS. 195  HOJAS DOBLES",
-   "lacomer": "34.17 · PAPEL HIGIÉNICO, KLEENEX. COTTONELLE. SOFT, PAQUETE 24 ROLLOS. 200 HOJAS DOBLES",
-   "chedraui": "11.66 · PAPEL HIGIÉNICO, IRIS. BIENESTAR, PAQUETE 4 ROLLOS. 185 HOJAS DOBLES",
-   "mercado": "14.09 · PAPEL HIGIÉNICO, SUAVEL. CON AROMA, PAQUETE 4 ROLLOS. 200 HOJAS DOBLES"
+   "lacomer": "34.17 · PAPEL HIGIÉNICO, KLEENEX. COTTONELLE. SOFT, PAQUETE 24 ROLLOS. 200 HOJAS DOBLES"
   }
  },
  "servilleta": {
-  "n": 168,
+  "n": 179,
   "tiendas": {
-   "soriana": "24.34 · SERVILLETAS DE PAPEL BLANCO, SUAVEL, PAQUETE 380 HOJAS",
+   "chedraui": "27.03 · SERVILLETAS DE PAPEL BLANCO, SUAVEL, PAQUETE 380 HOJAS",
    "walmart": "27.78 · SERVILLETAS DE PAPEL BLANCO, FANCY, PAQUETE 360 HOJAS",
-   "aurrera": "25 · SERVILLETAS DE PAPEL BLANCO, PÉTALO. PRÁCTICA, PAQUETE 200 HOJAS",
-   "lacomer": "27.17 · SERVILLETAS DE PAPEL BLANCO, SUAVEL, PAQUETE 380 HOJAS",
-   "chedraui": "28.53 · SERVILLETAS DE PAPEL BLANCO, FANCY, PAQUETE 360 HOJAS",
-   "mercado": "40.75 · SERVILLETAS DE PAPEL BLANCO, PÉTALO, PAQUETE 100 HOJAS"
+   "mercado": "46.5 · SERVILLETAS DE PAPEL BLANCO, PÉTALO, PAQUETE 100 HOJAS",
+   "aurrera": "27.08 · SERVILLETAS DE PAPEL BLANCO, FANCY, PAQUETE 360 HOJAS",
+   "soriana": "24.34 · SERVILLETAS DE PAPEL BLANCO, SUAVEL, PAQUETE 380 HOJAS",
+   "lacomer": "27.17 · SERVILLETAS DE PAPEL BLANCO, SUAVEL, PAQUETE 380 HOJAS"
   }
  },
  "shampoo": {
-  "n": 727,
+  "n": 754,
   "tiendas": {
+   "chedraui": "80.36 · SHAMPOO, PALMOLIVE OPTIMS, BOTELLA 700 ML. 4. ACONDICIONAMIENTO EXTRA INTENSIVO",
    "soriana": "109.48 · SHAMPOO, SEDAL, BOTELLA 620 ML. CERAMIDAS",
    "walmart": "108.87 · SHAMPOO, SEDAL, BOTELLA 620 ML. CERAMIDAS",
-   "aurrera": "80.36 · SHAMPOO, PALMOLIVE OPTIMS, BOTELLA 700 ML. 4. ACONDICIONAMIENTO EXTRA INTENSIVO",
-   "lacomer": "106.77 · SHAMPOO, FOLICURÉ, BOTELLA 700 ML. HIDRATANTE. 2 EN 1",
-   "chedraui": "101.92 · SHAMPOO, MENNEN, BOTELLA 700 ML. CON PROTEINA. CON ACONDICIONADOR. SUAVE",
-   "mercado": "55.56 · SHAMPOO, CAPRICE NATURALS, BOTELLA 760 ML. ACEITE HERBAL"
+   "aurrera": "81.43 · SHAMPOO, PALMOLIVE OPTIMS, BOTELLA 700 ML. 4. ACONDICIONAMIENTO EXTRA INTENSIVO",
+   "mercado": "55.56 · SHAMPOO, CAPRICE NATURALS, BOTELLA 760 ML. ACEITE HERBAL",
+   "lacomer": "106.77 · SHAMPOO, FOLICURÉ, BOTELLA 700 ML. HIDRATANTE. 2 EN 1"
   }
  },
  "dental": {
-  "n": 130,
+  "n": 125,
   "tiendas": {
-   "soriana": "30 · CREMA DENTAL, COLGATE. MAXIMA PROTECCION ANTICARIES, TUBO 125 ML. MAXIMA PROTECCION ANTICARIES. CON CALCIO",
+   "soriana": "30.25 · CREMA DENTAL, COLGATE. MAXIMA PROTECCION ANTICARIES, TUBO 125 ML. MAXIMA PROTECCION ANTICARIES. CON CALCIO",
    "aurrera": "26.67 · CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 90 ML. SABOR ORIGINAL",
    "walmart": "29.63 · CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 135 ML. SABOR ORIGINAL",
    "lacomer": "35.75 · CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 90 ML. SABOR ORIGINAL",
-   "chedraui": "29.75 · CREMA DENTAL, COLGATE. MAXIMA PROTECCION ANTICARIES, TUBO 125 ML. MAXIMA PROTECCION ANTICARIES. CON CALCIO"
+   "chedraui": "30 · CREMA DENTAL, COLGATE. MAXIMA PROTECCION ANTICARIES, TUBO 125 ML. MAXIMA PROTECCION ANTICARIES. CON CALCIO"
   }
  },
  "desodorante": {
-  "n": 995,
+  "n": 1004,
   "tiendas": {
    "soriana": "42 · DESODORANTE, BRUT. CLASSIC, ROLL ON 50 GR. VERDE. PARA CABALLERO",
    "walmart": "43 · DESODORANTE, REXONA, ROLL ON 50 GR. POWDER DRY. PARA DAMA",
-   "aurrera": "39.5 · DESODORANTE, PALMOLIVE, ROLL ON 65 ML. NEUTRO BALANCE (BOTELLA TRANSPARENTE). PARA DAMA",
-   "lacomer": "38.63 · DESODORANTE, NIVEA, ROLL ON 50 ML. ACLARADO NATURAL. PARA DAMA",
-   "chedraui": "35 · DESODORANTE, NIVEA, ROLL ON 50 ML. ACLARADO NATURAL. PARA DAMA"
+   "chedraui": "35 · DESODORANTE, NIVEA, ROLL ON 50 ML.. MEN. INVISIBLE. ANTITRANSPIRANTE. PARA CABALLERO",
+   "aurrera": "41 · DESODORANTE, PALMOLIVE, ROLL ON 65 ML. NEUTRO BALANCE (BOTELLA TRANSPARENTE). PARA DAMA",
+   "lacomer": "38.63 · DESODORANTE, NIVEA, ROLL ON 50 ML. ACLARADO NATURAL. PARA DAMA"
   }
  },
  "cepillo": {
   "n": 81,
   "tiendas": {
-   "aurrera": "15 · CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
    "soriana": "14.97 · CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
    "walmart": "15 · CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
+   "aurrera": "15 · CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
    "lacomer": "15 · CEPILLO DENTAL, PRO, BLISTER 3 PIEZAS. DOBLE ACCIÓN. MEDIANO",
-   "chedraui": "15.38 · CEPILLO DENTAL, ORAL-B. COMPLETE, BLISTER 2 PIEZAS. MEDIANO 40"
+   "chedraui": "17.5 · CEPILLO DENTAL, ORAL-B. COMPLETE, BLISTER 2 PIEZAS. MEDIANO 40"
   }
  },
  "toallas": {
-  "n": 665,
+  "n": 679,
   "tiendas": {
-   "soriana": "25 · TOALLA FEMENINA, KOTEX, BOLSA 10 PIEZAS. NOCTURNA. CON ALAS",
+   "chedraui": "23.75 · TOALLA FEMENINA, NATURELLA, BOLSA 32 PIEZAS. REGULAR. SIN ALAS. FLUJO ABUNDANTE",
+   "soriana": "25.16 · TOALLA FEMENINA, NATURELLA, BOLSA 32 PIEZAS. REGULAR. SIN ALAS. FLUJO ABUNDANTE",
    "walmart": "21.43 · TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. INTIMA CLIP. REGULAR. CON ALAS",
-   "aurrera": "24.06 · TOALLA FEMENINA, NATURELLA, BOLSA 32 PIEZAS. REGULAR. CON ALAS. FLUJO ABUNDANTE",
-   "lacomer": "23.36 · TOALLA FEMENINA, NATURELLA, BOLSA 32 PIEZAS. REGULAR. SIN ALAS. FLUJO ABUNDANTE",
-   "chedraui": "26.43 · TOALLA FEMENINA, KOTEX, BOLSA 14 PIEZAS. ULTRA DELGADA. CON ALAS"
+   "aurrera": "23.57 · TOALLA FEMENINA, SABA, BOLSA 14 PIEZAS. ULTRA INVISIBLE. ULTRADELGADA. CON ALAS",
+   "lacomer": "23.36 · TOALLA FEMENINA, NATURELLA, BOLSA 32 PIEZAS. REGULAR. SIN ALAS. FLUJO ABUNDANTE"
   }
  },
  "limpiador": {
-  "n": 150,
+  "n": 141,
   "tiendas": {
-   "soriana": "20.56 · LIMPIADOR LÍQUIDO P/PISO, POETT, BOTELLA 900 ML. MULTIUSOS. FLORES DE PRIMAVERA",
+   "chedraui": "20.5 · LIMPIADOR LÍQUIDO P/PISO, POETT, BOTELLA 900 ML. MULTIUSOS. FLORES DE PRIMAVERA",
+   "soriana": "20.11 · LIMPIADOR LÍQUIDO P/PISO, POETT, BOTELLA 900 ML. MULTIUSOS. FLORES DE PRIMAVERA",
    "aurrera": "49 · LIMPIADOR LÍQUIDO P/PISO, AJAX AMONIA, BOTELLA 1 LT. MULTIUSOS",
+   "mercado": "32.25 · LIMPIADOR LÍQUIDO P/PISO, PINOL. EL ORIGINAL, BOTELLA 500 ML. MULTIUSOS. PINO",
    "lacomer": "24.58 · LIMPIADOR LÍQUIDO P/PISO, POETT, BOTELLA 900 ML. MULTIUSOS. FLORES DE PRIMAVERA",
-   "walmart": "26.25 · LIMPIADOR LÍQUIDO P/PISO, PINOL. EL ORIGINAL, BOTELLA 1 LT. MULTIUSOS PINO",
-   "chedraui": "21 · LIMPIADOR LÍQUIDO P/PISO, FLASH, BOTELLA 1 LT. MULTIUSOS. LAVANDA",
-   "mercado": "27.6 · LIMPIADOR LÍQUIDO P/PISO, FABULOSO, BOTELLA 1 LT. MULTIUSOS .FRESCA LAVANDA"
+   "walmart": "27 · LIMPIADOR LÍQUIDO P/PISO, PINOL. EL ORIGINAL, BOTELLA 1 LT. MULTIUSOS PINO"
   }
  },
  "esponja": {
-  "n": 52,
+  "n": 53,
   "tiendas": {
    "soriana": "43.9 · FIBRA PARA COCINA, SCOTCH BRITE. 3M, PIEZA GRANDE. (80 MM. X 120 MM.) (VERDE)",
    "walmart": "46 · FIBRA PARA COCINA, SCOTCH BRITE. 3M, PIEZA GRANDE. (80 MM. X 120 MM.) (VERDE)",
-   "aurrera": "44.25 · FIBRA PARA COCINA, SCOTCH BRITE. 3M, PIEZA GRANDE. (80 MM. X 120 MM.) (VERDE)",
+   "aurrera": "45 · FIBRA PARA COCINA, SCOTCH BRITE. 3M, PIEZA GRANDE. (80 MM. X 120 MM.) (VERDE)",
    "lacomer": "46 · FIBRA PARA COCINA, SCOTCH BRITE. 3M, PIEZA GRANDE. (80 MM. X 120 MM.) (VERDE)",
    "chedraui": "45 · FIBRA PARA COCINA, SCOTCH BRITE. 3M, PIEZA GRANDE. (80 MM. X 120 MM.) (VERDE)"
   }
@@ -657,36 +660,36 @@
   "n": 0
  },
  "azucar": {
-  "n": 207,
+  "n": 69,
   "tiendas": {
-   "walmart": "43 · AZÚCAR, AURRERA, BOLSA PLÁSTICO 2 KG. ESTÁNDAR",
    "aurrera": "42 · AZÚCAR, AURRERA, BOLSA PLÁSTICO 2 KG. ESTÁNDAR",
-   "soriana": "43.65 · AZÚCAR, ZULKA, BOLSA PLÁSTICO 2 KG. ESTÁNDAR O MORENA",
-   "lacomer": "71 · AZÚCAR, S/M, BOLSA PLASTICO 2 KG. ESTANDAR MORENA",
-   "mercado": "42 · AZÚCAR, S/M, 1 KG. GRANEL. ESTANDAR MORENA",
-   "chedraui": "45 · AZÚCAR, ZULKA, BOLSA PLÁSTICO 2 KG. ESTÁNDAR O MORENA"
+   "mercado": "48 · AZÚCAR, S/M, 1 KG. GRANEL. REFINADA",
+   "soriana": "43.9 · AZÚCAR, ZULKA, BOLSA PLÁSTICO 2 KG. ESTÁNDAR O MORENA",
+   "chedraui": "56.61 · AZÚCAR, ZULKA, BOLSA PLÁSTICO 900 GR. ESTÁNDAR",
+   "walmart": "43 · AZÚCAR, AURRERA, BOLSA PLÁSTICO 2 KG. ESTÁNDAR",
+   "lacomer": "71 · AZÚCAR, GOLDEN HILLS, BOLSA PLÁSTICO 2 KG. ESTÁNDAR O MORENA"
   }
  },
  "sal": {
-  "n": 118,
+  "n": 115,
   "tiendas": {
    "soriana": "23.9 · SAL MOLIDA DE MESA, PRECÍSSIMO, BOTE 1 KG.",
+   "aurrera": "18 · SAL DE MAR, SAL SOL, BOLSA 1 KG. GRANO GRUESO",
+   "chedraui": "26.25 · SAL MOLIDA DE MESA, LA FINA, BOLSA 1 KG.",
    "walmart": "18 · SAL DE MAR, SAL SOL, BOLSA 1 KG. GRANO GRUESO",
-   "aurrera": "18 · SAL MOLIDA DE MESA, GREAT VALUE, BOTE 1 KG. (YODADA FLUORURADA)",
-   "lacomer": "28.75 · SAL MOLIDA DE MESA, LA FINA, BOLSA 1 KG.",
-   "chedraui": "18 · SAL MOLIDA DE MESA, LA FINA, BOLSA 1 KG.",
-   "mercado": "21.13 · SAL MOLIDA DE MESA, LA FINA, BOLSA 1 KG."
+   "mercado": "22.1 · SAL MOLIDA DE MESA, LA FINA, BOLSA 1 KG.",
+   "lacomer": "28.75 · SAL MOLIDA DE MESA, LA FINA, BOLSA 1 KG."
   }
  },
  "cafe": {
-  "n": 228,
+  "n": 221,
   "tiendas": {
-   "walmart": "161 · CAFÉ SOLUBLE, GREAT VALUE, FRASCO 200 GR. 100% PURO COLOMBIANO",
-   "aurrera": "160 · CAFÉ SOLUBLE, GREAT VALUE, FRASCO 200 GR. 100% PURO COLOMBIANO",
-   "soriana": "160 · CAFÉ SOLUBLE, NESCAFÉ. CLÁSICO, FRASCO 200 GR.",
-   "lacomer": "187.35 · CAFÉ SOLUBLE, NESCAFÉ. DECAF, FRASCO 170 GR. DESCAFEINADO",
    "chedraui": "187.06 · CAFÉ SOLUBLE, NESCAFÉ. DECAF, FRASCO 170 GR. DESCAFEINADO",
-   "mercado": "203.33 · CAFÉ SOLUBLE, NESCAFÉ. CLÁSICO, FRASCO 120 GR."
+   "walmart": "161 · CAFÉ SOLUBLE, GREAT VALUE, FRASCO 200 GR. 100% PURO COLOMBIANO",
+   "soriana": "160 · CAFÉ SOLUBLE, NESCAFÉ. CLÁSICO, FRASCO 200 GR.",
+   "mercado": "203.33 · CAFÉ SOLUBLE, NESCAFÉ. CLÁSICO, FRASCO 120 GR.",
+   "aurrera": "139.75 · CAFÉ SOLUBLE, NESCAFÉ. CLÁSICO, FRASCO 200 GR.",
+   "lacomer": "187.35 · CAFÉ SOLUBLE, NESCAFÉ. DECAF, FRASCO 170 GR. DESCAFEINADO"
   }
  },
  "aluminio": {
