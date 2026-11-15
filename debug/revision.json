@@ -54,10 +54,25 @@
   }
  },
  "chorizo": {
-  "n": 0
+  "n": 134,
+  "tiendas": {
+   "soriana": "247 · CHORIZO, FUD, 1 KG. GRANEL. ESTILO CANTIMPALO",
+   "walmart": "270 · CHORIZO, ZWAN, 1 KG. GRANEL",
+   "lacomer": "255 · CHORIZO, PARMA. CAMPESTRE, 1 KG. GRANEL. RANCHERO",
+   "aurrera": "236 · CHORIZO, FUD, 1 KG. GRANEL. ESTILO CANTIMPALO",
+   "chedraui": "228 · CHORIZO, PARMA. CAMPESTRE, 1 KG. GRANEL. RANCHERO"
+  }
  },
  "jamon": {
-  "n": 0
+  "n": 862,
+  "tiendas": {
+   "soriana": "179.31 · JAMÓN, FUD, PAQUETE 290 GR. VIRGINIA DE PAVO Y CERDO",
+   "walmart": "180 · JAMÓN, KIR, 1 KG. GRANEL. DE PAVO. VIRGINIA",
+   "lacomer": "186.21 · JAMÓN, FUD, PAQUETE 290 GR. VIRGINIA DE PAVO",
+   "aurrera": "176 · JAMÓN, IBERO. BARCELONA, 1 KG. GRANEL. DE CERDO Y PAVO",
+   "mercado": "97.5 · JAMÓN, S/M, 1 KG. GRANEL. DE PAVO",
+   "chedraui": "170 · JAMÓN, IBERO. BARCELONA, 1 KG. GRANEL. DE CERDO Y PAVO"
+  }
  },
  "salchicha": {
   "n": 675,
@@ -156,24 +171,10 @@
   }
  },
  "tortilla": {
-  "n": 154,
-  "tiendas": {
-   "soriana": "13.9 · TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL. AMARILLA",
-   "mercado": "22 · TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL",
-   "chedraui": "13 · TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL. AMARILLA",
-   "walmart": "14 · TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL",
-   "lacomer": "14.5 · TORTILLA DE MAÍZ, S/M, 1 KG. GRANEL"
-  }
+  "n": 0
  },
  "harina": {
-  "n": 66,
-  "tiendas": {
-   "soriana": "69.28 · TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR.",
-   "walmart": "62.75 · TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR.",
-   "aurrera": "60.13 · TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR.",
-   "lacomer": "57.52 · TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR.",
-   "chedraui": "58.82 · TORTILLA DE HARINA DE TRIGO, TORTILLINAS TÍA ROSA, BOLSA 15 PIEZAS. 382.5 GR."
-  }
+  "n": 0
  },
  "bolillo": {
   "n": 73,
@@ -218,13 +219,36 @@
   }
  },
  "lenteja": {
-  "n": 0
+  "n": 157,
+  "tiendas": {
+   "walmart": "34 · LENTEJA, LA MERCED, BOLSA 500 GR.",
+   "soriana": "43.8 · LENTEJA, VERDE VALLE, BOLSA 500 GR.",
+   "lacomer": "52.64 · LENTEJA, LA MERCED, BOLSA 454 GR.",
+   "aurrera": "30 · LENTEJA, SCHETTINO, BOLSA 500 GR.",
+   "chedraui": "31.75 · LENTEJA, SCHETTINO, BOLSA 500 GR.",
+   "mercado": "18.25 · LENTEJA, S/M, 1 KG. GRANEL"
+  }
  },
  "pasta": {
-  "n": 0
+  "n": 533,
+  "tiendas": {
+   "soriana": "22.5 · PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. CODO",
+   "walmart": "40 · PASTA PARA SOPA, ITALPASTA, PAQUETE 200 GR. FIDEO CORTADO NO. 1",
+   "lacomer": "55 · PASTA PARA SOPA, BARILLA, PAQUETE 200 GR. SPAGHETTI NO. 5",
+   "aurrera": "25 · PASTA PARA SOPA, AURRERA, PAQUETE 200 GR. FIDEO MEDIANO",
+   "mercado": "37 · PASTA PARA SOPA, LA MODERNA, PAQUETE 200 GR. SPAGHETTI",
+   "chedraui": "30.56 · PASTA PARA SOPA, CHEDRAUI, PAQUETE 180 GR. SPAGHETTI"
+  }
  },
  "avena": {
-  "n": 0
+  "n": 178,
+  "tiendas": {
+   "soriana": "40 · AVENA, AVENA 1, BOLSA 400 GR. HOJUELA",
+   "walmart": "40 · AVENA, GRANVITA, BOLSA 400 GR.",
+   "lacomer": "40 · AVENA, GRANVITA, BOLSA 400 GR.",
+   "aurrera": "37.5 · AVENA, GRANVITA, BOLSA 400 GR.",
+   "chedraui": "40 · AVENA, GRANVITA, BOLSA 400 GR."
+  }
  },
  "pozolero": {
   "n": 59,
@@ -420,7 +444,15 @@
   "n": 0
  },
  "champi": {
-  "n": 0
+  "n": 42,
+  "tiendas": {
+   "walmart": "111 · CHAMPIÑONES, S/M, 1 KG.",
+   "lacomer": "135 · CHAMPIÑONES, S/M, 1 KG.",
+   "aurrera": "110.5 · CHAMPIÑONES, S/M, 1 KG.",
+   "chedraui": "101.75 · CHAMPIÑONES, S/M, 1 KG.",
+   "mercado": "100 · CHAMPIÑONES, S/M, 1 KG.",
+   "soriana": "119.9 · CHAMPIÑONES, S/M, 1 KG."
+  }
  },
  "morron": {
   "n": 60,
@@ -547,7 +579,14 @@
   }
  },
  "dental": {
-  "n": 0
+  "n": 116,
+  "tiendas": {
+   "walmart": "29.63 · CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 135 ML. SABOR ORIGINAL",
+   "soriana": "37.67 · CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 90 ML. SABOR ORIGINAL",
+   "lacomer": "36.17 · CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 90 ML. SABOR ORIGINAL",
+   "aurrera": "26.67 · CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 90 ML. SABOR ORIGINAL",
+   "chedraui": "31.88 · CREMA DENTAL, COLGATE. TRIPLE ACCIÓN, TUBO 100 ML. MENTA ORIGINAL"
+  }
  },
  "desodorante": {
   "n": 1035,
