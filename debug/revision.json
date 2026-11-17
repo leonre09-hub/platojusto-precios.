@@ -117,7 +117,15 @@
   }
  },
  "leche": {
-  "n": 0
+  "n": 361,
+  "tiendas": {
+   "soriana": "22.9 · LECHE ULTRAPASTEURIZADA, VALLEY FOODS, ENVASE O CAJA 1 LT. ENTERA",
+   "walmart": "29 · LECHE PASTEURIZADA, ALPURA. CLASICA, ENTERA. ENVASE O CAJA 1 LT.",
+   "lacomer": "30 · LECHE ULTRAPASTEURIZADA, LALA. ENTERA, CAJA 1 LT.",
+   "aurrera": "28 · LECHE PASTEURIZADA, ALPURA. CLASICA, ENTERA. ENVASE O CAJA 1 LT.",
+   "mercado": "26.3 · LECHE ULTRAPASTEURIZADA, LALA. ENTERA, CAJA 1 LT.",
+   "chedraui": "27 · LECHE ULTRAPASTEURIZADA, SAN MARCOS, ENTERA. CAJA 1 LT."
+  }
  },
  "oaxaca": {
   "n": 456,
@@ -183,14 +191,7 @@
   }
  },
  "bolillo": {
-  "n": 73,
-  "tiendas": {
-   "soriana": "2 · PAN BLANCO BOLILLO, S/M, PIEZA",
-   "walmart": "1.9 · PAN BLANCO BOLILLO, S/M, PIEZA",
-   "lacomer": "2.5 · PAN BLANCO BOLILLO, S/M, PIEZA",
-   "aurrera": "1.7 · PAN BLANCO BOLILLO, S/M, PIEZA",
-   "chedraui": "1.98 · PAN BLANCO BOLILLO, S/M, PIEZA"
-  }
+  "n": 0
  },
  "tostada": {
   "n": 76,
@@ -405,10 +406,25 @@
   }
  },
  "zanahoria": {
-  "n": 0
+  "n": 79,
+  "tiendas": {
+   "soriana": "13.8 · ZANAHORIA, S/M, 1 KG. GRANDE",
+   "walmart": "15 · ZANAHORIA, S/M, 1 KG. GRANDE",
+   "lacomer": "12 · ZANAHORIA, S/M, 1 KG. MEDIANA",
+   "mercado": "8 · ZANAHORIA, S/M, 1 KG. MEDIANA",
+   "chedraui": "11.75 · ZANAHORIA, S/M, 1 KG. GRANDE",
+   "aurrera": "11 · ZANAHORIA, S/M, 1 KG. GRANDE"
+  }
  },
  "nopal": {
-  "n": 0
+  "n": 39,
+  "tiendas": {
+   "soriana": "44.9 · NOPAL, S/M, 1 KG. SIN ESPINAS",
+   "walmart": "45 · NOPAL, S/M, 1 KG. SIN ESPINAS",
+   "lacomer": "35.65 · NOPAL, S/M, 1 KG. SIN ESPINAS",
+   "aurrera": "44 · NOPAL, S/M, 1 KG. SIN ESPINAS",
+   "chedraui": "35.7 · NOPAL, S/M, 1 KG. SIN ESPINAS"
+  }
  },
  "platano": {
   "n": 18,
@@ -570,7 +586,14 @@
   }
  },
  "dental": {
-  "n": 0
+  "n": 116,
+  "tiendas": {
+   "walmart": "29.63 · CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 135 ML. SABOR ORIGINAL",
+   "soriana": "37.67 · CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 90 ML. SABOR ORIGINAL",
+   "lacomer": "36.17 · CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 90 ML. SABOR ORIGINAL",
+   "aurrera": "26.67 · CREMA DENTAL, COLGATE. MÁXIMA PROTECCIÓN ANTICARIES, TUBO 90 ML. SABOR ORIGINAL",
+   "chedraui": "31.88 · CREMA DENTAL, COLGATE. TRIPLE ACCIÓN, TUBO 100 ML. MENTA ORIGINAL"
+  }
  },
  "desodorante": {
   "n": 1035,
