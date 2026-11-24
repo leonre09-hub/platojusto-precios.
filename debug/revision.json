@@ -213,24 +213,25 @@
   }
  },
  "arroz": {
-  "n": 56,
+  "n": 188,
   "tiendas": {
-   "mercado": "24.25 · ARROZ, S/M, 1 KG. GRANEL. GRANDE ENTERO",
-   "chedraui": "24.72 · ARROZ, SCHETTINO, BOLSA 900 GR. EXTRA",
    "walmart": "16.67 · ARROZ, AURRERA, BOLSA 900 GR. EXTRA",
-   "soriana": "22.78 · ARROZ, SCHETTINO, BOLSA 900 GR. SUPER EXTRA",
-   "aurrera": "15.56 · ARROZ, AURRERA, BOLSA 900 GR. EXTRA"
+   "soriana": "21.56 · ARROZ, SCHETTINO, BOLSA 900 GR. SUPER EXTRA",
+   "lacomer": "18.78 · ARROZ, KE PRECIO, BOLSA 900 GR. SUPER EXTRA",
+   "aurrera": "15.56 · ARROZ, AURRERA, BOLSA 900 GR. EXTRA",
+   "mercado": "18.63 · ARROZ, S/M, 1 KG. GRANEL. CHICO QUEBRADO",
+   "chedraui": "24.44 · ARROZ, SCHETTINO, BOLSA 900 GR. SUPER EXTRA"
   }
  },
  "frijol": {
-  "n": 426,
+  "n": 618,
   "tiendas": {
    "walmart": "29.77 · FRIJOL, SCHETTINO, BOLSA 907 GR. NEGRO. QUERÉTARO",
    "soriana": "31.67 · FRIJOL, SCHETTINO, BOLSA 900 GR. NEGRO. QUERÉTARO",
    "lacomer": "43.33 · FRIJOL, BUENO, BOLSA 900 GR. BAYO",
    "aurrera": "29.77 · FRIJOL, SCHETTINO, BOLSA 907 GR. NEGRO. QUERÉTARO",
-   "mercado": "24 · FRIJOL, S/M, 1 KG. GRANEL. PINTO",
-   "chedraui": "34.72 · FRIJOL, SCHETTINO, BOLSA 900 GR. PINTO"
+   "mercado": "25.75 · FRIJOL, S/M, 1 KG. GRANEL. FLOR DE MAYO",
+   "chedraui": "28.89 · FRIJOL, LA MERCED, BOLSA 900 GR. NEGRO. QUERÉTARO"
   }
  },
  "lenteja": {
@@ -245,25 +246,10 @@
   }
  },
  "pasta": {
-  "n": 544,
-  "tiendas": {
-   "walmart": "40 · PASTA PARA SOPA, ITALPASTA, PAQUETE 200 GR. FIDEO CORTADO NO. 1",
-   "soriana": "22.5 · PASTA PARA SOPA, PRECÍSSIMO, PAQUETE 200 GR. MUNICIÓN",
-   "lacomer": "57 · PASTA PARA SOPA, BARILLA, PAQUETE 200 GR. LENGÜITA",
-   "aurrera": "27.5 · PASTA PARA SOPA, AURRERA, PAQUETE 200 GR. FIDEO MEDIANO",
-   "mercado": "37 · PASTA PARA SOPA, LA MODERNA, PAQUETE 200 GR. SPAGHETTI",
-   "chedraui": "30.56 · PASTA PARA SOPA, CHEDRAUI, PAQUETE 180 GR. SPAGHETTI"
-  }
+  "n": 0
  },
  "avena": {
-  "n": 153,
-  "tiendas": {
-   "walmart": "95 · AVENA, 3 MINUTOS, BOTE 400 GR. Y SÉMOLA DE TRIGO. FORTIFICADO",
-   "soriana": "40.19 · AVENA, AVENA 1, BOLSA 400 GR. HOJUELA",
-   "lacomer": "40 · AVENA, GRANVITA, BOLSA 400 GR.",
-   "aurrera": "38.75 · AVENA, GRANVITA, BOLSA 400 GR.",
-   "chedraui": "71.25 · AVENA, 3 MINUTOS, BOTE 400 GR. Y SÉMOLA DE TRIGO. FORTIFICADO"
-  }
+  "n": 0
  },
  "pozolero": {
   "n": 48,
@@ -469,18 +455,17 @@
   }
  },
  "morron": {
-  "n": 0
+  "n": 17,
+  "tiendas": {
+   "mercado": "70 · PIMIENTO, S/M, 1 KG. MORRON VERDE",
+   "chedraui": "89.5 · PIMIENTO, S/M, 1 KG. MORRON VERDE",
+   "soriana": "88 · PIMIENTO, S/M, 1 KG. MORRON VERDE",
+   "walmart": "89 · PIMIENTO, S/M, 1 KG. MORRON VERDE",
+   "aurrera": "104 · PIMIENTO, S/M, 1 KG. MORRON VERDE"
+  }
  },
  "tomverde": {
-  "n": 38,
-  "tiendas": {
-   "soriana": "54.95 · TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
-   "walmart": "67 · TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
-   "lacomer": "69.9 · TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
-   "mercado": "36 · TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA",
-   "aurrera": "59.75 · TOMATE, S/M, 1 KG. O TOMATE VERDE",
-   "chedraui": "69.9 · TOMATE, S/M, 1 KG. TOMATE VERDE SIN CASCARA"
-  }
+  "n": 0
  },
  "granola": {
   "n": 0
